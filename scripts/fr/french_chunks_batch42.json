@@ -1,0 +1,348 @@
+[
+  {
+    "chunk_text": "prendre le métro",
+    "meaning": "to take the subway/metro",
+    "primary_function": "expression",
+    "communicative_purpose": "urban transportation",
+    "patterns": [
+      "Je prends le métro pour aller au travail",
+      "On prend le métro à la station République"
+    ],
+    "collocates": [
+      "station",
+      "billet",
+      "correspondance",
+      "ligne",
+      "rame"
+    ],
+    "level": "A1",
+    "example_1": "Je prends le métro pour aller au travail",
+    "example_2": "On prend le métro à la station République",
+    "example_3": "Je connais prendre le métro.",
+    "example_1_translation": "I take the metro to go to work",
+    "example_2_translation": "We take the metro at République station",
+    "example_3_translation": "I know how to take the metro."
+  },
+  {
+    "chunk_text": "rater le bus",
+    "meaning": "to miss the bus",
+    "primary_function": "expression",
+    "communicative_purpose": "public transportation",
+    "patterns": [
+      "J'ai raté le bus ce matin",
+      "Si je pars plus tard, je vais rater le bus"
+    ],
+    "collocates": [
+      "arrêt",
+      "horaire",
+      "prochain",
+      "attendre"
+    ],
+    "level": "A1",
+    "example_1": "J'ai raté le bus ce matin",
+    "example_2": "Si je pars plus tard, je vais rater le bus",
+    "example_3": "Je connais rater le bus.",
+    "example_1_translation": "I missed the bus this morning",
+    "example_2_translation": "If I leave later, I will miss the bus",
+    "example_3_translation": "I know how to miss the bus."
+  },
+  {
+    "chunk_text": "faire de l'auto-stop",
+    "meaning": "to hitchhike",
+    "primary_function": "expression",
+    "communicative_purpose": "travel and hitchhiking",
+    "patterns": [
+      "On a fait de l'auto-stop pour traverser le pays",
+      "Elle fait toujours de l'auto-stop"
+    ],
+    "collocates": [
+      "voiture",
+      "conducteur",
+      "pile",
+      "propice"
+    ],
+    "level": "B1",
+    "example_1": "On a fait de l'auto-stop pour traverser le pays",
+    "example_2": "Elle fait toujours de l'auto-stop",
+    "example_3": "Je connais faire de l'auto-stop.",
+    "example_1_translation": "We hitchhiked across the country",
+    "example_2_translation": "She's always hitchhiking",
+    "example_3_translation": "I know how to hitchhike."
+  },
+  {
+    "chunk_text": "conduire sur l'autoroute",
+    "meaning": "to drive on the highway",
+    "primary_function": "expression",
+    "communicative_purpose": "road travel",
+    "patterns": [
+      "Il préfère conduire sur l'autoroute",
+      "Conduire sur l'autoroute peut être fatiguant"
+    ],
+    "collocates": [
+      "péage",
+      "sortie",
+      "voie",
+      "limitation"
+    ],
+    "level": "A2",
+    "example_1": "Il préfère conduire sur l'autoroute",
+    "example_2": "Conduire sur l'autoroute peut être fatiguant",
+    "example_3": "On utilise conduire sur l'autoroute dans la vie quotidienne.",
+    "example_1_translation": "He prefers to drive on the highway",
+    "example_2_translation": "Driving on the highway can be tiring",
+    "example_3_translation": "We use driving on the highway in everyday life."
+  },
+  {
+    "chunk_text": "stationner au parking",
+    "meaning": "to park in the parking lot",
+    "primary_function": "expression",
+    "communicative_purpose": "parking",
+    "patterns": [
+      "On peut stationner au parking du centre commercial",
+      "Il est difficile de stationner ici"
+    ],
+    "collocates": [
+      "place",
+      "gratuit",
+      "payant",
+      "sous-terrain"
+    ],
+    "level": "A2",
+    "example_1": "On peut stationner au parking du centre commercial",
+    "example_2": "Il est difficile de stationner ici",
+    "example_3": "On utilise stationner au parking dans la vie quotidienne.",
+    "example_1_translation": "You can park in the shopping center parking lot",
+    "example_2_translation": "It's difficult to park here",
+    "example_3_translation": "We use parking in the parking lot in everyday life."
+  },
+  {
+    "chunk_text": "changer de train",
+    "meaning": "to change trains",
+    "primary_function": "expression",
+    "communicative_purpose": "train travel",
+    "patterns": [
+      "Il faut changer de train à Lyon",
+      "Je déteste changer de train"
+    ],
+    "collocates": [
+      "correspondance",
+      "quai",
+      "horaire",
+      "TGV"
+    ],
+    "level": "A1",
+    "example_1": "Il faut changer de train à Lyon",
+    "example_2": "Je déteste changer de train",
+    "example_3": "Je connais changer de train.",
+    "example_1_translation": "You have to change trains in Lyon",
+    "example_2_translation": "I hate changing trains",
+    "example_3_translation": "I know how to change trains."
+  },
+  {
+    "chunk_text": "prendre un taxi",
+    "meaning": "to take a taxi",
+    "primary_function": "expression",
+    "communicative_purpose": "taxi transportation",
+    "patterns": [
+      "On a pris un taxi pour aller à l'aéroport",
+      "Tu peux prendre un taxi ici"
+    ],
+    "collocates": [
+      "course",
+      "chauffeur",
+      "compteur",
+      "pourboire"
+    ],
+    "level": "A1",
+    "example_1": "On a pris un taxi pour aller à l'aéroport",
+    "example_2": "Tu peux prendre un taxi ici",
+    "example_3": "Je connais prendre un taxi.",
+    "example_1_translation": "We took a taxi to go to the airport",
+    "example_2_translation": "You can take a taxi here",
+    "example_3_translation": "I know how to take a taxi."
+  },
+  {
+    "chunk_text": "louer une voiture",
+    "meaning": "to rent a car",
+    "primary_function": "expression",
+    "communicative_purpose": "car rental",
+    "patterns": [
+      "Je voudrais louer une voiture pour une semaine",
+      "Ils ont loué une voiture à l'aéroport"
+    ],
+    "collocates": [
+      "agence",
+      "assurance",
+      "caution",
+      "kilométrage"
+    ],
+    "level": "A2",
+    "example_1": "Je voudrais louer une voiture pour une semaine",
+    "example_2": "Ils ont loué une voiture à l'aéroport",
+    "example_3": "On utilise louer une voiture dans la vie quotidienne.",
+    "example_1_translation": "I would like to rent a car for a week",
+    "example_2_translation": "They rented a car at the airport",
+    "example_3_translation": "We use renting a car in daily life."
+  },
+  {
+    "chunk_text": "faire un tour en vélo",
+    "meaning": "to go for a bike ride",
+    "primary_function": "expression",
+    "communicative_purpose": "cycling",
+    "patterns": [
+      "On a fait un tour en vélo le long de la rivière",
+      "Allons faire un tour en vélo"
+    ],
+    "collocates": [
+      "piste",
+      "casque",
+      "vélib",
+      "parcours"
+    ],
+    "level": "A2",
+    "example_1": "On a fait un tour en vélo le long de la rivière",
+    "example_2": "Allons faire un tour en vélo",
+    "example_3": "On utilise faire un tour en vélo dans la vie quotidienne.",
+    "example_1_translation": "We took a bike ride along the river",
+    "example_2_translation": "Let's go for a bike ride",
+    "example_3_translation": "We use taking a bike ride in everyday life."
+  },
+  {
+    "chunk_text": "attraper le vol",
+    "meaning": "to catch the flight",
+    "primary_function": "expression",
+    "communicative_purpose": "air travel",
+    "patterns": [
+      "Il fautattraper le vol de 10 heures",
+      "Nous avons attrapé le vol de justesse"
+    ],
+    "collocates": [
+      "aéroport",
+      "boarding",
+      "porte",
+      "retard"
+    ],
+    "level": "B1",
+    "example_1": "Il fautattraper le vol de 10 heures",
+    "example_2": "Nous avons attrapé le vol de justesse",
+    "example_3": "Je connais attraper le vol.",
+    "example_1_translation": "You have to catch the 10 o'clock flight",
+    "example_2_translation": "We narrowly caught the flight",
+    "example_3_translation": "I know how to catch the flight."
+  },
+  {
+    "chunk_text": "acheter un billet de train",
+    "meaning": "to buy a train ticket",
+    "primary_function": "expression",
+    "communicative_purpose": "train travel",
+    "patterns": [
+      "J'ai acheté un billet de train sur internet",
+      "Où puis-je acheter un billet de train?"
+    ],
+    "collocates": [
+      "première classe",
+      "deuxième classe",
+      "aller simple",
+      "aller-retour"
+    ],
+    "level": "A1",
+    "example_1": "J'ai acheté un billet de train sur internet",
+    "example_2": "Où puis-je acheter un billet de train?",
+    "example_3": "Je connais acheter un billet de train.",
+    "example_1_translation": "I bought a train ticket online",
+    "example_2_translation": "Where can I buy a train ticket?",
+    "example_3_translation": "I know how to buy a train ticket."
+  },
+  {
+    "chunk_text": "se garer en double file",
+    "meaning": "to double park",
+    "primary_function": "expression",
+    "communicative_purpose": "parking",
+    "patterns": [
+      "Il s'est garé en double file",
+      "On ne peut pas se garer en double file ici"
+    ],
+    "collocates": [
+      "interdit",
+      "amende",
+      "remorquer",
+      "voisin"
+    ],
+    "level": "B1",
+    "example_1": "Il s'est garé en double file",
+    "example_2": "On ne peut pas se garer en double file ici",
+    "example_3": "Je connais se garer en double file.",
+    "example_1_translation": "He parked in double line",
+    "example_2_translation": "You can't double park here.",
+    "example_3_translation": "I know how to park in a double line."
+  },
+  {
+    "chunk_text": "marcher jusqu'à la gare",
+    "meaning": "to walk to the station",
+    "primary_function": "expression",
+    "communicative_purpose": "directions and walking",
+    "patterns": [
+      "C'est à dix minutes à pied, tu marches jusqu'à la gare",
+      "On a marché jusqu'à la gare"
+    ],
+    "collocates": [
+      "distance",
+      "quartier",
+      "plan",
+      "indication"
+    ],
+    "level": "A1",
+    "example_1": "C'est à dix minutes à pied, tu marches jusqu'à la gare",
+    "example_2": "On a marché jusqu'à la gare",
+    "example_3": "Je connais marcher jusqu'à la gare.",
+    "example_1_translation": "It's a ten minute walk, you walk to the station",
+    "example_2_translation": "We walked to the station",
+    "example_3_translation": "I know how to walk to the station."
+  },
+  {
+    "chunk_text": "le train est en retard",
+    "meaning": "the train is late",
+    "primary_function": "sentence",
+    "communicative_purpose": "train travel status",
+    "patterns": [
+      "Le train est en retard de 20 minutes",
+      "À cause de la grève, le train est en retard"
+    ],
+    "collocates": [
+      "grève",
+      "panne",
+      "circulation",
+      "annulé"
+    ],
+    "level": "A1",
+    "example_1": "Le train est en retard de 20 minutes",
+    "example_2": "À cause de la grève, le train est en retard",
+    "example_3": "Je connais le train est en retard.",
+    "example_1_translation": "The train is 20 minutes late",
+    "example_2_translation": "Because of the strike, the train is late",
+    "example_3_translation": "I know the train is late."
+  },
+  {
+    "chunk_text": "faire de l'auto-stop",
+    "meaning": "to hitchhike",
+    "primary_function": "expression",
+    "communicative_purpose": "hitchhiking",
+    "patterns": [
+      "On a fait de l'auto-stop pour traverser le pays",
+      "Elle fait toujours de l'auto-stop"
+    ],
+    "collocates": [
+      "voiture",
+      "conducteur",
+      "pile",
+      "propice"
+    ],
+    "level": "B1",
+    "example_1": "On a fait de l'auto-stop pour traverser le pays",
+    "example_2": "Elle fait toujours de l'auto-stop",
+    "example_3": "Je connais faire de l'auto-stop.",
+    "example_1_translation": "We hitchhiked across the country",
+    "example_2_translation": "She's always hitchhiking",
+    "example_3_translation": "I know how to hitchhike."
+  }
+]

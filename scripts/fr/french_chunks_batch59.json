@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "je vous prie d'agréer",
+    "meaning": "please accept (formal letter closing)",
+    "primary_function": "Formal letter closing expression",
+    "communicative_purpose": "Polite, formal way to close official letters, used with assurances of respect",
+    "trigger_situations": "Formal business letters, official correspondence, administrative documents",
+    "contexts": "Formal written communication, diplomatic letters, official emails",
+    "variations": "je vous prie d'agréer, veuille agréer, daignez agréer",
+    "common_mistakes": "Forgetting the phrase continuation 'mes salutations distinguées'; incorrect capitalization",
+    "level": "B2",
+    "patterns": [
+      "je + vous + prie + d'agréer + [assurance] + [salutation]"
+    ],
+    "collocates": "agréer, salutations, respects, assurances, estimée",
+    "example_1": "Je vous prie d'agréer, Madame, mes salutations distinguées.",
+    "example_2": "Je vous prie d'agréer l'expression de mes respectueux hommages.",
+    "example_3": "Je vous prie d'agréer mes sincères salutations.",
+    "example_1_translation": "Please accept, Madam, my distinguished greetings.",
+    "example_2_translation": "Please accept the expression of my respectful homage.",
+    "example_3_translation": "Please accept my sincere greetings."
+  },
+  {
+    "chunk_text": "à l'issue de",
+    "meaning": "at the end of / following / after",
+    "primary_function": "Temporal reference expression",
+    "communicative_purpose": "To indicate what happens following a process, event, or time period",
+    "trigger_situations": "Meetings, procedures, processes, deadlines, formal timelines",
+    "contexts": "Formal written/spoken, professional contexts, administrative procedures",
+    "variations": "à l'issue de, à la fin de, au terme de, après",
+    "common_mistakes": "Confusing with 'pendant' (during); using with wrong preposition 'de'",
+    "level": "B2",
+    "patterns": [
+      "à + l'issue + de + [event/process]"
+    ],
+    "collocates": "issue, fin, fin, résultat, aboutissement",
+    "example_1": "À l'issue de la réunion, nous avons pris une décision.",
+    "example_2": "À l'issue de la formation, vous recevrez un certificat.",
+    "example_3": "À l'issue du délai imparti, le dossier sera clos.",
+    "example_1_translation": "At the end of the meeting, we made a decision.",
+    "example_2_translation": "At the end of the training, you will receive a certificate.",
+    "example_3_translation": "At the end of the deadline, the file will be closed."
+  },
+  {
+    "chunk_text": "je me tiens à votre disposition",
+    "meaning": "I remain at your disposal / I am available to you",
+    "primary_function": "Formal availability expression",
+    "communicative_purpose": "Polite way to express willingness to help or meet with someone",
+    "trigger_situations": "Business letters, customer service, scheduling meetings, professional contact",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "je reste à votre disposition, je suis à votre entière disposition, je me tiens à votre entière disposition",
+    "common_mistakes": "Agreement errors with 'se tenir'; confusing with 'être disponible'",
+    "level": "B2",
+    "patterns": [
+      "je + me + tiens + à + votre + disposition"
+    ],
+    "collocates": "disposition, disponible, prêt, aide, service",
+    "example_1": "Je me tiens à votre disposition pour un entretien.",
+    "example_2": "Je me tiens à votre disposition pour tout renseignement complémentaire.",
+    "example_3": "Nous nous tenons à votre disposition pour organiser cette réunion.",
+    "example_1_translation": "I am available for an interview.",
+    "example_2_translation": "I am at your disposal for any further information.",
+    "example_3_translation": "We are at your disposal to organize this meeting."
+  },
+  {
+    "chunk_text": "conformément à",
+    "meaning": "in accordance with / pursuant to",
+    "primary_function": "Legal/formal reference expression",
+    "communicative_purpose": "To indicate compliance with rules, laws, or previous agreements",
+    "trigger_situations": "Legal documents, contracts, official regulations, administrative procedures",
+    "contexts": "Formal written, legal/administrative contexts, official correspondence",
+    "variations": "en conformité avec, selon, suivant, conformément aux",
+    "common_mistakes": "Confusing preposition 'à' with 'avec'; forgetting plural agreement",
+    "level": "B2",
+    "patterns": [
+      "conformément + à + [rule/agreement]"
+    ],
+    "collocates": "conformément, règle, réglement, accord, directive",
+    "example_1": "Conformément à notre contrat, le paiement doit intervenir dans les trente jours.",
+    "example_2": "Conformément à la réglementation en vigueur, vous devez fournir ces documents.",
+    "example_3": "Conformément à votre demande, nous avons procédé à la modification.",
+    "example_1_translation": "In accordance with our contract, payment must be made within thirty days.",
+    "example_2_translation": "In accordance with current regulations, you must provide these documents.",
+    "example_3_translation": "In accordance with your request, we have made the modification."
+  },
+  {
+    "chunk_text": "dans le meilleur délai",
+    "meaning": "as soon as possible / at the earliest opportunity",
+    "primary_function": "Urgency expression in professional context",
+    "communicative_purpose": "To indicate that something should be done quickly or at the earliest opportunity",
+    "trigger_situations": "Business requests, urgent matters, deadline setting, administrative procedures",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "dans les meilleurs délais, dans les plus brefs délais, dans les délais les plus courts",
+    "common_mistakes": "Confusing with 'rapidement' (too informal); incorrect plural agreement",
+    "level": "B2",
+    "patterns": [
+      "dans + les + meilleurs + délais"
+    ],
+    "collocates": "délai, délai, rapide, urgent, prompt",
+    "example_1": "Je vous prie de bien vouloir répondre dans le meilleur délai.",
+    "example_2": "Veuillez nous contacter dans le meilleur délai.",
+    "example_3": "Le dossier doit être traité dans le meilleur délai possible.",
+    "example_1_translation": "Please respond as soon as possible.",
+    "example_2_translation": "Please contact us as soon as possible.",
+    "example_3_translation": "The file must be processed as quickly as possible."
+  },
+  {
+    "chunk_text": "je vous adresse la présente",
+    "meaning": "I am writing to you / I am sending you this letter",
+    "primary_function": "Formal letter opening expression",
+    "communicative_purpose": "To introduce the purpose of a formal letter or email",
+    "trigger_situations": "Formal correspondence, official letters, administrative requests",
+    "contexts": "Formal written communication, administrative contexts",
+    "variations": "je me permets de vous adresser, je vous fais parvenir, je vous transmets",
+    "common_mistakes": "Using in spoken contexts; confusing 'la présente' (this letter) with 'les présentes'",
+    "level": "B2",
+    "patterns": [
+      "je + vous + adresse + la + présente"
+    ],
+    "collocates": "adresse, lettre, présente, correspondence, envoi",
+    "example_1": "Je vous adresse la présente afin de vous informer d'un changement important.",
+    "example_2": "Je vous adresse la présente pour répondre à votre demande.",
+    "example_3": "Je vous adresse la présente en référence à notre conversation téléphonique.",
+    "example_1_translation": "I am writing to you here to inform you of an important change.",
+    "example_2_translation": "I am sending you this letter to respond to your request.",
+    "example_3_translation": "I am writing this to you with reference to our telephone conversation."
+  },
+  {
+    "chunk_text": "faire preuve de",
+    "meaning": "to demonstrate / to show (a quality)",
+    "primary_function": "Expression of demonstrating qualities",
+    "communicative_purpose": "To express showing or displaying a particular quality or characteristic",
+    "trigger_situations": "Performance reviews, evaluations, descriptions of behavior, professional assessments",
+    "contexts": "Professional contexts, HR, reports, assessments",
+    "variations": "montrer, manifester, témoigner de, faire montre de",
+    "common_mistakes": "Confusing with 'montrer'; using wrong preposition 'de'; forgetting article before quality",
+    "level": "B2",
+    "patterns": [
+      "faire + preuve + de + [quality]"
+    ],
+    "collocates": "preuve, professionnalisme, créativité, initiative, efficacité",
+    "example_1": "Le candidat a fait preuve d'une grande motivation.",
+    "example_2": "Elle a fait preuve de professionnalisme tout au long du projet.",
+    "example_3": "Nous devons faire preuve de patience dans cette négociation.",
+    "example_1_translation": "The candidate showed great motivation.",
+    "example_2_translation": "She demonstrated professionalism throughout the project.",
+    "example_3_translation": "We must be patient in this negotiation."
+  },
+  {
+    "chunk_text": "je me permets de vous proposer",
+    "meaning": "I am taking the liberty of proposing to you",
+    "primary_function": "Formal proposal expression",
+    "communicative_purpose": "Polite way to make suggestions or proposals in professional contexts",
+    "trigger_situations": "Business proposals, meeting agendas, suggestions, project planning",
+    "contexts": "Formal written/spoken, business meetings, professional discussions",
+    "variations": "je me permets de suggérer, je me permets de vous soumettre, je vous propose",
+    "common_mistakes": "Overusing 'se permettre'; using too formally in casual contexts",
+    "level": "B2",
+    "patterns": [
+      "je + me + permets + de + vous + proposer"
+    ],
+    "collocates": "permet, proposer, suggérer, soumettre, alternative",
+    "example_1": "Je me permets de vous proposer une modification du planning initial.",
+    "example_2": "Je me permets de vous proposer une solution alternative.",
+    "example_3": "Je me permets de vous proposer une rencontre la semaine prochaine.",
+    "example_1_translation": "I would like to suggest a modification to the initial schedule.",
+    "example_2_translation": "Let me offer you an alternative solution.",
+    "example_3_translation": "I would like to suggest a meeting with you next week."
+  },
+  {
+    "chunk_text": "je serais ravi de",
+    "meaning": "I would be delighted to / I would be happy to",
+    "primary_function": "Polite expression of willingness",
+    "communicative_purpose": "Polite way to express enthusiasm or willingness to do something",
+    "trigger_situations": "Accepting invitations, confirming availability, business meetings",
+    "contexts": "Formal written communication, business correspondence, polite social contexts",
+    "variations": "je serais ravi, je serais enchanté de, je serais heureux de",
+    "common_mistakes": "Agreement errors; confusing 'ravi' with 'content' in terms of register",
+    "level": "B2",
+    "patterns": [
+      "je + serais + ravi + de + [infinitive]"
+    ],
+    "collocates": "ravi, enchanté, heureux, honored, pleasure",
+    "example_1": "Je serais ravi de participer à cette réunion.",
+    "example_2": "Je serais ravi de vous rencontrer lors de cet événement.",
+    "example_3": "Nous serions ravis de collaborer avec votre entreprise.",
+    "example_1_translation": "I would be delighted to participate in this meeting.",
+    "example_2_translation": "I would love to meet you at this event.",
+    "example_3_translation": "We would be delighted to collaborate with your company."
+  },
+  {
+    "chunk_text": "dans un souci de",
+    "meaning": "with a view to / for the sake of / in an effort to",
+    "primary_function": "Purpose expression with concern/motive",
+    "communicative_purpose": "To express the reason or motivation behind an action or decision",
+    "trigger_situations": "Explanations in reports, policy justifications, administrative documents",
+    "contexts": "Formal written, reports, official communications, policy documents",
+    "variations": "afin de, dans le but de, en vue de, avec l'objectif de",
+    "common_mistakes": "Confusing with 'à cause de' (because of); using in spoken contexts where it's too formal",
+    "level": "B2",
+    "patterns": [
+      "dans + un + souci + de + [purpose]"
+    ],
+    "collocates": "souci, efficacité, qualité, transparence, rigueur",
+    "example_1": "Dans un souci de transparence, nous publions ces résultats.",
+    "example_2": "Dans un souci d'efficacité, nous avons simplifié la procédure.",
+    "example_3": "Dans un souci d'équité, cette politique s'applique à tous les employés.",
+    "example_1_translation": "In the interest of transparency, we are publishing these results.",
+    "example_2_translation": "In the interest of efficiency, we have simplified the procedure.",
+    "example_3_translation": "In the interest of fairness, this policy applies to all employees."
+  },
+  {
+    "chunk_text": "il va sans dire que",
+    "meaning": "it goes without saying that",
+    "primary_function": "Emphasis expression for obvious statements",
+    "communicative_purpose": "To emphasize that something is self-evident or obvious",
+    "trigger_situations": "Emphasis in formal writing, arguments, presentations, formal discussions",
+    "contexts": "Formal written/spoken, professional arguments, academic writing",
+    "variations": "il va sans dire, needless to say, il va de soi que, cela va sans dire",
+    "common_mistakes": "Using 'sans' incorrectly; inserting unnecessary words",
+    "level": "B2",
+    "patterns": [
+      "il + va + sans + dire + que + [statement]"
+    ],
+    "collocates": "allant, soi, obvious, evident, understood",
+    "example_1": "Il va sans dire que la ponctualité est essentielle dans notre entreprise.",
+    "example_2": "Il va sans dire que nous attendons un travail de qualité.",
+    "example_3": "Il va sans dire que cette information reste confidentielle.",
+    "example_1_translation": "It goes without saying that punctuality is essential in our business.",
+    "example_2_translation": "It goes without saying that we expect quality work.",
+    "example_3_translation": "It goes without saying that this information remains confidential."
+  },
+  {
+    "chunk_text": "je vous confirme",
+    "meaning": "I am writing to confirm / I confirm to you",
+    "primary_function": "Confirmation expression",
+    "communicative_purpose": "To formally confirm information, arrangements, or previous discussions",
+    "trigger_situations": "Confirmation emails, meeting confirmations, reservation confirmations, follow-ups",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "je confirme, nous vous confirmons, par la présente je confirme",
+    "common_mistakes": "Confusing with 'infirmer' (to refute); using in spoken contexts",
+    "level": "B2",
+    "patterns": [
+      "je + vous + confirme + [information]"
+    ],
+    "collocates": "confirme, reservation, accord, détail, rendez-vous",
+    "example_1": "Je vous confirme notre rendez-vous de demain à 14 heures.",
+    "example_2": "Je vous confirme la réception de votre paiement.",
+    "example_3": "Je vous confirme que nous avons bien reçu votre dossier.",
+    "example_1_translation": "I confirm our meeting tomorrow at 2 p.m.",
+    "example_2_translation": "I confirm receipt of your payment.",
+    "example_3_translation": "I confirm that we have received your file."
+  },
+  {
+    "chunk_text": "par ailleurs",
+    "meaning": "moreover / furthermore / besides",
+    "primary_function": "Adding information expression",
+    "communicative_purpose": "To introduce additional information or a different viewpoint",
+    "trigger_situations": "Formal arguments, reports, presentations, professional discussions",
+    "contexts": "Formal written/spoken, business writing, academic contexts",
+    "variations": "de plus, en outre, qui plus est, d'autre part",
+    "common_mistakes": "Confusing with 'pourtant' (however); using in spoken contexts where it's too formal",
+    "level": "B2",
+    "patterns": [
+      "par + ailleurs"
+    ],
+    "collocates": "ailleurs, moreover, furthermore, added, additionally",
+    "example_1": "Ce produit est efficace. Par ailleurs, il est écologique.",
+    "example_2": "Par ailleurs, nous avons constaté une amélioration significative.",
+    "example_3": "Le prix est compétitif. Par ailleurs, la qualité est exceptionnelle.",
+    "example_1_translation": "This product is effective. Furthermore, it is ecological.",
+    "example_2_translation": "Furthermore, we have seen a significant improvement.",
+    "example_3_translation": "The price is competitive. Furthermore, the quality is exceptional."
+  },
+  {
+    "chunk_text": "en temps réel",
+    "meaning": "in real time / real-time",
+    "primary_function": "Temporal expression for immediate action",
+    "communicative_purpose": "Describing something happening immediately or simultaneously",
+    "trigger_situations": "Technology discussions, monitoring, live events, data transmission",
+    "contexts": "Technical, business, technology contexts, professional discussions",
+    "variations": "en temps réel, en temps quasi-réel, de manière instantanée",
+    "common_mistakes": "Using 'réel' as adjective incorrectly; agreement errors",
+    "level": "B2",
+    "patterns": [
+      "en + temps + réel"
+    ],
+    "collocates": "temps, réel, live, immediate, instantané",
+    "example_1": "Les données sont mises à jour en temps réel.",
+    "example_2": "Vous pouvez suivre l'évolution du marché en temps réel.",
+    "example_3": "Notre système permet de travailler en temps réel avec vos collègues.",
+    "example_1_translation": "Data is updated in real time.",
+    "example_2_translation": "You can follow market developments in real time.",
+    "example_3_translation": "Our system allows you to work in real time with your colleagues."
+  },
+  {
+    "chunk_text": "je me félicite de",
+    "meaning": "I am pleased with / I congratulate myself on",
+    "primary_function": "Expression of self-satisfaction or pride",
+    "communicative_purpose": "To express satisfaction about one's own actions or achievements",
+    "trigger_situations": "Self-evaluations, reports, personal achievements, formal congratulations",
+    "contexts": "Formal written, reports, professional self-assessments",
+    "variations": "je suis fier de, je suis satisfait de, je me réjouis de",
+    "common_mistakes": "Confusing reflexive pronoun; confusing with 'féliciter quelqu'un' (to congratulate someone else)",
+    "level": "B2",
+    "patterns": [
+      "je + me + félicite + de + [achievement]"
+    ],
+    "collocates": "félicite, satisfied, proud, pleased, satisfied",
+    "example_1": "Je me félicite d'avoir pris cette décision à temps.",
+    "example_2": "L'équipe se félicite de la réussite de ce projet.",
+    "example_3": "Je me félicite d'avoir pu contribuer à cette réussite collective.",
+    "example_1_translation": "I am pleased to have made this decision in time.",
+    "example_2_translation": "The team is delighted with the success of this project.",
+    "example_3_translation": "I am pleased to have been able to contribute to this collective success."
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "faire de la publicité",
+    "meaning": "to advertise",
+    "primary_function": "expression",
+    "communicative_purpose": "marketing activities",
+    "patterns": [
+      "Les entreprises font de la publicité pour leurs produits"
+    ],
+    "collocates": [
+      "pub",
+      "annonce",
+      "média"
+    ],
+    "level": "A2",
+    "example_1": "Les entreprises font de la publicité pour leurs produits",
+    "example_2": "Tu peux dire faire de la publicité quand tu veux exprimer to advertise.",
+    "example_3": "On utilise faire de la publicité dans la vie quotidienne.",
+    "example_1_translation": "Companies advertise their products",
+    "example_2_translation": "You can say advertise when you mean to advertise.",
+    "example_3_translation": "We use advertising in everyday life."
+  },
+  {
+    "chunk_text": "lancer une campagne",
+    "meaning": "to launch a campaign",
+    "primary_function": "expression",
+    "communicative_purpose": "marketing strategy",
+    "patterns": [
+      "L'entreprise lance une nouvelle campagne publicitaire"
+    ],
+    "collocates": [
+      "marketing",
+      "promotion",
+      "cible"
+    ],
+    "level": "B1",
+    "example_1": "L'entreprise lance une nouvelle campagne publicitaire",
+    "example_2": "'lancer une campagne' est une expression utile.",
+    "example_3": "Je connais lancer une campagne.",
+    "example_1_translation": "The company launches a new advertising campaign",
+    "example_2_translation": "'launch a campaign' is a useful phrase.",
+    "example_3_translation": "I know how to run a campaign."
+  },
+  {
+    "chunk_text": "diffuser une annonce",
+    "meaning": "to broadcast an announcement",
+    "primary_function": "expression",
+    "communicative_purpose": "media advertising",
+    "patterns": [
+      "Ils diffusent l'annonce à la télévision"
+    ],
+    "collocates": [
+      "média",
+      "publicité",
+      "message"
+    ],
+    "level": "B1",
+    "example_1": "Ils diffusent l'annonce à la télévision",
+    "example_2": "'diffuser une annonce' est une expression utile.",
+    "example_3": "Je connais diffuser une annonce.",
+    "example_1_translation": "They broadcast the ad on television",
+    "example_2_translation": "'run an ad' is a useful phrase.",
+    "example_3_translation": "I know how to broadcast an ad."
+  },
+  {
+    "chunk_text": "promouvoir un produit",
+    "meaning": "to promote a product",
+    "primary_function": "expression",
+    "communicative_purpose": "marketing activities",
+    "patterns": [
+      "L'entreprise promeut son nouveau produit"
+    ],
+    "collocates": [
+      "vente",
+      "marque",
+      "commercialisation"
+    ],
+    "level": "B1",
+    "example_1": "L'entreprise promeut son nouveau produit",
+    "example_2": "'promouvoir un produit' est une expression utile.",
+    "example_3": "Je connais promouvoir un produit.",
+    "example_1_translation": "The company promotes its new product",
+    "example_2_translation": "'promote a product' is a useful phrase.",
+    "example_3_translation": "I know how to promote a product."
+  },
+  {
+    "chunk_text": "faire la une",
+    "meaning": "to be on the front page",
+    "primary_function": "expression",
+    "communicative_purpose": "media coverage",
+    "patterns": [
+      "Le scandale a fait la une des journaux"
+    ],
+    "collocates": [
+      "journal",
+      "média",
+      " Headlines"
+    ],
+    "level": "B1",
+    "example_1": "Le scandale a fait la une des journaux",
+    "example_2": "'faire la une' est une expression utile.",
+    "example_3": "Je connais faire la une.",
+    "example_1_translation": "The scandal made headlines",
+    "example_2_translation": "'headline' is a useful expression.",
+    "example_3_translation": "I know how to make headlines."
+  },
+  {
+    "chunk_text": " cibler un publique",
+    "meaning": "to target an audience",
+    "primary_function": "expression",
+    "communicative_purpose": "marketing strategy",
+    "patterns": [
+      "La campagne cibled un jeune public"
+    ],
+    "collocates": [
+      "segment",
+      "démographique",
+      "consommateur"
+    ],
+    "level": "B2",
+    "example_1": "La campagne cibled un jeune public",
+    "example_2": "Tu peux dire  cibler un publique quand tu veux exprimer to target an audience.",
+    "example_3": "On utilise  cibler un publique dans la vie quotidienne.",
+    "example_1_translation": "The campaign targets a young audience",
+    "example_2_translation": "You can say target an audience when you want to express to target an audience.",
+    "example_3_translation": "We use targeting an audience in daily life."
+  },
+  {
+    "chunk_text": "créer une marque",
+    "meaning": "to create a brand",
+    "primary_function": "expression",
+    "communicative_purpose": "branding activities",
+    "patterns": [
+      "Ils ont créé une marque de vêtements écologiques"
+    ],
+    "collocates": [
+      "logo",
+      "identità",
+      "image"
+    ],
+    "level": "B1",
+    "example_1": "Ils ont créé une marque de vêtements écologiques",
+    "example_2": "'créer une marque' est une expression utile.",
+    "example_3": "Je connais créer une marque.",
+    "example_1_translation": "They created an ecological clothing brand",
+    "example_2_translation": "'building a brand' is a useful phrase.",
+    "example_3_translation": "I know how to create a brand."
+  },
+  {
+    "chunk_text": "faire connaître un produit",
+    "meaning": "to make a product known",
+    "primary_function": "expression",
+    "communicative_purpose": "brand awareness",
+    "patterns": [
+      "La publicité fait connaître le produit"
+    ],
+    "collocates": [
+      "visibilité",
+      "notoriété",
+      "réputation"
+    ],
+    "level": "B1",
+    "example_1": "La publicité fait connaître le produit",
+    "example_2": "'faire connaître un produit' est une expression utile.",
+    "example_3": "Je connais faire connaître un produit.",
+    "example_1_translation": "Advertising makes the product known",
+    "example_2_translation": "'raise awareness of a product' is a useful expression.",
+    "example_3_translation": "I know how to make a product known."
+  },
+  {
+    "chunk_text": "manipuler l'opinion publique",
+    "meaning": "to manipulate public opinion",
+    "primary_function": "expression",
+    "communicative_purpose": "propaganda activities",
+    "patterns": [
+      " Certains groupes essaie de manipuler l'opinion publique"
+    ],
+    "collocates": [
+      "propagande",
+      "médias",
+      "influence"
+    ],
+    "level": "B2",
+    "example_1": " Certains groupes essaie de manipuler l'opinion publique",
+    "example_2": "Tu peux dire manipuler l'opinion publique quand tu veux exprimer to manipulate public opinion.",
+    "example_3": "On utilise manipuler l'opinion publique dans la vie quotidienne.",
+    "example_1_translation": "Some groups try to manipulate public opinion",
+    "example_2_translation": "You can say manipulate public opinion when you want to express to manipulate public opinion.",
+    "example_3_translation": "We use to manipulate public opinion in everyday life."
+  },
+  {
+    "chunk_text": "vendre un service",
+    "meaning": "to sell a service",
+    "primary_function": "expression",
+    "communicative_purpose": "business activities",
+    "patterns": [
+      "Elle vend des services de consulting"
+    ],
+    "collocates": [
+      "clientèle",
+      "contrat",
+      "offre"
+    ],
+    "level": "B1",
+    "example_1": "Elle vend des services de consulting",
+    "example_2": "'vendre un service' est une expression utile.",
+    "example_3": "Je connais vendre un service.",
+    "example_1_translation": "She sells consulting services",
+    "example_2_translation": "'selling a service' is a useful phrase.",
+    "example_3_translation": "I know how to sell a service."
+  },
+  {
+    "chunk_text": "avoir un impact sur les ventes",
+    "meaning": "to have an impact on sales",
+    "primary_function": "expression",
+    "communicative_purpose": "business results",
+    "patterns": [
+      "La campagne publicitaire a un impact sur les ventes"
+    ],
+    "collocates": [
+      "chiffres",
+      "croissance",
+      "résultats"
+    ],
+    "level": "B2",
+    "example_1": "La campagne publicitaire a un impact sur les ventes",
+    "example_2": "Tu peux dire avoir un impact sur les ventes quand tu veux exprimer to have an impact on sales.",
+    "example_3": "On utilise avoir un impact sur les ventes dans la vie quotidienne.",
+    "example_1_translation": "The advertising campaign has an impact on sales",
+    "example_2_translation": "You can say have an impact on sales when you mean to have an impact on sales.",
+    "example_3_translation": "We use it to have an impact on sales in everyday life."
+  },
+  {
+    "chunk_text": "рекламировать товар",
+    "meaning": "to advertise a product",
+    "primary_function": "expression",
+    "communicative_purpose": "marketing communications",
+    "patterns": [
+      "Ils рекламируют le nouveau модель"
+    ],
+    "collocates": [
+      "promotion",
+      "annonce",
+      "diffusion"
+    ],
+    "level": "B1",
+    "example_1": "Ils рекламируют le nouveau модель",
+    "example_2": "'рекламировать товар' est une expression utile.",
+    "example_3": "Je connais рекламировать товар.",
+    "example_1_translation": "They are asking for the new model",
+    "example_2_translation": "'reкламировать товар' is a useful expression.",
+    "example_3_translation": "I know рекламировать товар."
+  },
+  {
+    "chunk_text": "faire une offre promotionnelle",
+    "meaning": "to make a promotional offer",
+    "primary_function": "expression",
+    "communicative_purpose": "sales promotions",
+    "patterns": [
+      "Le magasin fait une offre promotionnelle ce weekend"
+    ],
+    "collocates": [
+      "réduction",
+      "solde",
+      "affichage"
+    ],
+    "level": "A2",
+    "example_1": "Le magasin fait une offre promotionnelle ce weekend",
+    "example_2": "Tu peux dire faire une offre promotionnelle quand tu veux exprimer to make a promotional offer.",
+    "example_3": "On utilise faire une offre promotionnelle dans la vie quotidienne.",
+    "example_1_translation": "The store is having a promotional offer this weekend",
+    "example_2_translation": "You can say make a promotional offer when you mean to make a promotional offer.",
+    "example_3_translation": "We use making a promotional offer in everyday life."
+  },
+  {
+    "chunk_text": " sponsoriser un événement",
+    "meaning": "to sponsor an event",
+    "primary_function": "expression",
+    "communicative_purpose": "corporate sponsorship",
+    "patterns": [
+      "L'entreprise sponsorise le festival de musique"
+    ],
+    "collocates": [
+      "mécène",
+      "partenaire",
+      "logo"
+    ],
+    "level": "B1",
+    "example_1": "L'entreprise sponsorise le festival de musique",
+    "example_2": "' sponsoriser un événement' est une expression utile.",
+    "example_3": "Je connais  sponsoriser un événement.",
+    "example_1_translation": "The company sponsors the music festival",
+    "example_2_translation": "'sponsor an event' is a useful phrase.",
+    "example_3_translation": "I know how to sponsor an event."
+  },
+  {
+    "chunk_text": "analyser le comportement du consommateur",
+    "meaning": "to analyze consumer behavior",
+    "primary_function": "expression",
+    "communicative_purpose": "market research",
+    "patterns": [
+      "Les маркетологи analysent le comportement du consommateur"
+    ],
+    "collocates": [
+      "étude de marché",
+      "données",
+      "tendance"
+    ],
+    "level": "B2",
+    "example_1": "Les маркетологи analysent le comportement du consommateur",
+    "example_2": "Tu peux dire analyser le comportement du consommateur quand tu veux exprimer to analyze consumer behavior.",
+    "example_3": "On utilise analyser le comportement du consommateur dans la vie quotidienne.",
+    "example_1_translation": "Marketers analyze consumer behavior",
+    "example_2_translation": "You can say analyze consumer behavior when you mean to analyze consumer behavior.",
+    "example_3_translation": "We use to analyze consumer behavior in daily life."
+  }
+]

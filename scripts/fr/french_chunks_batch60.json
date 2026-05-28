@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "je vous serais reconnaissant",
+    "meaning": "I would be grateful / I would appreciate",
+    "primary_function": "Polite formal request expression",
+    "communicative_purpose": "To make polite requests while expressing gratitude in advance",
+    "trigger_situations": "Formal requests in emails, letters, professional communications",
+    "contexts": "Formal written communication, business correspondence, administrative contexts",
+    "variations": "je vous serais obligé, je vous serais très obligé, je vous saurais gré",
+    "common_mistakes": "Agreement errors with 'reconnaissant'; confusing conditional tense",
+    "level": "B2",
+    "patterns": [
+      "je + vous + serais + reconnaissant(e) + de + [infinitive]"
+    ],
+    "collocates": "reconnaissant, grateful, obliged, appreciative, indebted",
+    "example_1": "Je vous serais reconnaissant de bien vouloir répondre avant le 15.",
+    "example_2": "Je vous serais reconnaissant de m'envoyer les documents par email.",
+    "example_3": "Je vous serais très reconnaissant si vous pouviez me recevoir.",
+    "example_1_translation": "I would be grateful if you could respond before the 15th.",
+    "example_2_translation": "I would be grateful if you could send me the documents by email.",
+    "example_3_translation": "I would be very grateful if you could receive me."
+  },
+  {
+    "chunk_text": "je me tiens informé",
+    "meaning": "I keep myself informed / I stay informed",
+    "primary_function": "Information tracking expression",
+    "communicative_purpose": "To express that one follows developments or stays updated on a topic",
+    "trigger_situations": "Professional updates, industry news, project monitoring",
+    "contexts": "Professional contexts, business correspondence, workplace discussions",
+    "variations": "je reste informé, je m'informe régulièrement, je tiens à jour",
+    "common_mistakes": "Agreement errors with 'se tenir'; confusing with passive constructions",
+    "level": "B2",
+    "patterns": [
+      "je + me + tiens + informé(e) + de + [topic]"
+    ],
+    "collocates": "informé, abreast, updated, suivre, évolution",
+    "example_1": "Je me tiens informé des dernières évolutions du marché.",
+    "example_2": "Je me tiens informé des avancées de votre projet.",
+    "example_3": "Nous nous tenons informés des changements réglementaires.",
+    "example_1_translation": "I keep myself informed of the latest market developments.",
+    "example_2_translation": "I will keep you informed of the progress of your project.",
+    "example_3_translation": "We stay informed of regulatory changes."
+  },
+  {
+    "chunk_text": "il est à noter que",
+    "meaning": "it should be noted that / note that",
+    "primary_function": "Emphasis expression for important information",
+    "communicative_purpose": "To draw attention to important information or facts",
+    "trigger_situations": "Reports, formal presentations, academic writing, official documents",
+    "contexts": "Formal written, reports, academic contexts",
+    "variations": "il convient de noter que, notons que, il faut noter que, il importe de noter",
+    "common_mistakes": "Using in casual contexts; confusing impersonal construction",
+    "level": "B2",
+    "patterns": [
+      "il + est + à + noter + que + [observation]"
+    ],
+    "collocates": "noter, important, observation, significant, noteworthy",
+    "example_1": "Il est à noter que les ventes ont augmenté de 20%.",
+    "example_2": "Il est à noter que ce phénomène touche principalement les jeunes.",
+    "example_3": "Il est à noter que cette règle ne s'applique qu'aux contrats signés après 2020.",
+    "example_1_translation": "It should be noted that sales increased by 20%.",
+    "example_2_translation": "It should be noted that this phenomenon mainly affects young people.",
+    "example_3_translation": "Please note that this rule only applies to contracts signed after 2020."
+  },
+  {
+    "chunk_text": "je vous fais part de",
+    "meaning": "I am sharing with you / I am informing you of",
+    "primary_function": "Formal communication of information",
+    "communicative_purpose": "To officially communicate or share information, decisions, or opinions",
+    "trigger_situations": "Official communications, company announcements, formal notifications",
+    "contexts": "Formal written communication, institutional contexts",
+    "variations": "je me permets de vous faire part, je vous informe de, je porte à votre connaissance",
+    "common_mistakes": "Confusing with 'partager' (to share); using wrong preposition 'de'",
+    "level": "B2",
+    "patterns": [
+      "je + vous + fais + part + de + [information]"
+    ],
+    "collocates": "part, information, décision, opinion, nouvelle",
+    "example_1": "Je vous fais part de notre décision concernant le projet.",
+    "example_2": "Je vous fais part de ma satisfaction quant aux résultats obtenus.",
+    "example_3": "Je vous fais part de quelques observations importantes.",
+    "example_1_translation": "I am informing you of our decision regarding the project.",
+    "example_2_translation": "I express my satisfaction with the results obtained.",
+    "example_3_translation": "I share with you some important observations."
+  },
+  {
+    "chunk_text": "à la lumière de",
+    "meaning": "in light of / given / considering",
+    "primary_function": "Reason/consequence expression",
+    "communicative_purpose": "To indicate that something is considered or understood based on new information",
+    "trigger_situations": "Decision-making, analysis, conclusions, formal reasoning",
+    "contexts": "Formal written/spoken, analysis, reports, professional discussions",
+    "variations": "compte tenu de, étant donné, au vu de, eu égard à",
+    "common_mistakes": "Confusing with 'à cause de' (because of); incorrect preposition usage",
+    "level": "B2",
+    "patterns": [
+      "à + la + lumière + de + [new information]"
+    ],
+    "collocates": "lumière, considering, considering, réevaluation, understanding",
+    "example_1": "À la lumière de ces nouveaux éléments, nous devons reconsidérer notre position.",
+    "example_2": "À la lumière des événements récents, la situation a changé.",
+    "example_3": "À la lumière de votre demande, nous avons adapté notre offre.",
+    "example_1_translation": "In light of these new elements, we must reconsider our position.",
+    "example_2_translation": "In light of recent events, the situation has changed.",
+    "example_3_translation": "In light of your request, we have adapted our offer."
+  },
+  {
+    "chunk_text": "je porte à votre connaissance",
+    "meaning": "I bring to your attention / I inform you of",
+    "primary_function": "Formal notification expression",
+    "communicative_purpose": "To officially inform someone about something important",
+    "trigger_situations": "Official notifications, legal communications, administrative procedures",
+    "contexts": "Formal written, legal/administrative contexts, official correspondence",
+    "variations": "je me permets de porter à votre connaissance, j'attire votre attention sur",
+    "common_mistakes": "Using too frequently in casual emails; wrong preposition 'de' after 'connaissance'",
+    "level": "B2",
+    "patterns": [
+      "je + porte + à + votre + connaissance + [information]"
+    ],
+    "collocates": "porté, connaissance, information, attention, notifier",
+    "example_1": "Je porte à votre connaissance que la réunion est reportée.",
+    "example_2": "Je porte à votre connaissance un changement important dans la réglementation.",
+    "example_3": "Je porte à votre connaissance les résultats de l'audit annuel.",
+    "example_1_translation": "I would like to inform you that the meeting has been postponed.",
+    "example_2_translation": "I am bringing to your attention an important change in the regulations.",
+    "example_3_translation": "I bring to your attention the results of the annual audit."
+  },
+  {
+    "chunk_text": "il m'est agréable de",
+    "meaning": "it is my pleasure to / I am pleased to",
+    "primary_function": "Pleasant formal communication expression",
+    "communicative_purpose": "Polite way to introduce positive news or pleasant information",
+    "trigger_situations": "Acceptances, congratulations, positive announcements in formal letters",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "c'est avec plaisir que, j'ai le plaisir de, il me fait plaisir de",
+    "common_mistakes": "Using in negative contexts; overusing in casual correspondence",
+    "level": "B2",
+    "patterns": [
+      "il + m'est + agréable + de + [positive information]"
+    ],
+    "collocates": "agréable, plaisir, pleasant, pleased, satisfaction",
+    "example_1": "Il m'est agréable de vous informer de votre promotion.",
+    "example_2": "Il m'est agréable de vous confirmer notre collaboration.",
+    "example_3": "Il nous est agréable de vous accueillir parmi nous.",
+    "example_1_translation": "It is my pleasure to inform you of your promotion.",
+    "example_2_translation": "It is a pleasure for me to confirm our collaboration.",
+    "example_3_translation": "It is our pleasure to welcome you among us."
+  },
+  {
+    "chunk_text": "je reste dans l'attente",
+    "meaning": "I am still awaiting / I continue to wait",
+    "primary_function": "Polite follow-up expression",
+    "communicative_purpose": "Polite way to remind of outstanding request or pending response",
+    "trigger_situations": "Follow-up emails, polite reminders, pending administrative matters",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "je suis toujours dans l'attente, dans l'attente de votre retour, dans l'attente de vous lire",
+    "common_mistakes": "Using in aggressive or impatient tone; forgetting preposition 'de'",
+    "level": "B2",
+    "patterns": [
+      "je + reste + dans + l'attente + de + [response]"
+    ],
+    "collocates": "attente, réponse, retour, délai, patience",
+    "example_1": "Je reste dans l'attente de votre réponse concernant ma candidature.",
+    "example_2": "Je reste dans l'attente de votre confirmation pour finaliser le dossier.",
+    "example_3": "Nous restons dans l'attente de votre decision finale.",
+    "example_1_translation": "I am waiting for your response regarding my application.",
+    "example_2_translation": "I am waiting for your confirmation to finalize the file.",
+    "example_3_translation": "We remain awaiting your final decision."
+  },
+  {
+    "chunk_text": "en ma qualité de",
+    "meaning": "in my capacity as / by virtue of my position",
+    "primary_function": "Official role reference expression",
+    "communicative_purpose": "To specify the official position from which one speaks or acts",
+    "trigger_situations": "Official communications, formal declarations, institutional contexts",
+    "contexts": "Formal written/spoken, institutional contexts, legal documents",
+    "variations": "en ma qualité professionnelle, en tant que, en qualité de",
+    "common_mistakes": "Confusing gender; using in informal contexts where title is irrelevant",
+    "level": "B2",
+    "patterns": [
+      "en + ma + qualité + de + [role/title]"
+    ],
+    "collocates": "qualité, capacité, rôle, fonction, titre",
+    "example_1": "En ma qualité de directeur, je vous informe de cette décision.",
+    "example_2": "En ma qualité de représentant légal, je signe ce contrat.",
+    "example_3": "En sa qualité de médecin traitant, elle a accès à ces informations.",
+    "example_1_translation": "In my capacity as director, I inform you of this decision.",
+    "example_2_translation": "In my capacity as legal representative, I sign this contract.",
+    "example_3_translation": "As a treating physician, she has access to this information."
+  },
+  {
+    "chunk_text": "je saisis cette occasion pour",
+    "meaning": "I seize this opportunity to / I take advantage of this occasion to",
+    "primary_function": "Opportunity-taking expression",
+    "communicative_purpose": "To use an occasion to bring up a topic or make a request",
+    "trigger_situations": "Letter openings after pleasantries, business communications, formal greetings",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "je profite de cette occasion pour, je me permets de saisir cette occasion pour",
+    "common_mistakes": "Confusing 'occasion' spelling; using too frequently",
+    "level": "B2",
+    "patterns": [
+      "je + saisis + cette + occasion + pour + [action]"
+    ],
+    "collocates": "saisis, occasion, opportunité, opportunité, chance",
+    "example_1": "Je saisis cette occasion pour vous remercier de votre accueil chaleureux.",
+    "example_2": "Je saisis cette occasion pour vous présenter nos meilleurs vœux.",
+    "example_3": "Je saisis cette occasion pour vous rappeler l'importance du délai.",
+    "example_1_translation": "I would like to take this opportunity to thank you for your warm welcome.",
+    "example_2_translation": "I would like to take this opportunity to extend our best wishes to you.",
+    "example_3_translation": "I take this opportunity to remind you of the importance of the deadline."
+  },
+  {
+    "chunk_text": "je me vois dans l'obligation de",
+    "meaning": "I find myself obligated to / I feel compelled to",
+    "primary_function": "Necessity expression with reluctant undertone",
+    "communicative_purpose": "To express that circumstances require an action, often reluctantly",
+    "trigger_situations": "Formal complaints, warnings, formal notices, disciplinary contexts",
+    "contexts": "Formal written communication, legal contexts, HR communications",
+    "variations": "je me vois dans la nécessité de, je me vois dans l'impossibilité de, il m'est nécessaire de",
+    "common_mistakes": "Confusing with 'se voir offrir' (to be offered); wrong preposition 'de'",
+    "level": "B2",
+    "patterns": [
+      "je + me + vois + dans + l'obligation + de + [action]"
+    ],
+    "collocates": "obligation, nécessité, contraint, obligated, forced",
+    "example_1": "Je me vois dans l'obligation de vous rappeler vos engagements contractuels.",
+    "example_2": "Je me vois dans l'obligation de signaler un retard dans le planning.",
+    "example_3": "Je me vois dans l'obligation de mettre fin à notre collaboration.",
+    "example_1_translation": "I see myself obliged to remind you of your contractual commitments.",
+    "example_2_translation": "I see myself obliged to report a delay in the schedule.",
+    "example_3_translation": "I see myself obliged to end our collaboration."
+  },
+  {
+    "chunk_text": "je souscris pleinement à",
+    "meaning": "I fully endorse / I fully agree with",
+    "primary_function": "Strong agreement expression",
+    "communicative_purpose": "To express strong approval or agreement with a proposal, idea, or position",
+    "trigger_situations": "Formal agreements, endorsements, support for proposals, collaborative contexts",
+    "contexts": "Formal written/spoken, professional discussions, formal agreements",
+    "variations": "je souscris entièrement à, je m'associe à, je suis en accord avec",
+    "common_mistakes": "Confusing with 'souscrire à un emprunt' (to subscribe to a loan); preposition 'à' required",
+    "level": "B2",
+    "patterns": [
+      "je + souscris + pleinement + à + [proposal/idea]"
+    ],
+    "collocates": "souscris, endorse, agree, approval, support",
+    "example_1": "Je souscris pleinement à cette proposition de collaboration.",
+    "example_2": "Je souscris pleinement à votre analyse de la situation.",
+    "example_3": "Nous souscrivons pleinement aux objectifs fixés par le groupe.",
+    "example_1_translation": "I fully subscribe to this proposal for collaboration.",
+    "example_2_translation": "I fully subscribe to your analysis of the situation.",
+    "example_3_translation": "We fully subscribe to the objectives set by the group."
+  },
+  {
+    "chunk_text": "je vous expose",
+    "meaning": "I am setting forth / I am presenting to you",
+    "primary_function": "Formal presentation of information",
+    "communicative_purpose": "To present or explain something formally, especially problems or situations",
+    "trigger_situations": "Formal letters explaining issues, business proposals, formal reports",
+    "contexts": "Formal written communication, legal contexts, business correspondence",
+    "variations": "je me permets de vous exposer, je tiens à vous exposer, je porte à votre connaissance",
+    "common_mistakes": "Using in spoken contexts; confusing with 'exposer' (to expose physically)",
+    "level": "B2",
+    "patterns": [
+      "je + vous + expose + [situation/problem]"
+    ],
+    "collocates": "expose, problème, situation, difficulté, circumstance",
+    "example_1": "Je vous expose ci-dessous les difficultés rencontrées.",
+    "example_2": "Je vous expose ma situation afin que vous compreniez mes contraintes.",
+    "example_3": "Je vous expose les faits tels qu'ils se sont produits.",
+    "example_1_translation": "Below I outline the difficulties encountered.",
+    "example_2_translation": "I will explain my situation to you so that you understand my constraints.",
+    "example_3_translation": "I am telling you the facts as they happened."
+  },
+  {
+    "chunk_text": "en regard de",
+    "meaning": "with regard to / in comparison with / in view of",
+    "primary_function": "Reference/comparison expression",
+    "communicative_purpose": "To compare or relate something to another thing or standard",
+    "trigger_situations": "Analysis, comparisons, formal reports, professional assessments",
+    "contexts": "Formal written, analysis, reports, legal contexts",
+    "variations": "par rapport à, en comparaison de, vis-à-vis de, au regard de",
+    "common_mistakes": "Confusing with 'envers' (towards); using too frequently",
+    "level": "B2",
+    "patterns": [
+      "en + regard + de + [reference]"
+    ],
+    "collocates": "regard, comparison, compared, comparison, assessment",
+    "example_1": "En regard de ces résultats, nous devons ajuster notre stratégie.",
+    "example_2": "En regard des normes établies, ce résultat est satisfaisant.",
+    "example_3": "En regard du budget initial, nous avons respecté les coûts.",
+    "example_1_translation": "Given these results, we must adjust our strategy.",
+    "example_2_translation": "Compared to established standards, this result is satisfactory.",
+    "example_3_translation": "Considering the initial budget, we respected the costs."
+  },
+  {
+    "chunk_text": "je fais suite à",
+    "meaning": "further to / with reference to / in response to",
+    "primary_function": "Formal reference to previous communication",
+    "communicative_purpose": "To formally refer to a previous letter, email, or conversation",
+    "trigger_situations": "Reply letters, follow-up communications, formal correspondence chains",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "en réponse à, suite à, faisant suite à, en référence à",
+    "common_mistakes": "Confusing with 'suite à' (following); agreement errors",
+    "level": "B2",
+    "patterns": [
+      "je + fais + suite + à + [previous communication]"
+    ],
+    "collocates": "suite, référence, suite, correspondance, antécédent",
+    "example_1": "Je fais suite à votre courrier du 15 mars dernier.",
+    "example_2": "Je fais suite à notre entretien téléphonique de ce matin.",
+    "example_3": "Je fais suite à votre email dans lequel vous demandiez des précisions.",
+    "example_1_translation": "I am following up on your letter of March 15.",
+    "example_2_translation": "I follow up on our telephone interview this morning.",
+    "example_3_translation": "I am following up on your email in which you asked for details."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "il fait beau",
+    "meaning": "the weather is nice",
+    "primary_function": "expression",
+    "communicative_purpose": "describing pleasant weather",
+    "patterns": [
+      "Il fait beau aujourd'hui.",
+      "Il a fait beau toute la semaine."
+    ],
+    "collocates": [
+      "soleil",
+      "chaud",
+      "doux",
+      "ciel",
+      "clarté"
+    ],
+    "level": "A1",
+    "example_1": "Il fait beau aujourd'hui.",
+    "example_2": "Il a fait beau toute la semaine.",
+    "example_3": "Je connais il fait beau.",
+    "example_1_translation": "The weather today is good.",
+    "example_2_translation": "The weather was nice all week.",
+    "example_3_translation": "I know the weather is nice."
+  },
+  {
+    "chunk_text": "il fait froid",
+    "meaning": "the weather is cold",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cold weather",
+    "patterns": [
+      "Il fait très froid ce matin.",
+      "En hiver, il fait froid."
+    ],
+    "collocates": [
+      "glace",
+      "neige",
+      "gel",
+      "hiver",
+      "refroidissement"
+    ],
+    "level": "A1",
+    "example_1": "Il fait très froid ce matin.",
+    "example_2": "En hiver, il fait froid.",
+    "example_3": "Je connais il fait froid.",
+    "example_1_translation": "It's very cold this morning.",
+    "example_2_translation": "In winter it is cold.",
+    "example_3_translation": "I know it's cold."
+  },
+  {
+    "chunk_text": "il pleut à verse",
+    "meaning": "it's raining heavily",
+    "primary_function": "expression",
+    "communicative_purpose": "describing heavy rain",
+    "patterns": [
+      "Il pleut à verse depuis ce matin.",
+      "Attention, il pleut à verse!"
+    ],
+    "collocates": [
+      "averses",
+      "déluge",
+      "torrentiel",
+      "inondation",
+      "pluie"
+    ],
+    "level": "A2",
+    "example_1": "Il pleut à verse depuis ce matin.",
+    "example_2": "Attention, il pleut à verse!",
+    "example_3": "On utilise il pleut à verse dans la vie quotidienne.",
+    "example_1_translation": "It's been pouring rain since this morning.",
+    "example_2_translation": "Be careful, it's pouring rain!",
+    "example_3_translation": "We use it's pouring rain in everyday life."
+  },
+  {
+    "chunk_text": "il fait un temps couvert",
+    "meaning": "the weather is overcast",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cloudy weather",
+    "patterns": [
+      "Il fait un temps couvert depuis plusieurs jours.",
+      "Un temps couvert est prévu demain."
+    ],
+    "collocates": [
+      "nuageux",
+      "gris",
+      "brume",
+      "ciel",
+      "obscurcissement"
+    ],
+    "level": "A2",
+    "example_1": "Il fait un temps couvert depuis plusieurs jours.",
+    "example_2": "Un temps couvert est prévu demain.",
+    "example_3": "On utilise il fait un temps couvert dans la vie quotidienne.",
+    "example_1_translation": "It has been overcast for several days.",
+    "example_2_translation": "Cloudy weather is forecast tomorrow.",
+    "example_3_translation": "We use it's overcast in everyday life."
+  },
+  {
+    "chunk_text": "le soleil se lève",
+    "meaning": "the sun rises",
+    "primary_function": "expression",
+    "communicative_purpose": "describing sunrise",
+    "patterns": [
+      "Le soleil se lève à l'est.",
+      "Le soleil se lève de plus en plus tôt."
+    ],
+    "collocates": [
+      "aube",
+      "lever",
+      "aurore",
+      "matin",
+      "est"
+    ],
+    "level": "A2",
+    "example_1": "Le soleil se lève à l'est.",
+    "example_2": "Le soleil se lève de plus en plus tôt.",
+    "example_3": "On utilise le soleil se lève dans la vie quotidienne.",
+    "example_1_translation": "The sun rises in the east.",
+    "example_2_translation": "The sun rises earlier and earlier.",
+    "example_3_translation": "We use the sun rises in daily life."
+  },
+  {
+    "chunk_text": "le soleil se couche",
+    "meaning": "the sun sets",
+    "primary_function": "expression",
+    "communicative_purpose": "describing sunset",
+    "patterns": [
+      "Le soleil se couche à l'ouest.",
+      "C'est beautiful quand le soleil se couche."
+    ],
+    "collocates": [
+      "coucher",
+      " crépuscule",
+      "soir",
+      "ouest",
+      "déclin"
+    ],
+    "level": "A2",
+    "example_1": "Le soleil se couche à l'ouest.",
+    "example_2": "C'est beautiful quand le soleil se couche.",
+    "example_3": "On utilise le soleil se couche dans la vie quotidienne.",
+    "example_1_translation": "The sun sets in the west.",
+    "example_2_translation": "It's beautiful when the sun goes down.",
+    "example_3_translation": "We use the sun sets in daily life."
+  },
+  {
+    "chunk_text": "il fait très chaud",
+    "meaning": "it's very hot",
+    "primary_function": "expression",
+    "communicative_purpose": "describing hot weather",
+    "patterns": [
+      "En été, il fait très chaud.",
+      "Il a fait très chaud la semaine dernière."
+    ],
+    "collocates": [
+      "chaleur",
+      "canicule",
+      "été",
+      "souffle",
+      "température"
+    ],
+    "level": "A1",
+    "example_1": "En été, il fait très chaud.",
+    "example_2": "Il a fait très chaud la semaine dernière.",
+    "example_3": "Je connais il fait très chaud.",
+    "example_1_translation": "In summer it is very hot.",
+    "example_2_translation": "It was very hot last week.",
+    "example_3_translation": "I know it's very hot."
+  },
+  {
+    "chunk_text": "une tempête de neige",
+    "meaning": "a snowstorm",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing severe winter weather",
+    "patterns": [
+      "Une tempête de neige a paralysé la région.",
+      "La tempête de neige attendu pour demain."
+    ],
+    "collocates": [
+      "blizzard",
+      "neige",
+      "tempête",
+      "hiver",
+      "chute"
+    ],
+    "level": "B1",
+    "example_1": "Une tempête de neige a paralysé la région.",
+    "example_2": "La tempête de neige attendu pour demain.",
+    "example_3": "Je connais une tempête de neige.",
+    "example_1_translation": "A snowstorm paralyzed the region.",
+    "example_2_translation": "The snowstorm expected for tomorrow.",
+    "example_3_translation": "I'm experiencing a snowstorm."
+  },
+  {
+    "chunk_text": "il y a du vent",
+    "meaning": "it's windy",
+    "primary_function": "expression",
+    "communicative_purpose": "describing windy conditions",
+    "patterns": [
+      "Il y a beaucoup de vent aujourd'hui.",
+      "Il faisait trop de vent pour sortir."
+    ],
+    "collocates": [
+      "vent",
+      "rafales",
+      "brise",
+      "souffle",
+      "bourrasque"
+    ],
+    "level": "A1",
+    "example_1": "Il y a beaucoup de vent aujourd'hui.",
+    "example_2": "Il faisait trop de vent pour sortir.",
+    "example_3": "Je connais il y a du vent.",
+    "example_1_translation": "It's very windy today.",
+    "example_2_translation": "It was too windy to go out.",
+    "example_3_translation": "I know it's windy."
+  },
+  {
+    "chunk_text": "il fait doux",
+    "meaning": "the weather is mild",
+    "primary_function": "expression",
+    "communicative_purpose": "describing mild weather",
+    "patterns": [
+      "Au printemps, il fait doux.",
+      "Il a fait doux toute la journée."
+    ],
+    "collocates": [
+      "doux",
+      "clément",
+      "agréable",
+      "tempéré",
+      "printemps"
+    ],
+    "level": "A2",
+    "example_1": "Au printemps, il fait doux.",
+    "example_2": "Il a fait doux toute la journée.",
+    "example_3": "On utilise il fait doux dans la vie quotidienne.",
+    "example_1_translation": "In spring, it is mild.",
+    "example_2_translation": "It was mild all day.",
+    "example_3_translation": "We use it in everyday life."
+  },
+  {
+    "chunk_text": "la température chute",
+    "meaning": "the temperature drops",
+    "primary_function": "expression",
+    "communicative_purpose": "describing temperature drop",
+    "patterns": [
+      "La température va chuter cette nuit.",
+      "Les températures ont chuté brutalement."
+    ],
+    "collocates": [
+      "baisse",
+      "chute",
+      "refroidissement",
+      "glace",
+      "froid"
+    ],
+    "level": "B1",
+    "example_1": "La température va chuter cette nuit.",
+    "example_2": "Les températures ont chuté brutalement.",
+    "example_3": "Je connais la température chute.",
+    "example_1_translation": "The temperature will drop tonight.",
+    "example_2_translation": "Temperatures dropped suddenly.",
+    "example_3_translation": "I know the temperature is dropping."
+  },
+  {
+    "chunk_text": "un temps orageux",
+    "meaning": "stormy weather",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing thunderstorm conditions",
+    "patterns": [
+      "Un temps orageux est prévu pour l'après-midi.",
+      "Le temps orageux a causé des dégâts."
+    ],
+    "collocates": [
+      "orage",
+      "éclair",
+      "tonnerre",
+      "pluie",
+      "tempête"
+    ],
+    "level": "B1",
+    "example_1": "Un temps orageux est prévu pour l'après-midi.",
+    "example_2": "Le temps orageux a causé des dégâts.",
+    "example_3": "Je connais un temps orageux.",
+    "example_1_translation": "Stormy weather is forecast for the afternoon.",
+    "example_2_translation": "Stormy weather caused damage.",
+    "example_3_translation": "I am experiencing stormy weather."
+  },
+  {
+    "chunk_text": "il grêle",
+    "meaning": "it's hailing",
+    "primary_function": "expression",
+    "communicative_purpose": "describing hailstorm",
+    "patterns": [
+      "Il grêle depuis une heure.",
+      "Attention, il va grêler!"
+    ],
+    "collocates": [
+      "grêle",
+      "grêlons",
+      "averse",
+      "hiver",
+      "dégâts"
+    ],
+    "level": "A2",
+    "example_1": "Il grêle depuis une heure.",
+    "example_2": "Attention, il va grêler!",
+    "example_3": "On utilise il grêle dans la vie quotidienne.",
+    "example_1_translation": "It's been hailing for an hour.",
+    "example_2_translation": "Be careful, it's going to hail!",
+    "example_3_translation": "We use it hail in daily life."
+  },
+  {
+    "chunk_text": "le prévisions météorologiques",
+    "meaning": "weather forecast",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to weather predictions",
+    "patterns": [
+      "Les prévisions météorologiques annonce de la pluie.",
+      "Consultez les prévisions météorologiques avant de partir."
+    ],
+    "collocates": [
+      "météo",
+      "prévisions",
+      "bullentin",
+      "climat",
+      "temps"
+    ],
+    "level": "A2",
+    "example_1": "Les prévisions météorologiques annonce de la pluie.",
+    "example_2": "Consultez les prévisions météorologiques avant de partir.",
+    "example_3": "On utilise le prévisions météorologiques dans la vie quotidienne.",
+    "example_1_translation": "The weather forecast calls for rain.",
+    "example_2_translation": "Check the weather forecast before leaving.",
+    "example_3_translation": "We use weather forecasts in everyday life."
+  },
+  {
+    "chunk_text": "une canicule",
+    "meaning": "a heat wave",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing extreme heat",
+    "patterns": [
+      "Une canicule s'est installée sur le pays.",
+      "Pendant la canicule, restez hydraté."
+    ],
+    "collocates": [
+      "chaleur",
+      "canicule",
+      "forte",
+      "température",
+      "été"
+    ],
+    "level": "B1",
+    "example_1": "Une canicule s'est installée sur le pays.",
+    "example_2": "Pendant la canicule, restez hydraté.",
+    "example_3": "Je connais une canicule.",
+    "example_1_translation": "A heatwave has set in across the country.",
+    "example_2_translation": "During the heatwave, stay hydrated.",
+    "example_3_translation": "I'm experiencing a heatwave."
+  }
+]

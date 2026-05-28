@@ -1,0 +1,363 @@
+[
+  {
+    "structure_label": "Present conditional for polite requests",
+    "core_meaning": "Using conditional to make polite, courteous requests rather than direct commands",
+    "primary_communicative_fn": "Making courteous and indirect requests by softening commands through conditional mood",
+    "when_to_use": "When asking for something politely; when making requests in formal or respectful situations",
+    "pattern": "[Sujet] + conditionnel présent + [verbe à l'infinitif] → demande polie",
+    "key_variations": [
+      "Pourriez-vous m'aider? (Could you help me?)",
+      "Voudriez-vous un café? (Would you like a coffee?)",
+      "Auriez-vous l'heure? (Would you have the time?)"
+    ],
+    "essential_vocabulary_slots": "pouvoir, vouloir, avoir, aider, café, heure, conditionnel, demande, s'il vous plaît",
+    "common_learner_mistakes": [
+      "Using futur simple for politeness: *« Vous aiderez-moi? »",
+      "Confusing conditional with subjunctive for requests"
+    ],
+    "chunk_compatibility": "Polite request chunks: *Pourriez-vous...?*, *Voudriez-vous...?*, *Auriez-vous...?*",
+    "primary_function": "Making polite and courteous requests",
+    "key_forms": "Pourriez-vous m'aider? Voudriez-vous un café? Auriez-vous l'heure?",
+    "essential_vocabulary": "pouvoir, vouloir, avoir, aider, café, heure, conditionnel, demander, s'il vous plaît, merci",
+    "why_it_matters": "Essential for polite, respectful communication in French; shows social awareness and courtesy",
+    "common_mistakes": "Using future simple; confusing with subjunctive; missing conditional marker",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Conditional for hypothetical presents",
+    "core_meaning": "Expressing imaginary or hypothetical situations in the present using conditional",
+    "primary_communicative_fn": "Describing what would happen in an imaginary or contrary-to-fact present situation",
+    "when_to_use": "When expressing wishes, imaginary scenarios, or what might happen under different circumstances",
+    "pattern": "Si + [imparfait] + [conditionnel présent] → hypothèse au présent",
+    "key_variations": [
+      "Si j'avais plus d'argent, j'achèterais une maison.",
+      "Si tu savais nager, nous irions à la plage.",
+      "Si elle était là, elle serait contente."
+    ],
+    "essential_vocabulary_slots": "si, avoir, argent, acheter, maison, savoir, nager, aller, plage, être, là, content",
+    "common_learner_mistakes": [
+      "Using conditionnel in the si clause: *« Si j'aurais... »",
+      "Using present indicative with conditional: *« Si je suis riche, je ferais... »"
+    ],
+    "chunk_compatibility": "Hypothetical chunks: *Si j'avais...*, *Si tu pouvais...*, *Si nous avions...*",
+    "primary_function": "Expressing imaginary present situations and wishes",
+    "key_forms": "Si j'avais plus d'argent, j'achèterais une maison. Si tu savais nager, nous irions à la plage.",
+    "essential_vocabulary": "si, avoir, argent, acheter, maison, savoir, nager, aller, plage, être, content, imparfait",
+    "why_it_matters": "Essential for expressing wishes and imaginary scenarios; second conditional structure",
+    "common_mistakes": "Using conditional in si clause; wrong tense pairing; mixing with present tense",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Past conditional for unfulfilled past actions",
+    "core_meaning": "Using conditional passé to express actions that would have happened but didn't",
+    "primary_communicative_fn": "Describing what would have happened in an unfulfilled past scenario",
+    "when_to_use": "When describing regrets, counterfactual past events, or what might have been",
+    "pattern": "Si + [plus-que-parfait] + [conditionnel passé] → hypothèse au passé non réalisée",
+    "key_variations": [
+      "Si j'avais su, j'aurais venu plus tôt.",
+      "Il aurait réussi s'il avait travaillé davantage.",
+      "Nous aurions voyagé si nous avions eu le temps."
+    ],
+    "essential_vocabulary_slots": "si, avoir, su, venir, tôt, réussir, travailler, voyager, avoir, temps, conditionnel passé",
+    "common_learner_mistakes": [
+      "Using conditionnel présent with si + plus-que-parfait: *« Si j'avais su, je viendrais »",
+      "Mixing up past conditional with future perfect in if-clauses"
+    ],
+    "chunk_compatibility": "Unfulfilled past chunks: *Si j'avais su...*, *Si vous aviez venu...*, *Nous aurions...*",
+    "primary_function": "Expressing unfulfilled past hypotheticals and regrets",
+    "key_forms": "Si j'avais su, j'aurais venu plus tôt. Il aurait réussi s'il avait travaillé. Nous aurions voyagé si nous avions eu le temps.",
+    "essential_vocabulary": "si, avoir, su, venir, tôt, réussir, travailler, voyager, avoir, temps, conditionnel passé, regretter",
+    "why_it_matters": "Essential for expressing regret, counterfactual thinking, and what might have been; third conditional",
+    "common_mistakes": "Using present conditional; wrong auxiliary; mixing tense pairs",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional after « au cas où »",
+    "core_meaning": "Using conditional with au cas où to express a possibility without committing to action",
+    "primary_communicative_fn": "Expressing hypothetical scenarios and precautionary actions",
+    "when_to_use": "When taking precautions or preparing for possible scenarios",
+    "pattern": "Au cas où + [conditionnel] → possibilité sans certitude",
+    "key_variations": [
+      "Apportez un parapluie au cas où il pleuvrait.",
+      "Je prendrai mes clés au cas où vous auriez besoin.",
+      "Téléphonez-moi au cas où quelque chose changerait."
+    ],
+    "essential_vocabulary_slots": "au, cas, où, apporter, parapluie, pleuvrait, prendre, clés, avoir, besoin, téléphoner, changer",
+    "common_learner_mistakes": [
+      "Using subjunctive with au cas où: *« Au cas où il pleuve »",
+      "Confusing au cas où with si (which uses indicative/subjunctive)"
+    ],
+    "chunk_compatibility": "Precautionary chunks: *Au cas où...*, *Au cas où il pleuvrait...*",
+    "primary_function": "Expressing precautionary and hypothetical scenarios",
+    "key_forms": "Apportez un parapluie au cas où il pleuvrait. Je prendrai mes clés au cas où vous auriez besoin.",
+    "essential_vocabulary": "au, cas, où, apporter, parapluie, pleuvrait, prendre, clés, avoir, besoin, téléphoner, changer",
+    "why_it_matters": "Essential for expressing preparation and precaution in French",
+    "common_mistakes": "Using subjunctive instead of conditional; confusing with si clauses",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional for reported speech",
+    "core_meaning": "Using conditional to soften or make polite statements when reporting others' words",
+    "primary_communicative_fn": "Expressing future-in-the-past perspective; reporting promises, plans, or intentions",
+    "when_to_use": "When reporting what someone said would happen; in narrative past contexts",
+    "pattern": "[Verbe de parole] + que + [sujet] + conditionnel → discours rapporté adouci",
+    "key_variations": [
+      "Il a dit qu'il viendrait demain. (futur dans le passé)",
+      "Elle a promis qu'elle serait là. (future in the past)",
+      "Ils affirmaient qu'ils gagneraient. (claim without evidence)"
+    ],
+    "essential_vocabulary_slots": "dire, venir, demain, promettre, être, là, affirmer, gagner, conditionnel, futur passé",
+    "common_learner_mistakes": [
+      "Using futur simple after past reporting verbs: *« Il a dit qu'il viendra »",
+      "Not distinguishing between future in past and present conditional"
+    ],
+    "chunk_compatibility": "Reported speech chunks: *Il a dit qu'il viendrait*, *Elle a promis qu'elle serait*",
+    "primary_function": "Reporting future events from a past perspective",
+    "key_forms": "Il a dit qu'il viendrait demain. Elle a promis qu'elle serait là. Ils affirmaient qu'ils gagneraient.",
+    "essential_vocabulary": "dire, venir, demain, promettre, être, là, affirmer, gagner, conditionnel, futur, passé",
+    "why_it_matters": "Essential for accurate narrative tense and reporting; distinguishes from direct speech",
+    "common_mistakes": "Using future simple with past verbs; confusing reported vs. direct speech tenses",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional with « comme si »",
+    "core_meaning": "Using conditional with comme si to express resemblance to hypothetical situations",
+    "primary_communicative_fn": "Comparing actual behavior to how someone would act in a hypothetical situation",
+    "when_to_use": "When describing how someone acts as if something were true; when making comparisons",
+    "pattern": "Comme si + [imparfait/plus-que-parfait] → comparaison hypothétique",
+    "key_variations": [
+      "Il parle comme s'il savait tout.",
+      "Elle agit comme si elle était la patronne.",
+      "Tu me regardes comme si j'étais un étranger."
+    ],
+    "essential_vocabulary_slots": "comme, si, savoir, agir, être, patronne, regarder, étranger, imparfait",
+    "common_learner_mistakes": [
+      "Using conditionnel with comme si: *« Il parle comme s'il saurait »",
+      "Using plus-que-parfait with present meaning instead of imparfait"
+    ],
+    "chunk_compatibility": "Comparison chunks: *Comme si...*, *Elle agit comme si...*",
+    "primary_function": "Making hypothetical comparisons about behavior and attitudes",
+    "key_forms": "Il parle comme s'il savait tout. Elle agit comme si elle était la patronne. Tu me regardes comme si j'étais un étranger.",
+    "essential_vocabulary": "comme, si, savoir, agir, être, patronne, regarder, étranger, imparfait, paraître, sembler",
+    "why_it_matters": "Essential for expressing comparisons and attitudes; shows subtle judgment and observation",
+    "common_mistakes": "Using conditional after comme si; wrong tense choice; imparfait vs. plus-que-parfait confusion",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional for conjecture (without evidence)",
+    "core_meaning": "Using conditional to express guesses or hypotheses without supporting evidence",
+    "primary_communicative_fn": "Expressing unverified claims, gossip, or reported information without commitment to truth",
+    "when_to_use": "When reporting unconfirmed information; when speculating without evidence",
+    "pattern": "[Sujet] + conditionnel + [verbe] → conjecture sans preuve",
+    "key_variations": [
+      "Il serait médecin. (I gather he's a doctor / He apparently is a doctor)",
+      "Elle aurait trente ans. (She must be thirty / She could be thirty)",
+      "Ce serait intéressant. (That would be interesting / That might be interesting)"
+    ],
+    "essential_vocabulary_slots": "être, médecin, avoir, trente, ans, intéressant, conditionnel, conjecture, apparemment",
+    "common_learner_mistakes": [
+      "Confusing conditional conjecture with futur simple (which implies certainty)",
+      "Using conditional instead of indicative for facts"
+    ],
+    "chunk_compatibility": "Conjecture chunks: *Il serait...*, *Elle aurait...*, *Ce serait...*",
+    "primary_function": "Expressing unverified information and speculation",
+    "key_forms": "Il serait médecin. Elle aurait trente ans. Ce serait intéressant.",
+    "essential_vocabulary": "être, médecin, avoir, ans, intéressant, conditionnel, conjecture, apparemment, soi-disant",
+    "why_it_matters": "Essential for understanding journalistic and gossip language; shows attitude toward information reliability",
+    "common_mistakes": "Confusing with future simple; using with facts; wrong register",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Si + imparfait → present conditional result",
+    "core_meaning": "Second conditional structure: imaginary/hypothetical condition with present result",
+    "primary_communicative_fn": "Expressing what would happen if an imaginary present condition were true",
+    "when_to_use": "When expressing wishes, hypothetical scenarios, or contrary-to-fact present situations",
+    "pattern": "Si + [imparfait] + [résultat au conditionnel présent] → condition imaginaire",
+    "key_variations": [
+      "Si j'étais toi, je réfléchirais bien.",
+      "Si le projet marchait, nous serions riches.",
+      "Si elle avait le temps, elle voyagerait davantage."
+    ],
+    "essential_vocabulary_slots": "si, être, toi, réfléchir, marcher, projet, riche, avoir, temps, voyager, imparfait, conditionnel",
+    "common_learner_mistakes": [
+      "Wrong tense combination: using present indicative in both clauses",
+      "Using past conditional in result clause with si + imparfait"
+    ],
+    "chunk_compatibility": "Hypothetical chunks: *Si j'étais...*, *Si le projet...*, *Si elle avait...*",
+    "primary_function": "Expressing imaginary present conditions and results",
+    "key_forms": "Si j'étais toi, je réfléchirais bien. Si le projet marchait, nous serions riches.",
+    "essential_vocabulary": "si, être, toi, réfléchir, marcher, projet, riche, avoir, temps, voyager, imparfait, conditionnel",
+    "why_it_matters": "Second conditional; essential for expressing wishes and contrary-to-fact scenarios",
+    "common_mistakes": "Using present tense in si clause; wrong result tense; mixing tense pairs",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional for wishes and desires",
+    "core_meaning": "Using conditional after verbs of wishing to express desires that may not be fulfilled",
+    "primary_communicative_fn": "Expressing hopes, desires, and wishes that are hypothetical or uncertain",
+    "when_to_use": "When expressing hopes or desires for something; when wishing for outcomes",
+    "pattern": "[Verbe de souhait] + que + [sujet] + conditionnel → souhait non réalisé",
+    "key_variations": [
+      "Je voudrais que tu viennes. (I would like you to come)",
+      "J'aimerais qu'il soit là. (I would love for him to be here)",
+      "Il espérait que quelqu'un l'aiderait."
+    ],
+    "essential_vocabulary_slots": "vouloir, que, venir, aimer, être, là, espérer, aider, conditionnel, souhait",
+    "common_learner_mistakes": [
+      "Using subjunctive instead of conditional after voudrais/j'aimerais",
+      "Forgetting that some verbs take subjunctive directly (without conditional)"
+    ],
+    "chunk_compatibility": "Wish chunks: *Je voudrais que...*, *J'aimerais qu'...*, *Je souhaite que...*",
+    "primary_function": "Expressing hopes, desires, and uncertain wishes",
+    "key_forms": "Je voudrais que tu viennes. J'aimerais qu'il soit là. Il espérait que quelqu'un l'aiderait.",
+    "essential_vocabulary": "vouloir, que, venir, aimer, être, là, espérer, aider, conditionnel, souhait, souhaiter",
+    "why_it_matters": "Essential for expressing desires, hopes, and wishes in French conversation",
+    "common_mistakes": "Confusing conditional with subjunctive; wrong mood after wish verbs",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Mixed conditional (past condition, present result)",
+    "core_meaning": "Imagining a different past while describing present consequences",
+    "primary_communicative_fn": "Expressing how a past event affects the present situation; counterfactual with present consequences",
+    "when_to_use": "When describing how a past action would affect present circumstances",
+    "pattern": "Si + [plus-que-parfait] + [conditionnel présent] → condition passée, résultat présent",
+    "key_variations": [
+      "Si j'avais étudié, j'aurais mon diplôme maintenant. (but I don't)",
+      "Si elle avait pris l'avion, elle serait déjà ici. (but she didn't)",
+      "Si tu m'avais écouté, tu saurais quoi faire."
+    ],
+    "essential_vocabulary_slots": "si, avoir, étudié, avoir, diplôme, maintenant, prendre, avion, être, déjà, ici, savoir, faire",
+    "common_learner_mistakes": [
+      "Using past conditional for present result: *« Si j'avais su, j'aurais su »",
+      "Confusing with standard past conditional structure"
+    ],
+    "chunk_compatibility": "Mixed conditional chunks: *Si j'avais...*, *Si elle était venue...*",
+    "primary_function": "Expressing past conditions with present-time consequences",
+    "key_forms": "Si j'avais étudié, j'aurais mon diplôme maintenant. Si elle avait pris l'avion, elle serait déjà ici.",
+    "essential_vocabulary": "si, avoir, étudié, diplôme, maintenant, prendre, avion, être, ici, savoir, faire, écouter",
+    "why_it_matters": "Advanced conditional structure; expresses sophisticated counterfactual reasoning",
+    "common_mistakes": "Using wrong result tense; confusing with pure past conditional; mixed tense logic",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Conditional in exclamations",
+    "core_meaning": "Using conditional in exclamatory sentences to express surprise or indignation",
+    "primary_communicative_fn": "Expressing surprise, indignation, or disbelief through conditional in exclamatory form",
+    "when_to_use": "When expressing surprise or indignation about something; when reacting with shock",
+    "pattern": "Alors ça + conditionnel! / Si + subject + conditionnel + ! → exclamatory surprise",
+    "key_variations": [
+      "Alors ça, je n'aurais jamais cru!",
+      "Si c'est pas malheureux! (Isn't that a shame!)",
+      "Vous feriez ça pour moi? Quel honneur!"
+    ],
+    "essential_vocabulary_slots": "alors, ça, conditionnel, croire, jamais, malheureux, honneur, indignation, surprise",
+    "common_learner_mistakes": [
+      "Using indicative in exclamations: *« Alors ça, je n'ai jamais cru »",
+      "Overusing this structure in formal writing"
+    ],
+    "chunk_compatibility": "Exclamatory surprise: *Alors ça!*, *Si c'est pas...!*, *Vous feriez ça...!*",
+    "primary_function": "Expressing surprise and indignation through conditional exclamations",
+    "key_forms": "Alors ça, je n'aurais jamais cru! Si c'est pas malheureux! Vous feriez ça pour moi?",
+    "essential_vocabulary": "alors, ça, conditionnel, croire, jamais, malheureux, honneur, indignation, surprise, penser",
+    "why_it_matters": "Authentic exclamatory structure showing genuine emotional reactions",
+    "common_mistakes": "Using indicative instead of conditional; using in formal contexts only",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Conditional with sans (but for) and avec (but for)",
+    "core_meaning": "Using conditional with sans que or avec to express what would happen without certain conditions",
+    "primary_communicative_fn": "Expressing counterfactual reasoning about what would happen given different circumstances",
+    "when_to_use": "When expressing what wouldn't have happened without something; when stating conditions",
+    "pattern": "Sans + [infinitif]/[nom] + , + [conditionnel] → sans cette condition",
+    "key_variations": [
+      "Sans toi, je serais perdu.",
+      "Sans son aide, nous aurions échoué.",
+      "Avec plus de temps, j'aurais fait mieux."
+    ],
+    "essential_vocabulary_slots": "sans, toi, être, perdu, aide, échouer, avec, temps, faire, mieux, conditionnel",
+    "common_learner_mistakes": [
+      "Confusing avec + conditionnel (with this condition) vs sans (without this condition)",
+      "Using subjunctive where conditional is needed after sans que"
+    ],
+    "chunk_compatibility": "Counterfactual chunks: *Sans toi...*, *Sans son aide...*, *Avec plus de...*",
+    "primary_function": "Expressing counterfactual conditions and dependencies",
+    "key_forms": "Sans toi, je serais perdu. Sans son aide, nous aurions échoué. Avec plus de temps, j'aurais fait mieux.",
+    "essential_vocabulary": "sans, toi, être, perdu, aide, échouer, avec, temps, faire, mieux, conditionnel, aurait",
+    "why_it_matters": "Essential for expressing dependencies and counterfactual reasoning in French",
+    "common_mistakes": "Confusing sans/avec logic; using subjunctive instead of conditional",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Conditional for news/reports",
+    "core_meaning": "Using conditional in news reporting to indicate information not confirmed or attributed to a source",
+    "primary_communicative_fn": "Indicating unconfirmed information or reports in journalistic and news contexts",
+    "when_to_use": "In news reporting; when stating unconfirmed or reported information",
+    "pattern": "[Source] + conditionnel + [information] → rapport non confirmé",
+    "key_variations": [
+      "Le président démissionnerait selon certaines sources.",
+      "L'accident aurait fait trois victimes.",
+      "La société fermerait ses portes la semaine prochaine."
+    ],
+    "essential_vocabulary_slots": "président, démissionner, selon, source, accident, avoir, victime, société, fermer, portes, conditionnel",
+    "common_learner_mistakes": [
+      "Using futur simple for unconfirmed news: *« Le président démissionnera »",
+      "Forgetting that conditional passé can describe supposed past events"
+    ],
+    "chunk_compatibility": "News reporting: *serait*, *aurait fait*, *fermerait*, *selon les sources*",
+    "primary_function": "Reporting unconfirmed or attributed information in journalism",
+    "key_forms": "Le président démissionnerait. L'accident aurait fait trois victimes. La société fermerait ses portes.",
+    "essential_vocabulary": "président, démissionner, selon, source, accident, avoir, victime, société, fermer, portes, conditionnel",
+    "why_it_matters": "Essential for understanding journalistic language and news reporting conventions",
+    "common_mistakes": "Using future simple for unconfirmed news; not using conditional for attributed information",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Conditional anterior (would have) vs conditionnel présent",
+    "core_meaning": "Distinguishing between conditional present (would do) and conditional anterior (would have done)",
+    "primary_communicative_fn": "Distinguishing temporal reference in hypothetical situations; using correct conditional tense",
+    "when_to_use": "When expressing different temporal aspects of conditional scenarios",
+    "pattern": "[Sujet] + conditionnel présent + [infinitif] vs [Sujet] + conditionnel passé + [participe passé]",
+    "key_variations": [
+      "Je le ferais. (I would do it) → Je l'aurais fait. (I would have done it)",
+      "Il t'aiderait. (He would help you) → Il t'aurait aidé. (He would have helped you)",
+      "Nous viendrions. (We would come) → Nous serions venus. (We would have come)"
+    ],
+    "essential_vocabulary_slots": "faire, avoir, aider, venir, être, conditionnel présent, conditionnel passé, auxiliaire",
+    "common_learner_mistakes": [
+      "Confusing conditional present and past forms",
+      "Using wrong auxiliary (être vs avoir) in conditional passé"
+    ],
+    "chunk_compatibility": "Conditional tenses: *ferais vs aurais fait*, *aiderait vs aurait aidé*",
+    "primary_function": "Distinguishing temporal reference in conditional scenarios",
+    "key_forms": "Je le ferais / Je l'aurais fait. Il t'aiderait / Il t'aurait aidé. Nous viendrions / Nous serions venus.",
+    "essential_vocabulary": "faire, avoir, aider, venir, être, conditionnel présent, conditionnel passé, auxiliaire, temporal",
+    "why_it_matters": "Essential for precise temporal reference in hypothetical situations",
+    "common_mistakes": "Confusing present and past conditional forms; wrong auxiliary choice",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional in if-clauses summary",
+    "core_meaning": "Mastering the three types of si clauses with conditional",
+    "primary_communicative_fn": "Understanding and using all three conditional types for different temporal and reality contexts",
+    "when_to_use": "When expressing different types of hypothetical situations; in complex conditional constructions",
+    "pattern": "Si présent → futur/modifié | Si imparfait → conditionnel | Si plus-que-parfait → conditionnel passé",
+    "key_variations": [
+      "Type 1: Si tu viens, je serai content. (real future possibility)",
+      "Type 2: Si tu venais, je serais content. (imaginary present)",
+      "Type 3: Si tu étais venu, j'aurais été content. (unfulfilled past)"
+    ],
+    "essential_vocabulary_slots": "si, venir, être, content, présent, imparfait, plus-que-parfait, futur, conditionnel, conditionnel passé",
+    "common_learner_mistakes": [
+      "Mixing up the three types",
+      "Using si clause with conditionnel instead of imparfait: *« Si je serais... »",
+      "Using future in si-clause: *« Si je viendrai... »"
+    ],
+    "chunk_compatibility": "Conditional types: Type 1, Type 2, Type 3 with appropriate tense combinations",
+    "primary_function": "Mastering all three conditional structures and their appropriate uses",
+    "key_forms": "Type 1: Si tu viens, je serai content. Type 2: Si tu venais, je serais content. Type 3: Si tu étais venu, j'aurais été content.",
+    "essential_vocabulary": "si, venir, être, content, présent, imparfait, plus-que-parfait, futur, conditionnel, type",
+    "why_it_matters": "Comprehensive summary of conditional structures; essential for mastering hypothetical language",
+    "common_mistakes": "Mixing tense types; using conditional in si clause; using future in si clause",
+    "level": "B2"
+  }
+]

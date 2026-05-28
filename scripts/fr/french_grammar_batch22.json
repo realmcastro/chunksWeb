@@ -1,0 +1,285 @@
+[
+  {
+    "structure_label": "Quantité + de + nom au pluriel",
+    "core_meaning": "Quantity expressions with plural nouns",
+    "primary_communicative_fn": "Expressing amounts and quantities in context",
+    "when_to_use": "When specifying how much or how many of something",
+    "pattern": "beaucoup de / peu de / plusieurs + nom pluriel",
+    "key_variations": ["beaucoup de livres", "peu d'amis", "plusieurs jours"],
+    "essential_vocabulary_slots": "beaucoup, peu, plusieurs, assez, trop, de, livres, amis, jours",
+    "common_learner_mistakes": [
+      "Using de instead of du/des before nouns",
+      "Singular verb with plural quantities"
+    ],
+    "chunk_compatibility": "Compatible with counters and measurements",
+    "primary_function": "Quantifying plural nouns with French quantity markers",
+    "key_forms": "beaucoup de gens, peu de temps, plusieurs personnes",
+    "essential_vocabulary": "beaucoup, peu, plusieurs, assez, trop, de, gens, temps, personnes",
+    "why_it_matters": "Essential for expressing quantities in daily communication and comparisons",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Un nombre de + nom",
+    "core_meaning": "A number of / several",
+    "primary_communicative_fn": "Expressing indefinite quantities with emphasis",
+    "when_to_use": "When you want to emphasize the quantity of something (large or small)",
+    "pattern": "un grand nombre de + nom pluriel",
+    "key_variations": [
+      "Un grand nombre de personnes sont venues",
+      "Un nombre considérable de candidats",
+      "Un petit nombre de problèmes"
+    ],
+    "essential_vocabulary_slots": "grand, nombre, considérable, petit, de, personnes, candidats, problèmes",
+    "common_learner_mistakes": ["Singular verb agreement", "Confusing with le nombre de"],
+    "chunk_compatibility": "Works in formal descriptions and reports",
+    "primary_function": "Quantifying with emphasis on scale",
+    "key_forms": "un grand nombre de, un nombre considérable de, un petit nombre de",
+    "essential_vocabulary": "nombre, grand, considérable, petit, de, personnes, candidats, problèmes",
+    "why_it_matters": "Allows nuanced expression of quantities in formal and descriptive contexts",
+    "level": "B1"
+  },
+  {
+    "structure_label": "La plupart de + nom",
+    "core_meaning": "Most of / the majority of",
+    "primary_communicative_fn": "Expressing majority or most cases",
+    "when_to_use": "When describing what the majority does or has",
+    "pattern": "la plupart des + nom pluriel",
+    "key_variations": [
+      "La plupart des gens",
+      "La plupart du temps",
+      "La plupart des étudiants"
+    ],
+    "essential_vocabulary_slots": "plupart, des, du, gens, temps, étudiants, pensent",
+    "common_learner_mistakes": [
+      "Using singular verb (la plupart est toujours plural)",
+      "Forgetting des before plural nouns"
+    ],
+    "chunk_compatibility": "Natural in statements about general populations or groups",
+    "primary_function": "Expressing majority action or attribute",
+    "key_forms": "la plupart des gens, la plupart du temps, la plupart des étudiants",
+    "essential_vocabulary": "plupart, des, du, gens, temps, étudiants, pensent, sont, ont",
+    "why_it_matters": "Critical for expressing generalizations and common situations",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Expressions de quantité inexactes",
+    "core_meaning": "Inexact quantity expressions",
+    "primary_communicative_fn": "Expressing approximate amounts and degrees",
+    "when_to_use": "In casual speech about quantities, sufficiency, or excess",
+    "pattern": "beaucoup / peu / assez / trop + de + nom",
+    "key_variations": ["beaucoup d'eau", "peu d'argent", "assez de temps", "trop de bruit"],
+    "essential_vocabulary_slots": "beaucoup, peu, assez, trop, de, eau, argent, temps, bruit",
+    "common_learner_mistakes": [
+      "Omitting de before nouns",
+      "Using des instead of de after quantity words"
+    ],
+    "chunk_compatibility": "Essential for everyday conversations about quantities",
+    "primary_function": "Expressing imprecise amounts",
+    "key_forms": "beaucoup de, peu de, assez de, trop de",
+    "essential_vocabulary": "beaucoup, peu, assez, trop, de, eau, argent, temps, bruit",
+    "why_it_matters": "Most frequent quantity expressions in French communication",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Numéraux cardinaux - milliers",
+    "core_meaning": "Cardinal numbers - thousands and millions",
+    "primary_communicative_fn": "Expressing large quantities and amounts",
+    "when_to_use": "When discussing population, money, or large figures",
+    "pattern": "deux mille / un million / deux millions + de + nom",
+    "key_variations": ["deux mille personnes", "un million d'habitants", "trois millions d'euros"],
+    "essential_vocabulary_slots": "mille, million, millions, de, personnes, habitants, euros",
+    "common_learner_mistakes": ["Adding s to mille (invariable)", "Forgetting de before nouns"],
+    "chunk_compatibility": "Natural in statistics and numerical contexts",
+    "primary_function": "Expressing large numerical quantities",
+    "key_forms": "deux mille, un million, deux millions, mille euros",
+    "essential_vocabulary": "mille, million, millions, de, personnes, habitants, euros, deux, trois",
+    "why_it_matters": "Essential for discussing large numbers and statistics",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Fraction avec denominateur",
+    "core_meaning": "Fractions and division",
+    "primary_communicative_fn": "Expressing parts of a whole",
+    "when_to_use": "When dividing quantities into fractions",
+    "pattern": "un demi / un tiers / un quart + de + nom",
+    "key_variations": ["un demi de litre", "un tiers des revenus", "un quart de la population"],
+    "essential_vocabulary_slots": "demi, tiers, quart, cinquième, de, litre, revenus, population",
+    "common_learner_mistakes": ["Confusing numerator/denominator", "Singular agreement errors"],
+    "chunk_compatibility": "Used in measurements and proportional descriptions",
+    "primary_function": "Expressing fractional parts",
+    "key_forms": "un demi de, un tiers de, un quart de",
+    "essential_vocabulary": "demi, tiers, quart, cinquième, de, litre, revenus, population, moitié",
+    "why_it_matters": "Essential for cooking, measurements, and proportions",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pourcentage et taux",
+    "core_meaning": "Percentages and rates",
+    "primary_communicative_fn": "Expressing proportions as percentages",
+    "when_to_use": "In statistics, surveys, and financial discussions",
+    "pattern": "X pour cent + de + nom",
+    "key_variations": [
+      "dix pour cent de la population",
+      "cinquante pour cent des votes",
+      "vingt pour cent du territoire"
+    ],
+    "essential_vocabulary_slots": "pour, cent, de, la, population, votes, territoire, pourcentage",
+    "common_learner_mistakes": [
+      "Disagreement between percentage and verb",
+      "Confusing avec/pourcent"
+    ],
+    "chunk_compatibility": "Natural in data reporting and analytical contexts",
+    "primary_function": "Expressing percentages",
+    "key_forms": "dix pour cent, vingt-cinq pour cent, cent pour cent",
+    "essential_vocabulary": "pour, cent, de, pour cent, pourcentage, population, votes, territoire",
+    "why_it_matters": "Essential for discussing statistics and proportions",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Numéraux ordinaux",
+    "core_meaning": "Ordinal numbers (first, second, third...)",
+    "primary_communicative_fn": "Indicating position in a sequence",
+    "when_to_use": "When ranking items, dates, or describing position",
+    "pattern": "premier / deuxième / troisième + nom",
+    "key_variations": ["le premier jour", "la troisième fois", "le vingtième siècle"],
+    "essential_vocabulary_slots": "premier, deuxième, troisième, quatrième, cinquième, jour, fois, siècle",
+    "common_learner_mistakes": [
+      "Using cardinal instead of ordinal for dates",
+      "Gender agreement errors"
+    ],
+    "chunk_compatibility": "Essential for sequences and rankings",
+    "primary_function": "Expressing ordinal positions",
+    "key_forms": "le premier, la deuxième, le troisième",
+    "essential_vocabulary": "premier, deuxième, troisième, quatrième, cinquième, jour, fois, siècle",
+    "why_it_matters": "Critical for expressing dates, rankings, and sequences",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Collect quantities with plural nouns",
+    "core_meaning": "Quantité + de + nouns without articles",
+    "primary_communicative_fn": "Expressing quantities without standard articles",
+    "when_to_use": "With quantity expressions that replace standard articles",
+    "pattern": "beaucoup de / combien de / assez de + nom sans article",
+    "key_variations": ["beaucoup de gens", "combien de temps", "assez d'argent"],
+    "essential_vocabulary_slots": "beaucoup, combien, assez, de, gens, temps, argent",
+    "common_learner_mistakes": [
+      "Adding articles after quantity words",
+      "Confusing with partitive articles"
+    ],
+    "chunk_compatibility": "Foundation for quantity expressions",
+    "primary_function": "Using quantity markers without articles",
+    "key_forms": "beaucoup de gens, combien de temps, assez d'argent",
+    "essential_vocabulary": "beaucoup, combien, assez, de, gens, temps, argent, personnes",
+    "why_it_matters": "Core pattern for all French quantity expressions",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Multiplication expressions",
+    "core_meaning": "Multiplying quantities",
+    "primary_communicative_fn": "Expressing multiples of quantities",
+    "when_to_use": "When comparing quantities as multiples",
+    "pattern": "le double / le triple / le quadruple + de + nom",
+    "key_variations": ["le double de la quantité", "le triple des profits", "le quadruple du prix"],
+    "essential_vocabulary_slots": "double, triple, quadruple, de, quantité, profits, prix",
+    "common_learner_mistakes": [
+      "Using plural forms (doubles)",
+      "Confusing with division expressions"
+    ],
+    "chunk_compatibility": "Used in mathematical and comparative contexts",
+    "primary_function": "Expressing multiplicative relationships",
+    "key_forms": "le double de, le triple de, le quadruple de",
+    "essential_vocabulary": "double, triple, quadruple, de, quantité, profits, prix, fois",
+    "why_it_matters": "Essential for mathematical and comparative descriptions",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Division et moitié",
+    "core_meaning": "Division and half expressions",
+    "primary_communicative_fn": "Expressing fractional parts with division terms",
+    "when_to_use": "When dividing something into parts",
+    "pattern": "la moitié / le tiers / le quart + de + nom",
+    "key_variations": ["la moitié du groupe", "le tiers de la somme", "le quart de la population"],
+    "essential_vocabulary_slots": "moitié, tiers, quart, cinquième, de, groupe, somme, population",
+    "common_learner_mistakes": ["Using article le instead of de", "Agreement errors"],
+    "chunk_compatibility": "Used in partitive and comparative contexts",
+    "primary_function": "Expressing fractional divisions",
+    "key_forms": "la moitié de, le tiers de, le quart de",
+    "essential_vocabulary": "moitié, tiers, quart, cinquième, de, groupe, somme, population",
+    "why_it_matters": "Essential for discussing portions and divisions",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Expressions approximatives",
+    "core_meaning": "Approximate quantity expressions",
+    "primary_communicative_fn": "Expressing approximate quantities",
+    "when_to_use": "When you don't know or want to estimate an exact quantity",
+    "pattern": "environ / à peu près / environ + nombre + nom",
+    "key_variations": [
+      "environ vingt personnes",
+      "à peu près cent euros",
+      "environ trois kilomètres"
+    ],
+    "essential_vocabulary_slots": "environ, à peu près, plus ou moins, nombre, personnes, euros, kilomètres",
+    "common_learner_mistakes": ["Adding de after approximately expressions", "Position of adverbs"],
+    "chunk_compatibility": "Natural in estimates and approximations",
+    "primary_function": "Expressing approximate quantities",
+    "key_forms": "environ vingt, à peu près cent, plus ou moins",
+    "essential_vocabulary": "environ, à peu près, plus ou moins, nombre, personnes, euros, kilomètres",
+    "why_it_matters": "Essential for everyday approximations and estimates",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Excess and deficit quantities",
+    "core_meaning": "Too much/too many, enough",
+    "primary_communicative_fn": "Expressing sufficiency or excess",
+    "when_to_use": "When evaluating whether amounts are adequate or excessive",
+    "pattern": "trop de / pas assez de / suffisamment de + nom",
+    "key_variations": ["trop de bruit", "pas assez de temps", "suffisamment d'argent"],
+    "essential_vocabulary_slots": "trop, assez, suffisamment, de, bruit, temps, argent, pas",
+    "common_learner_mistakes": [
+      "Confusing trop (adverb) with trop de (quantity)",
+      "Using bien instead of assez"
+    ],
+    "chunk_compatibility": "Common in complaints and evaluations",
+    "primary_function": "Evaluating quantity adequacy",
+    "key_forms": "trop de bruit, pas assez de temps, suffisamment d'argent",
+    "essential_vocabulary": "trop, assez, suffisamment, de, bruit, temps, argent, pas assez",
+    "why_it_matters": "Essential for expressing needs and dissatisfaction",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Zero and none quantities",
+    "core_meaning": "Expressing zero or null quantities",
+    "primary_communicative_fn": "Expressing absence or negation of quantity",
+    "when_to_use": "When stating nothing or none of something",
+    "pattern": "zéro / aucun / nul + de + nom",
+    "key_variations": ["zéro chance", "aucun doute", "sans aucun doute"],
+    "essential_vocabulary_slots": "zéro, aucun, aucune, nul, de, chance, doute, sans",
+    "common_learner_mistakes": ["Double negation errors", "Agreement with aucun/aucune"],
+    "chunk_compatibility": "Natural in emphatic negations",
+    "primary_function": "Expressing null quantities",
+    "key_forms": "zéro chance, aucun doute, sans aucun doute",
+    "essential_vocabulary": "zéro, aucun, aucune, nul, de, chance, doute, sans aucun",
+    "why_it_matters": "Essential for emphatic negation and absolute statements",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Pair and odd numbers",
+    "core_meaning": "Even and odd quantities",
+    "primary_communicative_fn": "Classifying numbers by parity",
+    "when_to_use": "In mathematical contexts or number properties",
+    "pattern": "pair / impair / multiple de + nombre",
+    "key_variations": ["un nombre pair", "des nombres impairs", "multiple de trois"],
+    "essential_vocabulary_slots": "pair, impair, multiple, nombre, trois, cinq, deux, quatre",
+    "common_learner_mistakes": [
+      "Gender agreement (nombre pair, not paire)",
+      "Confusing pair/impair with autres"
+    ],
+    "chunk_compatibility": "Used in mathematical discussions",
+    "primary_function": "Describing number properties",
+    "key_forms": "nombre pair, nombre impair, multiple de",
+    "essential_vocabulary": "pair, impair, multiple, nombre, trois, cinq, deux, quatre, sept",
+    "why_it_matters": "Important for mathematical and logical contexts",
+    "level": "B1"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "selon l'auteur",
+    "meaning": "according to the author",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "Selon l'auteur, cette théorie est fausse",
+      "Selon cet auteur, le changement est nécessaire"
+    ],
+    "collocates": [
+      "citation",
+      "référence",
+      "opinion",
+      "affirmation"
+    ],
+    "level": "B1",
+    "example_1": "Selon l'auteur, cette théorie est fausse",
+    "example_2": "Selon cet auteur, le changement est nécessaire",
+    "example_3": "Je connais selon l'auteur.",
+    "example_1_translation": "According to the author, this theory is false",
+    "example_2_translation": "According to this author, change is necessary",
+    "example_3_translation": "I know according to the author."
+  },
+  {
+    "chunk_text": "citer une source",
+    "meaning": "to cite a source",
+    "primary_function": "expression",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "Vous devez citer vos sources",
+      "Il faut citer une source fiable"
+    ],
+    "collocates": [
+      "référence",
+      "bibliographie",
+      "auteur",
+      "publication"
+    ],
+    "level": "B1",
+    "example_1": "Vous devez citer vos sources",
+    "example_2": "Il faut citer une source fiable",
+    "example_3": "Je connais citer une source.",
+    "example_1_translation": "You must cite your sources",
+    "example_2_translation": "A reliable source must be cited.",
+    "example_3_translation": "I know how to cite a source."
+  },
+  {
+    "chunk_text": "à défaut de",
+    "meaning": "for lack of",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "formal writing",
+    "patterns": [
+      "À défaut de preuve, nous admettons",
+      "À défaut d'informations précises"
+    ],
+    "collocates": [
+      "manque",
+      "absence",
+      "alternative",
+      "substitut"
+    ],
+    "level": "B2",
+    "example_1": "À défaut de preuve, nous admettons",
+    "example_2": "À défaut d'informations précises",
+    "example_3": "On utilise à défaut de dans la vie quotidienne.",
+    "example_1_translation": "In the absence of proof, we admit",
+    "example_2_translation": "In the absence of precise information",
+    "example_3_translation": "We use it in the absence of in daily life."
+  },
+  {
+    "chunk_text": "étayé par des preuves",
+    "meaning": "supported by evidence",
+    "primary_function": "expression",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Cet argument est étayé par des preuves",
+      "La théorie est étayée par des preuves solides"
+    ],
+    "collocates": [
+      "argument",
+      "évidence",
+      "justification",
+      "démonstration"
+    ],
+    "level": "B2",
+    "example_1": "Cet argument est étayé par des preuves",
+    "example_2": "La théorie est étayée par des preuves solides",
+    "example_3": "On utilise étayé par des preuves dans la vie quotidienne.",
+    "example_1_translation": "This argument is supported by evidence",
+    "example_2_translation": "The theory is supported by solid evidence",
+    "example_3_translation": "It is used supported by evidence in daily life."
+  },
+  {
+    "chunk_text": "faire référence à",
+    "meaning": "to refer to",
+    "primary_function": "expression",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "Je fais référence à l'étude de Smith",
+      "Nous faisons référence aux travaux antérieurs"
+    ],
+    "collocates": [
+      "citation",
+      "source",
+      "auteur",
+      "mention"
+    ],
+    "level": "B1",
+    "example_1": "Je fais référence à l'étude de Smith",
+    "example_2": "Nous faisons référence aux travaux antérieurs",
+    "example_3": "Je connais faire référence à.",
+    "example_1_translation": "I am referring to Smith's study",
+    "example_2_translation": "We refer to previous works",
+    "example_3_translation": "I know refer to."
+  },
+  {
+    "chunk_text": "dans la mesure où",
+    "meaning": "insofar as",
+    "primary_function": "conjunction",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Dans la mesure où les résultats sont valides",
+      "Nous acceptons cette hypothèse dans la mesure où..."
+    ],
+    "collocates": [
+      "condition",
+      "limite",
+      "contexte",
+      "prémise"
+    ],
+    "level": "B2",
+    "example_1": "Dans la mesure où les résultats sont valides",
+    "example_2": "Nous acceptons cette hypothèse dans la mesure où...",
+    "example_3": "On utilise dans la mesure où dans la vie quotidienne.",
+    "example_1_translation": "To the extent that the results are valid",
+    "example_2_translation": "We accept this hypothesis to the extent that...",
+    "example_3_translation": "It is used as far as in daily life."
+  },
+  {
+    "chunk_text": "comme le souligne",
+    "meaning": "as emphasized by",
+    "primary_function": "expression",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "Comme le souligne cet auteur",
+      "Comme le souligne Smith (2020)"
+    ],
+    "collocates": [
+      "citation",
+      "auteur",
+      "opinion",
+      "affirmation"
+    ],
+    "level": "B2",
+    "example_1": "Comme le souligne cet auteur",
+    "example_2": "Comme le souligne Smith (2020)",
+    "example_3": "On utilise comme le souligne dans la vie quotidienne.",
+    "example_1_translation": "As this author points out",
+    "example_2_translation": "As Smith (2020) points out",
+    "example_3_translation": "We use as underlined in daily life."
+  },
+  {
+    "chunk_text": "renvoyer à",
+    "meaning": "to refer to",
+    "primary_function": "expression",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "Je renvoie à l'article précédent",
+      "Cette question renvoie à un débat plus large"
+    ],
+    "collocates": [
+      "référence",
+      "lien",
+      "relation",
+      "documentation"
+    ],
+    "level": "B2",
+    "example_1": "Je renvoie à l'article précédent",
+    "example_2": "Cette question renvoie à un débat plus large",
+    "example_3": "On utilise renvoyer à dans la vie quotidienne.",
+    "example_1_translation": "I refer to the previous article",
+    "example_2_translation": "This question refers to a broader debate",
+    "example_3_translation": "We use to refer to in everyday life."
+  },
+  {
+    "chunk_text": "se référer à",
+    "meaning": "to refer to",
+    "primary_function": "expression",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Il faut se référer aux sources primaires",
+      "Nous nous référons à cette étude"
+    ],
+    "collocates": [
+      "consultation",
+      "documentation",
+      "source",
+      "auteur"
+    ],
+    "level": "B1",
+    "example_1": "Il faut se référer aux sources primaires",
+    "example_2": "Nous nous référons à cette étude",
+    "example_3": "Je connais se référer à.",
+    "example_1_translation": "Primary sources must be referred to",
+    "example_2_translation": "We refer to this study",
+    "example_3_translation": "I know refer to."
+  },
+  {
+    "chunk_text": "il convient de noter",
+    "meaning": "it should be noted",
+    "primary_function": "expression",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Il convient de noter que les résultats varient",
+      "Comme il convient de noter"
+    ],
+    "collocates": [
+      "attention",
+      "remarque",
+      "observation",
+      "précision"
+    ],
+    "level": "B2",
+    "example_1": "Il convient de noter que les résultats varient",
+    "example_2": "Comme il convient de noter",
+    "example_3": "On utilise il convient de noter dans la vie quotidienne.",
+    "example_1_translation": "It should be noted that results vary",
+    "example_2_translation": "As it should be noted",
+    "example_3_translation": "It should be noted that it is used in daily life."
+  },
+  {
+    "chunk_text": "au même titre que",
+    "meaning": "in the same way as",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Au même titre que la théorie X",
+      "Ces résultats sont importants au même titre que..."
+    ],
+    "collocates": [
+      "parallèle",
+      "comparaison",
+      "équivalence",
+      "égale importance"
+    ],
+    "level": "B2",
+    "example_1": "Au même titre que la théorie X",
+    "example_2": "Ces résultats sont importants au même titre que...",
+    "example_3": "On utilise au même titre que dans la vie quotidienne.",
+    "example_1_translation": "Just like Theory X",
+    "example_2_translation": "These results are important in the same way as...",
+    "example_3_translation": "We use it in the same way as in daily life."
+  },
+  {
+    "chunk_text": "donner lieu à",
+    "meaning": "to give rise to",
+    "primary_function": "expression",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Cette découverte a donné lieu à un débat",
+      "L'étude a donné lieu à une publication"
+    ],
+    "collocates": [
+      "occasionner",
+      "provoquer",
+      "résultat",
+      "conséquence"
+    ],
+    "level": "B2",
+    "example_1": "Cette découverte a donné lieu à un débat",
+    "example_2": "L'étude a donné lieu à une publication",
+    "example_3": "On utilise donner lieu à dans la vie quotidienne.",
+    "example_1_translation": "This discovery gave rise to a debate",
+    "example_2_translation": "The study resulted in a publication",
+    "example_3_translation": "We use give rise to in everyday life."
+  },
+  {
+    "chunk_text": "à l'appui de",
+    "meaning": "in support of",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "À l'appui de cette thèse",
+      "Des arguments à l'appui"
+    ],
+    "collocates": [
+      "preuve",
+      "évidence",
+      "justification",
+      "soutien"
+    ],
+    "level": "B2",
+    "example_1": "À l'appui de cette thèse",
+    "example_2": "Des arguments à l'appui",
+    "example_3": "On utilise à l'appui de dans la vie quotidienne.",
+    "example_1_translation": "In support of this thesis",
+    "example_2_translation": "Supporting arguments",
+    "example_3_translation": "It is used to support in daily life."
+  },
+  {
+    "chunk_text": "indiquer la référence",
+    "meaning": "to indicate the reference",
+    "primary_function": "expression",
+    "communicative_purpose": "citations",
+    "patterns": [
+      "Veuillez indiquer la référence",
+      "Indiquez la référence bibliographique"
+    ],
+    "collocates": [
+      "source",
+      "auteur",
+      "publication",
+      "note"
+    ],
+    "level": "B1",
+    "example_1": "Veuillez indiquer la référence",
+    "example_2": "Indiquez la référence bibliographique",
+    "example_3": "Je connais indiquer la référence.",
+    "example_1_translation": "Please indicate the reference",
+    "example_2_translation": "Indicate the bibliographic reference",
+    "example_3_translation": "I know how to indicate the reference."
+  },
+  {
+    "chunk_text": "se fondant sur",
+    "meaning": "based on",
+    "primary_function": "expression",
+    "communicative_purpose": "academic writing",
+    "patterns": [
+      "Se fondant sur ces observations",
+      "Nous nous fondons sur les travaux de Smith"
+    ],
+    "collocates": [
+      "base",
+      "根拠",
+      "justification",
+      "analyse"
+    ],
+    "level": "B2",
+    "example_1": "Se fondant sur ces observations",
+    "example_2": "Nous nous fondons sur les travaux de Smith",
+    "example_3": "On utilise se fondant sur dans la vie quotidienne.",
+    "example_1_translation": "Based on these observations",
+    "example_2_translation": "We build on the work of Smith",
+    "example_3_translation": "It is used based on in daily life."
+  }
+]

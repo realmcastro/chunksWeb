@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "je voudrais acheter",
+    "meaning": "I would like to buy",
+    "primary_function": "Shopping expression",
+    "communicative_purpose": "Polite way to express intent to purchase something",
+    "trigger_situations": "Entering a shop, approaching a salesperson, beginning a purchase",
+    "contexts": "Clothing stores, electronics shops, any retail environment",
+    "variations": "je voudrais acheter, j'aimerais acheter, je veux acheter (informal)",
+    "common_mistakes": "Using 'acheter' without 'voudrais' makes it too direct; forgetting the infinitive form",
+    "level": "B1",
+    "patterns": [
+      "je + voudrais + acheter + [product]"
+    ],
+    "collocates": "je voudrais acheter une robe, je voudrais acheter ceci, je voudrais acheter deux",
+    "example_1": "je + voudrais + acheter + [product]",
+    "example_2": "'je voudrais acheter' est une expression utile.",
+    "example_3": "Je connais je voudrais acheter.",
+    "example_1_translation": "I + would like + to buy + [product]",
+    "example_2_translation": "'I would like to buy' is a useful expression.",
+    "example_3_translation": "I know I would like to buy."
+  },
+  {
+    "chunk_text": "c'est combien",
+    "meaning": "how much is it",
+    "primary_function": "Price inquiry",
+    "communicative_purpose": "Asking the price of an item when shopping",
+    "trigger_situations": "Seeing something interesting, comparing prices, before purchasing",
+    "contexts": "Markets, shops, boutiques, any commercial transaction",
+    "variations": "c'est combien, ça coûte combien, c'est à combien",
+    "common_mistakes": "Forgetting 'c'est' and saying 'est combien' (incorrect); confusing with 'combien de temps'",
+    "level": "B1",
+    "patterns": [
+      "c'est + combien"
+    ],
+    "collocates": "c'est combien, c'est combien ça, c'est combien le kilo",
+    "example_1": "c'est + combien",
+    "example_2": "'c'est combien' est une expression utile.",
+    "example_3": "Je connais c'est combien.",
+    "example_1_translation": "it's + how much",
+    "example_2_translation": "'how much is it' is a useful expression.",
+    "example_3_translation": "I know how much it is."
+  },
+  {
+    "chunk_text": "vous avez la taille",
+    "meaning": "do you have the size",
+    "primary_function": "Size inquiry",
+    "communicative_purpose": "Asking if a specific clothing size is available",
+    "trigger_situations": "Trying clothes, finding your size unavailable, checking stock",
+    "contexts": "Clothing stores, shoe shops, any apparel retailer",
+    "variations": "vous avez cette taille, est-ce que vous avez la taille, vous l'avez en taille",
+    "common_mistakes": "Forgetting the article 'la'; using masculine 'le' instead of 'la' for clothing",
+    "level": "B1",
+    "patterns": [
+      "vous + avez + la + taille + [size]"
+    ],
+    "collocates": "vous avez la taille moyenne, vous avez cette taille, vous avez la taille quarante",
+    "example_1": "vous + avez + la + taille + [size]",
+    "example_2": "'vous avez la taille' est une expression utile.",
+    "example_3": "Je connais vous avez la taille.",
+    "example_1_translation": "you + have + the + size + [size]",
+    "example_2_translation": "'you have the size' is a useful expression.",
+    "example_3_translation": "I know you have the size."
+  },
+  {
+    "chunk_text": "une robe noire",
+    "meaning": "a black dress",
+    "primary_function": "Color and item description",
+    "communicative_purpose": "Specifying color and product when shopping or describing clothing",
+    "trigger_situations": "Pointing at items, making requests, describing what you want",
+    "contexts": "Clothing stores, boutiques, when describing outfits",
+    "variations": "la robe noire, un pulls noir, une jupe noire",
+    "common_mistakes": "Putting adjective before noun (most French adjectives come after); color agreement with gender",
+    "level": "B1",
+    "patterns": [
+      "une/[article] + [item] + [color]"
+    ],
+    "collocates": "une robe noire, un pantalon bleu, une chemise blanche, des chaussures rouges",
+    "example_1": "une/[article] + [item] + [color]",
+    "example_2": "'une robe noire' est une expression utile.",
+    "example_3": "Je connais une robe noire.",
+    "example_1_translation": "a/[item] + [item] + [color]",
+    "example_2_translation": "'a black dress' is a useful expression.",
+    "example_3_translation": "I know a black dress."
+  },
+  {
+    "chunk_text": "je fais medium",
+    "meaning": "I wear medium",
+    "primary_function": "Size specification",
+    "communicative_purpose": "Stating your clothing size when shopping",
+    "trigger_situations": "When asked for size, trying clothes on, shopping for yourself",
+    "contexts": "Clothing stores, when shopping for clothes, online shopping",
+    "variations": "je fais medium, je suis taille moyenne, je prends du M",
+    "common_mistakes": "Using English size names without context; confusing French sizing system",
+    "level": "B1",
+    "patterns": [
+      "je + fais + [size]"
+    ],
+    "collocates": "je fais medium, je fais du quarante, je fais une taille moyenne",
+    "example_1": "je + fais + [size]",
+    "example_2": "'je fais medium' est une expression utile.",
+    "example_3": "Je connais je fais medium.",
+    "example_1_translation": "I + do + [size]",
+    "example_2_translation": "'I do medium' is a useful expression.",
+    "example_3_translation": "I know I'm medium."
+  },
+  {
+    "chunk_text": "accepté-vous les cartes",
+    "meaning": "do you accept cards",
+    "primary_function": "Payment method inquiry",
+    "communicative_purpose": "Asking if card payment is available",
+    "trigger_situations": "At checkout, when you have no cash, before paying",
+    "contexts": "Shops, restaurants, any retail or service establishment",
+    "variations": "acceptez-vous les cartes, vous prenez les cartes, peut-on payer par carte",
+    "common_mistakes": "Forgetting the 's' on 'acceptez' (formal); using 'cartes' without article in singular",
+    "level": "B1",
+    "patterns": [
+      "acceptez-vous + les + cartes"
+    ],
+    "collocates": "acceptez-vous les cartes, les cartes de crédit, vous prenez la carte",
+    "example_1": "acceptez-vous + les + cartes",
+    "example_2": "'accepté-vous les cartes' est une expression utile.",
+    "example_3": "Je connais accepté-vous les cartes.",
+    "example_1_translation": "acceptez-vous + les + cartes",
+    "example_2_translation": "'you accepted the cards' is a useful phrase.",
+    "example_3_translation": "I know you accepted the cards."
+  },
+  {
+    "chunk_text": "je peux payer",
+    "meaning": "can I pay",
+    "primary_function": "Payment initiation",
+    "communicative_purpose": "Asking permission to pay or announcing intention to pay",
+    "trigger_situations": "At checkout, ready to pay, finishing shopping",
+    "contexts": "Shops, markets, restaurants, any transaction",
+    "variations": "je peux payer, puis-je payer, je voudrais payer",
+    "common_mistakes": "Using 'je peux' as a question without rising intonation or inversion; confusing with 'je veux payer'",
+    "level": "B1",
+    "patterns": [
+      "je + peux + payer"
+    ],
+    "collocates": "je peux payer, je peux payer par carte, je peux payer en espèces",
+    "example_1": "je + peux + payer",
+    "example_2": "'je peux payer' est une expression utile.",
+    "example_3": "Je connais je peux payer.",
+    "example_1_translation": "je + peux + payer",
+    "example_2_translation": "'I can pay' is a useful expression.",
+    "example_3_translation": "I know I can pay."
+  },
+  {
+    "chunk_text": "c'est trop cher",
+    "meaning": "it's too expensive",
+    "primary_function": "Price complaint",
+    "communicative_purpose": "Expressing that an item costs more than you're willing to pay",
+    "trigger_situations": "When price is too high, negotiating, deciding not to buy",
+    "contexts": "Markets, shops, bargaining situations, everyday shopping",
+    "variations": "c'est trop cher, c'est trop coûteux, c'est hors de prix",
+    "common_mistakes": "Saying 'c'est trop coûteux' (less common); not qualifying HOW expensive",
+    "level": "B1",
+    "patterns": [
+      "c'est + trop + cher"
+    ],
+    "collocates": "c'est trop cher, c'est un peu cher, c'est vraiment cher",
+    "example_1": "c'est + trop + cher",
+    "example_2": "'c'est trop cher' est une expression utile.",
+    "example_3": "Je connais c'est trop cher.",
+    "example_1_translation": "it's + too + expensive",
+    "example_2_translation": "'it's too expensive' is a useful expression.",
+    "example_3_translation": "I know it's too expensive."
+  },
+  {
+    "chunk_text": "vous avez ceci en bleu",
+    "meaning": "do you have this in blue",
+    "primary_function": "Color request",
+    "communicative_purpose": "Asking if an item is available in a different color",
+    "trigger_situations": "Liking an item but wanting a different color, checking stock",
+    "contexts": "Clothing stores, shoe shops, home goods stores",
+    "variations": "vous avez ceci en bleu, est-ce que vous l'avez en blanc, vous avez ce modèle en noir",
+    "common_mistakes": "Forgetting 'en' before color; using wrong preposition with colors",
+    "level": "B1",
+    "patterns": [
+      "vous + avez + [item] + en + [color]"
+    ],
+    "collocates": "vous avez ceci en bleu, vous avez cette robe en rouge, vous l'avez en vert",
+    "example_1": "vous + avez + [item] + en + [color]",
+    "example_2": "'vous avez ceci en bleu' est une expression utile.",
+    "example_3": "Je connais vous avez ceci en bleu.",
+    "example_1_translation": "you + have + [item] + in + [color]",
+    "example_2_translation": "'you have this in blue' is a useful phrase.",
+    "example_3_translation": "I know you have this in blue."
+  },
+  {
+    "chunk_text": "je cherche quelque chose",
+    "meaning": "I'm looking for something",
+    "primary_function": "Shopping assistance request",
+    "communicative_purpose": "Indicating you need help finding something without being specific",
+    "trigger_situations": "Entering a store, needing help, browsing for gifts",
+    "contexts": "Any retail store, shopping centers, markets",
+    "variations": "je cherche quelque chose, je cherche quelque chose de special, je cherche",
+    "common_mistakes": "Adding unnecessary articles after 'quelque chose'; confusing with 'je voudrais quelque chose'",
+    "level": "B1",
+    "patterns": [
+      "je + cherche + quelque + chose"
+    ],
+    "collocates": "je cherche quelque chose, je cherche un cadeau, je cherche quelque chose pour ma mère",
+    "example_1": "je + cherche + quelque + chose",
+    "example_2": "'je cherche quelque chose' est une expression utile.",
+    "example_3": "Je connais je cherche quelque chose.",
+    "example_1_translation": "je + cherche + quelque + chose",
+    "example_2_translation": "'I'm looking for something' is a useful expression.",
+    "example_3_translation": "I know I'm looking for something."
+  },
+  {
+    "chunk_text": "la taille moyenne",
+    "meaning": "medium size",
+    "primary_function": "Size specification",
+    "communicative_purpose": "Referring to the middle size category when shopping",
+    "trigger_situations": "When medium size is needed, checking availability, trying clothes",
+    "contexts": "Clothing stores, when describing sizes, online shopping filters",
+    "variations": "la taille moyenne, moyen, du moyen, une taille intermédiaire",
+    "common_mistakes": "Confusing masculine/feminine forms (moyen vs moyenne); mixing up size terminology",
+    "level": "B1",
+    "patterns": [
+      "la + taille + moyenne"
+    ],
+    "collocates": "la taille moyenne, taille petite, taille grande, vous avez la taille moyenne",
+    "example_1": "la + taille + moyenne",
+    "example_2": "'la taille moyenne' est une expression utile.",
+    "example_3": "Je connais la taille moyenne.",
+    "example_1_translation": "la + taille + moyenne",
+    "example_2_translation": "'average size' is a useful phrase.",
+    "example_3_translation": "I know the average size."
+  },
+  {
+    "chunk_text": "c'est en solde",
+    "meaning": "it's on sale",
+    "primary_function": "Sale announcement/ inquiry",
+    "communicative_purpose": "Indicating an item is discounted or asking if something is on sale",
+    "trigger_situations": "Seeing sale signs, asking about prices, shopping during sales periods",
+    "contexts": "Department stores, boutiques, end of season sales",
+    "variations": "c'est en solde, c'est réductions, il y a une promo, c'est discounté",
+    "common_mistakes": "Confusing 'solde' (sale) with 'soldes' (plural, more common); using English 'sale'",
+    "level": "B1",
+    "patterns": [
+      "c'est + en + solde"
+    ],
+    "collocates": "c'est en solde, c'est pas en solde, il y a des soldes",
+    "example_1": "c'est + en + solde",
+    "example_2": "'c'est en solde' est une expression utile.",
+    "example_3": "Je connais c'est en solde.",
+    "example_1_translation": "it's + on + sale",
+    "example_2_translation": "'It's on sale' is a useful phrase.",
+    "example_3_translation": "I know it's on sale."
+  },
+  {
+    "chunk_text": "je voudrais essayer",
+    "meaning": "I would like to try on",
+    "primary_function": "Fitting request",
+    "communicative_purpose": "Asking to try on clothes before buying",
+    "trigger_situations": "Finding clothes you like, checking fit, before purchasing",
+    "contexts": "Clothing stores, shoe shops, fitting rooms",
+    "variations": "je voudrais essayer, j'aimerais essayer, je peux essayer",
+    "common_mistakes": "Forgetting that 'essayer' requires 'de' before another verb (essayer de faire); confusing with English structure",
+    "level": "B1",
+    "patterns": [
+      "je + voudrais + essayer + [item]"
+    ],
+    "collocates": "je voudrais essayer, je voudrais essayer cette robe, où sont les essayages",
+    "example_1": "je + voudrais + essayer + [item]",
+    "example_2": "'je voudrais essayer' est une expression utile.",
+    "example_3": "Je connais je voudrais essayer.",
+    "example_1_translation": "I + would + like + to try + [item]",
+    "example_2_translation": "'I would like to try' is a useful expression.",
+    "example_3_translation": "I know I would like to try."
+  },
+  {
+    "chunk_text": "combien ça coûte",
+    "meaning": "how much does that cost",
+    "primary_function": "Price inquiry",
+    "communicative_purpose": "Direct question about the cost of an item",
+    "trigger_situations": "Before buying, comparing prices, discussing costs",
+    "contexts": "Shops, markets, restaurants, any commercial context",
+    "variations": "combien ça coûte, c'est quoi le prix, quel est le prix",
+    "common_mistakes": "Forgetting that 'coûte' must agree with plural subjects; confusing with 'c'est combien'",
+    "level": "B1",
+    "patterns": [
+      "combien + ça + coûte"
+    ],
+    "collocates": "combien ça coûte, combien coûtent ces chaussures, ça coûte combien",
+    "example_1": "combien + ça + coûte",
+    "example_2": "'combien ça coûte' est une expression utile.",
+    "example_3": "Je connais combien ça coûte.",
+    "example_1_translation": "combien + ça + coûte",
+    "example_2_translation": "'how much does it cost' is a useful phrase.",
+    "example_3_translation": "I know how much it costs."
+  },
+  {
+    "chunk_text": "une veste rouge",
+    "meaning": "a red jacket",
+    "primary_function": "Color and item description",
+    "communicative_purpose": "Specifying a clothing item with its color",
+    "trigger_situations": "Shopping for clothes, describing what you want, pointing at items",
+    "contexts": "Clothing stores, boutiques, when describing outfits",
+    "variations": "la veste rouge, un blouson rouge, cette veste-ci rouge",
+    "common_mistakes": "Color agreement errors (rouge vs rougeS for masculine plural); adjective position",
+    "level": "B1",
+    "patterns": [
+      "une/[article] + [item] + [color]"
+    ],
+    "collocates": "une veste rouge, un manteau noir, une jupe bleue, des baskets blanches",
+    "example_1": "une/[article] + [item] + [color]",
+    "example_2": "'une veste rouge' est une expression utile.",
+    "example_3": "Je connais une veste rouge.",
+    "example_1_translation": "a/[item] + [item] + [color]",
+    "example_2_translation": "'a red jacket' is a useful expression.",
+    "example_3_translation": "I know a red jacket."
+  }
+]

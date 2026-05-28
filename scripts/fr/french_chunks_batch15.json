@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "faire escale à",
+    "meaning": "to make a stopover at, to call at",
+    "primary_function": "expression",
+    "communicative_purpose": "describing travel stops",
+    "patterns": [
+      "Notre vol fait escale à Paris",
+      "Le bateau fait escale à Marseille"
+    ],
+    "collocates": [
+      "vol",
+      "bateau",
+      "port",
+      "aéroport"
+    ],
+    "level": "B2",
+    "example_1": "Notre vol fait escale à Paris",
+    "example_2": "Le bateau fait escale à Marseille",
+    "example_3": "On utilise faire escale à dans la vie quotidienne.",
+    "example_1_translation": "Our flight stops in Paris",
+    "example_2_translation": "The boat stops in Marseille",
+    "example_3_translation": "We use stopover in everyday life."
+  },
+  {
+    "chunk_text": "prendre la correspondance",
+    "meaning": "to catch a connecting flight/train",
+    "primary_function": "expression",
+    "communicative_purpose": "connecting travel arrangements",
+    "patterns": [
+      "Il faut prendre la correspondance pour Lyon",
+      "Nous avons manqué notre correspondance"
+    ],
+    "collocates": [
+      "vol",
+      "train",
+      "connexion",
+      "retard"
+    ],
+    "level": "B2",
+    "example_1": "Il faut prendre la correspondance pour Lyon",
+    "example_2": "Nous avons manqué notre correspondance",
+    "example_3": "On utilise prendre la correspondance dans la vie quotidienne.",
+    "example_1_translation": "You have to take the connection to Lyon",
+    "example_2_translation": "We missed our connection",
+    "example_3_translation": "We use taking correspondence in daily life."
+  },
+  {
+    "chunk_text": "être en transit",
+    "meaning": "to be in transit",
+    "primary_function": "expression",
+    "communicative_purpose": "describing temporary travel status",
+    "patterns": [
+      "Je suis en transit vers Buenos Aires",
+      "Les voyageurs en transit doivent attendre"
+    ],
+    "collocates": [
+      "voyageur",
+      "aéroport",
+      "escale",
+      "tempo"
+    ],
+    "level": "B2",
+    "example_1": "Je suis en transit vers Buenos Aires",
+    "example_2": "Les voyageurs en transit doivent attendre",
+    "example_3": "On utilise être en transit dans la vie quotidienne.",
+    "example_1_translation": "I am in transit to Buenos Aires",
+    "example_2_translation": "Passengers in transit must wait",
+    "example_3_translation": "We use being in transit in daily life."
+  },
+  {
+    "chunk_text": "valise épuisée",
+    "meaning": "run-down or exhausted suitcase (idiomatic)",
+    "primary_function": "expression",
+    "communicative_purpose": "expressing travel exhaustion",
+    "patterns": [
+      "Je suis complètement valise épuisée après ce voyage",
+      "Ils étaient valise épuisée en arrivant"
+    ],
+    "collocates": [
+      "voyage",
+      "fatigue",
+      "épuisement",
+      "décalage"
+    ],
+    "level": "C1",
+    "example_1": "Je suis complètement valise épuisée après ce voyage",
+    "example_2": "Ils étaient valise épuisée en arrivant",
+    "example_3": "Je connais valise épuisée.",
+    "example_1_translation": "I'm completely exhausted after this trip.",
+    "example_2_translation": "They were exhausted when they arrived",
+    "example_3_translation": "I know the suitcase is exhausted."
+  },
+  {
+    "chunk_text": "voyager à l'aveugle",
+    "meaning": "to travel blind, without planning",
+    "primary_function": "expression",
+    "communicative_purpose": "spontaneous travel",
+    "patterns": [
+      "J'aime voyager à l'aveugle, sans réservations",
+      "Voyager à l'aveugle comporte des risques"
+    ],
+    "collocates": [
+      "spontané",
+      "aventure",
+      " improvisation",
+      "risque"
+    ],
+    "level": "C1",
+    "example_1": "J'aime voyager à l'aveugle, sans réservations",
+    "example_2": "Voyager à l'aveugle comporte des risques",
+    "example_3": "Je connais voyager à l'aveugle.",
+    "example_1_translation": "I like to travel blind, without reservations",
+    "example_2_translation": "Traveling blind carries risks",
+    "example_3_translation": "I know how to travel blind."
+  },
+  {
+    "chunk_text": "partir en vrille",
+    "meaning": "to go into a spin (aviation), to spiral out of control",
+    "primary_function": "expression",
+    "communicative_purpose": "describing loss of control",
+    "patterns": [
+      "L'avion est parti en vrille",
+      "La situation est partie en vrille"
+    ],
+    "collocates": [
+      "avion",
+      "spirale",
+      "perte",
+      "contrôle"
+    ],
+    "level": "C1",
+    "example_1": "L'avion est parti en vrille",
+    "example_2": "La situation est partie en vrille",
+    "example_3": "Je connais partir en vrille.",
+    "example_1_translation": "The plane went into a spin",
+    "example_2_translation": "The situation has gone into a tailspin",
+    "example_3_translation": "I know how to go into a spin."
+  },
+  {
+    "chunk_text": "prendre le large",
+    "meaning": "to put to sea, to head out, to make off",
+    "primary_function": "expression",
+    "communicative_purpose": "departing by sea or fleeing",
+    "patterns": [
+      "Les pêcheurs ont pris le large",
+      "Il a pris le large avec la caisse"
+    ],
+    "collocates": [
+      "bateau",
+      "mer",
+      "fuite",
+      "depart"
+    ],
+    "level": "B2",
+    "example_1": "Les pêcheurs ont pris le large",
+    "example_2": "Il a pris le large avec la caisse",
+    "example_3": "On utilise prendre le large dans la vie quotidienne.",
+    "example_1_translation": "The fishermen set sail",
+    "example_2_translation": "He took off with the box",
+    "example_3_translation": "We use taking off in everyday life."
+  },
+  {
+    "chunk_text": "être à bord de",
+    "meaning": "to be on board of, to be aboard",
+    "primary_function": "expression",
+    "communicative_purpose": "being in a vehicle",
+    "patterns": [
+      "Nous sommes à bord du navire",
+      "À bord de l'avion, merci d'attacher vos ceintures"
+    ],
+    "collocates": [
+      "avion",
+      "bateau",
+      "train",
+      "véhicule"
+    ],
+    "level": "B1",
+    "example_1": "Nous sommes à bord du navire",
+    "example_2": "À bord de l'avion, merci d'attacher vos ceintures",
+    "example_3": "Je connais être à bord de.",
+    "example_1_translation": "We are on board the ship",
+    "example_2_translation": "On board the plane, please fasten your seat belts",
+    "example_3_translation": "I know being on board."
+  },
+  {
+    "chunk_text": "renchérrir sur",
+    "meaning": "to outbid, to go beyond, to add to",
+    "primary_function": "expression",
+    "communicative_purpose": "exceeding expectations or offers",
+    "patterns": [
+      "Il a encore reanchérri sur son offre précédente",
+      "Chaque média renchérit sur le sensationnel"
+    ],
+    "collocates": [
+      "offre",
+      "enchère",
+      "excès",
+      "dramatisation"
+    ],
+    "level": "C1",
+    "example_1": "Il a encore reanchérri sur son offre précédente",
+    "example_2": "Chaque média renchérit sur le sensationnel",
+    "example_3": "Je connais renchérrir sur.",
+    "example_1_translation": "He again bid on his previous offer",
+    "example_2_translation": "Each media goes for the sensational",
+    "example_3_translation": "I know how to bid on."
+  },
+  {
+    "chunk_text": "toucher terre",
+    "meaning": "to land, to touch down, to reach shore",
+    "primary_function": "expression",
+    "communicative_purpose": "arriving on land",
+    "patterns": [
+      "L'avion a touché terre à Roissy",
+      "Après trois jours en mer, nous avons touché terre"
+    ],
+    "collocates": [
+      "avion",
+      "atterrissage",
+      "bateau",
+      "rivage"
+    ],
+    "level": "B2",
+    "example_1": "L'avion a touché terre à Roissy",
+    "example_2": "Après trois jours en mer, nous avons touché terre",
+    "example_3": "On utilise toucher terre dans la vie quotidienne.",
+    "example_1_translation": "The plane landed at Roissy",
+    "example_2_translation": "After three days at sea, we reached land",
+    "example_3_translation": "We use touching the ground in daily life."
+  },
+  {
+    "chunk_text": "avoir le pied marin",
+    "meaning": "to have sea legs",
+    "primary_function": "expression",
+    "communicative_purpose": "not getting seasick",
+    "patterns": [
+      "Elle a le pied marin, elle ne vomit jamais en mer",
+      "Avec ton pied marin, tu ferais un excellent marin"
+    ],
+    "collocates": [
+      "mer",
+      "mal de mer",
+      "nausées",
+      "marin"
+    ],
+    "level": "B2",
+    "example_1": "Elle a le pied marin, elle ne vomit jamais en mer",
+    "example_2": "Avec ton pied marin, tu ferais un excellent marin",
+    "example_3": "On utilise avoir le pied marin dans la vie quotidienne.",
+    "example_1_translation": "She has sea legs, she never vomits at sea",
+    "example_2_translation": "With your sea legs, you would make an excellent sailor",
+    "example_3_translation": "We use having our sea legs in daily life."
+  },
+  {
+    "chunk_text": "faire la navette",
+    "meaning": "to commute, to shuttle",
+    "primary_function": "expression",
+    "communicative_purpose": "regular travel between two places",
+    "patterns": [
+      "Je fais la navette entre Paris et Lyon chaque semaine",
+      "Des navettes spatiales font la navette entre la Terre et la Station"
+    ],
+    "collocates": [
+      "trajet",
+      "quotidien",
+      "commuter",
+      "fréquence"
+    ],
+    "level": "B2",
+    "example_1": "Je fais la navette entre Paris et Lyon chaque semaine",
+    "example_2": "Des navettes spatiales font la navette entre la Terre et la Station",
+    "example_3": "On utilise faire la navette dans la vie quotidienne.",
+    "example_1_translation": "I commute between Paris and Lyon every week",
+    "example_2_translation": "Space shuttles shuttle between Earth and the Station",
+    "example_3_translation": "We use commuting in daily life."
+  },
+  {
+    "chunk_text": "perdre de l'altitude",
+    "meaning": "to lose altitude, to descend",
+    "primary_function": "expression",
+    "communicative_purpose": "describing altitude loss",
+    "patterns": [
+      "L'avion perd de l'altitude depuis 20 minutes",
+      "Le pilote a dû faire perdre de l'altitude à l'appareil"
+    ],
+    "collocates": [
+      "avion",
+      "descente",
+      "altitude",
+      "plongée"
+    ],
+    "level": "B2",
+    "example_1": "L'avion perd de l'altitude depuis 20 minutes",
+    "example_2": "Le pilote a dû faire perdre de l'altitude à l'appareil",
+    "example_3": "On utilise perdre de l'altitude dans la vie quotidienne.",
+    "example_1_translation": "The plane has been losing altitude for 20 minutes",
+    "example_2_translation": "The pilot must have caused the aircraft to lose altitude.",
+    "example_3_translation": "We use losing altitude in daily life."
+  },
+  {
+    "chunk_text": "bon pied, bon œil",
+    "meaning": "in good shape, hale and hearty",
+    "primary_function": "expression",
+    "communicative_purpose": "being in excellent health",
+    "patterns": [
+      "À 85 ans, il est toujours bon pied, bon œil",
+      "Cette vieille maison est encore bon pied, bon œil"
+    ],
+    "collocates": [
+      "santé",
+      "forme",
+      "vitalité",
+      "robustesse"
+    ],
+    "level": "B2",
+    "example_1": "À 85 ans, il est toujours bon pied, bon œil",
+    "example_2": "Cette vieille maison est encore bon pied, bon œil",
+    "example_3": "On utilise bon pied, bon œil dans la vie quotidienne.",
+    "example_1_translation": "At 85, he still has good feet and good eyes.",
+    "example_2_translation": "This old house is still in good shape, good eye",
+    "example_3_translation": "We use good foot, good eye in daily life."
+  },
+  {
+    "chunk_text": "à tombeau ouvert",
+    "meaning": "at breakneck speed",
+    "primary_function": "expression",
+    "communicative_purpose": "dangerously fast travel or action",
+    "patterns": [
+      "Il roulait à tombeau ouvert sur l'autoroute",
+      "Nous avons avancé à tombeau ouvert vers notre destination"
+    ],
+    "collocates": [
+      "vitesse",
+      "danger",
+      "course",
+      "precipitation"
+    ],
+    "level": "C1",
+    "example_1": "Il roulait à tombeau ouvert sur l'autoroute",
+    "example_2": "Nous avons avancé à tombeau ouvert vers notre destination",
+    "example_3": "Je connais à tombeau ouvert.",
+    "example_1_translation": "He was driving like crazy on the highway",
+    "example_2_translation": "We moved headlong towards our destination.",
+    "example_3_translation": "I know it inside out."
+  }
+]

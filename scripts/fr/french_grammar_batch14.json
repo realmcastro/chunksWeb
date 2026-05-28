@@ -1,0 +1,363 @@
+[
+  {
+    "structure_label": "Indirect speech with tense backshift",
+    "core_meaning": "Reported speech changes tenses to reflect the shift from direct to indirect context",
+    "primary_communicative_fn": "Converting direct quotations into indirect reported speech with appropriate tense adjustments",
+    "when_to_use": "When reporting what someone said in a narrative or conversation; when avoiding direct quotation",
+    "pattern": "Il a dit que + [décalage temporel: présent → imparfait, passé composé → plus-que-parfait, futur → conditionnel]",
+    "key_variations": [
+      "Il a dit qu'il était malade. (direct: « Je suis malade »)",
+      "Elle a annoncé qu'elle partirait le lendemain. (direct: « Je partirai demain »)",
+      "Ils ont précisé qu'ils avaient terminé. (direct: « Nous avons terminé »)"
+    ],
+    "essential_vocabulary_slots": "dire, annoncer, préciser, être, partir, terminer, malade, imparfait, plus-que-parfait",
+    "common_learner_mistakes": [
+      "Keeping present tense when reporting past statements: *« Il a dit qu'il est malade »",
+      "Forgetting the backshift with verbs of perception and other speech verbs"
+    ],
+    "chunk_compatibility": "Reported speech chunks: *Il a dit qu'il venait*, *Elle a expliqué qu'elle était occupée*",
+    "primary_function": "Converting direct speech to indirect speech with tense adjustments",
+    "key_forms": "Il a dit qu'il était malade. Elle a annoncé qu'elle partirait. Ils ont précisé qu'ils avaient terminé.",
+    "essential_vocabulary": "dire, annoncer, préciser, être, partir, terminer, malade, avoir, venir, occupé",
+    "why_it_matters": "Essential for narration and reported speech; enables sophisticated storytelling without constant quotation marks",
+    "common_mistakes": "Failing to shift tenses appropriately; keeping direct speech tenses in indirect contexts",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Reporting opinions with « d'après » and « selon »",
+    "core_meaning": "Attributing information to a source using d'après (according to) and selon (according to)",
+    "primary_communicative_fn": "Attributing statements and information to sources or authorities; expressing opinions as reported views",
+    "when_to_use": "When citing sources, stating what others believe, or attributing information to experts or authorities",
+    "pattern": "[Sujet] + selon/d'après + [source] + [information]",
+    "key_variations": [
+      "Selon lui, la situation s'améliorera.",
+      "D'après les experts, cette méthode est efficace.",
+      "Selon moi, tu as tort."
+    ],
+    "essential_vocabulary_slots": "selon, d'après, lui, experts, méthode, efficace, situation, améliorer, tort",
+    "common_learner_mistakes": [
+      "Confusing d'après with pour (d'après = based on testimony, not 'for')",
+      "Placing the source incorrectly in the sentence or before the wrong clause"
+    ],
+    "chunk_compatibility": "Attribution chunks: *Selon lui*, *D'après les experts*, *Selon mon expérience*",
+    "primary_function": "Attributing statements and information to sources",
+    "key_forms": "Selon lui, c'est vrai. D'après les experts, c'est efficace. Selon moi, c'est faux.",
+    "essential_vocabulary": "selon, d'après, lui, experts, méthode, efficace, situation, améliorer, tort, avis",
+    "why_it_matters": "Essential for academic writing, journalism, and credible reporting; allows proper attribution",
+    "common_mistakes": "Confusing d'après with pour; wrong word order; misplacing source attribution",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Indirect question with « si »",
+    "core_meaning": "Converting yes/no questions to indirect speech using si (if/whether)",
+    "primary_communicative_fn": "Reporting yes/no questions in indirect speech; asking about information indirectly",
+    "when_to_use": "When reporting yes/no questions; when asking politely about information in indirect form",
+    "pattern": "[Sujet] + a demandé + si + [phrase affirmative] → question indirecte",
+    "key_variations": [
+      "Il a demandé si je parlais français.",
+      "Elle m'a demandé si j'avais compris.",
+      "Ils voulaient savoir si nous viendrions."
+    ],
+    "essential_vocabulary_slots": "demander, si, parler, français, comprendre, vouloir, savoir, venir, avoir",
+    "common_learner_mistakes": [
+      "Using quotation marks with si: *« Il a demandé « si » »",
+      "Forgetting tense backshift after past tense verbs: *« Il a demandé si je parle »"
+    ],
+    "chunk_compatibility": "Indirect question chunks: *Je ne sais pas si*, *Il a demandé si*",
+    "primary_function": "Reporting yes/no questions in indirect speech",
+    "key_forms": "Il a demandé si je parlais français. Elle m'a demandé si j'avais compris. Je ne sais pas si c'est vrai.",
+    "essential_vocabulary": "demander, si, parler, français, comprendre, vouloir, savoir, venir, avoir, composer",
+    "why_it_matters": "Essential for polite, sophisticated question formation and narrative reporting of questions",
+    "common_mistakes": "Forgetting tense backshift; using direct question word order; mixing si clauses with question marks",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Indirect question with interrogative words",
+    "core_meaning": "Reporting questions using interrogative words (qui, que, où, quand, comment, pourquoi)",
+    "primary_communicative_fn": "Reporting wh-questions in indirect speech; asking for information indirectly about specific details",
+    "when_to_use": "When reporting wh-questions; when asking politely for specific information in indirect form",
+    "pattern": "[Sujet] + a demandé + [interrogatif] + [verbe conjugué] → question indirecte",
+    "key_variations": [
+      "Il a demandé où j'habitais. (direct: « Où habitez-vous? »)",
+      "Elle a demandé ce que je faisais. (direct: « Que faites-vous? »)",
+      "Je ne sais pas quand il viendra."
+    ],
+    "essential_vocabulary_slots": "demander, où, habiter, ce que, faire, quand, venir, comment, pourquoi, qui",
+    "common_learner_mistakes": [
+      "Keeping the direct question inversion: *« Il a demandé où est-ce que j'habite »",
+      "Confusing ce qui / ce que with qui / que in indirect questions"
+    ],
+    "chunk_compatibility": "Indirect question chunks: *Je ne sais pas où*, *Il a demandé comment*, *Elle a demandé ce que*",
+    "primary_function": "Reporting wh-questions in indirect speech with normal word order",
+    "key_forms": "Il a demandé où j'habitais. Elle a demandé ce que je faisais. Je ne sais pas quand il viendra.",
+    "essential_vocabulary": "demander, où, habiter, ce que, faire, quand, venir, comment, pourquoi, qui, savoir",
+    "why_it_matters": "Essential for sophisticated question reporting; enables natural narrative and polite information-seeking",
+    "common_mistakes": "Keeping interrogative inversion; confusing ce qui/ce que with qui/que; wrong tense shifts",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Sequence of tenses in indirect speech",
+    "core_meaning": "Main clause verb tense affects subordinate clause tense; rules governing indirect speech clauses",
+    "primary_communicative_fn": "Ensuring correct tense sequences when main and subordinate clauses reflect different time relationships",
+    "when_to_use": "When writing or speaking complex sentences with reported speech and multiple time references",
+    "pattern": "主句现在时/将来时 + 直接时态 → 主句过去时 + 相应过去时态",
+    "key_variations": [
+      "Il dit qu'il viendra. → Il a dit qu'il viendrait.",
+      "Je sais qu'elle est là. → Je savais qu'elle était là.",
+      "Nous croyons qu'il a raison. → Nous croyions qu'il avait raison."
+    ],
+    "essential_vocabulary_slots": "dire, venir, savoir, être, croire, avoir, raison, présent, imparfait, conditionnel",
+    "common_learner_mistakes": [
+      "Applying backshift unnecessarily after future or present tense main verbs",
+      "Not applying backshift after past tense main verbs: *« Il a dit qu'il est là »"
+    ],
+    "chunk_compatibility": "Tense sequence patterns: present → direct forms, past → shifted forms",
+    "primary_function": "Maintaining correct tense sequences in complex indirect speech",
+    "key_forms": "Il dit qu'il viendra / Il a dit qu'il viendrait. Je sais qu'elle est là / Je savais qu'elle était là.",
+    "essential_vocabulary": "dire, venir, savoir, être, croire, avoir, raison, présent, imparfait, conditionnel, futur",
+    "why_it_matters": "Fundamental for grammatically correct complex sentences; essential for written French",
+    "common_mistakes": "Inconsistent tense application; unnecessary backshifting; missing backshift in past contexts",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Conditional for future in the past",
+    "core_meaning": "Using conditional to express future relative to a past reporting verb",
+    "primary_communicative_fn": "Expressing future events as viewed from a past perspective in reported speech",
+    "when_to_use": "When describing what someone said would happen in the future; in narrative past contexts",
+    "pattern": "[主句过去时] + [动词] + que + [主语] + 条件式 → futur dans le passé",
+    "key_variations": [
+      "Il a promis qu'il viendrait. (future in the past)",
+      "Elle espérait qu'elle serait promue. (future in the past)",
+      "Nous savions qu'il ferait beau. (future in the past)"
+    ],
+    "essential_vocabulary_slots": "promettre, venir, espérer, être, promu, savoir, faire, beau, conditionnel",
+    "common_learner_mistakes": [
+      "Using futur simple instead of conditional: *« Il a promis qu'il viendra »",
+      "Confusing conditional with subjunctive after verbs of will"
+    ],
+    "chunk_compatibility": "Future in past chunks: *Il a dit qu'il ferait*, *Elle a juré qu'elle viendrait*",
+    "primary_function": "Expressing future events from a past perspective in reported speech",
+    "key_forms": "Il a promis qu'il viendrait. Elle espérait qu'elle serait promue. Nous savions qu'il ferait beau.",
+    "essential_vocabulary": "promettre, venir, espérer, être, promu, savoir, faire, beau, conditionnel, croire, penser",
+    "why_it_matters": "Essential for accurate narrative perspective and tense consistency in storytelling",
+    "common_mistakes": "Using future simple instead of conditional; confusing with subjunctive mood",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Imparfait for ongoing past actions in indirect speech",
+    "core_meaning": "Using imparfait to describe ongoing actions when switching to indirect speech",
+    "primary_communicative_fn": "Expressing continuous or habitual past actions in reported speech contexts",
+    "when_to_use": "When reporting ongoing or habitual past actions; when describing what someone was doing",
+    "pattern": "主句过去时 + [主语] + imparfait → actions continues au passé",
+    "key_variations": [
+      "Il a dit qu'il travaillait. (was working)",
+      "Elle expliquait qu'elle étudiait. (was studying)",
+      "Ils racontaient qu'ils voyageaient. (were traveling)"
+    ],
+    "essential_vocabulary_slots": "dire, travailler, expliquer, étudier, raconter, voyager, imparfait, action",
+    "common_learner_mistakes": [
+      "Using passé composé for habitual past actions: *« Il a dit qu'il a travaillé »",
+      "Not distinguishing ongoing vs. completed actions"
+    ],
+    "chunk_compatibility": "Ongoing past chunks: *Il a dit qu'il travaillait*, *Elle a expliqué qu'elle étudiait*",
+    "primary_function": "Expressing continuous or habitual past actions in reported speech",
+    "key_forms": "Il a dit qu'il travaillait. Elle expliquait qu'elle étudiait. Ils racontaient qu'ils voyageaient.",
+    "essential_vocabulary": "dire, travailler, expliquer, étudier, raconter, voyager, imparfait, habitual, continu",
+    "why_it_matters": "Essential for accurately expressing duration and habituality in reported past contexts",
+    "common_mistakes": "Confusing imparfait with passé composé; not capturing ongoing vs. completed distinction",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Reporting with « comme quoi »",
+    "core_meaning": "Using comme quoi to report statements, information, or questions informally",
+    "primary_communicative_fn": "Reporting information or statements in casual, colloquial speech",
+    "when_to_use": "In informal speech or writing; when reporting what was said in a relaxed manner",
+    "pattern": "[Sujet] + verbe de parole + comme quoi + [information]",
+    "key_variations": [
+      "Il m'a dit comme quoi il était parti.",
+      "Elle a écrit comme quoi la réunion était reportée.",
+      "Je ne sais pas comme quoi il faut faire."
+    ],
+    "essential_vocabulary_slots": "dire, comme, quoi, parti, réunion, reporter, savoir, falloir, faire",
+    "common_learner_mistakes": [
+      "Confusing comme quoi with que after speech verbs",
+      "Overusing comme quoi in formal writing (too colloquial)"
+    ],
+    "chunk_compatibility": "Informal reporting: *Il m'a dit comme quoi*, *Elle a expliqué comme quoi*",
+    "primary_function": "Reporting statements informally in colloquial speech",
+    "key_forms": "Il m'a dit comme quoi il était parti. Elle a écrit comme quoi c'était reporté.",
+    "essential_vocabulary": "dire, comme, quoi, être, parti, réunion, reporter, savoir, falloir, faire, expliquer",
+    "why_it_matters": "Important for understanding and participating in informal French speech; shows register awareness",
+    "common_mistakes": "Using in formal contexts; confusing with standard que reporting; register confusion",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Tense backshift with modal verbs",
+    "core_meaning": "Applying proper tense changes to modal verbs (pouvoir, devoir, vouloir) in indirect speech",
+    "primary_communicative_fn": "Correctly reporting what someone could, had to, or wanted to do using modal verbs with tense adjustment",
+    "when_to_use": "When reporting statements with modal verbs; when conveying abilities, obligations, or desires from reported speech",
+    "pattern": "[modal + infinitive] → [modal conditional/past conditional + infinitive]",
+    "key_variations": [
+      "Il a dit qu'il pouvait venir. (direct: « Je peux venir »)",
+      "Elle a précisé qu'elle devrait partir tôt. (direct: « Je dois partir tôt »)",
+      "Ils ont promis qu'ils voudraient aider. (rare, usually avoided)"
+    ],
+    "essential_vocabulary_slots": "dire, pouvoir, devoir, vouloir, venir, partir, aider, conditionnel, infinitif",
+    "common_learner_mistakes": [
+      "Forgetting the conditional form of pouvoir: *« Il a dit qu'il peut venir »",
+      "Incorrect backshift of devoir → devait or aurait dû depending on meaning"
+    ],
+    "chunk_compatibility": "Modal reporting chunks: *Il a dit qu'il pouvait*, *Elle a dit qu'elle devrait*",
+    "primary_function": "Correctly shifting modal verbs in reported speech",
+    "key_forms": "Il a dit qu'il pouvait venir. Elle a précisé qu'elle devrait partir. Ils ont promis qu'ils pourraient aider.",
+    "essential_vocabulary": "dire, pouvoir, devoir, vouloir, venir, partir, aider, conditionnel, infinitif, avoir",
+    "why_it_matters": "Essential for accurate reporting of abilities, obligations, and intentions; avoids misinterpretation",
+    "common_mistakes": "Forgetting conditional form; wrong auxiliary; confusing devoir shifts",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Neutral pronouns in indirect speech (ça/ceci/cela)",
+    "core_meaning": "Choosing appropriate pronouns (ça, ceci, cela) when reporting in indirect speech",
+    "primary_communicative_fn": "Maintaining reference clarity when converting demonstrative pronouns from direct to indirect speech",
+    "when_to_use": "When reporting sentences containing demonstrative pronouns; when maintaining clarity in indirect quotation",
+    "pattern": "Direct: « ceci/cela/ça » → Indirect: unchanged or replaced appropriately",
+    "key_variations": [
+      "Il a dit: « J'aime ça. » → Il a dit qu'il aimait ça.",
+      "Elle a remarqué: « Ceci est important. » → Elle a remarqué que c'était important.",
+      "Il a précisé: « Cela ne fonctionne pas. » → Il a précisé que cela ne fonctionnait pas."
+    ],
+    "essential_vocabulary_slots": "dire, aimer, ça, remarquer, être, important, ceci, cela, fonctionner, c'était",
+    "common_learner_mistakes": [
+      "Unnecessary pronoun changes that alter meaning",
+      "Overusing 'ça' in formal indirect speech"
+    ],
+    "chunk_compatibility": "Pronoun preservation: *Il a dit qu'il aimait ça*, *Elle a remarqué que cela ne fonctionnait*",
+    "primary_function": "Maintaining correct pronoun reference in indirect speech",
+    "key_forms": "Il a dit qu'il aimait ça. Elle a remarqué que c'était important. Il a précisé que cela ne fonctionnait pas.",
+    "essential_vocabulary": "dire, aimer, ça, remarquer, être, important, ceci, cela, fonctionner, c'était, noter",
+    "why_it_matters": "Ensures clarity and correct meaning preservation when reporting speech with demonstratives",
+    "common_mistakes": "Changing pronouns unnecessarily; formal/informal register mismatches with pronouns",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Negation in indirect speech",
+    "core_meaning": "Maintaining or adjusting negation when converting to indirect speech",
+    "primary_communicative_fn": "Correctly expressing negative statements in indirect reported speech without changing meaning",
+    "when_to_use": "When reporting negative statements; when converting negation from direct to indirect forms",
+    "pattern": "Direct: ne...pas → Indirect: ne...pas (maintaining or adjusting to context)",
+    "key_variations": [
+      "Il a dit: « Je ne viendrai pas. » → Il a dit qu'il ne viendrait pas.",
+      "Elle a expliqué: « Ce n'est pas vrai. » → Elle a expliqué que ce n'était pas vrai.",
+      "Ils ont nié: « Nous n'avons rien fait. » → Ils ont nié avoir fait quelque chose."
+    ],
+    "essential_vocabulary_slots": "dire, ne, pas, venir, expliquer, être, vrai, nier, avoir, faire, quelque chose",
+    "common_learner_mistakes": [
+      "Forgetting the ne in formal writing after verbs of saying",
+      "Double negation errors: *« Il a dit qu'il ne pouvait rien faire » is correct; confusion about form"
+    ],
+    "chunk_compatibility": "Negative reporting: *Il a dit qu'il ne viendrait pas*, *Elle a expliqué que ce n'était pas vrai*",
+    "primary_function": "Maintaining correct negation in indirect speech",
+    "key_forms": "Il a dit qu'il ne viendrait pas. Elle a expliqué que ce n'était pas vrai. Ils ont nié avoir rien fait.",
+    "essential_vocabulary": "dire, ne, pas, venir, expliquer, être, vrai, nier, avoir, faire, quelque chose, jamais",
+    "why_it_matters": "Essential for accurately reporting negative statements without changing meaning",
+    "common_mistakes": "Omitting ne; double negation confusion; informal negation patterns in formal speech",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Relative time markers in indirect speech",
+    "core_meaning": "Adjusting time expressions when moving from direct to indirect speech (demain → le lendemain, hier → la veille)",
+    "primary_communicative_fn": "Shifting temporal references to maintain accuracy when converting direct to indirect speech",
+    "when_to_use": "When reporting statements with time expressions; when converting perspective-dependent time markers",
+    "pattern": "demain → le lendemain | hier → la veille | ici → là | maintenant → alors | la semaine prochaine → la semaine suivante",
+    "key_variations": [
+      "« Je viendrai demain » → Il a dit qu'il viendrait le lendemain.",
+      "« C'était hier » → Elle a dit que c'avait été la veille.",
+      "« Je suis ici » → Il a dit qu'il était là."
+    ],
+    "essential_vocabulary_slots": "venir, demain, lendemain, hier, veille, être, là, ici, semaine, prochaine, suivante",
+    "common_learner_mistakes": [
+      "Keeping direct speech time markers: *« Il a dit qu'il viendra demain »",
+      "Incorrect adjustment of semaine prochaine/semaine dernière"
+    ],
+    "chunk_compatibility": "Time marker shifts: *le lendemain*, *la veille*, *alors*, *la semaine suivante*",
+    "primary_function": "Shifting temporal references appropriately in indirect speech",
+    "key_forms": "Il a dit qu'il viendrait le lendemain. Elle a dit que c'était la veille. Il a dit qu'il était là.",
+    "essential_vocabulary": "venir, demain, lendemain, hier, veille, être, là, ici, semaine, prochaine, suivante, alors",
+    "why_it_matters": "Essential for accurate temporal reference in narrative and reported speech",
+    "common_mistakes": "Not adjusting time markers; incorrect marker shifts; maintaining speaker perspective incorrectly",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Subjonctif after verbs of opinion in reported speech",
+    "core_meaning": "Using subjunctive after certain verbs of opinion when reporting in indirect speech",
+    "primary_communicative_fn": "Expressing doubt, disbelief, or evaluative opinions in reported speech using subjunctive mood",
+    "when_to_use": "When reporting doubts, opinions, or judgments about uncertain or evaluated matters",
+    "pattern": "[Expression d'opinion] + que + subjonctif → opinion rapportée requérant le subjonctif",
+    "key_variations": [
+      "Je doute qu'il soit venu. (reported doubt)",
+      "Il est impossible qu'elle ait dit cela. (reported impossibility)",
+      "Nous regrettons que tu sois parti. (reported regret)"
+    ],
+    "essential_vocabulary_slots": "douter, être, venir, impossible, dire, regretter, parti, subjonctif",
+    "common_learner_mistakes": [
+      "Using indicative instead of subjunctive after expressions of doubt",
+      "Confusing verbs of opinion with verbs of fact (which take indicative)"
+    ],
+    "chunk_compatibility": "Opinion chunks with subjunctive: *Je doute que*, *Il est impossible que*, *Nous regrettons que*",
+    "primary_function": "Expressing evaluative and doubtful opinions in reported speech",
+    "key_forms": "Je doute qu'il soit venu. Il est impossible qu'elle ait dit cela. Nous regrettons que tu sois parti.",
+    "essential_vocabulary": "douter, être, venir, impossible, dire, regretter, parti, subjonctif, croire, penser",
+    "why_it_matters": "Essential for correctly expressing doubt and subjective evaluation in French",
+    "common_mistakes": "Using indicative with doubt verbs; confusing with fact verbs; subjunctive mood confusion",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Historic infinitive in indirect speech",
+    "core_meaning": "Using infinitive construction to report speech more compactly in past narratives",
+    "primary_communicative_fn": "Reporting orders, commands, or statements using infinitive construction in literary/formal narrative",
+    "when_to_use": "In formal narrative, historical texts, or literary writing; when avoiding que + clause",
+    "pattern": "[Sujet] + [verbe de parole] + [complément] + infinitif → indirect speech littéraire",
+    "key_variations": [
+      "Il fit savoir qu'il acceptait l'offre. → Il fit savoir accepter l'offre.",
+      "Elle ordonna au soldat de partir. → Elle ordonna au soldat partir.",
+      "Le roi fit dire qu'il gracierait le prisonnier. → Le roi fit dire gracier le prisonnier."
+    ],
+    "essential_vocabulary_slots": "faire, savoir, accepter, ordonner, soldat, partir, roi, gracier, prisonnier",
+    "common_learner_mistakes": [
+      "Using with inanimate subjects (faire is usually for human agents)",
+      "Confusing historic infinitive with regular indirect speech constructions"
+    ],
+    "chunk_compatibility": "Historic infinitive: *Il fit savoir payer*, *Elle ordonna partir*",
+    "primary_function": "Reporting orders and statements using infinitive in literary narrative",
+    "key_forms": "Il fit savoir accepter l'offre. Elle ordonna au soldat partir. Le roi fit dire gracier le prisonnier.",
+    "essential_vocabulary": "faire, savoir, accepter, ordonner, soldat, partir, roi, gracier, prisonnier, infinitif",
+    "why_it_matters": "Essential for understanding and using formal, literary French narrative structures",
+    "common_mistakes": "Wrong subject choice; confusing with regular indirect speech; literary register misuse",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Conditional as politeness in reported speech",
+    "core_meaning": "Using conditional to soften requests or make them more polite when reported",
+    "primary_communicative_fn": "Expressing polite requests or softened commands in reported speech through conditional",
+    "when_to_use": "When reporting polite requests or softened commands; when indicating indirect speech politeness",
+    "pattern": "Direct request: « Voulez-vous... » → Reported: « Il a demandé si je voudrais... »",
+    "key_variations": [
+      "Pourriez-vous m'aider? → Il a demandé si je pourrais l'aider. (conditional for politeness)",
+      "Voulez-vous venir? → Il a demandé si je voudrais venir.",
+      "Avez-vous l'heure? → Il demandait si j'aurais l'heure."
+    ],
+    "essential_vocabulary_slots": "pouvoir, demander, aider, vouloir, venir, avoir, heure, conditionnel, si",
+    "common_learner_mistakes": [
+      "Not using conditional for polite requests: *« Il a demandé si vous pouvez »",
+      "Overusing conditional in informal contexts"
+    ],
+    "chunk_compatibility": "Polite request reporting: *Il a demandé si je pourrais*, *Elle a demandé si vous voudriez*",
+    "primary_function": "Expressing politeness through conditional in reported requests",
+    "primary_function": "Expressing politeness through conditional in reported requests",
+    "key_forms": "Il a demandé si je pourrais l'aider. Il a demandé si je voudrais venir. Il demandait si j'aurais l'heure.",
+    "essential_vocabulary": "pouvoir, demander, aider, vouloir, venir, avoir, heure, conditionnel, si, polite",
+    "why_it_matters": "Essential for accurately conveying politeness and tone in reported speech",
+    "common_mistakes": "Not using conditional with polite requests; inappropriate register; mixing tenses",
+    "level": "B2"
+  }
+]

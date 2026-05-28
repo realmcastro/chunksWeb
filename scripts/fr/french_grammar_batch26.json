@@ -1,0 +1,377 @@
+[
+  {
+    "structure_label": "Definite articles le/la/les with countries",
+    "core_meaning": "Most countries require definite article; gender varies (le Japon, la France)",
+    "primary_communicative_fn": "Correctly naming and referring to countries in context",
+    "when_to_use": "When discussing countries, their characteristics, or location-based information",
+    "pattern": "le/la/les + nom de pays (most countries require article)",
+    "key_variations": [
+      "le Japon (masculine)",
+      "le Brésil (masculine)",
+      "la France (feminine)",
+      "la Belgique (feminine)",
+      "l'Argentine (feminine, elision)"
+    ],
+    "essential_vocabulary_slots": "le, la, les, Japon, Brésil, France, Belgique, Argentine",
+    "common_learner_mistakes": [
+      "Using 'le' for feminine countries (la France not le France)",
+      "Omitting article where it's required",
+      "Confusing gender of country names"
+    ],
+    "chunk_compatibility": "Geographic/travel chunks (*en France*, *du Japon*, *au Brésil*)",
+    "primary_function": "Proper reference to country entities with correct gender/article",
+    "key_forms": "le Japon / la France / les États-Unis / la Belgique",
+    "essential_vocabulary": "le, la, les, Japon, Brésil, France, Belgique, Argentina, Canada, Suisse",
+    "why_it_matters": "Country article usage differs from English; gender agreement requires memorization",
+    "common_mistakes": "Inconsistent gender application; omitting articles in constructions requiring them"
+  },
+  {
+    "structure_label": "Countries used without article",
+    "core_meaning": "Rare exception: some countries used without articles after prepositions",
+    "primary_communicative_fn": "Understanding rare but valid prepositional omissions",
+    "when_to_use": "After prepositions like 'en'; specific cases like 'à Cuba'",
+    "pattern": "∅ + nom de pays (en + fem. country / à + island countries)",
+    "key_variations": [
+      "en Suisse (not 'en la Suisse') — after en with feminine",
+      "en France (en with feminine countries)",
+      "à Cuba / à Madagascar (island countries with à)"
+    ],
+    "essential_vocabulary_slots": "en, à, Suisse, France, Cuba, Madagascar, Chypre, Malte",
+    "common_learner_mistakes": [
+      "Adding articles after 'en' (→ en la France is wrong)",
+      "Confusing prepositional omission rules with default article requirement"
+    ],
+    "chunk_compatibility": "Location/travel chunks (*en Suisse*, *à Cuba*)",
+    "primary_function": "Correct prepositional phrases with country names",
+    "key_forms": "en Suisse / en France / à Cuba / à Madagascar",
+    "essential_vocabulary": "en, à, Suisse, France, Cuba, Madagascar, voyage, habiter",
+    "why_it_matters": "Prepositional usage differs from English; 'en' + feminine country is standard French",
+    "common_mistakes": "Adding article after prepositions; overusing articles where omitted"
+  },
+  {
+    "structure_label": "Contractions de + articles (du, de la, des)",
+    "core_meaning": "Preposition 'de' contracts with articles: de+le=du, de+la=de la, de+les=des",
+    "primary_communicative_fn": "Correctly forming possessive/origin phrases with contracted prepositions",
+    "when_to_use": "When expressing origin, possession, or composition with article nouns",
+    "pattern": "de + le = du / de + la = de la / de + les = des",
+    "key_variations": [
+      "du Japon (from Japan) — contraction",
+      "de France (from France) — no contraction with definite article",
+      "des États-Unis (from the USA)",
+      "de la Belgique (of Belgium — preposition + article combination)"
+    ],
+    "essential_vocabulary_slots": "du, de, la, des, Japon, France, Belgique, États-Unis, venir, être",
+    "common_learner_mistakes": [
+      "Using 'de le' instead of 'du'",
+      "Forgetting contractions in spoken French",
+      "Inconsistent application across genders"
+    ],
+    "chunk_compatibility": "Origin/possession chunks (*du Japon*, *de France*, *des États-Unis*)",
+    "primary_function": "Fluent expression of origin, possession, and composition",
+    "key_forms": "du Japon / de la Belgique / des États-Unis / de France",
+    "essential_vocabulary": "du, de, la, des, Japon, France, venir, être, habiter, pays",
+    "why_it_matters": "Contraction is mandatory; failure to contract signals non-native speech",
+    "common_mistakes": "Saying 'de le Japon' instead of 'du Japon'; forgetting plural 'des'"
+  },
+  {
+    "structure_label": "Partitive article du/de la/de l'",
+    "core_meaning": "Indicates unspecified quantity of uncountable or mass nouns",
+    "primary_communicative_fn": "Talking about quantities of things that cannot be counted individually",
+    "when_to_use": "When discussing food, liquids, abstract nouns, or any uncountable quantity",
+    "pattern": "du/de la/de l' + nom (uncountable)",
+    "key_variations": [
+      "du pain (some bread — uncountable)",
+      "de la viande (some meat)",
+      "de l'eau (some water)",
+      "de la crème (some cream)",
+      "du courage (some courage — abstract)"
+    ],
+    "essential_vocabulary_slots": "du, de la, de l', pain, viande, eau, crème, courage, temps",
+    "common_learner_mistakes": [
+      "Using 'un/une' with uncountable foods",
+      "Omitting partitive in favor of definite article",
+      "Confusing partitive with indefinite article"
+    ],
+    "chunk_compatibility": "Food/drink chunks (*du pain*, *de l'eau*, *de la patience*)",
+    "primary_function": "Expressing indeterminate quantity of uncountable nouns",
+    "key_forms": "du pain / de la viande / de l'eau / de la crème",
+    "essential_vocabulary": "du, de la, de l', pain, viande, eau, crème, courage, patience, liberté",
+    "why_it_matters": "Partitive is foundational to French indefinite quantity; essential for food/drink conversations",
+    "common_mistakes": "Using 'un/une' with uncountable; omitting article; using definite instead"
+  },
+  {
+    "structure_label": "Indefinite articles un/une/des",
+    "core_meaning": "Indicates unspecified singular (un/une) or plural (des) countable nouns",
+    "primary_communicative_fn": "Introducing or referring to countable nouns non-specifically",
+    "when_to_use": "With countable nouns when identity is indefinite or new",
+    "pattern": "un/une/des + nom (countable)",
+    "key_variations": [
+      "un livre (a book — masculine)",
+      "une table (a table — feminine)",
+      "des amis (some friends — plural)",
+      "un enfant / des enfants"
+    ],
+    "essential_vocabulary_slots": "un, une, des, livre, table, ami, enfant, personne, chat",
+    "common_learner_mistakes": [
+      "Omitting articles where required",
+      "Using plural 'des' with singular meaning",
+      "Confusing gender assignment"
+    ],
+    "chunk_compatibility": "Introduction/identification chunks (*C'est un livre*, *J'ai un ami*)",
+    "primary_function": "Introducing indefinite countable nouns",
+    "key_forms": "un livre / une table / des amis / un enfant",
+    "essential_vocabulary": "un, une, des, livre, table, ami, enfant, personne, chat, maison",
+    "why_it_matters": "Indefinite articles are foundational; omission is ungrammatical in French",
+    "common_mistakes": "Omitting article entirely; confusing gender; misplacing in sentences"
+  },
+  {
+    "structure_label": "Definite articles le/la/les",
+    "core_meaning": "Indicates specific, known, or previously mentioned nouns",
+    "primary_communicative_fn": "Referring to specific definite entities with established identity",
+    "when_to_use": "With specific known nouns; general statements; unique entities",
+    "pattern": "le/la/les + nom (specific/known)",
+    "key_variations": [
+      "le chat (the specific cat)",
+      "la maison (the specific house)",
+      "les enfants (the specific children)",
+      "Les chats sont intelligents (general statement)"
+    ],
+    "essential_vocabulary_slots": "le, la, les, chat, maison, enfant, livre, jour, soleil",
+    "common_learner_mistakes": [
+      "Using definite article for general statements (partly correct in French)",
+      "Omitting article with unique nouns (le soleil, la lune)",
+      "Forgetting article with generic categories"
+    ],
+    "chunk_compatibility": "Definite reference chunks (*Je vois le chat*, *La maison est grande*)",
+    "primary_function": "Specific reference to known entities",
+    "key_forms": "le chat / la maison / les enfants / le soleil",
+    "essential_vocabulary": "le, la, les, chat, maison, enfant, livre, jour, soleil, terre",
+    "why_it_matters": "Definite articles are mandatory before known nouns; omission is ungrammatical",
+    "common_mistakes": "Omitting with unique nouns; confusing gender; inconsistent application"
+  },
+  {
+    "structure_label": "Negation ne...pas",
+    "core_meaning": "Basic sentence negation with two-part structure",
+    "primary_communicative_fn": "Denying statements or creating negative assertions",
+    "when_to_use": "To negate verbs; transforms affirmative to negative",
+    "pattern": "ne + verbe + pas",
+    "key_variations": [
+      "Je ne sais pas (I don't know)",
+      "Il ne vient pas (He's not coming)",
+      "Nous n'avons pas (We don't have)",
+      "Je ne veux pas (I don't want)"
+    ],
+    "essential_vocabulary_slots": "ne, pas, sais, viens, avoir, veux, aller, faire",
+    "common_learner_mistakes": [
+      "Forgetting 'ne' in formal speech (though common in informal)",
+      "Placing 'pas' incorrectly (→ after verb)",
+      "Omitting 'ne' entirely (→ ungrammatical in formal French)"
+    ],
+    "chunk_compatibility": "Negation chunks (*Je ne sais pas*, *Pas possible*)",
+    "primary_function": "Creating negative assertions",
+    "key_forms": "Je ne sais pas / Il ne vient pas / Nous n'avons pas",
+    "essential_vocabulary": "ne, pas, sais, viens, avoir, veux, aller, faire, pouvoir",
+    "why_it_matters": "Negation is foundational to communicating refusal/denial; omission changes meaning",
+    "common_mistakes": "Omitting 'ne' in formal contexts; misplacing 'pas'; doubling negation incorrectly"
+  },
+  {
+    "structure_label": "Possessive adjectives mon/ma/mes",
+    "core_meaning": "Indicates possession by first person singular; agrees with noun gender/number",
+    "primary_communicative_fn": "Expressing possession or relationship for first person",
+    "when_to_use": "When indicating what belongs to or is associated with the speaker",
+    "pattern": "mon (masc) / ma (fem) / mes (plural) + nom",
+    "key_variations": [
+      "mon père (my father — masculine)",
+      "ma mère (my mother — feminine)",
+      "mes frères (my brothers — plural)",
+      "mon école (my school — masculine, elision with vowel)"
+    ],
+    "essential_vocabulary_slots": "mon, ma, mes, père, mère, frère, école, ami, sœur",
+    "common_learner_mistakes": [
+      "Using 'mon' with feminine nouns starting with consonant",
+      "Not using 'mon' with feminine nouns starting with vowel (→ mon amie, not ma amie)",
+      "Confusing gender of possessed noun"
+    ],
+    "chunk_compatibility": "Family/possession chunks (*Mon père*, *Ma mère*, *Mes frères*)",
+    "primary_function": "First-person possession; family and relationship expression",
+    "key_forms": "mon père / ma mère / mes frères / mon école",
+    "essential_vocabulary": "mon, ma, mes, père, mère, frère, sœur, école, ami, maison",
+    "why_it_matters": "Possessive agreement with noun gender is mandatory; errors are very noticeable",
+    "common_mistakes": "Using feminine possessive with masculine noun; forgetting elision with vowels"
+  },
+  {
+    "structure_label": "Possessive adjectives ton/ta/tes",
+    "core_meaning": "Indicates possession by second person singular; agrees with noun gender/number",
+    "primary_communicative_fn": "Asking about or referring to what belongs to the listener",
+    "when_to_use": "When asking about or referring to what the listener possesses",
+    "pattern": "ton (masc) / ta (fem) / tes (plural) + nom",
+    "key_variations": [
+      "ton livre (your book — masculine)",
+      "ta sœur (your sister — feminine)",
+      "tes amis (your friends — plural)",
+      "ton école (your school — masculine with vowel)"
+    ],
+    "essential_vocabulary_slots": "ton, ta, tes, livre, sœur, ami, école, maison, voiture",
+    "common_learner_mistakes": [
+      "Not agreeing with possessor gender (it agrees with noun gender)",
+      "Using feminine with masculine nouns",
+      "Forgetting elision with vowels (ton, not ta)"
+    ],
+    "chunk_compatibility": "Question/conversation chunks (*Ton ami?*, *Ta sœur?*, *Tes parents?*)",
+    "primary_function": "Second-person possession in questions and statements",
+    "key_forms": "ton livre / ta sœur / tes amis / ton école",
+    "essential_vocabulary": "ton, ta, tes, livre, sœur, ami, école, maison, voiture, parent",
+    "why_it_matters": "Possessive agreement is mandatory and very noticeable when incorrect",
+    "common_mistakes": "Gender confusion; omitting elision; wrong possessive form"
+  },
+  {
+    "structure_label": "Possessive adjectives son/sa/ses",
+    "core_meaning": "Indicates possession by third person singular; agrees with noun gender/number",
+    "primary_communicative_fn": "Referring to what belongs to or is associated with another person/thing",
+    "when_to_use": "When discussing what a third person or thing possesses or has",
+    "pattern": "son (masc) / sa (fem) / ses (plural) + nom",
+    "key_variations": [
+      "son chien (his/her dog — masculine)",
+      "sa voiture (his/her car — feminine)",
+      "ses enfants (his/her children — plural)",
+      "son amie (his/her female friend — feminine with vowel)"
+    ],
+    "essential_vocabulary_slots": "son, sa, ses, chien, voiture, enfant, ami, école, maison",
+    "common_learner_mistakes": [
+      "Confusing possessive adjective with reflexive pronoun (se)",
+      "Using feminine possessive with masculine noun",
+      "Forgetting that son/sa/ses indicate relationship, not gender of possessor"
+    ],
+    "chunk_compatibility": "Third-person reference chunks (*Son frère*, *Sa maison*, *Ses enfants*)",
+    "primary_function": "Third-person possession; indirect reference to relationships",
+    "key_forms": "son chien / sa voiture / ses enfants / son amie",
+    "essential_vocabulary": "son, sa, ses, chien, voiture, enfant, ami, école, maison, frère",
+    "why_it_matters": "Possessive agreement with noun is mandatory; confusion affects comprehension",
+    "common_mistakes": "Using wrong possessive for noun gender; confusing with reflexive pronouns"
+  },
+  {
+    "structure_label": "Demonstrative adjectives ce/cet/cette/ces",
+    "core_meaning": "Points to or indicates specific nouns; agrees with gender and number",
+    "primary_communicative_fn": "Singling out specific items or entities for identification or emphasis",
+    "when_to_use": "When pointing out or emphasizing specific nouns in space or discourse",
+    "pattern": "ce (masc) / cet (masc before vowel) / cette (fem) / ces (plural) + nom",
+    "key_variations": [
+      "ce livre (this/that book — masculine)",
+      "cette fille (this/that girl — feminine)",
+      "cet homme (this/that man — masculine with vowel)",
+      "ces maisons (these/those houses — plural)"
+    ],
+    "essential_vocabulary_slots": "ce, cet, cette, ces, livre, fille, homme, maison, jour, arbre",
+    "common_learner_mistakes": [
+      "Using 'cet' with feminine nouns",
+      "Forgetting liaison with 'ces' before vowels",
+      "Confusing demonstrative with possessive adjectives"
+    ],
+    "chunk_compatibility": "Pointing/identification chunks (*Ce livre*, *Cette maison*, *Cet enfant*)",
+    "primary_function": "Demonstrative reference; pointing out specific entities",
+    "key_forms": "ce livre / cette fille / cet homme / ces maisons",
+    "essential_vocabulary": "ce, cet, cette, ces, livre, fille, homme, maison, jour, arbre",
+    "why_it_matters": "Demonstratives are foundational for discourse cohesion; gender agreement is mandatory",
+    "common_mistakes": "Using 'cet' with feminine; missing liaisons; gender confusion"
+  },
+  {
+    "structure_label": "Indefinite adjectives tout/toute/tous/toutes",
+    "core_meaning": "Indicates entirety, each, or all entities; full gender/number agreement",
+    "primary_communicative_fn": "Expressing totality or comprehensiveness",
+    "when_to_use": "When referring to entire categories, all items, or each individual",
+    "pattern": "tout/toute/tous/toutes + (article) + nom",
+    "key_variations": [
+      "tout le monde (everyone — literally 'all the world')",
+      "toute la journée (the whole day)",
+      "tous les jours (every day / all days)",
+      "toutes les filles (all the girls)"
+    ],
+    "essential_vocabulary_slots": "tout, toute, tous, toutes, monde, journée, jour, fille, monde",
+    "common_learner_mistakes": [
+      "Not agreeing in gender and number",
+      "Omitting article after tout/toutes",
+      "Confusing tous (all) with tout (everything)"
+    ],
+    "chunk_compatibility": "Totality chunks (*tout le monde*, *tous les jours*, *toute la nuit*)",
+    "primary_function": "Expressing comprehensive/universal reference",
+    "key_forms": "tout le monde / toute la journée / tous les jours / toutes les filles",
+    "essential_vocabulary": "tout, toute, tous, toutes, monde, journée, jour, fille, moment, semaine",
+    "why_it_matters": "Indefinite adjectives are common in French; agreement errors are noticeable",
+    "common_mistakes": "Gender/number disagreement; omitting required article; using wrong form"
+  },
+  {
+    "structure_label": "Relative pronouns qui/que/où",
+    "core_meaning": "Introduces relative clauses; qui=subject, que=object, où=location",
+    "primary_communicative_fn": "Joining clauses to add information about nouns",
+    "when_to_use": "When adding descriptive or identifying information about previously mentioned nouns",
+    "pattern": "nom + qui/que/où + clause",
+    "key_variations": [
+      "l'homme qui parle (the man who speaks — qui as subject)",
+      "le livre que je lis (the book that I read — que as object)",
+      "la ville où j'habite (the city where I live — où for location)",
+      "la personne à qui je parle (the person to whom I speak — qui after preposition)"
+    ],
+    "essential_vocabulary_slots": "qui, que, où, homme, livre, ville, parler, lire, habiter",
+    "common_learner_mistakes": [
+      "Using 'que' for subject (→ must use qui)",
+      "Confusing qui/que/où",
+      "Omitting relative pronoun (→ required in French)"
+    ],
+    "chunk_compatibility": "Descriptive chunks (*L'homme qui parle*, *Le livre que j'aime*)",
+    "primary_function": "Relative clause formation; adding detail to nouns",
+    "key_forms": "qui / que / où / dont / lequel",
+    "essential_vocabulary": "qui, que, où, homme, livre, ville, personne, parler, lire, habiter",
+    "why_it_matters": "Relative pronouns are essential for complex sentence formation",
+    "common_mistakes": "Misusing qui/que; omitting relative pronoun; wrong preposition with lequel"
+  },
+  {
+    "structure_label": "Relative pronoun dont (de + noun)",
+    "core_meaning": "Replaces 'de + noun' in relative clauses; avoids repetition",
+    "primary_communicative_fn": "Forming relative clauses with possessive or 'of' relationships",
+    "when_to_use": "When the relative clause needs 'de' relationship (possession, need, speaking about)",
+    "pattern": "nom + dont + clause",
+    "key_variations": [
+      "la personne dont je parle (the person about whom I speak)",
+      "le livre dont j'ai besoin (the book of which I have need)",
+      "la fille dont le père... (the girl whose father... / the girl of whom the father...)",
+      "les choses dont on discute (the things of which we discuss)"
+    ],
+    "essential_vocabulary_slots": "dont, personne, livre, parler, besoin, père, mère, discuter",
+    "common_learner_mistakes": [
+      "Omitting or misplacing 'dont'",
+      "Using 'de + qui' instead of 'dont'",
+      "Confusion with 'où' and 'qui'"
+    ],
+    "chunk_compatibility": "Complex relative clauses (*Le livre dont j'ai besoin*, *La personne dont je parle*)",
+    "primary_function": "Possessive/relationship relative clauses",
+    "key_forms": "dont je parle / dont j'ai besoin / dont le père",
+    "essential_vocabulary": "dont, personne, livre, parler, besoin, père, mère, fille, discuter",
+    "why_it_matters": "Dont is essential for avoiding repetition and creating fluid relative clauses",
+    "common_mistakes": "Using 'de + qui' instead of dont; omitting dont; misplacing in clause"
+  },
+  {
+    "structure_label": "Adverbial pronouns y/en",
+    "core_meaning": "Pronouns replacing prepositional phrases (y) and quantities/origins (en)",
+    "primary_communicative_fn": "Avoiding repetition of locations and quantities in discourse",
+    "when_to_use": "When referring back to previously mentioned places (y) or quantities/origins (en)",
+    "pattern": "sujet + verbe + y/en / position before conjugated verb",
+    "key_variations": [
+      "J'y vais (I'm going there — replaces à + location)",
+      "J'en viens (I'm coming from there — replaces de + location)",
+      "J'en veux trois (I want three of them — replaces de + noun)",
+      "Vous en avez? (Do you have some? — replaces de + noun)"
+    ],
+    "essential_vocabulary_slots": "y, en, aller, venir, avoir, vouloir, besoin, trois",
+    "common_learner_mistakes": [
+      "Using both y and en together incorrectly",
+      "Misplacing y/en in relation to verb",
+      "Confusion about which pronoun replaces which construction"
+    ],
+    "chunk_compatibility": "Pronoun substitution chunks (*J'y vais*, *J'en veux*, *On en parle*)",
+    "primary_function": "Efficient pronoun substitution; avoiding repetition in discourse",
+    "key_forms": "J'y vais / J'en viens / J'en veux / Vous en avez?",
+    "essential_vocabulary": "y, en, aller, venir, avoir, vouloir, besoin, parler, penser",
+    "why_it_matters": "Y/en are frequent in natural French; mastery essential for fluent conversation",
+    "common_mistakes": "Misplacing pronouns; using both y and en; forgetting ne in negative structures"
+  }
+]

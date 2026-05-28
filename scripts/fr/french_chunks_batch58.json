@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "je postule pour le poste de",
+    "meaning": "I am applying for the position of",
+    "primary_function": "Job application expression",
+    "communicative_purpose": "To formally introduce a job application during interviews or cover letters",
+    "trigger_situations": "Job interviews, cover letters, employment agencies, online applications",
+    "contexts": "Professional, formal written/spoken contexts, employment settings",
+    "variations": "je suis candidat au poste de, je souhaite postuler au poste de",
+    "common_mistakes": "Confusing gender agreement; using wrong preposition 'pour' instead of 'au'",
+    "level": "B2",
+    "patterns": [
+      "je + postule + pour + le + poste + de + [position]"
+    ],
+    "collocates": "poste, candidature, curriculum vitae, lettre de motivation",
+    "example_1": "Je postule pour le poste de directeur marketing.",
+    "example_2": "Elle postule pour le poste de développeuse web.",
+    "example_3": "Nous postule pour le poste vacant depuis une semaine.",
+    "example_1_translation": "I am applying for the position of Marketing Director.",
+    "example_2_translation": "She is applying for the position of web developer.",
+    "example_3_translation": "We have been applying for the vacant position for a week."
+  },
+  {
+    "chunk_text": "quelles sont vos compétences principales",
+    "meaning": "what are your main skills/competencies",
+    "primary_function": "Interview question about qualifications",
+    "communicative_purpose": "Asking a candidate about their key strengths during job interviews",
+    "trigger_situations": "Job interviews, performance reviews, skill assessments",
+    "contexts": "Professional interviews, HR contexts, workplace evaluations",
+    "variations": "quelles sont vos compétences, quelles compétences avez-vous, quelles sont vos qualités",
+    "common_mistakes": "Confusing 'compétences' (skills) with 'qualités' (personal qualities); using formal vous inappropriately",
+    "level": "B2",
+    "patterns": [
+      "quelles + sont + vos + compétences + principales"
+    ],
+    "collocates": "compétences, principales, qualities, strengths, strengths, skills",
+    "example_1": "Quelles sont vos compétences principales dans ce domaine ?",
+    "example_2": "Quelles sont vos compétences principales que vous apporterez à l'équipe ?",
+    "example_3": "Quelles sont vos compétences principales pour ce poste ?",
+    "example_1_translation": "What are your main skills in this area?",
+    "example_2_translation": "What are your key skills that you will bring to the team?",
+    "example_3_translation": "What are your main skills for this position?"
+  },
+  {
+    "chunk_text": "je suis convaincu que",
+    "meaning": "I am convinced that",
+    "primary_function": "Expression of conviction in professional context",
+    "communicative_purpose": "Expressing firm belief or persuasion, used in arguments, proposals, and presentations",
+    "trigger_situations": "Presentations, negotiations,说服他人, making strong arguments",
+    "contexts": "Business meetings, conferences, formal discussions, persuasive speaking",
+    "variations": "je suis persuadé que, je suis certain que, je suis persuadé(e)",
+    "common_mistakes": "Confusing gender agreement with feminine subjects; using indicative when subjunctive may be needed",
+    "level": "B2",
+    "patterns": [
+      "je + suis + convaincu(e) + que + [clause]"
+    ],
+    "collocates": "convaincu, persuadé, certain, confiant, optimization",
+    "example_1": "Je suis convaincu que cette stratégie fonctionnera.",
+    "example_2": "Nous sommes convaincus que le projet sera rentable.",
+    "example_3": "Elle est convaincue que nous devons changer d'approche.",
+    "example_1_translation": "I am confident this strategy will work.",
+    "example_2_translation": "We are convinced that the project will be profitable.",
+    "example_3_translation": "She is convinced that we need to change our approach."
+  },
+  {
+    "chunk_text": "pourriez-vous me fournir",
+    "meaning": "could you provide me with",
+    "primary_function": "Polite formal request expression",
+    "communicative_purpose": "Making formal, polite requests for information or documents",
+    "trigger_situations": "Business correspondence, administrative procedures, requesting documents",
+    "contexts": "Formal written/spoken, offices, administration, professional communication",
+    "variations": "pourriez-vous me communiquer, auriez-vous l'obligeance de me fournir, puis-je vous demander",
+    "common_mistakes": "Confusing 'fournir' with 'donner' (less formal); not using conditional for politeness",
+    "level": "B2",
+    "patterns": [
+      "pourriez-vous + me + fournir + [document/info]"
+    ],
+    "collocates": "fournir, informations, documents, détails, preuves",
+    "example_1": "Pourriez-vous me fournir les documents nécessaires ?",
+    "example_2": "Pourriez-vous me fournir votre adresse email professionnelle ?",
+    "example_3": "Pourriez-vous me fournir plus de détails sur le projet ?",
+    "example_1_translation": "Could you provide me with the necessary documents?",
+    "example_2_translation": "Could you provide me with your professional email address?",
+    "example_3_translation": "Could you provide me with more details about the project?"
+  },
+  {
+    "chunk_text": "nous avons le plaisir de vous informer",
+    "meaning": "we are pleased to inform you",
+    "primary_function": "Formal business communication opening",
+    "communicative_purpose": "Formal way to announce positive news or decisions in business correspondence",
+    "trigger_situations": "Acceptance letters, notifications, official announcements, business emails",
+    "contexts": "Formal written communication, HR departments, executive correspondence",
+    "variations": "nous avons le plaisir de vous annoncer, nous avons l'honneur de vous informer, nous sommes heureux de vous communiquer",
+    "common_mistakes": "Using in informal contexts where it's too stiff; confusing with negative announcements",
+    "level": "B2",
+    "patterns": [
+      "nous + avons + le + plaisir + de + vous + informer + que"
+    ],
+    "collocates": "plaisir, informer, annoncer, communiquer, notifier",
+    "example_1": "Nous avons le plaisir de vous informer de votre admission.",
+    "example_2": "Nous avons le plaisir de vous informer que votre candidature a été retenue.",
+    "example_3": "Nous avons le plaisir de vous informer des résultats positifs.",
+    "example_1_translation": "We are pleased to inform you of your admission.",
+    "example_2_translation": "We are pleased to inform you that your application has been accepted.",
+    "example_3_translation": "We are pleased to inform you of the positive results."
+  },
+  {
+    "chunk_text": "je tiens à vous remercier",
+    "meaning": "I would like to thank you",
+    "primary_function": "Formal expression of gratitude",
+    "communicative_purpose": "More elaborate way to express thanks in professional contexts",
+    "trigger_situations": "Business letters, formal emails, speeches, award ceremonies",
+    "contexts": "Formal written/spoken, professional settings, ceremonies",
+    "variations": "je tiens à vous exprimer ma gratitude, je souhaite vous remercier, je voudrais vous remercier",
+    "common_mistakes": "Overusing in casual contexts; forgetting the preposition 'à' before indirect object",
+    "level": "B2",
+    "patterns": [
+      "je + tiens + à + vous + remercier + de/pour"
+    ],
+    "collocates": "remercier, gratitude, appréciation, reconnaissance, aide",
+    "example_1": "Je tiens à vous remercier pour votre soutien précieux.",
+    "example_2": "Je tiens à vous remercier de votre collaboration efficace.",
+    "example_3": "Je tiens à vous remercier sincèrement pour cette opportunité.",
+    "example_1_translation": "I would like to thank you for your valuable support.",
+    "example_2_translation": "I would like to thank you for your effective collaboration.",
+    "example_3_translation": "I would like to sincerely thank you for this opportunity."
+  },
+  {
+    "chunk_text": "en ce qui concerne",
+    "meaning": "regarding / concerning / as for",
+    "primary_function": "Reference expression for topic introduction",
+    "communicative_purpose": "To introduce or redirect to a specific topic in formal discourse",
+    "trigger_situations": "Meetings, reports, emails, formal discussions, academic writing",
+    "contexts": "Formal written/spoken, business correspondence, academic contexts",
+    "variations": "concernant, pour ce qui est de, en ce qui a trait à, relativement à",
+    "common_mistakes": "Confusing with 'pour ce qui est de'; using too formally in casual speech",
+    "level": "B2",
+    "patterns": [
+      "en + ce + qui + concerne + [topic]"
+    ],
+    "collocates": "concerne, concernant, à propos, relatif, sujet",
+    "example_1": "En ce qui concerne le budget, nous devons revoir les chiffres.",
+    "example_2": "En ce qui concerne votre demande, elle est en cours de traitement.",
+    "example_3": "En ce qui concerne le planning, nous avons du retard.",
+    "example_1_translation": "Regarding the budget, we need to review the figures.",
+    "example_2_translation": "Regarding your request, it is being processed.",
+    "example_3_translation": "As far as planning is concerned, we are behind schedule."
+  },
+  {
+    "chunk_text": "à votre entière disposition",
+    "meaning": "at your complete disposal / at your service",
+    "primary_function": "Formal offer of assistance",
+    "communicative_purpose": "Polite expression indicating willingness to help, commonly used in closings",
+    "trigger_situations": "End of business letters/emails, meetings, customer service, formal offers",
+    "contexts": "Formal written communication, business correspondence, professional service",
+    "variations": "à votre service, à votre entière disposition, à votre disposition, à votre écoute",
+    "common_mistakes": "Using inappropriately in casual contexts; overusing as a closing phrase",
+    "level": "B2",
+    "patterns": [
+      "à + votre + entière + disposition"
+    ],
+    "collocates": "disposition, service, aide, assistance, disponibilité",
+    "example_1": "Je reste à votre entière disposition pour tout complément d'information.",
+    "example_2": "Notre équipe est à votre entière disposition pour répondre à vos questions.",
+    "example_3": "N'hésitez pas, nous sommes à votre entière disposition.",
+    "example_1_translation": "I remain at your entire disposal for any further information.",
+    "example_2_translation": "Our team is at your complete disposal to answer your questions.",
+    "example_3_translation": "Do not hesitate, we are at your complete disposal."
+  },
+  {
+    "chunk_text": "je me permets de vous contacter",
+    "meaning": "I am taking the liberty of contacting you",
+    "primary_function": "Formal introduction of contact request",
+    "communicative_purpose": "Polite way to introduce oneself when making unsolicited contact",
+    "trigger_situations": "Cold emails, networking, business development, first contact with potential clients",
+    "contexts": "Formal written communication, business development, networking",
+    "variations": "je me permets de vous écrire, je prends la liberté de vous contacter, je me permets de solliciter",
+    "common_mistakes": "Overusing 'se permettre'; confusing with 'oser' which implies more boldness",
+    "level": "B2",
+    "patterns": [
+      "je + me + permets + de + vous + contacter"
+    ],
+    "collocates": "permet, contacter, écrire, solliciter, approche",
+    "example_1": "Je me permets de vous contacter suite à notre rencontre au salon.",
+    "example_2": "Je me permets de vous contacter au sujet de votre offre d'emploi.",
+    "example_3": "Je me permets de vous contacter pour vous présenter nos services.",
+    "example_1_translation": "I would like to contact you following our meeting at the show.",
+    "example_2_translation": "I would like to contact you regarding your job offer.",
+    "example_3_translation": "I would like to contact you to present our services to you."
+  },
+  {
+    "chunk_text": "dans le cadre de mes fonctions",
+    "meaning": "in my capacity / in the course of my duties",
+    "primary_function": "Professional role justification expression",
+    "communicative_purpose": "To specify that an action is performed officially as part of one's job",
+    "trigger_situations": "Official communications, legal contexts, administrative procedures, workplace explanations",
+    "contexts": "Formal professional, administrative, governmental contexts",
+    "variations": "dans l'exercice de mes fonctions, dans le cadre professionnel, en ma qualité de",
+    "common_mistakes": "Confusing with 'au travail' (too informal); using in wrong grammatical context",
+    "level": "B2",
+    "patterns": [
+      "dans + le + cadre + de + mes + fonctions"
+    ],
+    "collocates": "fonctions, duties, rôle, mission, responsibilities, poste",
+    "example_1": "Dans le cadre de mes fonctions, je supervise une équipe de dix personnes.",
+    "example_2": "Dans le cadre de mes fonctions à la mairie, je gère les dossiers sociaux.",
+    "example_3": "Dans le cadre de ses fonctions, elle représente l'entreprise lors des événements.",
+    "example_1_translation": "As part of my duties, I supervise a team of ten people.",
+    "example_2_translation": "As part of my duties at town hall, I manage social files.",
+    "example_3_translation": "As part of her duties, she represents the company at events."
+  },
+  {
+    "chunk_text": "sous réserve de",
+    "meaning": "subject to / conditional upon",
+    "primary_function": "Conditional formal expression",
+    "communicative_purpose": "To indicate that something depends on certain conditions being met",
+    "trigger_situations": "Contracts, agreements, approvals, legal documents, conditional offers",
+    "contexts": "Formal written, legal documents, contracts, formal negotiations",
+    "variations": "à condition de, moyennant, pour autant que, sous réserve que",
+    "common_mistakes": "Confusing with 'à moins que'; forgetting the indicative vs subjunctive distinction",
+    "level": "B2",
+    "patterns": [
+      "sous + réserve + de + [condition]"
+    ],
+    "collocates": "réserve, condition, accord, validation, confirmation",
+    "example_1": "L'inscription est validée sous réserve de réception des documents.",
+    "example_2": "Sous réserve de votre accord, nous procéderons à la signature demain.",
+    "example_3": "Le paiement est suspendu sous réserve de vérification.",
+    "example_1_translation": "Registration is validated subject to receipt of documents.",
+    "example_2_translation": "Subject to your agreement, we will proceed with the signing tomorrow.",
+    "example_3_translation": "Payment is suspended subject to verification."
+  },
+  {
+    "chunk_text": "je sollicite votre attention",
+    "meaning": "I am seeking your attention",
+    "primary_function": "Formal call for attention expression",
+    "communicative_purpose": "Polite way to request that someone pay attention to the following information",
+    "trigger_situations": "Business letters, emails, presentations, memos, official communications",
+    "contexts": "Formal written, business correspondence, official announcements",
+    "variations": "je me permets de solliciter votre attention, je vous prie de kindly attention, your attention is requested",
+    "common_mistakes": "Using in spoken contexts where it's too formal; confusing with 'demander'",
+    "level": "B2",
+    "patterns": [
+      "je + sollicite + votre + attention"
+    ],
+    "collocates": "sollicite, attention, bienveillante, bienveillante, particulière",
+    "example_1": "Je sollicite votre attention pour ce sujet urgent.",
+    "example_2": "Je sollicite votre attention concernant une affaire importante.",
+    "example_3": "Je sollicite votre attention bienveillante sur ce dossier.",
+    "example_1_translation": "I request your attention to this urgent matter.",
+    "example_2_translation": "I request your attention regarding an important matter.",
+    "example_3_translation": "I request your kind attention on this matter."
+  },
+  {
+    "chunk_text": "ci-joint votre colis",
+    "meaning": "please find enclosed your package",
+    "primary_function": "Formal enclosure expression",
+    "communicative_purpose": "Indicating that documents or items are attached to a letter or package",
+    "trigger_situations": "Shipping confirmations, document mailing, formal correspondence with attachments",
+    "contexts": "Formal written, postal services, business correspondence",
+    "variations": "veuillez trouver ci-joint, vous trouverez ci-joint, ci-inclus",
+    "common_mistakes": "Agreement errors with 'ci-joint' (invariable in modern French); confusing masculine/feminine forms",
+    "level": "B2",
+    "patterns": [
+      "ci-joint + [object]"
+    ],
+    "collocates": "ci-joint, colis, documents, dossier, pièces",
+    "example_1": "Ci-joint votre colis que vous attendiez depuis mardi.",
+    "example_2": "Ci-joint votre colis avec tous les documents demandés.",
+    "example_3": "Ci-joint votre colis, vérifier le contenu à réception.",
+    "example_1_translation": "Enclosed is your package that you have been waiting for since Tuesday.",
+    "example_2_translation": "Attached is your package with all the requested documents.",
+    "example_3_translation": "Enclosed is your package, check the contents upon receipt."
+  },
+  {
+    "chunk_text": "je me réjouis de",
+    "meaning": "I am delighted to / I look forward to",
+    "primary_function": "Expression of pleasure about future event",
+    "communicative_purpose": "Expressing anticipation or satisfaction about something in formal contexts",
+    "trigger_situations": "Accepting invitations, confirming positive outcomes, business celebrations",
+    "contexts": "Formal written communication, business correspondence, formal social contexts",
+    "variations": "je me réjouis de, je me réjouis à l'idée de, je me félicite de",
+    "common_mistakes": "Confusing with 'se réjouir' (reflexive pronoun agreement); using too formally",
+    "level": "B2",
+    "patterns": [
+      "je + me + réjouis + de + [noun/gerund]"
+    ],
+    "collocates": "réjouis, anticipated, satisfait, content, pleased",
+    "example_1": "Je me réjouis de cette collaboration future avec votre entreprise.",
+    "example_2": "Je me réjouis de vous rencontrer lors de la conférence.",
+    "example_3": "Nous nous réjouis de voir ce projet aboutir enfin.",
+    "example_1_translation": "I look forward to this future collaboration with your company.",
+    "example_2_translation": "I look forward to meeting you at the conference.",
+    "example_3_translation": "We are delighted to see this project finally come to fruition."
+  },
+  {
+    "chunk_text": "dans l'attente de votre réponse",
+    "meaning": "looking forward to your reply / awaiting your response",
+    "primary_function": "Formal closing expression",
+    "communicative_purpose": "Polite closing indicating expectation of response, commonly used in business letters",
+    "trigger_situations": "Business letters, formal emails, official requests, administrative correspondence",
+    "contexts": "Formal written communication, business correspondence",
+    "variations": "dans l'attente de votre retour, dans l'attente de votre réponse, dans l'attente de vous lire",
+    "common_mistakes": "Using in casual emails where it's too formal; forgetting 'de' before infinitive",
+    "level": "B2",
+    "patterns": [
+      "dans + l'attente + de + votre + réponse"
+    ],
+    "collocates": "attente, réponse, retour, délai, confirmation",
+    "example_1": "Dans l'attente de votre réponse, je vous prie d'agréer mes salutations.",
+    "example_2": "Dans l'attente de votre réponse, je reste à votre disposition.",
+    "example_3": "Dans l'attente de votre réponse rapide, je vous souhaite une bonne journée.",
+    "example_1_translation": "While awaiting your response, please accept my greetings.",
+    "example_2_translation": "While awaiting your response, I remain at your disposal.",
+    "example_3_translation": "Looking forward to your quick response, I wish you a good day."
+  }
+]

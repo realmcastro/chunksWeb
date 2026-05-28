@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "réserver une table",
+    "meaning": "to reserve a table",
+    "primary_function": "expression",
+    "communicative_purpose": "restaurant reservations",
+    "patterns": [
+      "Je voudrais réserver une table pour deux personnes",
+      "Avez-vous réservé une table?"
+    ],
+    "collocates": [
+      "restaurant",
+      "couverts",
+      "horaire",
+      "confirmation"
+    ],
+    "level": "A2",
+    "example_1": "Je voudrais réserver une table pour deux personnes",
+    "example_2": "Avez-vous réservé une table?",
+    "example_3": "On utilise réserver une table dans la vie quotidienne.",
+    "example_1_translation": "I would like to reserve a table for two people",
+    "example_2_translation": "Have you reserved a table?",
+    "example_3_translation": "We use to reserve a table in everyday life."
+  },
+  {
+    "chunk_text": "passer une commande",
+    "meaning": "to place an order",
+    "primary_function": "expression",
+    "communicative_purpose": "ordering food",
+    "patterns": [
+      "Vous êtes prêts à passer une commande?",
+      "J'ai passé la commande il y a 20 minutes"
+    ],
+    "collocates": [
+      "serveur",
+      "carte",
+      "plat",
+      "addition"
+    ],
+    "level": "A2",
+    "example_1": "Vous êtes prêts à passer une commande?",
+    "example_2": "J'ai passé la commande il y a 20 minutes",
+    "example_3": "On utilise passer une commande dans la vie quotidienne.",
+    "example_1_translation": "Are you ready to place an order?",
+    "example_2_translation": "I placed the order 20 minutes ago",
+    "example_3_translation": "We use placing an order in everyday life."
+  },
+  {
+    "chunk_text": "avoir un régime spécial",
+    "meaning": "to have a special diet",
+    "primary_function": "expression",
+    "communicative_purpose": "dietary requirements",
+    "patterns": [
+      "J'ai un régime spécial, je suis végétarien",
+      "Avez-vous des plats pour un régime spécial?"
+    ],
+    "collocates": [
+      "végétalien",
+      "sans gluten",
+      "allergie",
+      "intolérance"
+    ],
+    "level": "A2",
+    "example_1": "J'ai un régime spécial, je suis végétarien",
+    "example_2": "Avez-vous des plats pour un régime spécial?",
+    "example_3": "On utilise avoir un régime spécial dans la vie quotidienne.",
+    "example_1_translation": "I have a special diet, I am vegetarian",
+    "example_2_translation": "Do you have dishes for a special diet?",
+    "example_3_translation": "We use having a special diet in daily life."
+  },
+  {
+    "chunk_text": "payer l'addition",
+    "meaning": "to pay the bill",
+    "primary_function": "expression",
+    "communicative_purpose": "paying at restaurant",
+    "patterns": [
+      "La serveur, pouvez-vous apporter l'addition?",
+      "Je vais payer l'addition"
+    ],
+    "collocates": [
+      "pourboire",
+      "Espèces",
+      "carte",
+      "ticket"
+    ],
+    "level": "A1",
+    "example_1": "La serveur, pouvez-vous apporter l'addition?",
+    "example_2": "Je vais payer l'addition",
+    "example_3": "Je connais payer l'addition.",
+    "example_1_translation": "Waiter, can you bring the bill?",
+    "example_2_translation": "I'll pay the bill",
+    "example_3_translation": "I know how to pay the bill."
+  },
+  {
+    "chunk_text": "faire la cuisine",
+    "meaning": "to cook",
+    "primary_function": "expression",
+    "communicative_purpose": "cooking",
+    "patterns": [
+      "Elle adore faire la cuisine",
+      "Je ne sais pas faire la cuisine"
+    ],
+    "collocates": [
+      "recette",
+      "ustensiles",
+      "ingrédients",
+      "casserole"
+    ],
+    "level": "A1",
+    "example_1": "Elle adore faire la cuisine",
+    "example_2": "Je ne sais pas faire la cuisine",
+    "example_3": "Je connais faire la cuisine.",
+    "example_1_translation": "She loves to cook",
+    "example_2_translation": "I don't know how to cook",
+    "example_3_translation": "I know how to cook."
+  },
+  {
+    "chunk_text": "goûter un plat",
+    "meaning": "to taste a dish",
+    "primary_function": "expression",
+    "communicative_purpose": "food tasting",
+    "patterns": [
+      "Vous pouvez goûter ce plat?",
+      "J'ai goûté le plat et c'est excellent"
+    ],
+    "collocates": [
+      "dégustation",
+      "échantillon",
+      "saveur",
+      "épices"
+    ],
+    "level": "A2",
+    "example_1": "Vous pouvez goûter ce plat?",
+    "example_2": "J'ai goûté le plat et c'est excellent",
+    "example_3": "On utilise goûter un plat dans la vie quotidienne.",
+    "example_1_translation": "Can you taste this dish?",
+    "example_2_translation": "I tried the dish and it is excellent",
+    "example_3_translation": "We use to taste a dish in daily life."
+  },
+  {
+    "chunk_text": "servir à manger",
+    "meaning": "to serve food",
+    "primary_function": "expression",
+    "communicative_purpose": "food service",
+    "patterns": [
+      "Le plat est servi chaud",
+      "À quelle heure servez-vous à manger?"
+    ],
+    "collocates": [
+      "assiette",
+      "couvert",
+      "chauffant",
+      "presentation"
+    ],
+    "level": "A1",
+    "example_1": "Le plat est servi chaud",
+    "example_2": "À quelle heure servez-vous à manger?",
+    "example_3": "Je connais servir à manger.",
+    "example_1_translation": "The dish is served hot",
+    "example_2_translation": "What time do you serve food?",
+    "example_3_translation": "I know how to serve food."
+  },
+  {
+    "chunk_text": "avoir faim",
+    "meaning": "to be hungry",
+    "primary_function": "sentence",
+    "communicative_purpose": "expressing hunger",
+    "patterns": [
+      "J'ai très faim ce soir",
+      "Avez-vous faim après la promenade?"
+    ],
+    "collocates": [
+      "appétit",
+      "affamé",
+      "soif",
+      "repas"
+    ],
+    "level": "A1",
+    "example_1": "J'ai très faim ce soir",
+    "example_2": "Avez-vous faim après la promenade?",
+    "example_3": "Je connais avoir faim.",
+    "example_1_translation": "I'm very hungry tonight",
+    "example_2_translation": "Are you hungry after the walk?",
+    "example_3_translation": "I know how to be hungry."
+  },
+  {
+    "chunk_text": "manger au restaurant",
+    "meaning": "to eat at a restaurant",
+    "primary_function": "expression",
+    "communicative_purpose": "dining out",
+    "patterns": [
+      "On va manger au restaurant ce soir",
+      "Il aime manger au restaurant"
+    ],
+    "collocates": [
+      "menu",
+      "service",
+      "ambiance",
+      "cuisine"
+    ],
+    "level": "A1",
+    "example_1": "On va manger au restaurant ce soir",
+    "example_2": "Il aime manger au restaurant",
+    "example_3": "Je connais manger au restaurant.",
+    "example_1_translation": "We're going to eat at the restaurant tonight",
+    "example_2_translation": "He likes to eat at restaurants",
+    "example_3_translation": "I know how to eat in restaurants."
+  },
+  {
+    "chunk_text": "commander le dessert",
+    "meaning": "to order dessert",
+    "primary_function": "expression",
+    "communicative_purpose": "ordering dessert",
+    "patterns": [
+      "Je vais commander le dessert",
+      "On peut commander le dessert maintenant?"
+    ],
+    "collocates": [
+      "tarte",
+      "glace",
+      "café",
+      "addition"
+    ],
+    "level": "A2",
+    "example_1": "Je vais commander le dessert",
+    "example_2": "On peut commander le dessert maintenant?",
+    "example_3": "On utilise commander le dessert dans la vie quotidienne.",
+    "example_1_translation": "I'll order dessert",
+    "example_2_translation": "Can we order dessert now?",
+    "example_3_translation": "We use ordering dessert in everyday life."
+  },
+  {
+    "chunk_text": "prendre l'apéritif",
+    "meaning": "to have an aperitif",
+    "primary_function": "expression",
+    "communicative_purpose": "drinks before meal",
+    "patterns": [
+      "On prend l'apéritif avant le dîner?",
+      "Il a pris un apéritif au bar"
+    ],
+    "collocates": [
+      "kir",
+      "pastis",
+      "vermouth",
+      "amet"
+    ],
+    "level": "A2",
+    "example_1": "On prend l'apéritif avant le dîner?",
+    "example_2": "Il a pris un apéritif au bar",
+    "example_3": "On utilise prendre l'apéritif dans la vie quotidienne.",
+    "example_1_translation": "Shall we have an aperitif before dinner?",
+    "example_2_translation": "He had an aperitif at the bar",
+    "example_3_translation": "We use it as an aperitif in everyday life."
+  },
+  {
+    "chunk_text": "déguster le vin",
+    "meaning": "to taste/savor wine",
+    "primary_function": "expression",
+    "communicative_purpose": "wine tasting",
+    "patterns": [
+      "On va déguster le vin du château",
+      "Le sommelier nous a fait déguster trois vins"
+    ],
+    "collocates": [
+      "millésime",
+      "cépage",
+      "bouquet",
+      "robe"
+    ],
+    "level": "B1",
+    "example_1": "On va déguster le vin du château",
+    "example_2": "Le sommelier nous a fait déguster trois vins",
+    "example_3": "Je connais déguster le vin.",
+    "example_1_translation": "We are going to taste the castle wine",
+    "example_2_translation": "The sommelier made us taste three wines",
+    "example_3_translation": "I know how to taste wine."
+  },
+  {
+    "chunk_text": "cuisiner maison",
+    "meaning": "homemade cooking",
+    "primary_function": "expression",
+    "communicative_purpose": "food origin",
+    "patterns": [
+      "C'est une cuisine maison",
+      "Tous les plats sont faits maison"
+    ],
+    "collocates": [
+      "frais",
+      "artisan",
+      "traditionnel",
+      "fait maison"
+    ],
+    "level": "A2",
+    "example_1": "C'est une cuisine maison",
+    "example_2": "Tous les plats sont faits maison",
+    "example_3": "On utilise cuisiner maison dans la vie quotidienne.",
+    "example_1_translation": "It's home cooking",
+    "example_2_translation": "All dishes are homemade",
+    "example_3_translation": "We use home cooking in everyday life."
+  },
+  {
+    "chunk_text": "accompagner de vin",
+    "meaning": "to accompany with wine",
+    "primary_function": "expression",
+    "communicative_purpose": "food and wine pairing",
+    "patterns": [
+      "Ce plat accompagne bien de vin rouge",
+      "On recommande d'accompagner ce fromage de vin blanc"
+    ],
+    "collocates": [
+      "accord",
+      "mets",
+      "harmonie",
+      "bodega"
+    ],
+    "level": "B1",
+    "example_1": "Ce plat accompagne bien de vin rouge",
+    "example_2": "On recommande d'accompagner ce fromage de vin blanc",
+    "example_3": "Je connais accompagner de vin.",
+    "example_1_translation": "This dish goes well with red wine",
+    "example_2_translation": "We recommend accompanying this cheese with white wine.",
+    "example_3_translation": "I know how to accompany it with wine."
+  },
+  {
+    "chunk_text": "emporter les restes",
+    "meaning": "to take leftovers",
+    "primary_function": "expression",
+    "communicative_purpose": "doggy bag",
+    "patterns": [
+      "Vous voulez emporter les restes?",
+      "J'ai demandé qu'on m'emporte les restes"
+    ],
+    "collocates": [
+      "doggy bag",
+      "emballer",
+      "carton",
+      "gourmandise"
+    ],
+    "level": "B1",
+    "example_1": "Vous voulez emporter les restes?",
+    "example_2": "J'ai demandé qu'on m'emporte les restes",
+    "example_3": "Je connais emporter les restes.",
+    "example_1_translation": "Want to take leftovers?",
+    "example_2_translation": "I asked for the leftovers to be taken away",
+    "example_3_translation": "I know how to take leftovers."
+  }
+]

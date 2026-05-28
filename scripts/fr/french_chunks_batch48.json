@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "passer un entretien",
+    "meaning": "to have an interview",
+    "primary_function": "expression",
+    "communicative_purpose": "job interviews",
+    "patterns": [
+      "J'ai un entretien demain pour le poste",
+      "Il a passé trois entretiens"
+    ],
+    "collocates": [
+      "candidat",
+      "recruteur",
+      "poste",
+      "entreprise"
+    ],
+    "level": "A2",
+    "example_1": "J'ai un entretien demain pour le poste",
+    "example_2": "Il a passé trois entretiens",
+    "example_3": "On utilise passer un entretien dans la vie quotidienne.",
+    "example_1_translation": "I have an interview tomorrow for the position",
+    "example_2_translation": "He had three interviews",
+    "example_3_translation": "We use interviewing in everyday life."
+  },
+  {
+    "chunk_text": "déposer ma candidature",
+    "meaning": "to submit my application",
+    "primary_function": "expression",
+    "communicative_purpose": "job application",
+    "patterns": [
+      "J'ai déposé ma candidature en ligne",
+      "Vous pouvez déposer votre candidature sur le site"
+    ],
+    "collocates": [
+      "CV",
+      "lettre de motivation",
+      "offre d'emploi",
+      "candidature"
+    ],
+    "level": "A2",
+    "example_1": "J'ai déposé ma candidature en ligne",
+    "example_2": "Vous pouvez déposer votre candidature sur le site",
+    "example_3": "On utilise déposer ma candidature dans la vie quotidienne.",
+    "example_1_translation": "I submitted my application online",
+    "example_2_translation": "You can submit your application on the website",
+    "example_3_translation": "We use submit my application in daily life."
+  },
+  {
+    "chunk_text": "avoir de l'expérience",
+    "meaning": "to have experience",
+    "primary_function": "expression",
+    "communicative_purpose": "qualifications",
+    "patterns": [
+      "Il a cinq ans d'expérience dans le domaine",
+      "Vous avez de l'expérience?"
+    ],
+    "collocates": [
+      "diplôme",
+      "compétence",
+      "qualification",
+      "savoir-faire"
+    ],
+    "level": "A2",
+    "example_1": "Il a cinq ans d'expérience dans le domaine",
+    "example_2": "Vous avez de l'expérience?",
+    "example_3": "On utilise avoir de l'expérience dans la vie quotidienne.",
+    "example_1_translation": "He has five years of experience in the field",
+    "example_2_translation": "Do you have experience?",
+    "example_3_translation": "We use having experience in daily life."
+  },
+  {
+    "chunk_text": "préparer mon CV",
+    "meaning": "to prepare my resume",
+    "primary_function": "expression",
+    "communicative_purpose": "job search",
+    "patterns": [
+      "Je prépare mon CV pour l'entretien",
+      "Il faut bien préparer son CV"
+    ],
+    "collocates": [
+      "formation",
+      "expérience",
+      "compétence",
+      "référence"
+    ],
+    "level": "A2",
+    "example_1": "Je prépare mon CV pour l'entretien",
+    "example_2": "Il faut bien préparer son CV",
+    "example_3": "On utilise préparer mon CV dans la vie quotidienne.",
+    "example_1_translation": "I am preparing my CV for the interview",
+    "example_2_translation": "You need to prepare your CV well",
+    "example_3_translation": "We use preparing my CV in daily life."
+  },
+  {
+    "chunk_text": "correspondre au profil",
+    "meaning": "to match the profile",
+    "primary_function": "expression",
+    "communicative_purpose": "job matching",
+    "patterns": [
+      "Je corresponds au profil recherché",
+      "Le candidat correspond parfaitement au profil"
+    ],
+    "collocates": [
+      "critère",
+      "requis",
+      "qualification",
+      "adaptation"
+    ],
+    "level": "B1",
+    "example_1": "Je corresponds au profil recherché",
+    "example_2": "Le candidat correspond parfaitement au profil",
+    "example_3": "Je connais correspondre au profil.",
+    "example_1_translation": "I match the desired profile",
+    "example_2_translation": "The candidate perfectly matches the profile",
+    "example_3_translation": "I know how to fit the profile."
+  },
+  {
+    "chunk_text": "list mes compétences",
+    "meaning": "to list my skills",
+    "primary_function": "expression",
+    "communicative_purpose": "skills presentation",
+    "patterns": [
+      "Je vais lister mes compétences sur le CV",
+      "Faites une liste de vos compétences"
+    ],
+    "collocates": [
+      "savoir-faire",
+      "savoir-être",
+      "langues",
+      "informatique"
+    ],
+    "level": "A2",
+    "example_1": "Je vais lister mes compétences sur le CV",
+    "example_2": "Faites une liste de vos compétences",
+    "example_3": "On utilise list mes compétences dans la vie quotidienne.",
+    "example_1_translation": "I will list my skills on the CV",
+    "example_2_translation": "Make a list of your skills",
+    "example_3_translation": "We use my skills in daily life."
+  },
+  {
+    "chunk_text": "négocier mon salaire",
+    "meaning": "to negotiate my salary",
+    "primary_function": "expression",
+    "communicative_purpose": "salary negotiation",
+    "patterns": [
+      "Je vais négocier mon salaire lors de l'entretien",
+      "Il a bien négocié son salaire"
+    ],
+    "collocates": [
+      "rémunération",
+      "prime",
+      "avantage",
+      "condition"
+    ],
+    "level": "B1",
+    "example_1": "Je vais négocier mon salaire lors de l'entretien",
+    "example_2": "Il a bien négocié son salaire",
+    "example_3": "Je connais négocier mon salaire.",
+    "example_1_translation": "I will negotiate my salary during the interview",
+    "example_2_translation": "He negotiated his salary well",
+    "example_3_translation": "I know how to negotiate my salary."
+  },
+  {
+    "chunk_text": "être autonome",
+    "meaning": "to be autonomous",
+    "primary_function": "expression",
+    "communicative_purpose": "job qualities",
+    "patterns": [
+      "Je suis autonome dans mon travail",
+      "Le poste demande une personne autonome"
+    ],
+    "collocates": [
+      "indépendance",
+      "initiative",
+      "responsabilité",
+      "organisation"
+    ],
+    "level": "B1",
+    "example_1": "Je suis autonome dans mon travail",
+    "example_2": "Le poste demande une personne autonome",
+    "example_3": "Je connais être autonome.",
+    "example_1_translation": "I am autonomous in my work",
+    "example_2_translation": "The position requires an independent person",
+    "example_3_translation": "I know how to be independent."
+  },
+  {
+    "chunk_text": "travailler sous pression",
+    "meaning": "to work under pressure",
+    "primary_function": "expression",
+    "communicative_purpose": "work conditions",
+    "patterns": [
+      "Je sais travailler sous pression",
+      "Ce poste demande de travailler sous pression"
+    ],
+    "collocates": [
+      "délai",
+      "stress",
+      "calme",
+      "gestion"
+    ],
+    "level": "B1",
+    "example_1": "Je sais travailler sous pression",
+    "example_2": "Ce poste demande de travailler sous pression",
+    "example_3": "Je connais travailler sous pression.",
+    "example_1_translation": "I know how to work under pressure",
+    "example_2_translation": "This position requires working under pressure",
+    "example_3_translation": "I know how to work under pressure."
+  },
+  {
+    "chunk_text": "rejoindre une entreprise",
+    "meaning": "to join a company",
+    "primary_function": "expression",
+    "communicative_purpose": "employment",
+    "patterns": [
+      "Je vais rejoindre cette entreprise en septembre",
+      "Il a rejoint l'équipe l'année dernière"
+    ],
+    "collocates": [
+      "embauche",
+      "intégration",
+      "équipe",
+      "collègue"
+    ],
+    "level": "B1",
+    "example_1": "Je vais rejoindre cette entreprise en septembre",
+    "example_2": "Il a rejoint l'équipe l'année dernière",
+    "example_3": "Je connais rejoindre une entreprise.",
+    "example_1_translation": "I will join this company in September",
+    "example_2_translation": "He joined the team last year",
+    "example_3_translation": "I know how to join a company."
+  },
+  {
+    "chunk_text": "faire un stage",
+    "meaning": "to do an internship",
+    "primary_function": "expression",
+    "communicative_purpose": "internship",
+    "patterns": [
+      "Je fais un stage dans une entreprise",
+      "Il a fait un stage de six mois"
+    ],
+    "collocates": [
+      "stagiaire",
+      "tuteur",
+      "formation",
+      "expérience"
+    ],
+    "level": "A2",
+    "example_1": "Je fais un stage dans une entreprise",
+    "example_2": "Il a fait un stage de six mois",
+    "example_3": "On utilise faire un stage dans la vie quotidienne.",
+    "example_1_translation": "I am doing an internship in a company",
+    "example_2_translation": "He did a six-month internship",
+    "example_3_translation": "We use doing an internship in daily life."
+  },
+  {
+    "chunk_text": "être débordé",
+    "meaning": "to be overwhelmed",
+    "primary_function": "expression",
+    "communicative_purpose": "workload",
+    "patterns": [
+      "Je suis débordé en ce moment",
+      "L'équipe est débordée"
+    ],
+    "collocates": [
+      " surcharge",
+      "travail",
+      "délai",
+      "stress"
+    ],
+    "level": "B1",
+    "example_1": "Je suis débordé en ce moment",
+    "example_2": "L'équipe est débordée",
+    "example_3": "Je connais être débordé.",
+    "example_1_translation": "I'm overwhelmed right now",
+    "example_2_translation": "The team is overwhelmed",
+    "example_3_translation": "I know being overwhelmed."
+  },
+  {
+    "chunk_text": "poser des congés",
+    "meaning": "to take leave",
+    "primary_function": "expression",
+    "communicative_purpose": "time off",
+    "patterns": [
+      "Je vais poser des congés pour les vacances",
+      "Il faut poser ses congés à l'avance"
+    ],
+    "collocates": [
+      "vacances",
+      "RTT",
+      "maladie",
+      "autorisation"
+    ],
+    "level": "A2",
+    "example_1": "Je vais poser des congés pour les vacances",
+    "example_2": "Il faut poser ses congés à l'avance",
+    "example_3": "On utilise poser des congés dans la vie quotidienne.",
+    "example_1_translation": "I'm going to take time off for the holidays",
+    "example_2_translation": "You must take your leave in advance",
+    "example_3_translation": "We use leave in everyday life."
+  },
+  {
+    "chunk_text": "changer de carrière",
+    "meaning": "to change careers",
+    "primary_function": "expression",
+    "communicative_purpose": "career change",
+    "patterns": [
+      "Il a décidé de changer de carrière",
+      "Je pense à changer de carrière"
+    ],
+    "collocates": [
+      "réorientation",
+      "formation",
+      "passion",
+      "reconversion"
+    ],
+    "level": "B2",
+    "example_1": "Il a décidé de changer de carrière",
+    "example_2": "Je pense à changer de carrière",
+    "example_3": "On utilise changer de carrière dans la vie quotidienne.",
+    "example_1_translation": "He decided to change careers",
+    "example_2_translation": "I'm thinking about changing careers",
+    "example_3_translation": "We use changing careers in everyday life."
+  },
+  {
+    "chunk_text": "être en période d'essai",
+    "meaning": "to be on probation",
+    "primary_function": "expression",
+    "communicative_purpose": "probation period",
+    "patterns": [
+      "Je suis en période d'essai depuis un mois",
+      "La période d'essai dure trois mois"
+    ],
+    "collocates": [
+      "CDI",
+      "CDD",
+      "continuation",
+      "fin"
+    ],
+    "level": "B1",
+    "example_1": "Je suis en période d'essai depuis un mois",
+    "example_2": "La période d'essai dure trois mois",
+    "example_3": "Je connais être en période d'essai.",
+    "example_1_translation": "I've been on trial for a month",
+    "example_2_translation": "The trial period lasts three months",
+    "example_3_translation": "I know I'm on probation."
+  }
+]

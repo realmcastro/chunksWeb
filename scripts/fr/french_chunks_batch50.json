@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "envoyer un e-mail",
+    "meaning": "to send an email",
+    "primary_function": "expression",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Je vous envoie un e-mail",
+      "Je lui ai envoyé un e-mail hier"
+    ],
+    "collocates": [
+      "message",
+      "pièce jointe",
+      "destinataire",
+      "objet"
+    ],
+    "level": "A2",
+    "example_1": "Je vous envoie un e-mail",
+    "example_2": "Je lui ai envoyé un e-mail hier",
+    "example_3": "On utilise envoyer un e-mail dans la vie quotidienne.",
+    "example_1_translation": "I'll send you an email",
+    "example_2_translation": "I emailed him yesterday",
+    "example_3_translation": "We use sending an email in daily life."
+  },
+  {
+    "chunk_text": "pièce jointe",
+    "meaning": "attachment",
+    "primary_function": "noun",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Veuillez trouver la pièce jointe",
+      "Je joins le fichier en pièce jointe"
+    ],
+    "collocates": [
+      "télécharger",
+      "ouvrir",
+      "format",
+      "taille"
+    ],
+    "level": "A2",
+    "example_1": "Veuillez trouver la pièce jointe",
+    "example_2": "Je joins le fichier en pièce jointe",
+    "example_3": "On utilise pièce jointe dans la vie quotidienne.",
+    "example_1_translation": "Please find the attachment",
+    "example_2_translation": "I attach the file as an attachment",
+    "example_3_translation": "We use attachment in daily life."
+  },
+  {
+    "chunk_text": "copie à",
+    "meaning": "cc (carbon copy)",
+    "primary_function": "expression",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Je mets le directeur en copie",
+      "En copie, M. Dupont"
+    ],
+    "collocates": [
+      "destinataire",
+      " CCI",
+      "e-mail",
+      "transmettre"
+    ],
+    "level": "B1",
+    "example_1": "Je mets le directeur en copie",
+    "example_2": "En copie, M. Dupont",
+    "example_3": "Je connais copie à.",
+    "example_1_translation": "I copy the director",
+    "example_2_translation": "In copy, Mr. Dupont",
+    "example_3_translation": "I know copy to."
+  },
+  {
+    "chunk_text": "répondre à un message",
+    "meaning": "to reply to a message",
+    "primary_function": "expression",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Merci de répondre à mon message",
+      "Je répondrai à votre message demain"
+    ],
+    "collocates": [
+      "e-mail",
+      "courrier",
+      "promptement",
+      "délai"
+    ],
+    "level": "A2",
+    "example_1": "Merci de répondre à mon message",
+    "example_2": "Je répondrai à votre message demain",
+    "example_3": "On utilise répondre à un message dans la vie quotidienne.",
+    "example_1_translation": "Please respond to my message",
+    "example_2_translation": "I will respond to your message tomorrow",
+    "example_3_translation": "We use replying to a message in everyday life."
+  },
+  {
+    "chunk_text": "confirmation de réception",
+    "meaning": "acknowledgment of receipt",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "formal correspondence",
+    "patterns": [
+      "Veuillez confirmer la réception",
+      "Accusé de réception"
+    ],
+    "collocates": [
+      "recevoir",
+      "délai",
+      "pondre à",
+      "transmettre"
+    ],
+    "level": "B1",
+    "example_1": "Veuillez confirmer la réception",
+    "example_2": "Accusé de réception",
+    "example_3": "Je connais confirmation de réception.",
+    "example_1_translation": "Please confirm receipt",
+    "example_2_translation": "Acknowledgment of receipt",
+    "example_3_translation": "I know confirmation of receipt."
+  },
+  {
+    "chunk_text": "à l'attention de",
+    "meaning": "for the attention of",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "formal correspondence",
+    "patterns": [
+      "À l'attention de M. Martin",
+      "À M. le Directeur"
+    ],
+    "collocates": [
+      "destinataire",
+      "service",
+      "courrier",
+      "formel"
+    ],
+    "level": "B1",
+    "example_1": "À l'attention de M. Martin",
+    "example_2": "À M. le Directeur",
+    "example_3": "Je connais à l'attention de.",
+    "example_1_translation": "To the attention of Mr. Martin",
+    "example_2_translation": "To the Director",
+    "example_3_translation": "I know to the attention of."
+  },
+  {
+    "chunk_text": "courrier électronique",
+    "meaning": "electronic mail",
+    "primary_function": "noun",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Veuillez m'envoyer un courrier électronique",
+      "Le courrier électronique est en attente"
+    ],
+    "collocates": [
+      "boîte de réception",
+      "envoyer",
+      "supprimer",
+      "spam"
+    ],
+    "level": "A2",
+    "example_1": "Veuillez m'envoyer un courrier électronique",
+    "example_2": "Le courrier électronique est en attente",
+    "example_3": "On utilise courrier électronique dans la vie quotidienne.",
+    "example_1_translation": "Please send me an email",
+    "example_2_translation": "Email is pending",
+    "example_3_translation": "We use email in daily life."
+  },
+  {
+    "chunk_text": "objet du message",
+    "meaning": "subject line",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Quel est l'objet du message?",
+      "Merci de préciser l'objet"
+    ],
+    "collocates": [
+      "titre",
+      "sujet",
+      "e-mail",
+      "message"
+    ],
+    "level": "A2",
+    "example_1": "Quel est l'objet du message?",
+    "example_2": "Merci de préciser l'objet",
+    "example_3": "On utilise objet du message dans la vie quotidienne.",
+    "example_1_translation": "What is the subject of the message?",
+    "example_2_translation": "Please specify the subject",
+    "example_3_translation": "We use message object in daily life."
+  },
+  {
+    "chunk_text": "boîte de réception",
+    "meaning": "inbox",
+    "primary_function": "noun",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "J'ai vérifié ma boîte de réception",
+      "Nouvelle message dans la boîte de réception"
+    ],
+    "collocates": [
+      "e-mail",
+      "courrier",
+      "supprimer",
+      "archiver"
+    ],
+    "level": "A2",
+    "example_1": "J'ai vérifié ma boîte de réception",
+    "example_2": "Nouvelle message dans la boîte de réception",
+    "example_3": "On utilise boîte de réception dans la vie quotidienne.",
+    "example_1_translation": "I checked my inbox",
+    "example_2_translation": "New message in inbox",
+    "example_3_translation": "We use inbox in daily life."
+  },
+  {
+    "chunk_text": "transmettre des documents",
+    "meaning": "to transmit documents",
+    "primary_function": "expression",
+    "communicative_purpose": "formal correspondence",
+    "patterns": [
+      "Je vous transmets les documents",
+      "Veuillez transmettre ces documents"
+    ],
+    "collocates": [
+      "pièce jointe",
+      "format PDF",
+      "dossier",
+      "classeur"
+    ],
+    "level": "B1",
+    "example_1": "Je vous transmets les documents",
+    "example_2": "Veuillez transmettre ces documents",
+    "example_3": "Je connais transmettre des documents.",
+    "example_1_translation": "I will send you the documents",
+    "example_2_translation": "Please send these documents",
+    "example_3_translation": "I know how to transmit documents."
+  },
+  {
+    "chunk_text": "envoi différé",
+    "meaning": "delayed send",
+    "primary_function": "noun",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "J'ai programmé un envoi différé",
+      "L'envoi différé est prévu pour demain"
+    ],
+    "collocates": [
+      "programmer",
+      "horodatage",
+      "e-mail",
+      "planifier"
+    ],
+    "level": "B2",
+    "example_1": "J'ai programmé un envoi différé",
+    "example_2": "L'envoi différé est prévu pour demain",
+    "example_3": "On utilise envoi différé dans la vie quotidienne.",
+    "example_1_translation": "I have scheduled a delayed delivery",
+    "example_2_translation": "Delayed shipping is scheduled for tomorrow",
+    "example_3_translation": "We use deferred sending in everyday life."
+  },
+  {
+    "chunk_text": "destinataire",
+    "meaning": "recipient",
+    "primary_function": "noun",
+    "communicative_purpose": "digital communication",
+    "patterns": [
+      "Le destinataire n'a pas répondu",
+      "Vérifiez le destinataire"
+    ],
+    "collocates": [
+      "adresse e-mail",
+      "expéditeur",
+      "distribuer",
+      "multiple"
+    ],
+    "level": "A2",
+    "example_1": "Le destinataire n'a pas répondu",
+    "example_2": "Vérifiez le destinataire",
+    "example_3": "On utilise destinataire dans la vie quotidienne.",
+    "example_1_translation": "The recipient did not respond",
+    "example_2_translation": "Check the recipient",
+    "example_3_translation": "We use recipient in everyday life."
+  },
+  {
+    "chunk_text": "correspondance professionnelle",
+    "meaning": "business correspondence",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "formal correspondence",
+    "patterns": [
+      "La correspondance professionnelle doit être soignée",
+      "Gérer la correspondance quotidienne"
+    ],
+    "collocates": [
+      "courrier",
+      "lettre",
+      "e-mail",
+      "formaliser"
+    ],
+    "level": "B1",
+    "example_1": "La correspondance professionnelle doit être soignée",
+    "example_2": "Gérer la correspondance quotidienne",
+    "example_3": "Je connais correspondance professionnelle.",
+    "example_1_translation": "Professional correspondence must be careful",
+    "example_2_translation": "Manage daily correspondence",
+    "example_3_translation": "I know professional correspondence."
+  },
+  {
+    "chunk_text": "prière de",
+    "meaning": "please (formal request)",
+    "primary_function": "expression",
+    "communicative_purpose": "formal correspondence",
+    "patterns": [
+      "Prière de confirmer",
+      "Prière de me contacter"
+    ],
+    "collocates": [
+      "demande",
+      "courtoisie",
+      "formel",
+      "réponse"
+    ],
+    "level": "B1",
+    "example_1": "Prière de confirmer",
+    "example_2": "Prière de me contacter",
+    "example_3": "Je connais prière de.",
+    "example_1_translation": "Please confirm",
+    "example_2_translation": "Please contact me",
+    "example_3_translation": "I know prayer of."
+  },
+  {
+    "chunk_text": "dans l'attente de votre réponse",
+    "meaning": "looking forward to your reply",
+    "primary_function": "closing phrase",
+    "communicative_purpose": "formal correspondence",
+    "patterns": [
+      "Dans l'attente de votre réponse, je vous prie...",
+      "Dans l'attente de votre retour"
+    ],
+    "collocates": [
+      "salutations",
+      "courrier",
+      "e-mail",
+      "formel"
+    ],
+    "level": "B1",
+    "example_1": "Dans l'attente de votre réponse, je vous prie...",
+    "example_2": "Dans l'attente de votre retour",
+    "example_3": "Je connais dans l'attente de votre réponse.",
+    "example_1_translation": "Waiting for your response, please...",
+    "example_2_translation": "Waiting for your return",
+    "example_3_translation": "I am waiting for your response."
+  }
+]

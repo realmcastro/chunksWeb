@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "jouer de la guitare",
+    "meaning": "to play the guitar",
+    "primary_function": "expression",
+    "communicative_purpose": "musical activities",
+    "patterns": [
+      "Elle joue de la guitare depuis longtemps"
+    ],
+    "collocates": [
+      "instrument",
+      "musique",
+      "cordes"
+    ],
+    "level": "A2",
+    "example_1": "Elle joue de la guitare depuis longtemps",
+    "example_2": "Tu peux dire jouer de la guitare quand tu veux exprimer to play the guitar.",
+    "example_3": "On utilise jouer de la guitare dans la vie quotidienne.",
+    "example_1_translation": "She has been playing guitar for a long time",
+    "example_2_translation": "You can say play the guitar when you want to express to play the guitar.",
+    "example_3_translation": "We use playing the guitar in daily life."
+  },
+  {
+    "chunk_text": "jouer du piano",
+    "meaning": "to play the piano",
+    "primary_function": "expression",
+    "communicative_purpose": "musical activities",
+    "patterns": [
+      "Il sait jouer du piano"
+    ],
+    "collocates": [
+      " клавиши",
+      "musique classique",
+      "concert"
+    ],
+    "level": "A2",
+    "example_1": "Il sait jouer du piano",
+    "example_2": "Tu peux dire jouer du piano quand tu veux exprimer to play the piano.",
+    "example_3": "On utilise jouer du piano dans la vie quotidienne.",
+    "example_1_translation": "He knows how to play the piano",
+    "example_2_translation": "You can say play the piano when you want to say play the piano.",
+    "example_3_translation": "We use playing the piano in daily life."
+  },
+  {
+    "chunk_text": "aller à un concert",
+    "meaning": "to go to a concert",
+    "primary_function": "expression",
+    "communicative_purpose": "entertainment and events",
+    "patterns": [
+      "Nous sommes allés à un concert hier soir"
+    ],
+    "collocates": [
+      "musique live",
+      "scène",
+      "public"
+    ],
+    "level": "A2",
+    "example_1": "Nous sommes allés à un concert hier soir",
+    "example_2": "Tu peux dire aller à un concert quand tu veux exprimer to go to a concert.",
+    "example_3": "On utilise aller à un concert dans la vie quotidienne.",
+    "example_1_translation": "We went to a concert last night",
+    "example_2_translation": "You can say go to a concert when you mean to go to a concert.",
+    "example_3_translation": "We use going to a concert in everyday life."
+  },
+  {
+    "chunk_text": "chanter une chanson",
+    "meaning": "to sing a song",
+    "primary_function": "expression",
+    "communicative_purpose": "musical expression",
+    "patterns": [
+      "Elle a chanté une chanson traditionnelle"
+    ],
+    "collocates": [
+      "voix",
+      "mélodie",
+      "paroles"
+    ],
+    "level": "A2",
+    "example_1": "Elle a chanté une chanson traditionnelle",
+    "example_2": "Tu peux dire chanter une chanson quand tu veux exprimer to sing a song.",
+    "example_3": "On utilise chanter une chanson dans la vie quotidienne.",
+    "example_1_translation": "She sang a traditional song",
+    "example_2_translation": "You can say sing a song when you want to express to sing a song.",
+    "example_3_translation": "We use singing a song in everyday life."
+  },
+  {
+    "chunk_text": "composer de la musique",
+    "meaning": "to compose music",
+    "primary_function": "expression",
+    "communicative_purpose": "creative musical activities",
+    "patterns": [
+      "Il compose de la musique pour le cinéma"
+    ],
+    "collocates": [
+      "partition",
+      "mélodie",
+      "création"
+    ],
+    "level": "B1",
+    "example_1": "Il compose de la musique pour le cinéma",
+    "example_2": "'composer de la musique' est une expression utile.",
+    "example_3": "Je connais composer de la musique.",
+    "example_1_translation": "He composes music for the cinema",
+    "example_2_translation": "'compose music' is a useful expression.",
+    "example_3_translation": "I know how to compose music."
+  },
+  {
+    "chunk_text": "jouer dans un orchestre",
+    "meaning": "to play in an orchestra",
+    "primary_function": "expression",
+    "communicative_purpose": "professional music",
+    "patterns": [
+      "Elle joue dans un orchestre symphonique"
+    ],
+    "collocates": [
+      "musique classique",
+      "chef d'orchestre",
+      "partition"
+    ],
+    "level": "B1",
+    "example_1": "Elle joue dans un orchestre symphonique",
+    "example_2": "'jouer dans un orchestre' est une expression utile.",
+    "example_3": "Je connais jouer dans un orchestre.",
+    "example_1_translation": "She plays in a symphony orchestra",
+    "example_2_translation": "'playing in an orchestra' is a useful expression.",
+    "example_3_translation": "I know how to play in an orchestra."
+  },
+  {
+    "chunk_text": "accorder une guitare",
+    "meaning": "to tune a guitar",
+    "primary_function": "expression",
+    "communicative_purpose": "instrument maintenance",
+    "patterns": [
+      "Il faut accorder la guitare avant de jouer"
+    ],
+    "collocates": [
+      "cordes",
+      "notes",
+      " diapason"
+    ],
+    "level": "A2",
+    "example_1": "Il faut accorder la guitare avant de jouer",
+    "example_2": "Tu peux dire accorder une guitare quand tu veux exprimer to tune a guitar.",
+    "example_3": "On utilise accorder une guitare dans la vie quotidienne.",
+    "example_1_translation": "You must tune the guitar before playing",
+    "example_2_translation": "You can say tune a guitar when you want to express to tune a guitar.",
+    "example_3_translation": "We use tuning a guitar in everyday life."
+  },
+  {
+    "chunk_text": "prendre des leçons de musique",
+    "meaning": "to take music lessons",
+    "primary_function": "expression",
+    "communicative_purpose": "music education",
+    "patterns": [
+      "Elle prend des leçons de violon"
+    ],
+    "collocates": [
+      "professeur",
+      "école de musique",
+      "pratique"
+    ],
+    "level": "A2",
+    "example_1": "Elle prend des leçons de violon",
+    "example_2": "Tu peux dire prendre des leçons de musique quand tu veux exprimer to take music lessons.",
+    "example_3": "On utilise prendre des leçons de musique dans la vie quotidienne.",
+    "example_1_translation": "She takes violin lessons",
+    "example_2_translation": "You can say take music lessons when you mean to take music lessons.",
+    "example_3_translation": "We use taking music lessons in everyday life."
+  },
+  {
+    "chunk_text": "avoir l'oreille musicale",
+    "meaning": "to have a musical ear",
+    "primary_function": "expression",
+    "communicative_purpose": "musical ability",
+    "patterns": [
+      "Il a l'oreille musicale depuis l'enfance"
+    ],
+    "collocates": [
+      "ton",
+      "rythmique",
+      "talent"
+    ],
+    "level": "B1",
+    "example_1": "Il a l'oreille musicale depuis l'enfance",
+    "example_2": "'avoir l'oreille musicale' est une expression utile.",
+    "example_3": "Je connais avoir l'oreille musicale.",
+    "example_1_translation": "He has had a musical ear since childhood",
+    "example_2_translation": "'having an ear for music' is a useful expression.",
+    "example_3_translation": "I know how to have a musical ear."
+  },
+  {
+    "chunk_text": "jouer de la batterie",
+    "meaning": "to play drums",
+    "primary_function": "expression",
+    "communicative_purpose": "musical activities",
+    "patterns": [
+      "Le batteur joue de la batterie avec énergie"
+    ],
+    "collocates": [
+      "percussions",
+      "rythme",
+      "gros tambour"
+    ],
+    "level": "A2",
+    "example_1": "Le batteur joue de la batterie avec énergie",
+    "example_2": "Tu peux dire jouer de la batterie quand tu veux exprimer to play drums.",
+    "example_3": "On utilise jouer de la batterie dans la vie quotidienne.",
+    "example_1_translation": "The drummer plays the drums with energy",
+    "example_2_translation": "You can say play drums when you mean to play drums.",
+    "example_3_translation": "We use playing drums in daily life."
+  },
+  {
+    "chunk_text": "chanter en chœur",
+    "meaning": "to sing in a choir",
+    "primary_function": "expression",
+    "communicative_purpose": "group musical activities",
+    "patterns": [
+      "Les enfants chantent en chœur à l'église"
+    ],
+    "collocates": [
+      "chorale",
+      "harmonie",
+      "voix"
+    ],
+    "level": "B1",
+    "example_1": "Les enfants chantent en chœur à l'église",
+    "example_2": "'chanter en chœur' est une expression utile.",
+    "example_3": "Je connais chanter en chœur.",
+    "example_1_translation": "Children sing in choir in church",
+    "example_2_translation": "'singing along' is a useful expression.",
+    "example_3_translation": "I know how to sing in choir."
+  },
+  {
+    "chunk_text": "accorder un instrument",
+    "meaning": "to tune an instrument",
+    "primary_function": "expression",
+    "communicative_purpose": "instrument preparation",
+    "patterns": [
+      "Le technicien accorde le piano avant le concert"
+    ],
+    "collocates": [
+      "note",
+      "tonalité",
+      "instrument à cordes"
+    ],
+    "level": "B1",
+    "example_1": "Le technicien accorde le piano avant le concert",
+    "example_2": "'accorder un instrument' est une expression utile.",
+    "example_3": "Je connais accorder un instrument.",
+    "example_1_translation": "The technician tunes the piano before the concert",
+    "example_2_translation": "'tune an instrument' is a useful expression.",
+    "example_3_translation": "I know how to tune an instrument."
+  },
+  {
+    "chunk_text": "jouer d'un instrument à vent",
+    "meaning": "to play a wind instrument",
+    "primary_function": "expression",
+    "communicative_purpose": "musical activities",
+    "patterns": [
+      "Il joue de la flûte, un instrument à vent"
+    ],
+    "collocates": [
+      "souffle",
+      "anches",
+      "cuivres"
+    ],
+    "level": "B1",
+    "example_1": "Il joue de la flûte, un instrument à vent",
+    "example_2": "'jouer d'un instrument à vent' est une expression utile.",
+    "example_3": "Je connais jouer d'un instrument à vent.",
+    "example_1_translation": "He plays the flute, a wind instrument",
+    "example_2_translation": "'playing a wind instrument' is a useful expression.",
+    "example_3_translation": "I know how to play a wind instrument."
+  },
+  {
+    "chunk_text": "enregistrer un album",
+    "meaning": "to record an album",
+    "primary_function": "expression",
+    "communicative_purpose": "music production",
+    "patterns": [
+      "Le groupe a enregistré son nouvel album en studio"
+    ],
+    "collocates": [
+      "studio",
+      "piste",
+      "production"
+    ],
+    "level": "B1",
+    "example_1": "Le groupe a enregistré son nouvel album en studio",
+    "example_2": "'enregistrer un album' est une expression utile.",
+    "example_3": "Je connais enregistrer un album.",
+    "example_1_translation": "The group recorded their new album in the studio",
+    "example_2_translation": "'record an album' is a useful phrase.",
+    "example_3_translation": "I know how to record an album."
+  },
+  {
+    "chunk_text": "faire la connaissance d'un Musicien",
+    "meaning": "to meet a musician",
+    "primary_function": "expression",
+    "communicative_purpose": "social interactions",
+    "patterns": [
+      "J'ai fait la connaissance d'unMusicien célèbre"
+    ],
+    "collocates": [
+      "rencontre",
+      "artiste",
+      "concert"
+    ],
+    "level": "B1",
+    "example_1": "J'ai fait la connaissance d'unMusicien célèbre",
+    "example_2": "'faire la connaissance d'un Musicien' est une expression utile.",
+    "example_3": "Je connais faire la connaissance d'un Musicien.",
+    "example_1_translation": "I met a famous musician",
+    "example_2_translation": "'get to know a Musician' is a useful expression.",
+    "example_3_translation": "I know how to meet a Musician."
+  }
+]

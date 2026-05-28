@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "lire un roman",
+    "meaning": "to read a novel",
+    "primary_function": "expression",
+    "communicative_purpose": "reading activities",
+    "patterns": [
+      "Elle lit un roman passionnant"
+    ],
+    "collocates": [
+      "livre",
+      "pages",
+      "histoire"
+    ],
+    "level": "A2",
+    "example_1": "Elle lit un roman passionnant",
+    "example_2": "Tu peux dire lire un roman quand tu veux exprimer to read a novel.",
+    "example_3": "On utilise lire un roman dans la vie quotidienne.",
+    "example_1_translation": "She is reading a fascinating novel",
+    "example_2_translation": "You can say lire un roman when you mean to read a novel.",
+    "example_3_translation": "We use reading a novel in daily life."
+  },
+  {
+    "chunk_text": "écrire un poème",
+    "meaning": "to write a poem",
+    "primary_function": "expression",
+    "communicative_purpose": "creative writing",
+    "patterns": [
+      "Il a écrit un poème pour sa mère"
+    ],
+    "collocates": [
+      "vers",
+      "rimer",
+      "inspiration"
+    ],
+    "level": "B1",
+    "example_1": "Il a écrit un poème pour sa mère",
+    "example_2": "'écrire un poème' est une expression utile.",
+    "example_3": "Je connais écrire un poème.",
+    "example_1_translation": "He wrote a poem for his mother",
+    "example_2_translation": "'write a poem' is a useful phrase.",
+    "example_3_translation": "I know how to write a poem."
+  },
+  {
+    "chunk_text": "publier un livre",
+    "meaning": "to publish a book",
+    "primary_function": "expression",
+    "communicative_purpose": "literary production",
+    "patterns": [
+      "L'écrivain a publié son premier roman"
+    ],
+    "collocates": [
+      "édition",
+      "parution",
+      "tirage"
+    ],
+    "level": "B1",
+    "example_1": "L'écrivain a publié son premier roman",
+    "example_2": "'publier un livre' est une expression utile.",
+    "example_3": "Je connais publier un livre.",
+    "example_1_translation": "The writer published his first novel",
+    "example_2_translation": "'publish a book' is a useful phrase.",
+    "example_3_translation": "I know how to publish a book."
+  },
+  {
+    "chunk_text": "être passionné de lecture",
+    "meaning": "to be passionate about reading",
+    "primary_function": "expression",
+    "communicative_purpose": "personal interests",
+    "patterns": [
+      "Je suis passionné de lecture depuis l'enfance"
+    ],
+    "collocates": [
+      "livres",
+      "bibliothèque",
+      "lecteur"
+    ],
+    "level": "A2",
+    "example_1": "Je suis passionné de lecture depuis l'enfance",
+    "example_2": "Tu peux dire être passionné de lecture quand tu veux exprimer to be passionate about reading.",
+    "example_3": "On utilise être passionné de lecture dans la vie quotidienne.",
+    "example_1_translation": "I have been passionate about reading since childhood",
+    "example_2_translation": "You can say being passionate about reading when you want to express to be passionate about reading.",
+    "example_3_translation": "We use being passionate about reading in daily life."
+  },
+  {
+    "chunk_text": "crire un roman policier",
+    "meaning": "to write a detective novel",
+    "primary_function": "expression",
+    "communicative_purpose": "genre fiction writing",
+    "patterns": [
+      "Elle écrit un roman policier haletant"
+    ],
+    "collocates": [
+      "enquête",
+      "détective",
+      "suspense"
+    ],
+    "level": "B2",
+    "example_1": "Elle écrit un roman policier haletant",
+    "example_2": "Tu peux dire crire un roman policier quand tu veux exprimer to write a detective novel.",
+    "example_3": "On utilise crire un roman policier dans la vie quotidienne.",
+    "example_1_translation": "She writes a gripping detective novel",
+    "example_2_translation": "You can say write a detective novel when you mean to write a detective novel.",
+    "example_3_translation": "We use writing a detective novel in everyday life."
+  },
+  {
+    "chunk_text": "consulter un dictionnaire",
+    "meaning": "to consult a dictionary",
+    "primary_function": "expression",
+    "communicative_purpose": "reference activities",
+    "patterns": [
+      "Il faut consulter le dictionnaire pour vérifier l'orthographe"
+    ],
+    "collocates": [
+      "définition",
+      "mot",
+      "vocabulaire"
+    ],
+    "level": "A2",
+    "example_1": "Il faut consulter le dictionnaire pour vérifier l'orthographe",
+    "example_2": "Tu peux dire consulter un dictionnaire quand tu veux exprimer to consult a dictionary.",
+    "example_3": "On utilise consulter un dictionnaire dans la vie quotidienne.",
+    "example_1_translation": "You have to consult the dictionary to check the spelling.",
+    "example_2_translation": "You can say consult a dictionary when you mean to consult a dictionary.",
+    "example_3_translation": "We use to consult a dictionary in daily life."
+  },
+  {
+    "chunk_text": "rédiger une biographie",
+    "meaning": "to write a biography",
+    "primary_function": "expression",
+    "communicative_purpose": "non-fiction writing",
+    "patterns": [
+      "L'historien a rédigé une biographie de Napoleon"
+    ],
+    "collocates": [
+      "vie",
+      "personnalité",
+      "témoignage"
+    ],
+    "level": "B2",
+    "example_1": "L'historien a rédigé une biographie de Napoleon",
+    "example_2": "Tu peux dire rédiger une biographie quand tu veux exprimer to write a biography.",
+    "example_3": "On utilise rédiger une biographie dans la vie quotidienne.",
+    "example_1_translation": "The historian wrote a biography of Napoleon",
+    "example_2_translation": "You can say write a biography when you mean to write a biography.",
+    "example_3_translation": "We use writing a biography in everyday life."
+  },
+  {
+    "chunk_text": "crire un scénario",
+    "meaning": "to write a screenplay",
+    "primary_function": "expression",
+    "communicative_purpose": "screenwriting",
+    "patterns": [
+      "Ils écrivent un scénario pour un film d'action"
+    ],
+    "collocates": [
+      "dialogue",
+      "scène",
+      "cinéma"
+    ],
+    "level": "B2",
+    "example_1": "Ils écrivent un scénario pour un film d'action",
+    "example_2": "Tu peux dire crire un scénario quand tu veux exprimer to write a screenplay.",
+    "example_3": "On utilise crire un scénario dans la vie quotidienne.",
+    "example_1_translation": "They are writing a script for an action film",
+    "example_2_translation": "You can say write a screenplay when you mean to write a screenplay.",
+    "example_3_translation": "We use writing a scenario in daily life."
+  },
+  {
+    "chunk_text": "publier un article",
+    "meaning": "to publish an article",
+    "primary_function": "expression",
+    "communicative_purpose": "journalistic writing",
+    "patterns": [
+      "Le journaliste a publié un article controversé"
+    ],
+    "collocates": [
+      "presse",
+      "revue",
+      "publication"
+    ],
+    "level": "B1",
+    "example_1": "Le journaliste a publié un article controversé",
+    "example_2": "'publier un article' est une expression utile.",
+    "example_3": "Je connais publier un article.",
+    "example_1_translation": "The journalist published a controversial article",
+    "example_2_translation": "'publish an article' is a useful phrase.",
+    "example_3_translation": "I know how to publish an article."
+  },
+  {
+    "chunk_text": "traduire un texte",
+    "meaning": "to translate a text",
+    "primary_function": "expression",
+    "communicative_purpose": "linguistic activities",
+    "patterns": [
+      "Elle traduit un texte du français à l'anglais"
+    ],
+    "collocates": [
+      "langues",
+      "interprétation",
+      "signification"
+    ],
+    "level": "B1",
+    "example_1": "Elle traduit un texte du français à l'anglais",
+    "example_2": "'traduire un texte' est une expression utile.",
+    "example_3": "Je connais traduire un texte.",
+    "example_1_translation": "She translates a text from French to English",
+    "example_2_translation": "'translate a text' is a useful expression.",
+    "example_3_translation": "I know how to translate a text."
+  },
+  {
+    "chunk_text": "crire de la poésie",
+    "meaning": "to write poetry",
+    "primary_function": "expression",
+    "communicative_purpose": "literary creative activities",
+    "patterns": [
+      "Il aime écrire de la poésie le dimanche"
+    ],
+    "collocates": [
+      "vers",
+      "rime",
+      "inspiration"
+    ],
+    "level": "B1",
+    "example_1": "Il aime écrire de la poésie le dimanche",
+    "example_2": "'crire de la poésie' est une expression utile.",
+    "example_3": "Je connais crire de la poésie.",
+    "example_1_translation": "He likes to write poetry on Sundays",
+    "example_2_translation": "'writing poetry' is a useful phrase.",
+    "example_3_translation": "I know how to write poetry."
+  },
+  {
+    "chunk_text": "signer un livre",
+    "meaning": "to sign a book",
+    "primary_function": "expression",
+    "communicative_purpose": "author activities",
+    "patterns": [
+      "L'auteur a signé des livres pour les lecteurs"
+    ],
+    "collocates": [
+      "dé dicace",
+      "rencontre",
+      "librairie"
+    ],
+    "level": "A2",
+    "example_1": "L'auteur a signé des livres pour les lecteurs",
+    "example_2": "Tu peux dire signer un livre quand tu veux exprimer to sign a book.",
+    "example_3": "On utilise signer un livre dans la vie quotidienne.",
+    "example_1_translation": "The author signed books for readers",
+    "example_2_translation": "You can say sign a book when you mean to sign a book.",
+    "example_3_translation": "We use signing a book in everyday life."
+  },
+  {
+    "chunk_text": "crire des mémoires",
+    "meaning": "to write memoirs",
+    "primary_function": "expression",
+    "communicative_purpose": "autobiographical writing",
+    "patterns": [
+      "Le politicien écrivait ses mémoires après sa carrière"
+    ],
+    "collocates": [
+      "souvenirs",
+      "passé",
+      "témoignage"
+    ],
+    "level": "B2",
+    "example_1": "Le politicien écrivait ses mémoires après sa carrière",
+    "example_2": "Tu peux dire crire des mémoires quand tu veux exprimer to write memoirs.",
+    "example_3": "On utilise crire des mémoires dans la vie quotidienne.",
+    "example_1_translation": "The politician wrote his memoirs after his career",
+    "example_2_translation": "You can say crire des memoires when you mean to write memoirs.",
+    "example_3_translation": "We use writing memories in everyday life."
+  },
+  {
+    "chunk_text": "bouquiner le weekend",
+    "meaning": "to read for pleasure on weekends",
+    "primary_function": "expression",
+    "communicative_purpose": "leisure reading",
+    "patterns": [
+      "J'aime bouquiner le weekend à la campagne"
+    ],
+    "collocates": [
+      "roman",
+      "café",
+      "détente"
+    ],
+    "level": "B1",
+    "example_1": "J'aime bouquiner le weekend à la campagne",
+    "example_2": "'bouquiner le weekend' est une expression utile.",
+    "example_3": "Je connais bouquiner le weekend.",
+    "example_1_translation": "I like reading on weekends in the countryside",
+    "example_2_translation": "'booking on the weekend' is a useful expression.",
+    "example_3_translation": "I know how to read on weekends."
+  },
+  {
+    "chunk_text": "être auteur à succès",
+    "meaning": "to be a successful author",
+    "primary_function": "expression",
+    "communicative_purpose": "professional recognition",
+    "patterns": [
+      "Elle est auteur à succès avec plusieurs best-sellers"
+    ],
+    "collocates": [
+      "best-seller",
+      "prix littéraire",
+      "public"
+    ],
+    "level": "B1",
+    "example_1": "Elle est auteur à succès avec plusieurs best-sellers",
+    "example_2": "'être auteur à succès' est une expression utile.",
+    "example_3": "Je connais être auteur à succès.",
+    "example_1_translation": "She is a successful author with several bestsellers",
+    "example_2_translation": "'be a successful author' is a useful phrase.",
+    "example_3_translation": "I know how to be a successful author."
+  }
+]

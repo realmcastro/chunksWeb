@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "travailler en équipe",
+    "meaning": "to work in a team",
+    "primary_function": "expression",
+    "communicative_purpose": "collaboration",
+    "patterns": [
+      "J'aime travailler en équipe",
+      "Il est important de bien travailler en équipe"
+    ],
+    "collocates": [
+      "collègue",
+      "collaboration",
+      "projet",
+      "réunion"
+    ],
+    "level": "A2",
+    "example_1": "J'aime travailler en équipe",
+    "example_2": "Il est important de bien travailler en équipe",
+    "example_3": "On utilise travailler en équipe dans la vie quotidienne.",
+    "example_1_translation": "I like working in a team",
+    "example_2_translation": "It is important to work well as a team",
+    "example_3_translation": "We use teamwork in everyday life."
+  },
+  {
+    "chunk_text": "gérer un équipe",
+    "meaning": "to manage a team",
+    "primary_function": "expression",
+    "communicative_purpose": "management",
+    "patterns": [
+      "Elle gère une équipe de dix personnes",
+      "On doit mieux gérer l'équipe"
+    ],
+    "collocates": [
+      "manager",
+      "subordonné",
+      "direction",
+      "responsable"
+    ],
+    "level": "B1",
+    "example_1": "Elle gère une équipe de dix personnes",
+    "example_2": "On doit mieux gérer l'équipe",
+    "example_3": "Je connais gérer un équipe.",
+    "example_1_translation": "She manages a team of ten people",
+    "example_2_translation": "We need to manage the team better",
+    "example_3_translation": "I know how to manage a team."
+  },
+  {
+    "chunk_text": "envoyer un mail",
+    "meaning": "to send an email",
+    "primary_function": "expression",
+    "communicative_purpose": "communication",
+    "patterns": [
+      "Je vais envoyer un mail au client",
+      "Tu as envoyé le mail?"
+    ],
+    "collocates": [
+      "pièce jointe",
+      "destinataire",
+      "objet",
+      "cc"
+    ],
+    "level": "A1",
+    "example_1": "Je vais envoyer un mail au client",
+    "example_2": "Tu as envoyé le mail?",
+    "example_3": "Je connais envoyer un mail.",
+    "example_1_translation": "I will send an email to the customer",
+    "example_2_translation": "Did you send the email?",
+    "example_3_translation": "I know how to send an email."
+  },
+  {
+    "chunk_text": "imprimer un document",
+    "meaning": "to print a document",
+    "primary_function": "expression",
+    "communicative_purpose": "office tasks",
+    "patterns": [
+      "Tu peux imprimer ce document?",
+      "J'ai besoin d'imprimer les contrats"
+    ],
+    "collocates": [
+      "imprimante",
+      "format",
+      "recto verso",
+      "papier"
+    ],
+    "level": "A1",
+    "example_1": "Tu peux imprimer ce document?",
+    "example_2": "J'ai besoin d'imprimer les contrats",
+    "example_3": "Je connais imprimer un document.",
+    "example_1_translation": "Can you print this document?",
+    "example_2_translation": "I need to print the contracts",
+    "example_3_translation": "I know how to print a document."
+  },
+  {
+    "chunk_text": "partager un fichier",
+    "meaning": "to share a file",
+    "primary_function": "expression",
+    "communicative_purpose": "file sharing",
+    "patterns": [
+      "Je vais partager le fichier avec l'équipe",
+      "Tu peux partager le fichier?"
+    ],
+    "collocates": [
+      "cloud",
+      "dropbox",
+      "lien",
+      "autorisation"
+    ],
+    "level": "A2",
+    "example_1": "Je vais partager le fichier avec l'équipe",
+    "example_2": "Tu peux partager le fichier?",
+    "example_3": "On utilise partager un fichier dans la vie quotidienne.",
+    "example_1_translation": "I will share the file with the team",
+    "example_2_translation": "Can you share the file?",
+    "example_3_translation": "We use file sharing in everyday life."
+  },
+  {
+    "chunk_text": "répondre au téléphone",
+    "meaning": "to answer the phone",
+    "primary_function": "expression",
+    "communicative_purpose": "phone communication",
+    "patterns": [
+      "Quelqu'un doit répondre au téléphone",
+      "Je ne peux pas répondre au téléphone maintenant"
+    ],
+    "collocates": [
+      "appel",
+      "messagerie",
+      "standard",
+      "transfert"
+    ],
+    "level": "A1",
+    "example_1": "Quelqu'un doit répondre au téléphone",
+    "example_2": "Je ne peux pas répondre au téléphone maintenant",
+    "example_3": "Je connais répondre au téléphone.",
+    "example_1_translation": "Someone must answer the phone",
+    "example_2_translation": "I can't answer the phone now",
+    "example_3_translation": "I know how to answer the phone."
+  },
+  {
+    "chunk_text": "fixer des objectifs",
+    "meaning": "to set objectives",
+    "primary_function": "expression",
+    "communicative_purpose": "goal setting",
+    "patterns": [
+      "Le manager va fixer des objectifs pour l'année",
+      "On doit fixer des objectifs clairs"
+    ],
+    "collocates": [
+      "but",
+      "cible",
+      "indicateur",
+      "évaluation"
+    ],
+    "level": "B1",
+    "example_1": "Le manager va fixer des objectifs pour l'année",
+    "example_2": "On doit fixer des objectifs clairs",
+    "example_3": "Je connais fixer des objectifs.",
+    "example_1_translation": "The manager will set goals for the year",
+    "example_2_translation": "We must set clear objectives",
+    "example_3_translation": "I know how to set goals."
+  },
+  {
+    "chunk_text": "évaluer la performance",
+    "meaning": "to evaluate performance",
+    "primary_function": "expression",
+    "communicative_purpose": "performance review",
+    "patterns": [
+      "Il faut évaluer la performance de chaque employé",
+      "L'évaluation de la performance est annuelle"
+    ],
+    "collocates": [
+      "notation",
+      "critère",
+      "résultat",
+      "amélioration"
+    ],
+    "level": "B2",
+    "example_1": "Il faut évaluer la performance de chaque employé",
+    "example_2": "L'évaluation de la performance est annuelle",
+    "example_3": "On utilise évaluer la performance dans la vie quotidienne.",
+    "example_1_translation": "The performance of each employee must be evaluated",
+    "example_2_translation": "Performance evaluation is annual",
+    "example_3_translation": "We use to evaluate performance in daily life."
+  },
+  {
+    "chunk_text": "prendre une décision",
+    "meaning": "to make a decision",
+    "primary_function": "expression",
+    "communicative_purpose": "decision making",
+    "patterns": [
+      "Il faut prendre une décision rapidement",
+      "Qui va prendre la décision?"
+    ],
+    "collocates": [
+      "choix",
+      "alternative",
+      "conséquence",
+      "déterminer"
+    ],
+    "level": "B1",
+    "example_1": "Il faut prendre une décision rapidement",
+    "example_2": "Qui va prendre la décision?",
+    "example_3": "Je connais prendre une décision.",
+    "example_1_translation": "You have to make a decision quickly",
+    "example_2_translation": "Who will make the decision?",
+    "example_3_translation": "I know how to make a decision."
+  },
+  {
+    "chunk_text": "déléguer des tâches",
+    "meaning": "to delegate tasks",
+    "primary_function": "expression",
+    "communicative_purpose": "task delegation",
+    "patterns": [
+      "Le manager sait déléguer les tâches",
+      "Il ne sait pas déléguer"
+    ],
+    "collocates": [
+      "responsabilité",
+      "subordonné",
+      "contrôle",
+      "autonomie"
+    ],
+    "level": "B1",
+    "example_1": "Le manager sait déléguer les tâches",
+    "example_2": "Il ne sait pas déléguer",
+    "example_3": "Je connais déléguer des tâches.",
+    "example_1_translation": "The manager knows how to delegate tasks",
+    "example_2_translation": "He doesn't know how to delegate",
+    "example_3_translation": "I know how to delegate tasks."
+  },
+  {
+    "chunk_text": "assurer le suivi",
+    "meaning": "to ensure follow-up",
+    "primary_function": "expression",
+    "communicative_purpose": "project tracking",
+    "patterns": [
+      "Qui assure le suivi du projet?",
+      "Il faut assurer le suivi des actions"
+    ],
+    "collocates": [
+      "relance",
+      "progression",
+      "statut",
+      "rapport"
+    ],
+    "level": "B1",
+    "example_1": "Qui assure le suivi du projet?",
+    "example_2": "Il faut assurer le suivi des actions",
+    "example_3": "Je connais assurer le suivi.",
+    "example_1_translation": "Who monitors the project?",
+    "example_2_translation": "Actions must be monitored",
+    "example_3_translation": "I know how to follow up."
+  },
+  {
+    "chunk_text": "faire un rapport",
+    "meaning": "to write a report",
+    "primary_function": "expression",
+    "communicative_purpose": "reporting",
+    "patterns": [
+      "Je dois faire un rapport sur l'avancement",
+      "Le rapport est prêt"
+    ],
+    "collocates": [
+      "bilan",
+      "synthèse",
+      "données",
+      "conclusion"
+    ],
+    "level": "B1",
+    "example_1": "Je dois faire un rapport sur l'avancement",
+    "example_2": "Le rapport est prêt",
+    "example_3": "Je connais faire un rapport.",
+    "example_1_translation": "I need to report on progress",
+    "example_2_translation": "The report is ready",
+    "example_3_translation": "I know how to make a report."
+  },
+  {
+    "chunk_text": "planifier les activités",
+    "meaning": "to plan activities",
+    "primary_function": "expression",
+    "communicative_purpose": "planning",
+    "patterns": [
+      "On doit planifier les activités du projet",
+      "La planification des activités est importante"
+    ],
+    "collocates": [
+      "calendrier",
+      "agenda",
+      "ressource",
+      "ordonnancement"
+    ],
+    "level": "B1",
+    "example_1": "On doit planifier les activités du projet",
+    "example_2": "La planification des activités est importante",
+    "example_3": "Je connais planifier les activités.",
+    "example_1_translation": "Project activities must be planned",
+    "example_2_translation": "Business planning is important",
+    "example_3_translation": "I know how to plan activities."
+  },
+  {
+    "chunk_text": "respecter la hiérarchie",
+    "meaning": "to respect the hierarchy",
+    "primary_function": "expression",
+    "communicative_purpose": "organizational structure",
+    "patterns": [
+      "Il faut respecter la hiérarchie dans l'entreprise",
+      "Cette entreprise respecte la hiérarchie"
+    ],
+    "collocates": [
+      "organigramme",
+      "supérieur",
+      "subordination",
+      "protocol"
+    ],
+    "level": "B2",
+    "example_1": "Il faut respecter la hiérarchie dans l'entreprise",
+    "example_2": "Cette entreprise respecte la hiérarchie",
+    "example_3": "On utilise respecter la hiérarchie dans la vie quotidienne.",
+    "example_1_translation": "You must respect the hierarchy in the company",
+    "example_2_translation": "This company respects hierarchy",
+    "example_3_translation": "We use respecting hierarchy in daily life."
+  },
+  {
+    "chunk_text": "cumuler les fonctions",
+    "meaning": "to hold multiple positions",
+    "primary_function": "expression",
+    "communicative_purpose": "job roles",
+    "patterns": [
+      "Elle cumule deux fonctions dans l'entreprise",
+      "Il cumule les fonctions de directeur et de trésorier"
+    ],
+    "collocates": [
+      "double poste",
+      "responsabilité",
+      "temps plein",
+      "charge"
+    ],
+    "level": "B2",
+    "example_1": "Elle cumule deux fonctions dans l'entreprise",
+    "example_2": "Il cumule les fonctions de directeur et de trésorier",
+    "example_3": "On utilise cumuler les fonctions dans la vie quotidienne.",
+    "example_1_translation": "She combines two functions in the company",
+    "example_2_translation": "He combines the functions of director and treasurer",
+    "example_3_translation": "We use cumulate functions in daily life."
+  }
+]

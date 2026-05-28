@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "méthode de recherche",
+    "meaning": "research method",
+    "primary_function": "noun",
+    "communicative_purpose": "academic",
+    "patterns": [
+      "Quelle méthode de recherche avez-vous utilisée?",
+      "La méthode de recherche est qualitative"
+    ],
+    "collocates": [
+      "approche",
+      "méthodologie",
+      "étude",
+      "enquête"
+    ],
+    "level": "B1",
+    "example_1": "Quelle méthode de recherche avez-vous utilisée?",
+    "example_2": "La méthode de recherche est qualitative",
+    "example_3": "Je connais méthode de recherche.",
+    "example_1_translation": "What research method did you use?",
+    "example_2_translation": "The research method is qualitative",
+    "example_3_translation": "I know research method."
+  },
+  {
+    "chunk_text": "formuler une hypothèse",
+    "meaning": "to formulate a hypothesis",
+    "primary_function": "expression",
+    "communicative_purpose": "academic",
+    "patterns": [
+      "Il faut formuler une hypothèse claire",
+      "L'hypothèse a été formulée ainsi"
+    ],
+    "collocates": [
+      "supposition",
+      "théorie",
+      "vérification",
+      "recherche"
+    ],
+    "level": "B2",
+    "example_1": "Il faut formuler une hypothèse claire",
+    "example_2": "L'hypothèse a été formulée ainsi",
+    "example_3": "On utilise formuler une hypothèse dans la vie quotidienne.",
+    "example_1_translation": "A clear hypothesis must be formulated",
+    "example_2_translation": "The hypothesis was formulated as follows",
+    "example_3_translation": "We use formulating a hypothesis in everyday life."
+  },
+  {
+    "chunk_text": "collecter des données",
+    "meaning": "to collect data",
+    "primary_function": "expression",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Nous allons collecter des données",
+      "Les données ont été collectées par enquête"
+    ],
+    "collocates": [
+      "échantillon",
+      "information",
+      "observation",
+      "mesure"
+    ],
+    "level": "B1",
+    "example_1": "Nous allons collecter des données",
+    "example_2": "Les données ont été collectées par enquête",
+    "example_3": "Je connais collecter des données.",
+    "example_1_translation": "We will collect data",
+    "example_2_translation": "Data was collected by survey",
+    "example_3_translation": "I know how to collect data."
+  },
+  {
+    "chunk_text": "analyser les résultats",
+    "meaning": "to analyze results",
+    "primary_function": "expression",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Il faut analyser les résultats",
+      "L'analyse des résultats prend du temps"
+    ],
+    "collocates": [
+      "interprétation",
+      "conclusion",
+      "donnée",
+      "observation"
+    ],
+    "level": "B1",
+    "example_1": "Il faut analyser les résultats",
+    "example_2": "L'analyse des résultats prend du temps",
+    "example_3": "Je connais analyser les résultats.",
+    "example_1_translation": "The results must be analyzed",
+    "example_2_translation": "Analyzing results takes time",
+    "example_3_translation": "I know how to analyze the results."
+  },
+  {
+    "chunk_text": "revue de la littérature",
+    "meaning": "literature review",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "academic",
+    "patterns": [
+      "La revue de la littérature est essentielle",
+      "Il a effectué une revue de la littérature complète"
+    ],
+    "collocates": [
+      "bibliothèque",
+      "recherche",
+      "publication",
+      "théorie"
+    ],
+    "level": "B2",
+    "example_1": "La revue de la littérature est essentielle",
+    "example_2": "Il a effectué une revue de la littérature complète",
+    "example_3": "On utilise revue de la littérature dans la vie quotidienne.",
+    "example_1_translation": "Literature review is essential",
+    "example_2_translation": "He carried out a comprehensive literature review",
+    "example_3_translation": "We use literature review in daily life."
+  },
+  {
+    "chunk_text": "travail de terrain",
+    "meaning": "fieldwork",
+    "primary_function": "noun",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Le travail de terrain dure trois mois",
+      "Elle a realizado son travail de terrain au Mali"
+    ],
+    "collocates": [
+      "enquête",
+      "observation",
+      "terrain",
+      "données"
+    ],
+    "level": "B2",
+    "example_1": "Le travail de terrain dure trois mois",
+    "example_2": "Elle a realizado son travail de terrain au Mali",
+    "example_3": "On utilise travail de terrain dans la vie quotidienne.",
+    "example_1_translation": "Fieldwork lasts three months",
+    "example_2_translation": "She carried out her field work in Mali",
+    "example_3_translation": "We use fieldwork in daily life."
+  },
+  {
+    "chunk_text": "étude de cas",
+    "meaning": "case study",
+    "primary_function": "noun",
+    "communicative_purpose": "research",
+    "patterns": [
+      "L'étude de cas porte sur une entreprise",
+      "Cette étude de cas est très instructif"
+    ],
+    "collocates": [
+      "exemple",
+      "analyse",
+      "situation",
+      "concret"
+    ],
+    "level": "B1",
+    "example_1": "L'étude de cas porte sur une entreprise",
+    "example_2": "Cette étude de cas est très instructif",
+    "example_3": "Je connais étude de cas.",
+    "example_1_translation": "The case study concerns a company",
+    "example_2_translation": "This case study is very informative",
+    "example_3_translation": "I know case study."
+  },
+  {
+    "chunk_text": "enquête par questionnaire",
+    "meaning": "survey by questionnaire",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "L'enquête par questionnaire est répandue",
+      "Nous avons mené une enquête par questionnaire"
+    ],
+    "collocates": [
+      "sondage",
+      "respondants",
+      "données",
+      "échantillon"
+    ],
+    "level": "B1",
+    "example_1": "L'enquête par questionnaire est répandue",
+    "example_2": "Nous avons mené une enquête par questionnaire",
+    "example_3": "Je connais enquête par questionnaire.",
+    "example_1_translation": "Questionnaire survey is widespread",
+    "example_2_translation": "We conducted a questionnaire survey",
+    "example_3_translation": "I know questionnaire survey."
+  },
+  {
+    "chunk_text": "observations participantes",
+    "meaning": "participant observations",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Les observations participantes ont durée 6 mois",
+      "Cette méthode utilise des observations participantes"
+    ],
+    "collocates": [
+      "terrain",
+      "anthropologie",
+      "immersion",
+      "qualitatif"
+    ],
+    "level": "B2",
+    "example_1": "Les observations participantes ont durée 6 mois",
+    "example_2": "Cette méthode utilise des observations participantes",
+    "example_3": "On utilise observations participantes dans la vie quotidienne.",
+    "example_1_translation": "Participant observations lasted 6 months",
+    "example_2_translation": "This method uses participant observations",
+    "example_3_translation": "We use participant observations in everyday life."
+  },
+  {
+    "chunk_text": "validité des résultats",
+    "meaning": "validity of results",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "La validité des résultats est essentielle",
+      "Nous garantissons la validité des résultats"
+    ],
+    "collocates": [
+      "fiabilité",
+      "confiance",
+      "érreur",
+      "vérification"
+    ],
+    "level": "B2",
+    "example_1": "La validité des résultats est essentielle",
+    "example_2": "Nous garantissons la validité des résultats",
+    "example_3": "On utilise validité des résultats dans la vie quotidienne.",
+    "example_1_translation": "Validity of results is essential",
+    "example_2_translation": "We guarantee the validity of the results",
+    "example_3_translation": "The validity of the results is used in everyday life."
+  },
+  {
+    "chunk_text": "échantillonnage",
+    "meaning": "sampling",
+    "primary_function": "noun",
+    "communicative_purpose": "research",
+    "patterns": [
+      "L'échantillonnage doit être aléatoire",
+      "La méthode d'échantillonnage est cruciale"
+    ],
+    "collocates": [
+      "échantillon",
+      "population",
+      "sélection",
+      "représentativité"
+    ],
+    "level": "B2",
+    "example_1": "L'échantillonnage doit être aléatoire",
+    "example_2": "La méthode d'échantillonnage est cruciale",
+    "example_3": "On utilise échantillonnage dans la vie quotidienne.",
+    "example_1_translation": "Sampling must be random",
+    "example_2_translation": "Sampling method is crucial",
+    "example_3_translation": "We use sampling in everyday life."
+  },
+  {
+    "chunk_text": "triangulation des sources",
+    "meaning": "source triangulation",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "La triangulation des sources renforce l'analyse",
+      "Nous avons utilisé la triangulation des sources"
+    ],
+    "collocates": [
+      "vérification",
+      "divers sources",
+      "fiabilité",
+      "convergence"
+    ],
+    "level": "C1",
+    "example_1": "La triangulation des sources renforce l'analyse",
+    "example_2": "Nous avons utilisé la triangulation des sources",
+    "example_3": "Je connais triangulation des sources.",
+    "example_1_translation": "Triangulation of sources strengthens the analysis",
+    "example_2_translation": "We used source triangulation",
+    "example_3_translation": "I know about source triangulation."
+  },
+  {
+    "chunk_text": "hypothèse nulle",
+    "meaning": "null hypothesis",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "academic",
+    "patterns": [
+      "L'hypothèse nulle est rejetée",
+      "On teste l'hypothèse nulle"
+    ],
+    "collocates": [
+      "statistique",
+      "test",
+      "probabilité",
+      "signification"
+    ],
+    "level": "B2",
+    "example_1": "L'hypothèse nulle est rejetée",
+    "example_2": "On teste l'hypothèse nulle",
+    "example_3": "On utilise hypothèse nulle dans la vie quotidienne.",
+    "example_1_translation": "The null hypothesis is rejected",
+    "example_2_translation": "We test the null hypothesis",
+    "example_3_translation": "We use the null hypothesis in everyday life."
+  },
+  {
+    "chunk_text": "groupe témoin",
+    "meaning": "control group",
+    "primary_function": "noun",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Le groupe témoin n'a pas reçu le traitement",
+      "Nous avons comparé au groupe témoin"
+    ],
+    "collocates": [
+      "expérience",
+      "comparaison",
+      "test",
+      "variable"
+    ],
+    "level": "B2",
+    "example_1": "Le groupe témoin n'a pas reçu le traitement",
+    "example_2": "Nous avons comparé au groupe témoin",
+    "example_3": "On utilise groupe témoin dans la vie quotidienne.",
+    "example_1_translation": "The control group did not receive the treatment",
+    "example_2_translation": "We compared to the control group",
+    "example_3_translation": "We use a control group in everyday life."
+  },
+  {
+    "chunk_text": "protocole expérimental",
+    "meaning": "experimental protocol",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Le protocole expérimental doit être rigoureux",
+      "Suivez le protocole expérimental établi"
+    ],
+    "collocates": [
+      "procédure",
+      "méthode",
+      "rigueur",
+      "standard"
+    ],
+    "level": "B2",
+    "example_1": "Le protocole expérimental doit être rigoureux",
+    "example_2": "Suivez le protocole expérimental établi",
+    "example_3": "On utilise protocole expérimental dans la vie quotidienne.",
+    "example_1_translation": "The experimental protocol must be rigorous",
+    "example_2_translation": "Follow the established experimental protocol",
+    "example_3_translation": "We use experimental protocol in daily life."
+  }
+]

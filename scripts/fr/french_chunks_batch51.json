@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "décrocher le téléphone",
+    "meaning": "to pick up the phone",
+    "primary_function": "expression",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Je vais décrocher le téléphone",
+      "Quelqu'un a décroché"
+    ],
+    "collocates": [
+      "appel",
+      "sonnerie",
+      "répondre",
+      "communication"
+    ],
+    "level": "A2",
+    "example_1": "Je vais décrocher le téléphone",
+    "example_2": "Quelqu'un a décroché",
+    "example_3": "On utilise décrocher le téléphone dans la vie quotidienne.",
+    "example_1_translation": "I'm going to pick up the phone",
+    "example_2_translation": "Someone picked up",
+    "example_3_translation": "We use picking up the phone in everyday life."
+  },
+  {
+    "chunk_text": "Qui est à l'appareil?",
+    "meaning": "Who's speaking?",
+    "primary_function": "phrase",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Qui est à l'appareil, s'il vous plaît?",
+      "C'estquién à l'appareil?"
+    ],
+    "collocates": [
+      "identifer",
+      "appelant",
+      "présentation",
+      "communication"
+    ],
+    "level": "A2",
+    "example_1": "Qui est à l'appareil, s'il vous plaît?",
+    "example_2": "C'estquién à l'appareil?",
+    "example_3": "On utilise Qui est à l'appareil? dans la vie quotidienne.",
+    "example_1_translation": "Who's on the phone, please?",
+    "example_2_translation": "Is it ok with the device?",
+    "example_3_translation": "We use Who's on the phone? in daily life."
+  },
+  {
+    "chunk_text": "Je vous passe M.",
+    "meaning": "I'll transfer you to Mr.",
+    "primary_function": "expression",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Je vous passe M. Dupont",
+      "Je vous le passe"
+    ],
+    "collocates": [
+      "transfert",
+      "standard",
+      "poste",
+      "colleague"
+    ],
+    "level": "B1",
+    "example_1": "Je vous passe M. Dupont",
+    "example_2": "Je vous le passe",
+    "example_3": "Je connais Je vous passe M..",
+    "example_1_translation": "I'll pass you Mr. Dupont",
+    "example_2_translation": "I'll pass it on to you",
+    "example_3_translation": "I know I'll pass you Mr."
+  },
+  {
+    "chunk_text": "poser le téléphone",
+    "meaning": "to hang up",
+    "primary_function": "expression",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Il a posé le téléphone sans dire au revoir",
+      "Ne posez pas le téléphone"
+    ],
+    "collocates": [
+      "raccrocher",
+      "fin",
+      "conversation",
+      "appel"
+    ],
+    "level": "A2",
+    "example_1": "Il a posé le téléphone sans dire au revoir",
+    "example_2": "Ne posez pas le téléphone",
+    "example_3": "On utilise poser le téléphone dans la vie quotidienne.",
+    "example_1_translation": "He put the phone down without saying goodbye",
+    "example_2_translation": "Don't put the phone down",
+    "example_3_translation": "We use the phone in everyday life."
+  },
+  {
+    "chunk_text": "la ligne est occupée",
+    "meaning": "the line is busy",
+    "primary_function": "phrase",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "La ligne est occupée, veuillez rappeler",
+      "J'ai essayé mais la ligne était occupée"
+    ],
+    "collocates": [
+      "rappeler",
+      "tentative",
+      "communication",
+      "erreur"
+    ],
+    "level": "A2",
+    "example_1": "La ligne est occupée, veuillez rappeler",
+    "example_2": "J'ai essayé mais la ligne était occupée",
+    "example_3": "On utilise la ligne est occupée dans la vie quotidienne.",
+    "example_1_translation": "The line is busy, please call back",
+    "example_2_translation": "I tried but the line was busy",
+    "example_3_translation": "We use the line is busy in daily life."
+  },
+  {
+    "chunk_text": "Vous avez été coupé",
+    "meaning": "You were cut off",
+    "primary_function": "phrase",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Vous avez été coupé, pouvez-vous répéter?",
+      "La communication a été coupée"
+    ],
+    "collocates": [
+      "connexion",
+      "signal",
+      "interruption",
+      "rappeler"
+    ],
+    "level": "A2",
+    "example_1": "Vous avez été coupé, pouvez-vous répéter?",
+    "example_2": "La communication a été coupée",
+    "example_3": "On utilise Vous avez été coupé dans la vie quotidienne.",
+    "example_1_translation": "You were cut off, can you repeat?",
+    "example_2_translation": "Communication was cut off",
+    "example_3_translation": "We use You've been cut off in everyday life."
+  },
+  {
+    "chunk_text": "la sonnerie",
+    "meaning": "the ringtone",
+    "primary_function": "noun",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "J'entends la sonnerie",
+      "La sonnerie n'a pas cessé"
+    ],
+    "collocates": [
+      "téléphone",
+      "appel",
+      "entendre",
+      "répondre"
+    ],
+    "level": "A1",
+    "example_1": "J'entends la sonnerie",
+    "example_2": "La sonnerie n'a pas cessé",
+    "example_3": "Je connais la sonnerie.",
+    "example_1_translation": "I hear the ringtone",
+    "example_2_translation": "The ringing hasn't stopped",
+    "example_3_translation": "I know the ringtone."
+  },
+  {
+    "chunk_text": "appeler le standard",
+    "meaning": "to call the switchboard",
+    "primary_function": "expression",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Veuillez appeler le standard",
+      "Le standard est ouvert 24h/24"
+    ],
+    "collocates": [
+      "poste",
+      "opérateur",
+      "transfert",
+      "réception"
+    ],
+    "level": "A2",
+    "example_1": "Veuillez appeler le standard",
+    "example_2": "Le standard est ouvert 24h/24",
+    "example_3": "On utilise appeler le standard dans la vie quotidienne.",
+    "example_1_translation": "Please call the switchboard",
+    "example_2_translation": "The switchboard is open 24 hours a day",
+    "example_3_translation": "We use call the standard in everyday life."
+  },
+  {
+    "chunk_text": "la communication est mauvaise",
+    "meaning": "the connection is bad",
+    "primary_function": "phrase",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "La communication est mauvaise, je vous entends mal",
+      "À cause de la mauvaise communication"
+    ],
+    "collocates": [
+      "signal",
+      "coupure",
+      "réseau",
+      "problème"
+    ],
+    "level": "A2",
+    "example_1": "La communication est mauvaise, je vous entends mal",
+    "example_2": "À cause de la mauvaise communication",
+    "example_3": "On utilise la communication est mauvaise dans la vie quotidienne.",
+    "example_1_translation": "Communication is bad, I can't hear you well",
+    "example_2_translation": "Because of poor communication",
+    "example_3_translation": "We use poor communication in daily life."
+  },
+  {
+    "chunk_text": "je vous rappelle",
+    "meaning": "I'll call you back",
+    "primary_function": "expression",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Je vous rappelle dans 5 minutes",
+      "Je vous rappelle dès que possible"
+    ],
+    "collocates": [
+      "rappeler",
+      "promesse",
+      "délai",
+      "call"
+    ],
+    "level": "A2",
+    "example_1": "Je vous rappelle dans 5 minutes",
+    "example_2": "Je vous rappelle dès que possible",
+    "example_3": "On utilise je vous rappelle dans la vie quotidienne.",
+    "example_1_translation": "I'll call you back in 5 minutes",
+    "example_2_translation": "I will call you back as soon as possible",
+    "example_3_translation": "We use I remind you in daily life."
+  },
+  {
+    "chunk_text": "prière de laisser un message",
+    "meaning": "please leave a message",
+    "primary_function": "phrase",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Après le signal, prière de laisser un message",
+      "Vous pouvez laisser un message après le bip"
+    ],
+    "collocates": [
+      "messagerie",
+      "bip",
+      "répondeur",
+      "enregistrer"
+    ],
+    "level": "A2",
+    "example_1": "Après le signal, prière de laisser un message",
+    "example_2": "Vous pouvez laisser un message après le bip",
+    "example_3": "On utilise prière de laisser un message dans la vie quotidienne.",
+    "example_1_translation": "After the signal, please leave a message",
+    "example_2_translation": "You can leave a message after the beep",
+    "example_3_translation": "We use prayer to leave a message in daily life."
+  },
+  {
+    "chunk_text": "téléphoner à quelqu'un",
+    "meaning": "to call someone",
+    "primary_function": "expression",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Je vais téléphone à Marie",
+      "Il m'a telefoné hier"
+    ],
+    "collocates": [
+      "appel",
+      "communication",
+      "numéro",
+      "joindre"
+    ],
+    "level": "A1",
+    "example_1": "Je vais téléphone à Marie",
+    "example_2": "Il m'a telefoné hier",
+    "example_3": "Je connais téléphoner à quelqu'un.",
+    "example_1_translation": "I'm going to call Marie",
+    "example_2_translation": "He called me yesterday",
+    "example_3_translation": "I know how to call someone."
+  },
+  {
+    "chunk_text": "conférence téléphonique",
+    "meaning": "conference call",
+    "primary_function": "noun",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "Nous organisons une conférence téléphonique",
+      "La conférence téléphonique a lieu à 14h"
+    ],
+    "collocates": [
+      "participants",
+      "multiconférence",
+      "réunion",
+      "audio"
+    ],
+    "level": "B1",
+    "example_1": "Nous organisons une conférence téléphonique",
+    "example_2": "La conférence téléphonique a lieu à 14h",
+    "example_3": "Je connais conférence téléphonique.",
+    "example_1_translation": "We are organizing a conference call",
+    "example_2_translation": "The conference call takes place at 2 p.m.",
+    "example_3_translation": "I know conference call."
+  },
+  {
+    "chunk_text": "poser un congés",
+    "meaning": "to take leave",
+    "primary_function": "expression",
+    "communicative_purpose": "workplace communication",
+    "patterns": [
+      "Je pose un congé demain",
+      "Il a posé un congé la semaine dernière"
+    ],
+    "collocates": [
+      "vacances",
+      "jour",
+      "permission",
+      "absence"
+    ],
+    "level": "A2",
+    "example_1": "Je pose un congé demain",
+    "example_2": "Il a posé un congé la semaine dernière",
+    "example_3": "On utilise poser un congés dans la vie quotidienne.",
+    "example_1_translation": "I'm taking leave tomorrow",
+    "example_2_translation": "He took leave last week",
+    "example_3_translation": "We use leave in daily life."
+  },
+  {
+    "chunk_text": "la ligne ne répond pas",
+    "meaning": "the line doesn't answer",
+    "primary_function": "phrase",
+    "communicative_purpose": "telephone communication",
+    "patterns": [
+      "La ligne ne répond pas, vérifiez le numéro",
+      "J'ai appelé mais la ligne ne répondait pas"
+    ],
+    "collocates": [
+      "aucune réponse",
+      "messagerie",
+      "rappeler",
+      "indisponible"
+    ],
+    "level": "A2",
+    "example_1": "La ligne ne répond pas, vérifiez le numéro",
+    "example_2": "J'ai appelé mais la ligne ne répondait pas",
+    "example_3": "On utilise la ligne ne répond pas dans la vie quotidienne.",
+    "example_1_translation": "The line is not answering, check the number",
+    "example_2_translation": "I called but the line didn't answer",
+    "example_3_translation": "We use the line unanswered in daily life."
+  }
+]

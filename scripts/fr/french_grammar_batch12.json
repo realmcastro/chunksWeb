@@ -1,0 +1,376 @@
+[
+  {
+    "structure_label": "Est-ce que (yes/no question formation)",
+    "core_meaning": "Formal question marker placing est-ce que at the beginning of statement",
+    "primary_communicative_fn": "Asking yes/no questions in neutral/formal tone",
+    "when_to_use": "Convert statements into yes/no questions without verb inversion",
+    "pattern": "Est-ce que + sujet + verbe + (compléments)?",
+    "key_variations": [
+      "Est-ce que tu viens à la fête? (Are you coming to the party?).",
+      "Est-ce qu'il a fini son travail? (Did he finish his work?).",
+      "Est-ce que nous partons demain? (Are we leaving tomorrow?).",
+      "Est-ce qu'elles connaissent la réponse? (Do they know the answer?)."
+    ],
+    "essential_vocabulary_slots": "être, avoir, venir, finir, partir, connaître, comprendre",
+    "common_learner_mistakes": [
+      "Combining est-ce que with inversion: *« est-ce que viens-tu »",
+      "Omitting 'que' before vowels: *« est-ce il » instead of « est-ce qu'il »",
+      "Using est-ce que with already-inverted questions"
+    ],
+    "chunk_compatibility": "Casual yes/no questions without inversion",
+    "primary_function": "Forming yes/no questions with informal inversion",
+    "key_forms": "Est-ce que + statement word order",
+    "essential_vocabulary": "être, avoir, venir, finir, partir, connaître, comprendre, aller",
+    "why_it_matters": "Est-ce que is the simplest question formation—no verb inversion needed",
+    "level": "A1"
+  },
+  {
+    "structure_label": "Inversion du sujet (subject-verb inversion in questions)",
+    "core_meaning": "Direct inversion of subject and verb to form questions in formal French",
+    "primary_communicative_fn": "Asking formal questions with inverted word order",
+    "when_to_use": "In formal speech/writing, invert verb and subject with hyphens",
+    "pattern": "Verbe + sujet-pronoms/noun + (compléments)?",
+    "key_variations": [
+      "Viens-tu demain? (Are you coming tomorrow?).",
+      "A-t-il terminé? (Has he finished?).",
+      "Sortez-vous ce soir? (Are you going out tonight?).",
+      "Viendront-ils à temps? (Will they arrive on time?)."
+    ],
+    "essential_vocabulary_slots": "venir, terminer, sortir, arriver, faire, avoir, être",
+    "common_learner_mistakes": [
+      "Omitting hyphens: *« viens tu » instead of « viens-tu »",
+      "Not inserting -t- with vowel-initial verbs: *« a-il » instead of « a-t-il »",
+      "Inverting nouns and verbs (use pronoun inversion instead)"
+    ],
+    "chunk_compatibility": "Formal questions for interviews and professional contexts",
+    "primary_function": "Forming formal yes/no questions with inversion",
+    "key_forms": "verb + pronoun/noun hyphen + subject",
+    "essential_vocabulary": "venir, terminer, sortir, arriver, faire, avoir, être, aller",
+    "why_it_matters": "Subject inversion is required for formal French yes/no questions",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Question words: qui, que, quoi (interrogative pronouns)",
+    "core_meaning": "Question words for asking about people (qui) and things (que/quoi)",
+    "primary_communicative_fn": "Asking about people and things with appropriate pronouns",
+    "when_to_use": "Use qui for people, que for things; quoi for emphasis/ellipsis",
+    "pattern": "Qui + verbe + subject? / Que + subject + verbe? / Quoi + ellipsis?",
+    "key_variations": [
+      "Qui est-ce qui parle? (Who is speaking?).",
+      "Que faites-vous ici? (What are you doing here?).",
+      "Quoi de neuf? (What's new? - colloquial).",
+      "Qui vois-tu? (Who do you see?)."
+    ],
+    "essential_vocabulary_slots": "parler, faire, voir, venir, savoir, dire, connaître",
+    "common_learner_mistakes": [
+      "Confusing qui (who) with que (what) in their contexts",
+      "Using « quoi » instead of « qu'est » before vowels: *« quoi est » instead of « qu'est »",
+      "Applying wrong word order after question words"
+    ],
+    "chunk_compatibility": "Identifying people and things in conversations",
+    "primary_function": "Distinguishing question pronouns for people vs things",
+    "key_forms": "Qui (subject/object), Que (direct object), Quoi (emphatic/elliptical)",
+    "essential_vocabulary": "parler, faire, voir, venir, savoir, dire, connaître, penser",
+    "why_it_matters": "Qui/que/quoi distinctions are fundamental to asking questions",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Quel/Quelle/Quels/Quelles (interrogative adjective)",
+    "core_meaning": "Agreement-based question word meaning 'which' or 'what kind of'",
+    "primary_communicative_fn": "Asking about specific items with agreement-based selection",
+    "when_to_use": "Use quel + noun (agrees), not qui/que, to ask which one(s)",
+    "pattern": "Quel(s)/Quelle(s) + nom + verbe?",
+    "key_variations": [
+      "Quel livre vous faut-il? (Which book do you need?).",
+      "Quelle heure est-il? (What time is it?).",
+      "Quels amis sont venus? (Which friends came?).",
+      "Quelles solutions proposez-vous? (What solutions are you proposing?)."
+    ],
+    "essential_vocabulary_slots": "livre, heure, amis, solutions, couleur, jour, mois",
+    "common_learner_mistakes": [
+      "Not agreeing quel with noun: *« quel livres » instead of « quels livres »",
+      "Using « quel » as pronoun: *« quel est votre père » (correct: « qui est votre père »)",
+      "Confusing quel (adjective) with lequel (pronoun)"
+    ],
+    "chunk_compatibility": "Selecting from specific options and categories",
+    "primary_function": "Asking which from a specific set with agreement",
+    "key_forms": "Quel, Quelle, Quels, Quelles (always agrees with noun)",
+    "essential_vocabulary": "livre, heure, amis, solutions, couleur, jour, mois, prix",
+    "why_it_matters": "Quel must agree with noun—fundamental for selection questions",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Où, Quand, Comment, Combien, Pourquoi (adverbial questions)",
+    "core_meaning": "Question adverbs for place, time, manner, quantity, and reason",
+    "primary_communicative_fn": "Asking for specific information about circumstances",
+    "when_to_use": "Place interrogative adverb first, then est-ce que or inversion",
+    "pattern": "[Où/Quand/Comment/Combien/Pourquoi] + est-ce que / + inversion?",
+    "key_variations": [
+      "Où habitez-vous? (Where do you live?).",
+      "Quand arrive le train? (When does the train arrive?).",
+      "Comment vous sentez-vous? (How are you feeling?).",
+      "Combien ça coûte? (How much does it cost?) / Pourquoi pas? (Why not?)."
+    ],
+    "essential_vocabulary_slots": "où, quand, comment, combien, pourquoi, habiter, arriver, sentir",
+    "common_learner_mistakes": [
+      "Placing question word at end: *« vous habitez où » in formal speech",
+      "Confusing comment (how/in what manner) with pourquoi (for what reason)",
+      "Not applying inversion with adverbial question words"
+    ],
+    "chunk_compatibility": "Information-seeking questions for daily interactions",
+    "primary_function": "Soliciting specific situational information",
+    "key_forms": "Adverb + est-ce que / + inversion",
+    "essential_vocabulary": "où, quand, comment, combien, pourquoi, habiter, arriver, sentir",
+    "why_it_matters": "Adverbial questions require specific word order for formality",
+    "level": "A1"
+  },
+  {
+    "structure_label": "Est-ce que vs inversion vs intonation (three question methods)",
+    "core_meaning": "French has three ways to form yes/no questions with varying formality",
+    "primary_communicative_fn": "Choosing appropriate question formality for context",
+    "when_to_use": "Select method based on formality: intonation (casual), est-ce que (neutral), inversion (formal)",
+    "pattern": "Intonation: statement + rising tone | Est-ce que: prefix + statement | Inversion: verb + subject",
+    "key_variations": [
+      "Tu viens? (intonation) / Est-ce que tu viens? (neutral) / Viens-tu? (formal).",
+      "Il pleut? / Est-ce qu'il pleut? / Pleut-il?.",
+      "Vous voulez? / Est-ce que vous voulez? / Voulez-vous?."
+    ],
+    "essential_vocabulary_slots": "venir, pleuvoir, vouloir, faire, aller, être, avoir",
+    "common_learner_mistakes": [
+      "Mixing registers: *« est-ce que viens-tu »",
+      "Assuming all three are equally appropriate in written French",
+      "Not using inversion in formal contexts"
+    ],
+    "chunk_compatibility": "Register-appropriate questions for different situations",
+    "primary_function": "Selecting question formation based on formality level",
+    "key_forms": "Three options: intonation (casual), est-ce que (neutral), inversion (formal)",
+    "essential_vocabulary": "venir, pleuvoir, vouloir, faire, aller, être, avoir, venir",
+    "why_it_matters": "Register selection impacts comprehension and appropriateness",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Indirect questions with si (whether/if)",
+    "core_meaning": "Embedding yes/no questions in larger sentences using si",
+    "primary_communicative_fn": "Reporting yes/no questions without direct inversion",
+    "when_to_use": "In reported speech for yes/no questions, use si + normal word order",
+    "pattern": "Verbe principal + si + sujet + verbe (sans inversion)",
+    "key_variations": [
+      "Je me demande si tu viens (I wonder if you're coming).",
+      "Dis-moi s'il a fini (Tell me if he finished).",
+      "Je ne sais pas si nous partons (I don't know if we're leaving).",
+      "Explique-moi si tu comprends (Explain to me if you understand)."
+    ],
+    "essential_vocabulary_slots": "demander, savoir, expliquer, dire, comprendre, venir, finir",
+    "common_learner_mistakes": [
+      "Using inverted order: *« je me demande si viens-tu »",
+      "Confusing si (whether) with que (that) in reported speech",
+      "Applying direct question word order in indirect speech"
+    ],
+    "chunk_compatibility": "Embedded questions in narrative and discussion",
+    "primary_function": "Reporting yes/no questions with normal subject-verb order",
+    "key_forms": "si + subject + verb (normal word order)",
+    "essential_vocabulary": "demander, savoir, expliquer, dire, comprendre, venir, finir, partir",
+    "why_it_matters": "Si converts direct questions to indirect without inversion",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Indirect questions with question words",
+    "core_meaning": "Embedding wh-questions in larger sentences, keeping normal word order",
+    "primary_communicative_fn": "Reporting specific-information questions without inversion",
+    "when_to_use": "In reported speech for wh-questions, maintain normal subject-verb order",
+    "pattern": "Verbe principal + [qui/que/où/quand/comment/pourquoi] + sujet + verbe",
+    "key_variations": [
+      "Je demande ce qu'il fait (I ask what he does).",
+      "Dis-moi où tu vas (Tell me where you're going).",
+      "Explique pourquoi tu pleures (Explain why you're crying).",
+      "Je ne sais pas qui vient (I don't know who's coming)."
+    ],
+    "essential_vocabulary_slots": "demander, dire, expliquer, savoir, aller, faire, pleurer",
+    "common_learner_mistakes": [
+      "Using question intonation in statement: *« dis-moi où tu vas? »",
+      "Using « ce que » instead of « ce qui » for subject questions",
+      "Maintaining direct word order/inversion in reported questions"
+    ],
+    "chunk_compatibility": "Reported speech with specific information requests",
+    "primary_function": "Converting direct wh-questions to indirect without inversion",
+    "key_forms": "Question word + subject + verb (normal order)",
+    "essential_vocabulary": "demander, dire, expliquer, savoir, aller, faire, pleurer, venir",
+    "why_it_matters": "Indirect wh-questions preserve normal word order without inversion",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Interrogative pronouns: Lequel, Laquelle (which one)",
+    "core_meaning": "Compound interrogative pronouns replacing article + noun for selection",
+    "primary_communicative_fn": "Asking which one from a set using pronoun form",
+    "when_to_use": "Use lequel (agrees) as pronoun when noun is omitted or distant",
+    "pattern": "Lequel/Laquelle/Lesquels/Lesquelles + (de + nom)? + verbe?",
+    "key_variations": [
+      "Lequel préfères-tu? (Which one do you prefer?).",
+      "Laquelle de ces robes vous plaît? (Which of these dresses do you like?).",
+      "Lesquels sont venus? (Which ones came?).",
+      "Auxquelles avez-vous pensé? (Which ones did you think of?)."
+    ],
+    "essential_vocabulary_slots": "préférer, plaire, venir, penser, aimer, choisir, vouloir",
+    "common_learner_mistakes": [
+      "Not agreeing in gender/number: *« lequel » for feminine noun",
+      "Confusing « lequel » (pronoun) with « quel » (adjective before noun)",
+      "Using wrong preposition with lequel: *« de laquelle » vs « à laquelle »"
+    ],
+    "chunk_compatibility": "Selecting specific items from multiple options",
+    "primary_function": "Asking which one(s) with full agreement",
+    "key_forms": "Lequel, Laquelle, Lesquels, Lesquelles (agrees with antecedent)",
+    "essential_vocabulary": "préférer, plaire, venir, penser, aimer, choisir, vouloir, sélectionner",
+    "why_it_matters": "Lequel agreements are complex but essential for selection questions",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Qu'est-ce que (what) - direct object question",
+    "core_meaning": "Compound question form specifically for asking about direct object",
+    "primary_communicative_fn": "Asking what someone does or wants (direct object focus)",
+    "when_to_use": "Ask about direct objects: what someone is doing/wanting/buying, etc.",
+    "pattern": "Qu'est-ce que + sujet + verbe + (complément)?",
+    "key_variations": [
+      "Qu'est-ce que tu fais? (What are you doing? - Answer: Je fais mes devoirs).",
+      "Qu'est-ce qu'il dit? (What is he saying? - Answer: Il dit la vérité).",
+      "Qu'est-ce que vous voulez? (What do you want? - Answer: Je veux partir).",
+      "Qu'est-ce qu'elle achète? (What is she buying? - Answer: Elle achète du pain)."
+    ],
+    "essential_vocabulary_slots": "faire, dire, vouloir, acheter, manger, boire, lire",
+    "common_learner_mistakes": [
+      "Using for subject questions: *« qu'est-ce que se passe »",
+      "Confusing with « qu'est-ce qui » for subject position",
+      "Omitting the que before vowels: *« qu'est-ce il » instead of « qu'est-ce qu'il »"
+    ],
+    "chunk_compatibility": "Asking about actions, desires, and acquisitions",
+    "primary_function": "Asking about direct objects in complete sentences",
+    "key_forms": "Qu'est-ce que + statement word order",
+    "essential_vocabulary": "faire, dire, vouloir, acheter, manger, boire, lire, écrire",
+    "why_it_matters": "Qu'est-ce que targets direct objects—essential for action questions",
+    "level": "A1"
+  },
+  {
+    "structure_label": "Qu'est-ce qui (what as subject)",
+    "core_meaning": "Compound question form for asking about subject",
+    "primary_communicative_fn": "Asking what (as subject) is happening or causing something",
+    "when_to_use": "Ask about subjects: what is happening, causing problems, etc.",
+    "pattern": "Qu'est-ce qui + verbe (answer will be the subject)?",
+    "key_variations": [
+      "Qu'est-ce qui se passe? (What is happening?).",
+      "Qu'est-ce qui cause ce bruit? (What is causing this noise?).",
+      "Qu'est-ce qui t'inquiète? (What is worrying you?).",
+      "Qu'est-ce qui est tombé? (What fell?)."
+    ],
+    "essential_vocabulary_slots": "passer, causer, inquiéter, tomber, arriver, briser, manquer",
+    "common_learner_mistakes": [
+      "Using « que » instead of « qu'est-ce qui »: *« que se passe »",
+      "Forgetting « qui » in subject position",
+      "Confusing with qu'est-ce que for objects"
+    ],
+    "chunk_compatibility": "Asking about events, causes, and emotional impacts",
+    "primary_function": "Asking about subjects in active voice",
+    "key_forms": "Qu'est-ce qui + verb (no other subject)",
+    "essential_vocabulary": "passer, causer, inquiéter, tomber, arriver, briser, manquer, intéresser",
+    "why_it_matters": "Qu'est-ce qui asks about subjects—essential for event questions",
+    "level": "A1"
+  },
+  {
+    "structure_label": "Interrogation totale vs partielle (total vs partial questions)",
+    "core_meaning": "Total questions ask yes/no; partial questions ask for specific information",
+    "primary_communicative_fn": "Choosing appropriate question type for expected answer",
+    "when_to_use": "Total: expect yes/no | Partial: expect specific information",
+    "pattern": "Total: est-ce que/inversion/intonation | Partial: interrogative + statement",
+    "key_variations": [
+      "Tu viens? (total → yes/no answer).",
+      "Quand est-ce que tu viens? (partial → time answer).",
+      "Viendras-tu? (total formal → yes/no).",
+      "Où allez-vous ce soir? (partial → place answer)."
+    ],
+    "essential_vocabulary_slots": "venir, aller, faire, être, avoir, savoir, pouvoir",
+    "common_learner_mistakes": [
+      "Using interrogative words for yes/no questions: *« où tu viens? »",
+      "Not recognizing intonation questions as valid informal option",
+      "Confusing question type with expected answer format"
+    ],
+    "chunk_compatibility": "Appropriate question types for various information needs",
+    "primary_function": "Distinguishing total from partial question purposes",
+    "key_forms": "Total: 3 methods | Partial: interrogative + normal order",
+    "essential_vocabulary": "venir, aller, faire, être, avoir, savoir, pouvoir, être",
+    "why_it_matters": "Understanding question types improves comprehension accuracy",
+    "level": "A2"
+  },
+  {
+    "structure_label": "N'est-ce pas (tag questions)",
+    "core_meaning": "Tag question added to statement expecting confirmation",
+    "primary_communicative_fn": "Seeking agreement or confirmation on stated facts",
+    "when_to_use": "Add n'est-ce pas to statements to request confirmation",
+    "pattern": "Phrase affirmative + , n'est-ce pas? / Phrase négative + , non?",
+    "key_variations": [
+      "Il fait beau, n'est-ce pas? (It's nice weather, isn't it?).",
+      "Vous venez, n'est-ce pas? (You're coming, aren't you?).",
+      "Ce n'est pas vrai, non? (That's not true, is it?).",
+      "Vous l'avez fait, n'est-ce pas? (You did it, didn't you?)."
+    ],
+    "essential_vocabulary_slots": "faire, venir, être, avoir, devoir, pouvoir, savoir",
+    "common_learner_mistakes": [
+      "Using « n'est-ce pas » after negative: *« il ne vient pas, n'est-ce pas? »",
+      "Confusing tag questions with actual answer-seeking questions",
+      "Using « n'est-ce pas » with all statements regardless of polarity"
+    ],
+    "chunk_compatibility": "Seeking social confirmation and agreement",
+    "primary_function": "Requesting confirmation while making statements",
+    "key_forms": "n'est-ce pas (affirmative) / non (negative)",
+    "essential_vocabulary": "faire, venir, être, avoir, devoir, pouvoir, savoir, aller",
+    "why_it_matters": "Tag questions are social politeness devices in French conversation",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Hein (informal tag) and Si (contradiction)",
+    "core_meaning": "Informal tags and contradictions in spoken French",
+    "primary_communicative_fn": "Seeking confirmation informally and contradicting negatives",
+    "when_to_use": "Use hein casually; use si only to contradict negative statements",
+    "pattern": "Phrase + , hein? / Si + (proposition) for contradiction",
+    "key_variations": [
+      "C'est bien, hein? (That's good, huh?).",
+      "Il est là, hein? (He's here, right?).",
+      "— Je ne crois pas. — Si! (I disagree!).",
+      "— Tu ne veux pas. — Mais si, je veux! (Yes, I do want to!)."
+    ],
+    "essential_vocabulary_slots": "hein, si, croire, vouloir, être, faire, venir",
+    "common_learner_mistakes": [
+      "Using « si » to agree with yes-questions: *« — Tu viens? — Si! »",
+      "Overusing « hein » in formal or written French",
+      "Forgetting « mais » before « si » in emphatic contradictions"
+    ],
+    "chunk_compatibility": "Casual spoken discourse with emphatic responses",
+    "primary_function": "Informal agreement-seeking and emphatic contradiction",
+    "key_forms": "hein (tag), si (contradiction only)",
+    "essential_vocabulary": "hein, si, croire, vouloir, être, faire, venir, penser",
+    "why_it_matters": "Hein and si are frequent in colloquial French—register-specific usage",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pourquoi est-ce que (why questions)",
+    "core_meaning": "Asking for reason with est-ce que pattern",
+    "primary_communicative_fn": "Asking for reasons and justifications",
+    "when_to_use": "Use pourquoi + est-ce que for neutral why questions",
+    "pattern": "Pourquoi est-ce que + sujet + verbe + (complément)?",
+    "key_variations": [
+      "Pourquoi est-ce que tu pleures? (Why are you crying?).",
+      "Pourquoi est-ce qu'elle est partie? (Why did she leave?).",
+      "Pourquoi est-ce que vous faites cela? (Why are you doing that?).",
+      "Pourquoi est-ce qu'ils protestent? (Why are they protesting?)."
+    ],
+    "essential_vocabulary_slots": "pleurer, partir, faire, protester, croire, penser, venir",
+    "common_learner_mistakes": [
+      "Confusing pourquoi (why/reason) with comment (how/manner)",
+      "Using « pourquoi pas » incorrectly for expressing alternatives",
+      "Omitting est-ce que when inversion would be clearer"
+    ],
+    "chunk_compatibility": "Seeking explanations and understanding motivations",
+    "primary_function": "Asking for reasons and cause-effect relationships",
+    "key_forms": "Pourquoi est-ce que + statement word order",
+    "essential_vocabulary": "pleurer, partir, faire, protester, croire, penser, venir, avoir",
+    "why_it_matters": "Why questions are fundamental to conversation and understanding",
+    "level": "A1"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "je pense que",
+    "meaning": "I think that",
+    "primary_function": "Opinion expression",
+    "communicative_purpose": "Expressing personal opinion or belief",
+    "trigger_situations": "Sharing viewpoints, discussing topics, giving advice, explaining preferences",
+    "contexts": "Conversations, debates, casual discussions, professional settings, expressing preferences",
+    "variations": "je pense que, je pense vraiment que, je pense que oui, je ne pense pas que",
+    "common_mistakes": "Forgetting 'que' after 'pense'; confusing 'pense' with 'crois' (believe); adding unnecessary preposition",
+    "level": "A2",
+    "patterns": [
+      "je + pense + que"
+    ],
+    "collocates": "je pense que, je crois que, je trouve que, je dirais que",
+    "example_1": "je + pense + que",
+    "example_2": "Tu peux dire je pense que quand tu veux exprimer I think that.",
+    "example_3": "On utilise je pense que dans la vie quotidienne.",
+    "example_1_translation": "je + pense + que",
+    "example_2_translation": "You can say I think that when you want to express I think that.",
+    "example_3_translation": "I think we use it in everyday life."
+  },
+  {
+    "chunk_text": "je suis d'accord",
+    "meaning": "I agree",
+    "primary_function": "Agreement expression",
+    "communicative_purpose": "Expressing agreement with someone or something",
+    "trigger_situations": "Concluding discussions, accepting proposals, agreeing with opinions, confirming understanding",
+    "contexts": "Meetings, debates, casual conversations, negotiations, confirming plans",
+    "variations": "je suis d'accord, je suis parfaitement d'accord, je suis absolument d'accord",
+    "common_mistakes": "Using 'je suis d'accord avec' without completing the construction; confusing with 'je suis d'accord pour'",
+    "level": "A2",
+    "patterns": [
+      "je + suis + d'accord"
+    ],
+    "collocates": "je suis d'accord, je suis tout à fait d'accord, nous sommes d'accord",
+    "example_1": "je + suis + d'accord",
+    "example_2": "Tu peux dire je suis d'accord quand tu veux exprimer I agree.",
+    "example_3": "On utilise je suis d'accord dans la vie quotidienne.",
+    "example_1_translation": "I + agree",
+    "example_2_translation": "You can say I agree when you want to express I agree.",
+    "example_3_translation": "We use I agree in daily life."
+  },
+  {
+    "chunk_text": "je ne suis pas d'accord",
+    "meaning": "I disagree",
+    "primary_function": "Disagreement expression",
+    "communicative_purpose": "Expressing disagreement or opposition",
+    "trigger_situations": "Debates, rejecting proposals, contrasting opinions, polite confrontation",
+    "contexts": "Arguments, discussions, meetings, social debates, expressing different viewpoints",
+    "variations": "je ne suis pas d'accord, je ne suis absolument pas d'accord, pas d'accord",
+    "common_mistakes": "Shortening to 'je suis pas d'accord' in formal contexts; wrong position of 'pas'",
+    "level": "A2",
+    "patterns": [
+      "je + ne + suis + pas + d'accord"
+    ],
+    "collocates": "je ne suis pas d'accord, je ne suis vraiment pas d'accord, je ne suis pas du tout d'accord",
+    "example_1": "je + ne + suis + pas + d'accord",
+    "example_2": "Tu peux dire je ne suis pas d'accord quand tu veux exprimer I disagree.",
+    "example_3": "On utilise je ne suis pas d'accord dans la vie quotidienne.",
+    "example_1_translation": "I + don’t + agree",
+    "example_2_translation": "You can say I don't agree when you want to express I disagree.",
+    "example_3_translation": "We use I disagree in everyday life."
+  },
+  {
+    "chunk_text": "d'un côté",
+    "meaning": "on one hand",
+    "primary_function": "Comparison connector",
+    "communicative_purpose": "Introducing the first perspective in a comparison or contrast",
+    "trigger_situations": "Weighing pros and cons, presenting arguments, balanced discussion, comparisons",
+    "contexts": "Debates, essays, planning, decision-making, balanced arguments",
+    "variations": "d'un côté, d'un côté, il est vrai que, d'un point de vue",
+    "common_mistakes": "Using without 'd'autre part'; incomplete comparison structure; forgetting the contrast",
+    "level": "A2",
+    "patterns": [
+      "d'un + côté"
+    ],
+    "collocates": "d'un côté, d'un autre côté, d'un côté ... de l'autre côté",
+    "example_1": "d'un + côté",
+    "example_2": "Tu peux dire d'un côté quand tu veux exprimer on one hand.",
+    "example_3": "On utilise d'un côté dans la vie quotidienne.",
+    "example_1_translation": "on one side",
+    "example_2_translation": "You can say on one hand when you want to express on one hand.",
+    "example_3_translation": "On the one hand, we use it in daily life."
+  },
+  {
+    "chunk_text": "d'autre part",
+    "meaning": "on the other hand",
+    "primary_function": "Comparison connector",
+    "communicative_purpose": "Introducing the second perspective in a comparison or contrast",
+    "trigger_situations": "Continuing balanced arguments, presenting opposite points, completing comparisons",
+    "contexts": "Debates, essays, planning, decision-making, formal discussions",
+    "variations": "d'autre part, d'un autre côté, d'un point de vue différent, sous un autre angle",
+    "common_mistakes": "Using without first presenting 'd'un côté'; improper conjunction with first point",
+    "level": "A2",
+    "patterns": [
+      "d'autre + part"
+    ],
+    "collocates": "d'autre part, d'un autre côté, par ailleurs, en revanche",
+    "example_1": "d'autre + part",
+    "example_2": "Tu peux dire d'autre part quand tu veux exprimer on the other hand.",
+    "example_3": "On utilise d'autre part dans la vie quotidienne.",
+    "example_1_translation": "on the other hand",
+    "example_2_translation": "You can say on the other hand when you want to express on the other hand.",
+    "example_3_translation": "It is also used in everyday life."
+  },
+  {
+    "chunk_text": "c'est à gauche",
+    "meaning": "it's on the left",
+    "primary_function": "Direction expression",
+    "communicative_purpose": "Indicating left direction or location",
+    "trigger_situations": "Giving directions, following maps, locating places, navigation",
+    "contexts": "Streets, buildings, maps, city navigation, asking for directions",
+    "variations": "c'est à gauche, c'est sur la gauche, à votre gauche, sur votre gauche",
+    "common_mistakes": "Using 'à gauche' without 'c'est' when indicating location; confusing with 'de gauche'",
+    "level": "A2",
+    "patterns": [
+      "c'est + à + gauche"
+    ],
+    "collocates": "c'est à gauche, c'est à gauche en sortant, tournez à gauche",
+    "example_1": "c'est + à + gauche",
+    "example_2": "Tu peux dire c'est à gauche quand tu veux exprimer it's on the left.",
+    "example_3": "On utilise c'est à gauche dans la vie quotidienne.",
+    "example_1_translation": "it's + to + left",
+    "example_2_translation": "You can say it's on the left when you want to express it's on the left.",
+    "example_3_translation": "We use it on the left in everyday life."
+  },
+  {
+    "chunk_text": "c'est à droite",
+    "meaning": "it's on the right",
+    "primary_function": "Direction expression",
+    "communicative_purpose": "Indicating right direction or location",
+    "trigger_situations": "Giving directions, following maps, locating places, navigation",
+    "contexts": "Streets, buildings, maps, city navigation, asking for directions",
+    "variations": "c'est à droite, c'est sur la droite, à votre droite, sur votre droite",
+    "common_mistakes": "Using 'à droite' without context marker; confusing with 'de droite'",
+    "level": "A2",
+    "patterns": [
+      "c'est + à + droite"
+    ],
+    "collocates": "c'est à droite, c'est à droite en sortant, tournez à droite",
+    "example_1": "c'est + à + droite",
+    "example_2": "Tu peux dire c'est à droite quand tu veux exprimer it's on the right.",
+    "example_3": "On utilise c'est à droite dans la vie quotidienne.",
+    "example_1_translation": "it's + to + right",
+    "example_2_translation": "You can say it's on the right when you want to express it's on the right.",
+    "example_3_translation": "We use it right in daily life."
+  },
+  {
+    "chunk_text": "tout droit",
+    "meaning": "straight ahead",
+    "primary_function": "Direction expression",
+    "communicative_purpose": "Indicating to continue straight forward",
+    "trigger_situations": "Giving directions, following navigation, walking, driving instructions",
+    "contexts": "Streets, intersections, maps, navigation, travel directions",
+    "variations": "tout droit, tout droit devant, en face, directement",
+    "common_mistakes": "Confusing with 'toute droite' (feminine); using without verb or context",
+    "level": "A2",
+    "patterns": [
+      "tout + droit"
+    ],
+    "collocates": "tout droit, continuez tout droit, allez tout droit, c'est tout droit",
+    "example_1": "tout + droit",
+    "example_2": "Tu peux dire tout droit quand tu veux exprimer straight ahead.",
+    "example_3": "On utilise tout droit dans la vie quotidienne.",
+    "example_1_translation": "tout + droit",
+    "example_2_translation": "You can say straight ahead when you want to express straight ahead.",
+    "example_3_translation": "We use it all right in daily life."
+  },
+  {
+    "chunk_text": "on y va",
+    "meaning": "let's go / we're going",
+    "primary_function": "Plan expression",
+    "communicative_purpose": "Initiating movement or confirming departure plans",
+    "trigger_situations": "Leaving with others, confirming plans, starting a journey, suggesting departure",
+    "contexts": "Travel, outings, meeting up, starting trips, group coordination",
+    "variations": "on y va, on y va maintenant, on y va quand, vamos-y (informal French)",
+    "common_mistakes": "Confusing 'y va' with 'va' alone; forgetting 'on' for plural subject",
+    "level": "A2",
+    "patterns": [
+      "on + y + va"
+    ],
+    "collocates": "on y va, on y va ?, où est-ce qu'on y va, on y va comment",
+    "example_1": "on + y + va",
+    "example_2": "Tu peux dire on y va quand tu veux exprimer let's go / we're going.",
+    "example_3": "On utilise on y va dans la vie quotidienne.",
+    "example_1_translation": "on + y + va",
+    "example_2_translation": "You can say let's go when you want to express let's go / we're going.",
+    "example_3_translation": "We use it we go there in daily life."
+  },
+  {
+    "chunk_text": "tu es d'accord",
+    "meaning": "do you agree",
+    "primary_function": "Agreement question",
+    "communicative_purpose": "Asking for someone's opinion or confirmation",
+    "trigger_situations": "Checking consensus, asking for approval, confirming plans, seeking opinions",
+    "contexts": "Planning, meetings, casual conversations, group decisions, negotiations",
+    "variations": "tu es d'accord, vous êtes d'accord, est-ce que tu es d'accord, t'es d'accord",
+    "common_mistakes": "Contracting to 't'es' in formal contexts; missing the question intonation",
+    "level": "A2",
+    "patterns": [
+      "tu + es + d'accord"
+    ],
+    "collocates": "tu es d'accord, tu es d'accord avec moi, tu es d'accord pour",
+    "example_1": "tu + es + d'accord",
+    "example_2": "Tu peux dire tu es d'accord quand tu veux exprimer do you agree.",
+    "example_3": "On utilise tu es d'accord dans la vie quotidienne.",
+    "example_1_translation": "you + agree",
+    "example_2_translation": "You can say you agree when you want to express do you agree.",
+    "example_3_translation": "We use you agree in daily life."
+  },
+  {
+    "chunk_text": "pour aller à",
+    "meaning": "to get to / how to get to",
+    "primary_function": "Travel direction question",
+    "communicative_purpose": "Asking for directions to a destination",
+    "trigger_situations": "Asking for directions, navigating new places, travel inquiries, locating addresses",
+    "contexts": "Streets, tourist areas, public transport, airports, train stations",
+    "variations": "pour aller à, pour rejoindre, comment rejoindre, où se trouve",
+    "common_mistakes": "Forgetting the article after 'à' (à la, au); using wrong preposition with places",
+    "level": "A2",
+    "patterns": [
+      "pour + aller + à"
+    ],
+    "collocates": "pour aller à, comment aller à, comment je vais à, le chemin pour aller à",
+    "example_1": "pour + aller + à",
+    "example_2": "Tu peux dire pour aller à quand tu veux exprimer to get to / how to get to.",
+    "example_3": "On utilise pour aller à dans la vie quotidienne.",
+    "example_1_translation": "pour + aller + à",
+    "example_2_translation": "You can say to go to when you want to express to get to / how to get to.",
+    "example_3_translation": "We use it to go to everyday life."
+  },
+  {
+    "chunk_text": "je préfère",
+    "meaning": "I prefer",
+    "primary_function": "Preference expression",
+    "communicative_purpose": "Expressing a choice or preference between options",
+    "trigger_situations": "Making choices, ordering, selecting options, giving opinions on alternatives",
+    "contexts": "Restaurants, shopping, planning activities, comparing options, daily decisions",
+    "variations": "je préfère, je préfère de loin, je préférerais, j'aime mieux",
+    "common_mistakes": "Using 'je aime mieux' interchangeably without knowing the difference; incomplete construction without object",
+    "level": "A2",
+    "patterns": [
+      "je + préfère"
+    ],
+    "collocates": "je préfère, je préfère le, je préfère la, je préfère manger",
+    "example_1": "je + préfère",
+    "example_2": "Tu peux dire je préfère quand tu veux exprimer I prefer.",
+    "example_3": "On utilise je préfère dans la vie quotidienne.",
+    "example_1_translation": "je + préfère",
+    "example_2_translation": "You can say I prefer when you want to express I prefer.",
+    "example_3_translation": "We use it I prefer in daily life."
+  },
+  {
+    "chunk_text": "c'est mieux",
+    "meaning": "it's better",
+    "primary_function": "Comparison expression",
+    "communicative_purpose": "Expressing that something is better than another option",
+    "trigger_situations": "Comparing options, making suggestions, giving recommendations, expressing preference",
+    "contexts": "Shopping, planning, recommendations, opinions, comparative discussions",
+    "variations": "c'est mieux, c'est bien mieux, c'est nettement mieux, c'est bien mieux comme ça",
+    "common_mistakes": "Using 'c'est meilleur' incorrectly; comparing incomparable items; using with wrong noun gender",
+    "level": "A2",
+    "patterns": [
+      "c'est + mieux"
+    ],
+    "collocates": "c'est mieux, c'est beaucoup mieux, c'est mieux comme ça, c'est largement mieux",
+    "example_1": "c'est + mieux",
+    "example_2": "Tu peux dire c'est mieux quand tu veux exprimer it's better.",
+    "example_3": "On utilise c'est mieux dans la vie quotidienne.",
+    "example_1_translation": "it's better",
+    "example_2_translation": "You can say it's better when you want to express it's better.",
+    "example_3_translation": "We use it better in daily life."
+  },
+  {
+    "chunk_text": "c'est pareil",
+    "meaning": "it's the same",
+    "primary_function": "Comparison expression",
+    "communicative_purpose": "Expressing that two things are equivalent or the same",
+    "trigger_situations": "Comparing items, saying something is equivalent, confirming similarity, making points",
+    "contexts": "Shopping, descriptions, equivalences, comparisons, explanations",
+    "variations": "c'est pareil, c'est la même chose, c'est équivalent, c'est similaire",
+    "common_mistakes": "Confusing with 'c'est pareille' (feminine form); using without proper context comparison",
+    "level": "A2",
+    "patterns": [
+      "c'est + pareil"
+    ],
+    "collocates": "c'est pareil, c'est exactement pareil, c'est presque pareil, c'est pareil pour moi",
+    "example_1": "c'est + pareil",
+    "example_2": "Tu peux dire c'est pareil quand tu veux exprimer it's the same.",
+    "example_3": "On utilise c'est pareil dans la vie quotidienne.",
+    "example_1_translation": "it's more the same",
+    "example_2_translation": "You can say it's the same when you want to express it's the same.",
+    "example_3_translation": "We use it the same in daily life."
+  },
+  {
+    "chunk_text": "on peut faire",
+    "meaning": "we can do / we could do",
+    "primary_function": "Plan suggestion expression",
+    "communicative_purpose": "Proposing activities or making plans together",
+    "trigger_situations": "Planning outings, suggesting activities, making group decisions, proposing alternatives",
+    "contexts": "Planning trips, social plans, group activities, vacation planning, weekend plans",
+    "variations": "on peut faire, on pourrait faire, on aimerait faire, si on faisait",
+    "common_mistakes": "Confusing 'peut' (can) with 'veut' (wants); incomplete suggestion without completing the action",
+    "level": "A2",
+    "patterns": [
+      "on + peut + faire"
+    ],
+    "collocates": "on peut faire, on pourrait faire, qu'est-ce qu'on peut faire, qu'est-ce qu'on fait",
+    "example_1": "on + peut + faire",
+    "example_2": "Tu peux dire on peut faire quand tu veux exprimer we can do / we could do.",
+    "example_3": "On utilise on peut faire dans la vie quotidienne.",
+    "example_1_translation": "on + peut + faire",
+    "example_2_translation": "You can say we can do when you want to express we can do / we could do.",
+    "example_3_translation": "We use it we can do in daily life."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "habiter en ville",
+    "meaning": "to live in the city",
+    "primary_function": "expression",
+    "communicative_purpose": "describing urban residence",
+    "patterns": [
+      "Nous habitons en ville.",
+      "Elle préfère habiter en ville."
+    ],
+    "collocates": [
+      "ville",
+      "urbain",
+      "centre",
+      "capital",
+      "métropole"
+    ],
+    "level": "A1",
+    "example_1": "Nous habitons en ville.",
+    "example_2": "Elle préfère habiter en ville.",
+    "example_3": "Je connais habiter en ville.",
+    "example_1_translation": "We live in town.",
+    "example_2_translation": "She prefers to live in the city.",
+    "example_3_translation": "I know how to live in the city."
+  },
+  {
+    "chunk_text": "le transports en commun",
+    "meaning": "public transportation",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing public transit",
+    "patterns": [
+      "Je prends les transports en commun pour aller au travail.",
+      "Les transports en commun sont bien développés ici."
+    ],
+    "collocates": [
+      "transport",
+      "commun",
+      "bus",
+      "métro",
+      "tramway"
+    ],
+    "level": "A2",
+    "example_1": "Je prends les transports en commun pour aller au travail.",
+    "example_2": "Les transports en commun sont bien développés ici.",
+    "example_3": "On utilise le transports en commun dans la vie quotidienne.",
+    "example_1_translation": "I take public transportation to go to work.",
+    "example_2_translation": "Public transport is well developed here.",
+    "example_3_translation": "We use public transport in daily life."
+  },
+  {
+    "chunk_text": "un quartier commerçant",
+    "meaning": "a shopping district",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing commercial areas",
+    "patterns": [
+      "Ce quartier commerçant est très animé.",
+      "Le quartier commerçant offre many boutiques."
+    ],
+    "collocates": [
+      "quartier",
+      "commerçant",
+      "boutique",
+      "magasin",
+      "commerce"
+    ],
+    "level": "B1",
+    "example_1": "Ce quartier commerçant est très animé.",
+    "example_2": "Le quartier commerçant offre many boutiques.",
+    "example_3": "Je connais un quartier commerçant.",
+    "example_1_translation": "This shopping area is very lively.",
+    "example_2_translation": "The shopping district offers many boutiques.",
+    "example_3_translation": "I know a shopping area."
+  },
+  {
+    "chunk_text": "la circulation",
+    "meaning": "traffic",
+    "primary_function": "noun",
+    "communicative_purpose": "describing traffic conditions",
+    "patterns": [
+      "La circulation est dense le matin.",
+      "Il y a beaucoup de circulation dans ce quartier."
+    ],
+    "collocates": [
+      "circulation",
+      "route",
+      "embouteillage",
+      "véhicule",
+      "trafic"
+    ],
+    "level": "A2",
+    "example_1": "La circulation est dense le matin.",
+    "example_2": "Il y a beaucoup de circulation dans ce quartier.",
+    "example_3": "On utilise la circulation dans la vie quotidienne.",
+    "example_1_translation": "Traffic is heavy in the morning.",
+    "example_2_translation": "There is a lot of traffic in this area.",
+    "example_3_translation": "We use circulation in daily life."
+  },
+  {
+    "chunk_text": "une zone piétonne",
+    "meaning": "a pedestrian zone",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing pedestrian areas",
+    "patterns": [
+      "Cette rue est une zone piétonne.",
+      "Les zones piétonnes sont agréables pour marcher."
+    ],
+    "collocates": [
+      "piéton",
+      "zone",
+      "piétonne",
+      "marche",
+      "sans voiture"
+    ],
+    "level": "B1",
+    "example_1": "Cette rue est une zone piétonne.",
+    "example_2": "Les zones piétonnes sont agréables pour marcher.",
+    "example_3": "Je connais une zone piétonne.",
+    "example_1_translation": "This street is a pedestrian zone.",
+    "example_2_translation": "Pedestrian areas are pleasant for walking.",
+    "example_3_translation": "I know of a pedestrian zone."
+  },
+  {
+    "chunk_text": "faire la queue",
+    "meaning": "to queue",
+    "primary_function": "expression",
+    "communicative_purpose": "describing waiting in line in urban context",
+    "patterns": [
+      "Les gens font la queue devant le magasin.",
+      "La queue était très longue."
+    ],
+    "collocates": [
+      "queue",
+      "attente",
+      "file",
+      "patienter",
+      "monotonie"
+    ],
+    "level": "A2",
+    "example_1": "Les gens font la queue devant le magasin.",
+    "example_2": "La queue était très longue.",
+    "example_3": "On utilise faire la queue dans la vie quotidienne.",
+    "example_1_translation": "People line up in front of the store.",
+    "example_2_translation": "The queue was very long.",
+    "example_3_translation": "We use queue in everyday life."
+  },
+  {
+    "chunk_text": "un immeuble",
+    "meaning": "a building",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to urban buildings",
+    "patterns": [
+      "Cet immeuble a 20 étages.",
+      "L'immeuble est en construction."
+    ],
+    "collocates": [
+      "immeuble",
+      "bâtiment",
+      "étage",
+      "construction",
+      "architecture"
+    ],
+    "level": "A2",
+    "example_1": "Cet immeuble a 20 étages.",
+    "example_2": "L'immeuble est en construction.",
+    "example_3": "On utilise un immeuble dans la vie quotidienne.",
+    "example_1_translation": "This building has 20 floors.",
+    "example_2_translation": "The building is under construction.",
+    "example_3_translation": "We use a building in daily life."
+  },
+  {
+    "chunk_text": "un musée",
+    "meaning": "a museum",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to cultural institutions",
+    "patterns": [
+      "Nous visitons un musée ce après-midi.",
+      "Le musée est gratuit le premier dimanche."
+    ],
+    "collocates": [
+      "musée",
+      "art",
+      "culture",
+      "exposition",
+      "visite"
+    ],
+    "level": "A1",
+    "example_1": "Nous visitons un musée ce après-midi.",
+    "example_2": "Le musée est gratuit le premier dimanche.",
+    "example_3": "Je connais un musée.",
+    "example_1_translation": "We are visiting a museum this afternoon.",
+    "example_2_translation": "The museum is free on the first Sunday.",
+    "example_3_translation": "I know a museum."
+  },
+  {
+    "chunk_text": "une borne",
+    "meaning": "a terminal/kiosk",
+    "primary_function": "noun",
+    "communicative_purpose": "describing urban service points",
+    "patterns": [
+      "Vous pouvez payer à cette borne.",
+      "La borne de métro est juste là."
+    ],
+    "collocates": [
+      "borne",
+      "distributeur",
+      "automate",
+      "guichet",
+      "service"
+    ],
+    "level": "B1",
+    "example_1": "Vous pouvez payer à cette borne.",
+    "example_2": "La borne de métro est juste là.",
+    "example_3": "Je connais une borne.",
+    "example_1_translation": "You can pay at this terminal.",
+    "example_2_translation": "The metro terminal is right there.",
+    "example_3_translation": "I know of a terminal."
+  },
+  {
+    "chunk_text": "le bruit de la ville",
+    "meaning": "the noise of the city",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing urban soundscape",
+    "patterns": [
+      "On entend le bruit de la ville.",
+      "Le bruit de la ville peut être Stressant."
+    ],
+    "collocates": [
+      "bruit",
+      "ville",
+      "vacarme",
+      "pollution",
+      "ambiance"
+    ],
+    "level": "A2",
+    "example_1": "On entend le bruit de la ville.",
+    "example_2": "Le bruit de la ville peut être Stressant.",
+    "example_3": "On utilise le bruit de la ville dans la vie quotidienne.",
+    "example_1_translation": "We hear the noise of the city.",
+    "example_2_translation": "City noise can be stressful.",
+    "example_3_translation": "We use city noise in everyday life."
+  },
+  {
+    "chunk_text": "un parc",
+    "meaning": "a park",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to urban green spaces",
+    "patterns": [
+      "Les enfants jouent dans le parc.",
+      "Ce parc est très agréable au printemps."
+    ],
+    "collocates": [
+      "parc",
+      "jardin",
+      "vert",
+      "espace",
+      "nature"
+    ],
+    "level": "A1",
+    "example_1": "Les enfants jouent dans le parc.",
+    "example_2": "Ce parc est très agréable au printemps.",
+    "example_3": "Je connais un parc.",
+    "example_1_translation": "Children play in the park.",
+    "example_2_translation": "This park is very pleasant in spring.",
+    "example_3_translation": "I know a park."
+  },
+  {
+    "chunk_text": "la propreté",
+    "meaning": "cleanliness",
+    "primary_function": "noun",
+    "communicative_purpose": "describing urban cleanliness",
+    "patterns": [
+      "La propreté des rues laisse à désirer.",
+      "Cette ville est reconnue pour sa propreté."
+    ],
+    "collocates": [
+      "propreté",
+      "propre",
+      "nettoyage",
+      "hygiène",
+      "envilleissement"
+    ],
+    "level": "B1",
+    "example_1": "La propreté des rues laisse à désirer.",
+    "example_2": "Cette ville est reconnue pour sa propreté.",
+    "example_3": "Je connais la propreté.",
+    "example_1_translation": "The cleanliness of the streets leaves something to be desired.",
+    "example_2_translation": "This city is known for its cleanliness.",
+    "example_3_translation": "I know about cleanliness."
+  },
+  {
+    "chunk_text": "une station de métro",
+    "meaning": "a metro station",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to subway stations",
+    "patterns": [
+      "La station de métro est à côté.",
+      "Je descends à la prochaine station de métro."
+    ],
+    "collocates": [
+      "station",
+      "métro",
+      "arrêt",
+      "ligne",
+      "RER"
+    ],
+    "level": "A1",
+    "example_1": "La station de métro est à côté.",
+    "example_2": "Je descends à la prochaine station de métro.",
+    "example_3": "Je connais une station de métro.",
+    "example_1_translation": "The metro station is next door.",
+    "example_2_translation": "I get off at the next metro station.",
+    "example_3_translation": "I know a metro station."
+  },
+  {
+    "chunk_text": "le centre-ville",
+    "meaning": "the city center/downtown",
+    "primary_function": "noun",
+    "communicative_purpose": "describing city center",
+    "patterns": [
+      "Je travaille au centre-ville.",
+      "Le centre-ville est très animé le soir."
+    ],
+    "collocates": [
+      "centre",
+      "ville",
+      "downtown",
+      "cœur",
+      "hypercentre"
+    ],
+    "level": "A1",
+    "example_1": "Je travaille au centre-ville.",
+    "example_2": "Le centre-ville est très animé le soir.",
+    "example_3": "Je connais le centre-ville.",
+    "example_1_translation": "I work downtown.",
+    "example_2_translation": "The city center is very lively in the evening.",
+    "example_3_translation": "I know the city center."
+  },
+  {
+    "chunk_text": "un embouteillage",
+    "meaning": "a traffic jam",
+    "primary_function": "noun",
+    "communicative_purpose": "describing traffic congestion",
+    "patterns": [
+      "Nous sommes arrivés en retard à cause d'un embouteillage.",
+      "Il y a toujours des embouteillages aux heures de pointe."
+    ],
+    "collocates": [
+      "embouteillage",
+      "circulation",
+      "route",
+      "bloquer",
+      "retard"
+    ],
+    "level": "A2",
+    "example_1": "Nous sommes arrivés en retard à cause d'un embouteillage.",
+    "example_2": "Il y a toujours des embouteillages aux heures de pointe.",
+    "example_3": "On utilise un embouteillage dans la vie quotidienne.",
+    "example_1_translation": "We arrived late due to a traffic jam.",
+    "example_2_translation": "There are always traffic jams during rush hours.",
+    "example_3_translation": "We use a traffic jam in everyday life."
+  }
+]

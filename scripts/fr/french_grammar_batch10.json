@@ -1,0 +1,362 @@
+[
+  {
+    "structure_label": "Verb sequence with « faire + infinitif » causative",
+    "core_meaning": "Expresses having someone else do something (causative construction)",
+    "primary_communicative_fn": "Expressing causation—making or having someone do something",
+    "when_to_use": "When describing requests or orders to others to perform actions",
+    "pattern": "Sujet + faire + infinitif (+ par/par + complément)",
+    "key_variations": [
+      "Je fais réparer ma voiture (I have my car repaired).",
+      "Elle a fait construire une maison (She had a house built).",
+      "Nous avons fait manger les enfants (We made the children eat)."
+    ],
+    "essential_vocabulary_slots": "faire, réparer, construire, manger, laisser, compléter",
+    "common_learner_mistakes": [
+      "Using 'faire de' instead of 'faire' + infinitif",
+      "Confusing causative with passive meaning",
+      "Incorrect pronoun placement with direct object"
+    ],
+    "chunk_compatibility": "Causative structures support high-frequency requests and commands",
+    "primary_function": "Expressing causation—making, having, or getting someone to do something",
+    "key_forms": "Je fais faire, tu fais faire, il/elle fait faire, nous faisons faire, vous faites faire, ils/elles font faire",
+    "essential_vocabulary": "faire, réparer, construire, manger, partir, venir, travailler, apprendre",
+    "why_it_matters": "Causative constructions enable expressing complex social interactions and instructions",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « laisser + infinitif »",
+    "core_meaning": "Expresses permission, allowance, or causation (let/leave/have something done)",
+    "primary_communicative_fn": "Expressing permission or allowance for actions",
+    "when_to_use": "When describing passive allowance or permission for someone to do something",
+    "pattern": "Sujet + laisser + infinitif",
+    "key_variations": [
+      "Je laisse entrer les enfants (I let the children in).",
+      "Elle laisse tomber ses clés (She lets/drops her keys).",
+      "Ils laissent travailler leurs employés (They let their employees work)."
+    ],
+    "essential_vocabulary_slots": "laisser, entrer, tomber, travailler, parler, faire, partir",
+    "common_learner_mistakes": [
+      "Confusing with causative faire construction",
+      "Incorrect tense usage after laisser",
+      "Misplacing pronouns in laisser + infinitif"
+    ],
+    "chunk_compatibility": "Permission structures for allowing and enabling actions",
+    "primary_function": "Expressing permission, allowance, or non-intervention",
+    "key_forms": "Je laisse, tu laisses, il/elle laisse, nous laissons, vous laissez, ils/elles laissent",
+    "essential_vocabulary": "laisser, entrer, sortir, parler, faire, tomber, partir, rester",
+    "why_it_matters": "Laisser + infinitif conveys permission with less direct control than faire",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « voir + infinitif »",
+    "core_meaning": "Expresses perceiving an action happening (see someone do something)",
+    "primary_communicative_fn": "Expressing perception of ongoing actions or events",
+    "when_to_use": "When describing what someone witnesses or observes happening",
+    "pattern": "Sujet + voir + complément + infinitif",
+    "key_variations": [
+      "Je l'ai vu partir (I saw him leave).",
+      "Nous avons vu voler les oiseaux (We saw the birds flying).",
+      "Elle a vu casser la vitre (She saw the window break)."
+    ],
+    "essential_vocabulary_slots": "voir, partir, voler, casser, arriver, entrer, tomber",
+    "common_learner_mistakes": [
+      "Using 'de' after voir instead of direct infinitif",
+      "Confusing with verb + gerund construction",
+      "Incorrect agreement of past participle with perceived object"
+    ],
+    "chunk_compatibility": "Perception structures for describing witnessed events",
+    "primary_function": "Expressing perception of actions and events",
+    "key_forms": "Je vois, tu vois, il/elle voit, nous voyons, vous voyez, ils/elles voient",
+    "essential_vocabulary": "voir, partir, arriver, entrer, tomber, sauter, voler, courir",
+    "why_it_matters": "Voir + infinitif allows expressing perception without needing 'happening' verbs",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « entendre + infinitif »",
+    "core_meaning": "Expresses perceiving a sound or action (hear someone do something)",
+    "primary_communicative_fn": "Expressing auditory perception of actions",
+    "when_to_use": "When describing what someone hears happening, including voices and sounds",
+    "pattern": "Sujet + entendre + complément + infinitif",
+    "key_variations": [
+      "J'ai entendu chanter dans la rue (I heard singing in the street).",
+      "Nous l'avons entendu crier (We heard him shout).",
+      "Elle a entendu ouvrir la porte (She heard the door open)."
+    ],
+    "essential_vocabulary_slots": "entendre, chanter, crier, ouvrir, parler, frapper, appeler",
+    "common_learner_mistakes": [
+      "Incorrect preposition after entendre",
+      "Using past participle instead of infinitif",
+      "Confusing with 'écouter' (which implies intentional listening)"
+    ],
+    "chunk_compatibility": "Auditory perception structures for describing sounds and heard events",
+    "primary_function": "Expressing auditory perception of actions and events",
+    "key_forms": "J'entends, tu entends, il/elle entend, nous entendons, vous entendez, ils/elles entendent",
+    "essential_vocabulary": "entendre, chanter, crier, parler, frapper, appeler, casser, tomber",
+    "why_it_matters": "Entendre + infinitif conveys passive hearing without intentional listening",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « envoyer + infinitif »",
+    "core_meaning": "Expresses sending someone to do something",
+    "primary_communicative_fn": "Expressing delegation of tasks through sending",
+    "when_to_use": "When describing sending someone to accomplish a specific task or goal",
+    "pattern": "Sujet + envoyer + complément + infinitif",
+    "key_variations": [
+      "Je l'ai envoyé chercher du pain (I sent him to get bread).",
+      "Elle envoie ses enfants étudier (She sends her children to study).",
+      "Ils envoient un représentant négocier (They send a representative to negotiate)."
+    ],
+    "essential_vocabulary_slots": "envoyer, chercher, étudier, négocier, travailler, apprendre, faire",
+    "common_learner_mistakes": [
+      "Confusing with other verb + infinitif constructions",
+      "Incorrect tense selection",
+      "Misplacing pronouns between envoyer and infinitif"
+    ],
+    "chunk_compatibility": "Task delegation structures for expressing assignments",
+    "primary_function": "Expressing sending or dispatching someone to perform an action",
+    "key_forms": "J'envoie, tu envoies, il/elle envoie, nous envoyons, vous envoyez, ils/elles envoient",
+    "essential_vocabulary": "envoyer, chercher, étudier, travailler, apprendre, faire, négocier, vérifier",
+    "why_it_matters": "Envoyer + infinitif enables expressing task delegation and assignments",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « sembler + infinitif »",
+    "core_meaning": "Expresses what appears to happen or seem",
+    "primary_communicative_fn": "Expressing appearance and inference about actions",
+    "when_to_use": "When describing what seems to be happening or appears to be true",
+    "pattern": "Sujet + sembler + infinitif / Il semble que + subjonctif",
+    "key_variations": [
+      "Il semble avoir compris (He seems to have understood).",
+      "Elle semble être partie (She seems to have left).",
+      "Cela semble être correct (That seems to be correct)."
+    ],
+    "essential_vocabulary_slots": "sembler, avoir, être, comprendre, partir, rester, arriver",
+    "common_learner_mistakes": [
+      "Incorrect tense sequence after sembler",
+      "Confusing with impersonal constructions (Il semble que)",
+      "Mixing subjunctive with infinitif forms"
+    ],
+    "chunk_compatibility": "Appearance and inference structures for expressing uncertainty",
+    "primary_function": "Expressing appearance, seeming, and inference",
+    "key_forms": "Je semble, il/elle semble, nous semblons, vous semblez, ils/elles semblent",
+    "essential_vocabulary": "sembler, avoir, être, comprendre, partir, savoir, connaître, vouloir",
+    "why_it_matters": "Sembler + infinitif allows expressing inference without certainty",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « compter + infinitif » (future)",
+    "core_meaning": "Expresses intention to do something (count on doing)",
+    "primary_communicative_fn": "Expressing plans and future intentions",
+    "when_to_use": "When describing plans or intentions for the near future",
+    "pattern": "Sujet + compter + infinitif",
+    "key_variations": [
+      "Je compte partir demain (I plan to leave tomorrow).",
+      "Nous comptons vous revoir bientôt (We plan to see you again soon).",
+      "Elle compte changer de travail (She intends to change jobs)."
+    ],
+    "essential_vocabulary_slots": "compter, partir, revoir, changer, rester, arriver, revenir",
+    "common_learner_mistakes": [
+      "Confusing with 'compter sur' (to count on/rely on)",
+      "Incorrect tense for future meaning",
+      "Using compter instead of avoir l'intention de"
+    ],
+    "chunk_compatibility": "Future intention structures for expressing plans",
+    "primary_function": "Expressing plans, intentions, and near-future actions",
+    "key_forms": "Je compte, tu comptes, il/elle compte, nous comptons, vous comptez, ils/elles comptent",
+    "essential_vocabulary": "compter, partir, arriver, rester, revenir, changer, acheter, voyager",
+    "why_it_matters": "Compter + infinitif expresses certain future intentions more directly than aller",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Verb sequence with « aller + infinitif » (near future)",
+    "core_meaning": "Expresses near future action (going to do something)",
+    "primary_communicative_fn": "Expressing immediate or near-future actions",
+    "when_to_use": "When describing actions that will happen soon or in the immediate future",
+    "pattern": "Sujet + aller + infinitif",
+    "key_variations": [
+      "Je vais manger (I'm going to eat).",
+      "Nous allons partir (We're going to leave).",
+      "Ils vont construire une maison (They're going to build a house)."
+    ],
+    "essential_vocabulary_slots": "aller, manger, partir, construire, arriver, voir, faire",
+    "common_learner_mistakes": [
+      "Confusing with geographical movement (aller à)",
+      "Incorrect intonation causing ambiguity",
+      "Omitting infinitif entirely"
+    ],
+    "chunk_compatibility": "Near-future structures for immediate actions and plans",
+    "primary_function": "Expressing immediate or near-future intentions and actions",
+    "key_forms": "Je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont",
+    "essential_vocabulary": "aller, manger, partir, arriver, voir, faire, savoir, comprendre",
+    "why_it_matters": "Aller + infinitif is the most common way to express immediate future in French",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « venir de + infinitif » (recent past)",
+    "core_meaning": "Expresses that something has just happened",
+    "primary_communicative_fn": "Expressing recent or immediately past actions",
+    "when_to_use": "When describing actions that just happened moments ago",
+    "pattern": "Sujet + venir de + infinitif",
+    "key_variations": [
+      "Je viens de finir (I just finished).",
+      "Elle vient de partir (She just left).",
+      "Nous venons de manger (We just ate)."
+    ],
+    "essential_vocabulary_slots": "venir, finir, partir, manger, arriver, voir, apprendre",
+    "common_learner_mistakes": [
+      "Confusing with venir à (to happen to)",
+      "Using past tense instead of present for recent past",
+      "Placing infinitif directly after venir instead of de"
+    ],
+    "chunk_compatibility": "Recent past structures for expressing just-completed actions",
+    "primary_function": "Expressing recent or immediately past actions",
+    "key_forms": "Je viens de, tu viens de, il/elle vient de, nous venons de, vous venez de, ils/elles viennent de",
+    "essential_vocabulary": "venir, finir, partir, arriver, manger, apprendre, découvrir, entendre",
+    "why_it_matters": "Venir de + infinitif expresses recent past without using past tense",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « devoir + infinitif » (obligation/probability)",
+    "core_meaning": "Expresses obligation, necessity, or strong probability",
+    "primary_communicative_fn": "Expressing obligation, necessity, and probability",
+    "when_to_use": "When describing what must or should be done, or what is likely true",
+    "pattern": "Sujet + devoir + infinitif",
+    "key_variations": [
+      "Je dois partir (I must leave).",
+      "Il doit être malade (He must be sick).",
+      "Nous devons travailler plus (We must work more)."
+    ],
+    "essential_vocabulary_slots": "devoir, partir, être, travailler, faire, arriver, comprendre",
+    "common_learner_mistakes": [
+      "Confusing devoir (obligation) with pouvoir (possibility)",
+      "Incorrect tense for past meanings",
+      "Using devoir for requests instead of imperatives"
+    ],
+    "chunk_compatibility": "Obligation and necessity structures for expressing requirements",
+    "primary_function": "Expressing obligation, necessity, and logical probability",
+    "key_forms": "Je dois, tu dois, il/elle doit, nous devons, vous devez, ils/elles doivent",
+    "essential_vocabulary": "devoir, faire, partir, travailler, étudier, arriver, être, savoir",
+    "why_it_matters": "Devoir + infinitif is essential for expressing obligations and inferences",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « pouvoir + infinitif »",
+    "core_meaning": "Expresses ability, possibility, or permission",
+    "primary_communicative_fn": "Expressing possibility, permission, and ability",
+    "when_to_use": "When describing what is possible, allowed, or within one's ability",
+    "pattern": "Sujet + pouvoir + infinitif",
+    "key_variations": [
+      "Je peux venir (I can come).",
+      "Elle peut avoir raison (She may be right).",
+      "Nous pouvons partir maintenant (We can leave now)."
+    ],
+    "essential_vocabulary_slots": "pouvoir, venir, avoir, partir, faire, aider, rester",
+    "common_learner_mistakes": [
+      "Confusing with savoir (to know how)",
+      "Incorrect tense in past constructions",
+      "Using pouvoir for requests instead of permission contexts"
+    ],
+    "chunk_compatibility": "Possibility and permission structures for expressing capability",
+    "primary_function": "Expressing possibility, permission, ability, and potential actions",
+    "key_forms": "Je peux, tu peux, il/elle peut, nous pouvons, vous pouvez, ils/elles peuvent",
+    "essential_vocabulary": "pouvoir, venir, faire, aider, rester, aller, voir, parler",
+    "why_it_matters": "Pouvoir + infinitif expresses possibility and permission across contexts",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « savoir + infinitif » (ability)",
+    "core_meaning": "Expresses knowing how to do something (skill/ability)",
+    "primary_communicative_fn": "Expressing acquired skills and learned abilities",
+    "when_to_use": "When describing skills or learned abilities that someone possesses",
+    "pattern": "Sujet + savoir + infinitif",
+    "key_variations": [
+      "Je sais nager (I know how to swim).",
+      "Elle sait cuisiner (She knows how to cook).",
+      "Ils savent parler trois langues (They know how to speak three languages)."
+    ],
+    "essential_vocabulary_slots": "savoir, nager, cuisiner, parler, danser, conduire, chanter",
+    "common_learner_mistakes": [
+      "Confusing with pouvoir (may/can)",
+      "Using savoir for single actions instead of pouvoir",
+      "Treating savoir and pouvoir as completely interchangeable"
+    ],
+    "chunk_compatibility": "Skill expression structures for describing learned abilities",
+    "primary_function": "Expressing skills, knowledge, and learned abilities",
+    "key_forms": "Je sais, tu sais, il/elle sait, nous savons, vous savez, ils/elles savent",
+    "essential_vocabulary": "savoir, nager, cuisiner, parler, danser, conduire, chanter, jouer",
+    "why_it_matters": "Savoir + infinitif distinguishes acquired skills from general possibility",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « vouloir + infinitif »",
+    "core_meaning": "Expresses wish, desire, or willingness",
+    "primary_communicative_fn": "Expressing desires, wishes, and intentions",
+    "when_to_use": "When describing what someone wants, wishes, or desires to do",
+    "pattern": "Sujet + vouloir + infinitif",
+    "key_variations": [
+      "Je veux apprendre (I want to learn).",
+      "Elle veut voyager (She wants to travel).",
+      "Nous voulons réussir (We want to succeed)."
+    ],
+    "essential_vocabulary_slots": "vouloir, apprendre, voyager, réussir, rester, partir, aider",
+    "common_learner_mistakes": [
+      "Using 'vouloir de' instead of 'vouloir + infinitif'",
+      "Incorrect tense sequence",
+      "Confusing vouloir with désirer or souhaiter"
+    ],
+    "chunk_compatibility": "Desire and intention structures for expressing wants",
+    "primary_function": "Expressing desires, wishes, and intentional actions",
+    "key_forms": "Je veux, tu veux, il/elle veut, nous voulons, vous voulez, ils/elles veulent",
+    "essential_vocabulary": "vouloir, apprendre, voyager, réussir, aider, rester, partir, faire",
+    "why_it_matters": "Vouloir + infinitif is fundamental for expressing desires and preferences",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « préférer + infinitif »",
+    "core_meaning": "Expresses preference for an action",
+    "primary_communicative_fn": "Expressing preferences between actions",
+    "when_to_use": "When describing what someone prefers to do compared to alternatives",
+    "pattern": "Sujet + préférer + infinitif",
+    "key_variations": [
+      "Je préfère attendre (I prefer to wait).",
+      "Elle préfère partir tôt (She prefers to leave early).",
+      "Nous préférons rester ici (We prefer to stay here)."
+    ],
+    "essential_vocabulary_slots": "préférer, attendre, partir, rester, faire, aller, manger",
+    "common_learner_mistakes": [
+      "Confusing with 'préférer de' (not used)",
+      "Incorrect pronoun handling in comparisons",
+      "Not using 'plutôt que' for explicit alternatives"
+    ],
+    "chunk_compatibility": "Preference structures for comparing action choices",
+    "primary_function": "Expressing preferences and choice between actions",
+    "key_forms": "Je préfère, tu préfères, il/elle préfère, nous préférons, vous préférez, ils/elles préfèrent",
+    "essential_vocabulary": "préférer, attendre, partir, rester, faire, manger, boire, aller",
+    "why_it_matters": "Préférer + infinitif enables expressing nuanced preferences",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Verb sequence with « essayer de + infinitif »",
+    "core_meaning": "Expresses attempting or trying to do something",
+    "primary_communicative_fn": "Expressing attempts and efforts to accomplish actions",
+    "when_to_use": "When describing trying, attempting, or making efforts to do something",
+    "pattern": "Sujet + essayer de + infinitif",
+    "key_variations": [
+      "J'essaie de comprendre (I'm trying to understand).",
+      "Elle essaie de maigrir (She's trying to lose weight).",
+      "Nous essayons de trouver une solution (We're trying to find a solution)."
+    ],
+    "essential_vocabulary_slots": "essayer, comprendre, maigrir, trouver, aider, faire, apprendre",
+    "common_learner_mistakes": [
+      "Omitting 'de' after essayer",
+      "Confusing with 'essayer' without preposition in other contexts (essayer des vêtements)",
+      "Using essayer as a simple verb instead of a modal"
+    ],
+    "chunk_compatibility": "Effort and attempt structures for expressing trying actions",
+    "primary_function": "Expressing attempts, efforts, and trying to accomplish actions",
+    "key_forms": "J'essaie de, tu essaies de, il/elle essaie de, nous essayons de, vous essayez de, ils/elles essaient de",
+    "essential_vocabulary": "essayer, comprendre, maigrir, trouver, faire, aider, apprendre, parler",
+    "why_it_matters": "Essayer de + infinitif expresses deliberate attempts and efforts",
+    "level": "A2"
+  }
+]

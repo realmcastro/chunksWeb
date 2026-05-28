@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "louer un appartement",
+    "meaning": "to rent an apartment",
+    "primary_function": "expression",
+    "communicative_purpose": "housing and rental",
+    "patterns": [
+      "Je cherche à louer un appartement à Paris",
+      "Ils ont loué un appartement près de la gare"
+    ],
+    "collocates": [
+      "loyer",
+      "caution",
+      "bail",
+      "propriétaire"
+    ],
+    "level": "A2",
+    "example_1": "Je cherche à louer un appartement à Paris",
+    "example_2": "Ils ont loué un appartement près de la gare",
+    "example_3": "On utilise louer un appartement dans la vie quotidienne.",
+    "example_1_translation": "I am looking to rent an apartment in Paris",
+    "example_2_translation": "They rented an apartment near the station",
+    "example_3_translation": "We use renting an apartment in daily life."
+  },
+  {
+    "chunk_text": "payer le loyer",
+    "meaning": "to pay rent",
+    "primary_function": "expression",
+    "communicative_purpose": "housing costs",
+    "patterns": [
+      "Je paie le loyer le premier du mois",
+      "Le propriétaire n'a pas reçu le loyer"
+    ],
+    "collocates": [
+      "loyer",
+      "mensualité",
+      "charges",
+      "impayé"
+    ],
+    "level": "A2",
+    "example_1": "Je paie le loyer le premier du mois",
+    "example_2": "Le propriétaire n'a pas reçu le loyer",
+    "example_3": "On utilise payer le loyer dans la vie quotidienne.",
+    "example_1_translation": "I pay the rent on the first of the month",
+    "example_2_translation": "The landlord has not received the rent",
+    "example_3_translation": "We use paying rent in daily life."
+  },
+  {
+    "chunk_text": "emménager dans une maison",
+    "meaning": "to move into a house",
+    "primary_function": "expression",
+    "communicative_purpose": "moving",
+    "patterns": [
+      "On emménage dans une maison avec jardin",
+      "Ils ont emménagé la semaine dernière"
+    ],
+    "collocates": [
+      "carton",
+      "déménagement",
+      "clé",
+      "voisin"
+    ],
+    "level": "A2",
+    "example_1": "On emménage dans une maison avec jardin",
+    "example_2": "Ils ont emménagé la semaine dernière",
+    "example_3": "On utilise emménager dans une maison dans la vie quotidienne.",
+    "example_1_translation": "We are moving into a house with a garden",
+    "example_2_translation": "They moved in last week",
+    "example_3_translation": "We use moving into a house in everyday life."
+  },
+  {
+    "chunk_text": "déménager d'un appartement",
+    "meaning": "to move out of an apartment",
+    "primary_function": "expression",
+    "communicative_purpose": "moving",
+    "patterns": [
+      "Je déménage d'un appartement le 15",
+      "Ils ont quitté la ville après avoir déménagement"
+    ],
+    "collocates": [
+      "carton",
+      "déménagement",
+      "preavis",
+      "caution"
+    ],
+    "level": "B1",
+    "example_1": "Je déménage d'un appartement le 15",
+    "example_2": "Ils ont quitté la ville après avoir déménagement",
+    "example_3": "Je connais déménager d'un appartement.",
+    "example_1_translation": "I'm moving out of an apartment on the 15th",
+    "example_2_translation": "They left town after moving",
+    "example_3_translation": "I know how to move out of an apartment."
+  },
+  {
+    "chunk_text": "habiter au troisième étage",
+    "meaning": "to live on the third floor",
+    "primary_function": "expression",
+    "communicative_purpose": "building locations",
+    "patterns": [
+      "J'habite au troisième étage sans ascenseur",
+      "L'appartement est au cinquième étage"
+    ],
+    "collocates": [
+      "ascenseur",
+      "palier",
+      "étage",
+      "rez-de-chaussée"
+    ],
+    "level": "A1",
+    "example_1": "J'habite au troisième étage sans ascenseur",
+    "example_2": "L'appartement est au cinquième étage",
+    "example_3": "Je connais habiter au troisième étage.",
+    "example_1_translation": "I live on the third floor without elevator",
+    "example_2_translation": "The apartment is on the fifth floor",
+    "example_3_translation": "I know I live on the third floor."
+  },
+  {
+    "chunk_text": "faire des travaux",
+    "meaning": "to do renovations",
+    "primary_function": "expression",
+    "communicative_purpose": "home renovation",
+    "patterns": [
+      "On fait des travaux dans la cuisine",
+      "Les travaux vont durer deux semaines"
+    ],
+    "collocates": [
+      "maçon",
+      "peinture",
+      "plomberie",
+      "entrepreneur"
+    ],
+    "level": "B1",
+    "example_1": "On fait des travaux dans la cuisine",
+    "example_2": "Les travaux vont durer deux semaines",
+    "example_3": "Je connais faire des travaux.",
+    "example_1_translation": "We are doing work in the kitchen",
+    "example_2_translation": "The work will last two weeks",
+    "example_3_translation": "I know how to do work."
+  },
+  {
+    "chunk_text": "poser du parquet",
+    "meaning": "to install hardwood flooring",
+    "primary_function": "expression",
+    "communicative_purpose": "home improvement",
+    "patterns": [
+      "On a posé du parquet dans le salon",
+      "Il faut faire poser le parquet par un professionnel"
+    ],
+    "collocates": [
+      "sol",
+      "flottant",
+      "stratifié",
+      "ponçage"
+    ],
+    "level": "B2",
+    "example_1": "On a posé du parquet dans le salon",
+    "example_2": "Il faut faire poser le parquet par un professionnel",
+    "example_3": "On utilise poser du parquet dans la vie quotidienne.",
+    "example_1_translation": "We put parquet flooring in the living room",
+    "example_2_translation": "You must have the parquet floor installed by a professional",
+    "example_3_translation": "We use laying parquet in everyday life."
+  },
+  {
+    "chunk_text": "installer l'électricité",
+    "meaning": "to install electricity",
+    "primary_function": "expression",
+    "communicative_purpose": "home installation",
+    "patterns": [
+      "Il faut installer l'électricité dans le nouvel atelier",
+      "L'électricien a installé l'électricité"
+    ],
+    "collocates": [
+      "compteur",
+      "disjoncteur",
+      "câblage",
+      "prise"
+    ],
+    "level": "B2",
+    "example_1": "Il faut installer l'électricité dans le nouvel atelier",
+    "example_2": "L'électricien a installé l'électricité",
+    "example_3": "On utilise installer l'électricité dans la vie quotidienne.",
+    "example_1_translation": "Electricity needs to be installed in the new workshop",
+    "example_2_translation": "The electrician installed the electricity",
+    "example_3_translation": "We use to install electricity in daily life."
+  },
+  {
+    "chunk_text": "changer les fenêtres",
+    "meaning": "to replace windows",
+    "primary_function": "expression",
+    "communicative_purpose": "home renovation",
+    "patterns": [
+      "On veut changer les fenêtres pour améliorer l'isolation",
+      "Les fenêtres ont été changées"
+    ],
+    "collocates": [
+      "vitrage",
+      "double vitrage",
+      "cadre",
+      "stores"
+    ],
+    "level": "B1",
+    "example_1": "On veut changer les fenêtres pour améliorer l'isolation",
+    "example_2": "Les fenêtres ont été changées",
+    "example_3": "Je connais changer les fenêtres.",
+    "example_1_translation": "We want to change the windows to improve the insulation",
+    "example_2_translation": "The windows have been changed",
+    "example_3_translation": "I know how to change windows."
+  },
+  {
+    "chunk_text": "avoir une vue sur la mer",
+    "meaning": "to have a sea view",
+    "primary_function": "expression",
+    "communicative_purpose": "real estate descriptions",
+    "patterns": [
+      "L'appartement a une vue sur la mer",
+      "On cherche une chambre avec vue sur la mer"
+    ],
+    "collocates": [
+      "panorama",
+      "balcon",
+      "orientation",
+      "lumineux"
+    ],
+    "level": "A2",
+    "example_1": "L'appartement a une vue sur la mer",
+    "example_2": "On cherche une chambre avec vue sur la mer",
+    "example_3": "On utilise avoir une vue sur la mer dans la vie quotidienne.",
+    "example_1_translation": "The apartment has a sea view",
+    "example_2_translation": "We are looking for a room with a sea view",
+    "example_3_translation": "We use having a view of the sea in daily life."
+  },
+  {
+    "chunk_text": "jouxter une boulangerie",
+    "meaning": "to be next to a bakery",
+    "primary_function": "expression",
+    "communicative_purpose": "location descriptions",
+    "patterns": [
+      "Le magasin jouxte une boulangerie",
+      "Notre maison jouxte un parc"
+    ],
+    "collocates": [
+      "proximité",
+      "quartier",
+      "commerces",
+      "environs"
+    ],
+    "level": "B2",
+    "example_1": "Le magasin jouxte une boulangerie",
+    "example_2": "Notre maison jouxte un parc",
+    "example_3": "On utilise jouxter une boulangerie dans la vie quotidienne.",
+    "example_1_translation": "The store is next to a bakery",
+    "example_2_translation": "Our house is next to a park",
+    "example_3_translation": "We use adjacent to a bakery in everyday life."
+  },
+  {
+    "chunk_text": "sous-louer une chambre",
+    "meaning": "to sublet a room",
+    "primary_function": "expression",
+    "communicative_purpose": "rental agreements",
+    "patterns": [
+      "Je voudrais sous-louer une chambre pendant les vacances",
+      "Il est interdit de sous-louer sans permission"
+    ],
+    "collocates": [
+      "consentement",
+      "bail",
+      "loyer",
+      "occupant"
+    ],
+    "level": "B2",
+    "example_1": "Je voudrais sous-louer une chambre pendant les vacances",
+    "example_2": "Il est interdit de sous-louer sans permission",
+    "example_3": "On utilise sous-louer une chambre dans la vie quotidienne.",
+    "example_1_translation": "I would like to sublet a room during the holidays",
+    "example_2_translation": "It is prohibited to sublet without permission",
+    "example_3_translation": "We use subletting a room in daily life."
+  },
+  {
+    "chunk_text": "payer les charges",
+    "meaning": "to pay utilities/charges",
+    "primary_function": "expression",
+    "communicative_purpose": "housing costs",
+    "patterns": [
+      "Les charges sont comprises dans le loyer",
+      "Je paie les charges séparément"
+    ],
+    "collocates": [
+      "charges comprises",
+      "eau",
+      "chauffage",
+      "copropriété"
+    ],
+    "level": "A2",
+    "example_1": "Les charges sont comprises dans le loyer",
+    "example_2": "Je paie les charges séparément",
+    "example_3": "On utilise payer les charges dans la vie quotidienne.",
+    "example_1_translation": "Charges are included in the rent",
+    "example_2_translation": "I pay the charges separately",
+    "example_3_translation": "We use paying charges in daily life."
+  },
+  {
+    "chunk_text": "faire partie de la copropriété",
+    "meaning": "to be part of the co-ownership",
+    "primary_function": "expression",
+    "communicative_purpose": "building management",
+    "patterns": [
+      "En tant que propriétaire, je fais partie de la copropriété",
+      "La copropriété décidera lors de l'assemblée"
+    ],
+    "collocates": [
+      "syndic",
+      "assemblée",
+      "charges",
+      "travaux"
+    ],
+    "level": "B2",
+    "example_1": "En tant que propriétaire, je fais partie de la copropriété",
+    "example_2": "La copropriété décidera lors de l'assemblée",
+    "example_3": "On utilise faire partie de la copropriété dans la vie quotidienne.",
+    "example_1_translation": "As an owner, I am part of the co-ownership",
+    "example_2_translation": "The co-ownership will decide at the meeting",
+    "example_3_translation": "We use being part of the co-ownership in daily life."
+  },
+  {
+    "chunk_text": "s'installer à la campagne",
+    "meaning": "to settle in the countryside",
+    "primary_function": "expression",
+    "communicative_purpose": "relocation",
+    "patterns": [
+      "Ils ont décidé de s'installer à la campagne",
+      "Quand je prendrai ma retraite, je m'installerai à la campagne"
+    ],
+    "collocates": [
+      "tranquillité",
+      "espace",
+      "nature",
+      "jardin"
+    ],
+    "level": "B1",
+    "example_1": "Ils ont décidé de s'installer à la campagne",
+    "example_2": "Quand je prendrai ma retraite, je m'installerai à la campagne",
+    "example_3": "Je connais s'installer à la campagne.",
+    "example_1_translation": "They decided to settle in the countryside",
+    "example_2_translation": "When I retire, I'll move to the countryside",
+    "example_3_translation": "I know how to settle in the countryside."
+  }
+]

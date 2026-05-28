@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "habiter à la campagne",
+    "meaning": "to live in the countryside",
+    "primary_function": "expression",
+    "communicative_purpose": "describing rural residence",
+    "patterns": [
+      "Nous habitons à la campagne.",
+      "Elle a grandi à la campagne."
+    ],
+    "collocates": [
+      "campagne",
+      "rural",
+      "village",
+      "nature",
+      "tranquillité"
+    ],
+    "level": "A1",
+    "example_1": "Nous habitons à la campagne.",
+    "example_2": "Elle a grandi à la campagne.",
+    "example_3": "Je connais habiter à la campagne.",
+    "example_1_translation": "We live in the countryside.",
+    "example_2_translation": "She grew up in the countryside.",
+    "example_3_translation": "I know how to live in the countryside."
+  },
+  {
+    "chunk_text": "un champ",
+    "meaning": "a field",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to agricultural land",
+    "patterns": [
+      "Les enfants courent dans le champ.",
+      "Ce champ est cultivé en blé."
+    ],
+    "collocates": [
+      "champ",
+      "terre",
+      "agriculture",
+      "cultiver",
+      "récolte"
+    ],
+    "level": "A1",
+    "example_1": "Les enfants courent dans le champ.",
+    "example_2": "Ce champ est cultivé en blé.",
+    "example_3": "Je connais un champ.",
+    "example_1_translation": "The children run in the field.",
+    "example_2_translation": "This field is cultivated with wheat.",
+    "example_3_translation": "I know a field."
+  },
+  {
+    "chunk_text": "une ferme",
+    "meaning": "a farm",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to farms",
+    "patterns": [
+      "Nous visitons une ferme le week-end.",
+      "La ferme produit du lait frais."
+    ],
+    "collocates": [
+      "ferme",
+      "exploitation",
+      "agricole",
+      "élevage",
+      "agriculture"
+    ],
+    "level": "A1",
+    "example_1": "Nous visitons une ferme le week-end.",
+    "example_2": "La ferme produit du lait frais.",
+    "example_3": "Je connais une ferme.",
+    "example_1_translation": "We visit a farm on the weekend.",
+    "example_2_translation": "The farm produces fresh milk.",
+    "example_3_translation": "I know a farm."
+  },
+  {
+    "chunk_text": "faire des travaux agricoles",
+    "meaning": "to do farm work",
+    "primary_function": "expression",
+    "communicative_purpose": "describing agricultural activities",
+    "patterns": [
+      "Il fait des travaux agricoles depuis l'aube.",
+      "Les travaux agricoles sont durs."
+    ],
+    "collocates": [
+      "travaux",
+      "agricole",
+      "agriculture",
+      "labour",
+      "récolte"
+    ],
+    "level": "B1",
+    "example_1": "Il fait des travaux agricoles depuis l'aube.",
+    "example_2": "Les travaux agricoles sont durs.",
+    "example_3": "Je connais faire des travaux agricoles.",
+    "example_1_translation": "He has been doing agricultural work since dawn.",
+    "example_2_translation": "Agricultural work is hard.",
+    "example_3_translation": "I know how to do agricultural work."
+  },
+  {
+    "chunk_text": "un tracteur",
+    "meaning": "a tractor",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to farm machinery",
+    "patterns": [
+      "Le tracteur est dans le hangar.",
+      "On a besoin d'un tracteur pour labourer."
+    ],
+    "collocates": [
+      "tracteur",
+      "machine",
+      "agriculture",
+      "véhicule",
+      "culture"
+    ],
+    "level": "A2",
+    "example_1": "Le tracteur est dans le hangar.",
+    "example_2": "On a besoin d'un tracteur pour labourer.",
+    "example_3": "On utilise un tracteur dans la vie quotidienne.",
+    "example_1_translation": "The tractor is in the shed.",
+    "example_2_translation": "We need a tractor to plow.",
+    "example_3_translation": "We use a tractor in everyday life."
+  },
+  {
+    "chunk_text": "la récolte",
+    "meaning": "the harvest",
+    "primary_function": "noun",
+    "communicative_purpose": "describing harvest time",
+    "patterns": [
+      "La récolte commence en septembre.",
+      "Cette année, la récolte est abondante."
+    ],
+    "collocates": [
+      "récolte",
+      "moisson",
+      "culture",
+      "productivité",
+      "abondance"
+    ],
+    "level": "A2",
+    "example_1": "La récolte commence en septembre.",
+    "example_2": "Cette année, la récolte est abondante.",
+    "example_3": "On utilise la récolte dans la vie quotidienne.",
+    "example_1_translation": "The harvest begins in September.",
+    "example_2_translation": "This year the harvest is abundant.",
+    "example_3_translation": "We use the harvest in daily life."
+  },
+  {
+    "chunk_text": "un paysan",
+    "meaning": "a peasant/farmer",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to rural workers",
+    "patterns": [
+      "Le paysan travaille dans les champs.",
+      "Les paysans ont une vie difficile."
+    ],
+    "collocates": [
+      "paysan",
+      "agriculteur",
+      "cultivateur",
+      "fermier",
+      "rural"
+    ],
+    "level": "A2",
+    "example_1": "Le paysan travaille dans les champs.",
+    "example_2": "Les paysans ont une vie difficile.",
+    "example_3": "On utilise un paysan dans la vie quotidienne.",
+    "example_1_translation": "The farmer works in the fields.",
+    "example_2_translation": "Farmers have a difficult life.",
+    "example_3_translation": "We use a peasant in daily life."
+  },
+  {
+    "chunk_text": "un village",
+    "meaning": "a village",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to small rural settlements",
+    "patterns": [
+      "Le village compte 200 habitants.",
+      "Ce village est très pittoresque."
+    ],
+    "collocates": [
+      "village",
+      "hameaus",
+      "commune",
+      "rural",
+      "tranquille"
+    ],
+    "level": "A1",
+    "example_1": "Le village compte 200 habitants.",
+    "example_2": "Ce village est très pittoresque.",
+    "example_3": "Je connais un village.",
+    "example_1_translation": "The village has 200 inhabitants.",
+    "example_2_translation": "This village is very picturesque.",
+    "example_3_translation": "I know a village."
+  },
+  {
+    "chunk_text": "un ruisseau",
+    "meaning": "a stream/creek",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to small watercourses",
+    "patterns": [
+      "Les enfants jouent près du ruisseau.",
+      "Un ruisseau traverse le pré."
+    ],
+    "collocates": [
+      "ruisseau",
+      "eau",
+      "rivière",
+      " courant",
+      "nature"
+    ],
+    "level": "A2",
+    "example_1": "Les enfants jouent près du ruisseau.",
+    "example_2": "Un ruisseau traverse le pré.",
+    "example_3": "On utilise un ruisseau dans la vie quotidienne.",
+    "example_1_translation": "The children play near the stream.",
+    "example_2_translation": "A stream crosses the meadow.",
+    "example_3_translation": "We use a stream in everyday life."
+  },
+  {
+    "chunk_text": "paitre",
+    "meaning": "to graze",
+    "primary_function": "verb",
+    "communicative_purpose": "describing animals grazing",
+    "patterns": [
+      "Les vaches paissent dans le pré.",
+      "Les moutons paissent depuis l'aube."
+    ],
+    "collocates": [
+      "paitre",
+      "broute",
+      "herbage",
+      "pré",
+      " pâturage"
+    ],
+    "level": "B1",
+    "example_1": "Les vaches paissent dans le pré.",
+    "example_2": "Les moutons paissent depuis l'aube.",
+    "example_3": "Je connais paitre.",
+    "example_1_translation": "The cows graze in the meadow.",
+    "example_2_translation": "The sheep have been grazing since dawn.",
+    "example_3_translation": "I know how to graze."
+  },
+  {
+    "chunk_text": "la nature",
+    "meaning": "nature",
+    "primary_function": "noun",
+    "communicative_purpose": "describing natural surroundings",
+    "patterns": [
+      "La nature est magnifique ici.",
+      "Il faut protéger la nature."
+    ],
+    "collocates": [
+      "nature",
+      "environnement",
+      "sauvage",
+      "paysage",
+      "écologie"
+    ],
+    "level": "A1",
+    "example_1": "La nature est magnifique ici.",
+    "example_2": "Il faut protéger la nature.",
+    "example_3": "Je connais la nature.",
+    "example_1_translation": "Nature is magnificent here.",
+    "example_2_translation": "We must protect nature.",
+    "example_3_translation": "I know nature."
+  },
+  {
+    "chunk_text": "un bois",
+    "meaning": "a wood/forest",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to woodland areas",
+    "patterns": [
+      "Nous randonnons dans le bois.",
+      "Le bois est dense par endroits."
+    ],
+    "collocates": [
+      "bois",
+      "forêt",
+      "arbres",
+      "promenade",
+      "chasse"
+    ],
+    "level": "A2",
+    "example_1": "Nous randonnons dans le bois.",
+    "example_2": "Le bois est dense par endroits.",
+    "example_3": "On utilise un bois dans la vie quotidienne.",
+    "example_1_translation": "We hike in the woods.",
+    "example_2_translation": "The wood is dense in places.",
+    "example_3_translation": "We use wood in everyday life."
+  },
+  {
+    "chunk_text": "cultiver la terre",
+    "meaning": "to cultivate the land",
+    "primary_function": "expression",
+    "communicative_purpose": "describing farming activities",
+    "patterns": [
+      "Ils cultivent la terre depuis des générations.",
+      "Cultiver la terre demande du travail."
+    ],
+    "collocates": [
+      "cultiver",
+      "terre",
+      "agriculture",
+      "labour",
+      "semer"
+    ],
+    "level": "A2",
+    "example_1": "Ils cultivent la terre depuis des générations.",
+    "example_2": "Cultiver la terre demande du travail.",
+    "example_3": "On utilise cultiver la terre dans la vie quotidienne.",
+    "example_1_translation": "They have been cultivating the land for generations.",
+    "example_2_translation": "Cultivating the land requires work.",
+    "example_3_translation": "We use cultivating the land in daily life."
+  },
+  {
+    "chunk_text": "une colline",
+    "meaning": "a hill",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to rural topography",
+    "patterns": [
+      "La colline offre une belle vue.",
+      "Un moulin se dresse sur cette colline."
+    ],
+    "collocates": [
+      "colline",
+      "versant",
+      "sommet",
+      "paysage",
+      "pente"
+    ],
+    "level": "A2",
+    "example_1": "La colline offre une belle vue.",
+    "example_2": "Un moulin se dresse sur cette colline.",
+    "example_3": "On utilise une colline dans la vie quotidienne.",
+    "example_1_translation": "The hill offers a beautiful view.",
+    "example_2_translation": "A mill stands on this hill.",
+    "example_3_translation": "We use a hill in daily life."
+  },
+  {
+    "chunk_text": "leсь",
+    "meaning": "the peace and quiet",
+    "primary_function": "noun",
+    "communicative_purpose": "describing rural tranquility",
+    "patterns": [
+      "On apprécie le calme de la campagne.",
+      "Le calme de la campagne est reposant."
+    ],
+    "collocates": [
+      "calme",
+      "tranquillité",
+      "quiet",
+      "sérénité",
+      "paix"
+    ],
+    "level": "A2",
+    "example_1": "On apprécie le calme de la campagne.",
+    "example_2": "Le calme de la campagne est reposant.",
+    "example_3": "On utilise leсь dans la vie quotidienne.",
+    "example_1_translation": "We appreciate the calm of the countryside.",
+    "example_2_translation": "The calm of the countryside is relaxing.",
+    "example_3_translation": "We use it in everyday life."
+  }
+]

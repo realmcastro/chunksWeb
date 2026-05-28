@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "commettre un crime",
+    "meaning": "to commit a crime",
+    "primary_function": "expression",
+    "communicative_purpose": "criminal activities",
+    "patterns": [
+      "Il a commis un crime grave"
+    ],
+    "collocates": [
+      "délit",
+      "infraction",
+      "loi"
+    ],
+    "level": "A2",
+    "example_1": "Il a commis un crime grave",
+    "example_2": "Tu peux dire commettre un crime quand tu veux exprimer to commit a crime.",
+    "example_3": "On utilise commettre un crime dans la vie quotidienne.",
+    "example_1_translation": "He committed a serious crime",
+    "example_2_translation": "You can say commit a crime when you mean to commit a crime.",
+    "example_3_translation": "We use committing a crime in everyday life."
+  },
+  {
+    "chunk_text": "porter plainte",
+    "meaning": "to file a complaint",
+    "primary_function": "expression",
+    "communicative_purpose": "legal procedures",
+    "patterns": [
+      "La victime a porté plainte contre l'agresseur"
+    ],
+    "collocates": [
+      "police",
+      "procédure",
+      "dénonciation"
+    ],
+    "level": "A2",
+    "example_1": "La victime a porté plainte contre l'agresseur",
+    "example_2": "Tu peux dire porter plainte quand tu veux exprimer to file a complaint.",
+    "example_3": "On utilise porter plainte dans la vie quotidienne.",
+    "example_1_translation": "The victim filed a complaint against the attacker",
+    "example_2_translation": "You can say file a complaint when you mean to file a complaint.",
+    "example_3_translation": "We use filing a complaint in daily life."
+  },
+  {
+    "chunk_text": "être arrêté par la police",
+    "meaning": "to be arrested by the police",
+    "primary_function": "expression",
+    "communicative_purpose": "law enforcement",
+    "patterns": [
+      "Le suspect a été arrêté par la police ce matin"
+    ],
+    "collocates": [
+      "garde à vue",
+      "détention",
+      "interrogatoire"
+    ],
+    "level": "A2",
+    "example_1": "Le suspect a été arrêté par la police ce matin",
+    "example_2": "Tu peux dire être arrêté par la police quand tu veux exprimer to be arrested by the police.",
+    "example_3": "On utilise être arrêté par la police dans la vie quotidienne.",
+    "example_1_translation": "The suspect was arrested by police this morning",
+    "example_2_translation": "You can say to be arrested by the police when you want to express to be arrested by the police.",
+    "example_3_translation": "We use being stopped by the police in everyday life."
+  },
+  {
+    "chunk_text": "passer en jugement",
+    "meaning": "to stand trial",
+    "primary_function": "expression",
+    "communicative_purpose": "judicial proceedings",
+    "patterns": [
+      "L'accusé passera en jugement next month"
+    ],
+    "collocates": [
+      "tribunal",
+      "procès",
+      "audience"
+    ],
+    "level": "B1",
+    "example_1": "L'accusé passera en jugement next month",
+    "example_2": "'passer en jugement' est une expression utile.",
+    "example_3": "Je connais passer en jugement.",
+    "example_1_translation": "The accused will stand trial next month",
+    "example_2_translation": "'to stand trial' is a useful expression.",
+    "example_3_translation": "I know how to stand trial."
+  },
+  {
+    "chunk_text": "être condamné à une peine",
+    "meaning": "to be sentenced to a penalty",
+    "primary_function": "expression",
+    "communicative_purpose": "judicial decisions",
+    "patterns": [
+      "Il a été condamné à cinq ans de prison"
+    ],
+    "collocates": [
+      "prison",
+      "amende",
+      "peine"
+    ],
+    "level": "B1",
+    "example_1": "Il a été condamné à cinq ans de prison",
+    "example_2": "'être condamné à une peine' est une expression utile.",
+    "example_3": "Je connais être condamné à une peine.",
+    "example_1_translation": "He was sentenced to five years in prison",
+    "example_2_translation": "'to be sentenced to punishment' is a useful expression.",
+    "example_3_translation": "I know I am sentenced to a sentence."
+  },
+  {
+    "chunk_text": "témoigner au tribunal",
+    "meaning": "to testify in court",
+    "primary_function": "expression",
+    "communicative_purpose": "legal proceedings",
+    "patterns": [
+      "Le témoin a témoigné au tribunal"
+    ],
+    "collocates": [
+      "déposition",
+      "juré",
+      "procédure"
+    ],
+    "level": "B1",
+    "example_1": "Le témoin a témoigné au tribunal",
+    "example_2": "'témoigner au tribunal' est une expression utile.",
+    "example_3": "Je connais témoigner au tribunal.",
+    "example_1_translation": "The witness testified in court",
+    "example_2_translation": "'testify in court' is a useful phrase.",
+    "example_3_translation": "I know how to testify in court."
+  },
+  {
+    "chunk_text": "enquêter sur une affaire",
+    "meaning": "to investigate a case",
+    "primary_function": "expression",
+    "communicative_purpose": "investigation activities",
+    "patterns": [
+      "La police enquête sur cette affaire depuis des semaines"
+    ],
+    "collocates": [
+      "indices",
+      "témoins",
+      "suspect"
+    ],
+    "level": "B1",
+    "example_1": "La police enquête sur cette affaire depuis des semaines",
+    "example_2": "'enquêter sur une affaire' est une expression utile.",
+    "example_3": "Je connais enquêter sur une affaire.",
+    "example_1_translation": "Police have been investigating this case for weeks",
+    "example_2_translation": "'to investigate a matter' is a useful expression.",
+    "example_3_translation": "I know how to investigate a case."
+  },
+  {
+    "chunk_text": "voler quelque chose",
+    "meaning": "to steal something",
+    "primary_function": "expression",
+    "communicative_purpose": "theft activities",
+    "patterns": [
+      "On a volé ma voiture hier soir"
+    ],
+    "collocates": [
+      "criminel",
+      "butin",
+      "vol"
+    ],
+    "level": "A2",
+    "example_1": "On a volé ma voiture hier soir",
+    "example_2": "Tu peux dire voler quelque chose quand tu veux exprimer to steal something.",
+    "example_3": "On utilise voler quelque chose dans la vie quotidienne.",
+    "example_1_translation": "My car was stolen last night",
+    "example_2_translation": "You can say steal something when you mean to steal something.",
+    "example_3_translation": "We use stealing something in everyday life."
+  },
+  {
+    "chunk_text": "dissuader le crime",
+    "meaning": "to deter crime",
+    "primary_function": "expression",
+    "communicative_purpose": "crime prevention",
+    "patterns": [
+      "Les caméras de surveillance dissuadent le crime"
+    ],
+    "collocates": [
+      "prévention",
+      "sécurité",
+      "vigilance"
+    ],
+    "level": "B2",
+    "example_1": "Les caméras de surveillance dissuadent le crime",
+    "example_2": "Tu peux dire dissuader le crime quand tu veux exprimer to deter crime.",
+    "example_3": "On utilise dissuader le crime dans la vie quotidienne.",
+    "example_1_translation": "Surveillance cameras deter crime",
+    "example_2_translation": "You can say deter crime when you mean to deter crime.",
+    "example_3_translation": "It is used to deter crime in everyday life."
+  },
+  {
+    "chunk_text": "faire justice",
+    "meaning": "to do justice",
+    "primary_function": "expression",
+    "communicative_purpose": "legal and moral actions",
+    "patterns": [
+      "Le juge a fait justice en condamnant le coupable"
+    ],
+    "collocates": [
+      "droit",
+      "équité",
+      "vérité"
+    ],
+    "level": "B1",
+    "example_1": "Le juge a fait justice en condamnant le coupable",
+    "example_2": "'faire justice' est une expression utile.",
+    "example_3": "Je connais faire justice.",
+    "example_1_translation": "The judge did justice by convicting the culprit",
+    "example_2_translation": "'doing justice' is a useful expression.",
+    "example_3_translation": "I know how to do justice."
+  },
+  {
+    "chunk_text": "purger une peine",
+    "meaning": "to serve a sentence",
+    "primary_function": "expression",
+    "communicative_purpose": "incarceration",
+    "patterns": [
+      "Il purge sa peine à la prison de Lyon"
+    ],
+    "collocates": [
+      "emprisonnement",
+      "détention",
+      "prisonnier"
+    ],
+    "level": "B2",
+    "example_1": "Il purge sa peine à la prison de Lyon",
+    "example_2": "Tu peux dire purger une peine quand tu veux exprimer to serve a sentence.",
+    "example_3": "On utilise purger une peine dans la vie quotidienne.",
+    "example_1_translation": "He is serving his sentence in Lyon prison",
+    "example_2_translation": "You can say serving a sentence when you mean to serve a sentence.",
+    "example_3_translation": "We use serving a sentence in everyday life."
+  },
+  {
+    "chunk_text": "violer la loi",
+    "meaning": "to violate the law",
+    "primary_function": "expression",
+    "communicative_purpose": "legal transgressions",
+    "patterns": [
+      "Ce sont des individus qui violent la loi"
+    ],
+    "collocates": [
+      "infraction",
+      "délit",
+      "illégal"
+    ],
+    "level": "B1",
+    "example_1": "Ce sont des individus qui violent la loi",
+    "example_2": "'violer la loi' est une expression utile.",
+    "example_3": "Je connais violer la loi.",
+    "example_1_translation": "These are individuals who violate the law",
+    "example_2_translation": "'breaking the law' is a useful phrase.",
+    "example_3_translation": "I know how to break the law."
+  },
+  {
+    "chunk_text": "défendre un client",
+    "meaning": "to defend a client",
+    "primary_function": "expression",
+    "communicative_purpose": "legal representation",
+    "patterns": [
+      "L'avocat défend son client avec conviction"
+    ],
+    "collocates": [
+      "avocat",
+      "procès",
+      "accusation"
+    ],
+    "level": "B1",
+    "example_1": "L'avocat défend son client avec conviction",
+    "example_2": "'défendre un client' est une expression utile.",
+    "example_3": "Je connais défendre un client.",
+    "example_1_translation": "The lawyer defends his client with conviction",
+    "example_2_translation": "'defending a client' is a useful phrase.",
+    "example_3_translation": "I know how to defend a client."
+  },
+  {
+    "chunk_text": "trouver un avocat",
+    "meaning": "to find a lawyer",
+    "primary_function": "expression",
+    "communicative_purpose": "legal services",
+    "patterns": [
+      "Il faut trouver un avocat spécialisé"
+    ],
+    "collocates": [
+      "juridique",
+      "consultation",
+      "droit"
+    ],
+    "level": "A2",
+    "example_1": "Il faut trouver un avocat spécialisé",
+    "example_2": "Tu peux dire trouver un avocat quand tu veux exprimer to find a lawyer.",
+    "example_3": "On utilise trouver un avocat dans la vie quotidienne.",
+    "example_1_translation": "You need to find a specialized lawyer",
+    "example_2_translation": "You can say find a lawyer when you mean to find a lawyer.",
+    "example_3_translation": "We use finding a lawyer in everyday life."
+  },
+  {
+    "chunk_text": "être reconnu coupable",
+    "meaning": "to be found guilty",
+    "primary_function": "expression",
+    "communicative_purpose": "judicial verdicts",
+    "patterns": [
+      "Le jury l'a reconnu coupable de meurtre"
+    ],
+    "collocates": [
+      "verdict",
+      "culpabilité",
+      "condamnation"
+    ],
+    "level": "B1",
+    "example_1": "Le jury l'a reconnu coupable de meurtre",
+    "example_2": "'être reconnu coupable' est une expression utile.",
+    "example_3": "Je connais être reconnu coupable.",
+    "example_1_translation": "The jury found him guilty of murder",
+    "example_2_translation": "'being found guilty' is a useful expression.",
+    "example_3_translation": "I know about being found guilty."
+  }
+]

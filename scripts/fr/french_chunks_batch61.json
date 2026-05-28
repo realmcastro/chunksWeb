@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "il va de soi que",
+    "meaning": "it goes without saying that / it stands to reason that",
+    "primary_function": "Emphasis expression for self-evident truths",
+    "communicative_purpose": "To emphasize that something is obvious and requires no further argument",
+    "trigger_situations": "Formal arguments, academic writing, professional presentations, logical deductions",
+    "contexts": "Formal written/spoken, academic contexts, professional discourse",
+    "variations": "il va sans dire que, needless to say, il est évident que, cela va de soi",
+    "common_mistakes": "Confusing 'sans' and 'de'; using in casual contexts where it's too formal",
+    "level": "C1",
+    "patterns": [
+      "il + va + de + soi + que + [obvious statement]"
+    ],
+    "collocates": "allant, soi, evident, obvious, apparent, understood",
+    "example_1": "Il va de soi que la qualité ne peut être négligée dans ce contexte.",
+    "example_2": "Il va de soi que toute modification doit être soumise à approbation préalable.",
+    "example_3": "Il va de soi que les délais contractuels devront être respectés.",
+    "example_1_translation": "It goes without saying that quality cannot be neglected in this context.",
+    "example_2_translation": "It goes without saying that any modification must be subject to prior approval.",
+    "example_3_translation": "It goes without saying that contractual deadlines must be respected."
+  },
+  {
+    "chunk_text": "je ne saurais trop insister sur",
+    "meaning": "I cannot insist too much on / I cannot overemphasize",
+    "primary_function": "Strong emphasis expression",
+    "communicative_purpose": "To stress the extreme importance of something strongly",
+    "trigger_situations": "Important warnings, crucial recommendations, formal emphasis",
+    "contexts": "Formal written/spoken, professional recommendations, important warnings",
+    "variations": "je ne saurais trop vous recommander, je ne saurais trop insister, je ne saurais trop souligner",
+    "common_mistakes": "Confusing 'saurais' with 'pourrais'; forgetting conditional form",
+    "level": "C1",
+    "patterns": [
+      "je + ne + saurais + trop + insister + sur + [importance]"
+    ],
+    "collocates": "saurais, insist, emphasize, strongly, crucial, vital",
+    "example_1": "Je ne saurais trop insister sur l'importance de respecter les délais.",
+    "example_2": "Je ne saurais trop insister sur la nécessité d'une formation préalable.",
+    "example_3": "Je ne saurais trop insister sur les risques encourus si cette mesure n'est pas prise.",
+    "example_1_translation": "I cannot stress enough the importance of meeting deadlines.",
+    "example_2_translation": "I cannot stress enough the need for prior training.",
+    "example_3_translation": "I cannot emphasize enough the risks involved if this step is not taken."
+  },
+  {
+    "chunk_text": "qu'il me soit permis de",
+    "meaning": "if I may be so bold as to / allow me to",
+    "primary_function": "Polite preface expression for opinions",
+    "communicative_purpose": "Humble way to introduce a personal opinion or suggestion in formal contexts",
+    "trigger_situations": "Formal debates, expert opinions, diplomatic communications, respectful disagreement",
+    "contexts": "Formal written/spoken, diplomatic contexts, academic discourse",
+    "variations": "s'il m'est permis de, si vous me permettez, permettez-moi de",
+    "common_mistakes": "Overusing; using in casual contexts where directness is preferred",
+    "level": "C1",
+    "patterns": [
+      "qu'il + me + soit + permis + de + [opinion/action]"
+    ],
+    "collocates": "permis, allowed, permitted, humble, respectfully",
+    "example_1": "Qu'il me soit permis de remettre en question cette affirmation.",
+    "example_2": "Qu'il me soit permis de vous soumettre une réflexion différente.",
+    "example_3": "Qu'il me soit permis de déplorer cette situation regrettable.",
+    "example_1_translation": "Allow me to question this assertion.",
+    "example_2_translation": "Allow me to submit a different reflection to you.",
+    "example_3_translation": "Allow me to deplore this regrettable situation."
+  },
+  {
+    "chunk_text": "à n'en pas douter",
+    "meaning": "without doubt / undoubtedly / beyond any doubt",
+    "primary_function": "Strong certainty expression",
+    "communicative_purpose": "To express absolute conviction or certainty about something",
+    "trigger_situations": "Strong affirmations, formal arguments, emphatic statements",
+    "contexts": "Formal written/spoken, academic writing, professional discourse",
+    "variations": "sans doute, il ne fait aucun doute que, indubitablement, nul n'en doute",
+    "common_mistakes": "Confusing with 'à coup sûr' (certainly); incorrect word order",
+    "level": "C1",
+    "patterns": [
+      "à + n'en + pas + douter"
+    ],
+    "collocates": "douter, undoubtedly, certainly, conviction, certain",
+    "example_1": "A n'en pas douter, cette décision aura des conséquences majeures.",
+    "example_2": "A n'en pas douter, notre collaboration portera ses fruits.",
+    "example_3": "A n'en pas douter, cette approche présente des avantages considérables.",
+    "example_1_translation": "There is no doubt that this decision will have major consequences.",
+    "example_2_translation": "There is no doubt that our collaboration will bear fruit.",
+    "example_3_translation": "There is no doubt that this approach has considerable advantages."
+  },
+  {
+    "chunk_text": "il convient de",
+    "meaning": "it is advisable to / it is appropriate to / one should",
+    "primary_function": "Formal recommendation expression",
+    "communicative_purpose": "To make formal recommendations or indicate what is appropriate",
+    "trigger_situations": "Formal recommendations, official guidelines, professional advice",
+    "contexts": "Formal written/spoken, professional guidelines, institutional contexts",
+    "variations": "il est préférable de, il est recommandé de, il est indiqué de",
+    "common_mistakes": "Confusing with 'il faut' (too strong); incorrect impersonal construction",
+    "level": "C1",
+    "patterns": [
+      "il + convient + de + [recommended action]"
+    ],
+    "collocates": "convient, advisable, appropriate, recommended, advisable",
+    "example_1": "Il convient de procéder à une analyse approfondie avant toute décision.",
+    "example_2": "Il convient de respecter les procédures établies par notre institution.",
+    "example_3": "Il convient de rappeler que ces règles s'appliquent à tous sans exception.",
+    "example_1_translation": "A thorough analysis should be carried out before any decision is made.",
+    "example_2_translation": "The procedures established by our institution must be respected.",
+    "example_3_translation": "It should be remembered that these rules apply to everyone without exception."
+  },
+  {
+    "chunk_text": "je me permets d'émettre des réserves",
+    "meaning": "I am expressing reservations / I wish to raise objections",
+    "primary_function": "Formal objection expression",
+    "communicative_purpose": "Polite way to express doubts or objections in formal contexts",
+    "trigger_situations": "Formal meetings, expert opinions, diplomatic discussions, professional disagreements",
+    "contexts": "Formal written/spoken, professional debates, institutional contexts",
+    "variations": "je tiens à exprimer mes réserves, je souhaite faire part de mes réserves",
+    "common_mistakes": "Confusing with 'émettre un avis' (to give opinion); wrong verb form",
+    "level": "C1",
+    "patterns": [
+      "je + me + permets + d'émettre + des + réserves + sur/quant à"
+    ],
+    "collocates": "réserves, objections, doubts, concerns, hesitant",
+    "example_1": "Je me permets d'émettre des réserves quant à la faisabilité de ce projet.",
+    "example_2": "Je me permets d'émettre des réserves sur les conclusions de ce rapport.",
+    "example_3": "Je me permets d'émettre des réserves sur l'efficacité des mesures proposées.",
+    "example_1_translation": "I would like to express reservations about the feasibility of this project.",
+    "example_2_translation": "I would like to express reservations about the conclusions of this report.",
+    "example_3_translation": "I would like to express reservations about the effectiveness of the proposed measures."
+  },
+  {
+    "chunk_text": "il n'en demeure pas moins que",
+    "meaning": "nevertheless / however / that said / it is nonetheless true that",
+    "primary_function": "Concessive transition expression",
+    "communicative_purpose": "To introduce a contrasting point after acknowledging a previous argument",
+    "trigger_situations": "Formal debates, nuanced arguments, balanced presentations",
+    "contexts": "Formal written/spoken, academic writing, professional discourse",
+    "variations": "il n'en reste pas moins que, cela dit, toujours est-il que, en revanche",
+    "common_mistakes": "Confusing with 'néanmoins' (nevertheless) alone; incorrect construction",
+    "level": "C1",
+    "patterns": [
+      "il + n'en + demeure + pas + moins + que + [contrasting statement]"
+    ],
+    "collocates": "demeure, nevertheless, however, still, yet, nonetheless",
+    "example_1": "Les résultats sont encourageants. Il n'en demeure pas moins que des améliorations sont nécessaires.",
+    "example_2": "Il n'en demeure pas moins que ce choix implique des risques significatifs.",
+    "example_3": "Il n'en demeure pas moins que nous devons rester prudents dans nos projections.",
+    "example_1_translation": "The results are encouraging. However, improvements are necessary.",
+    "example_2_translation": "The fact remains that this choice involves significant risks.",
+    "example_3_translation": "The fact remains that we must remain cautious in our projections."
+  },
+  {
+    "chunk_text": "à tout le moins",
+    "meaning": "at the very least / at least / minimally",
+    "primary_function": "Minimal expectation expression",
+    "communicative_purpose": "To express the minimum acceptable or expected outcome",
+    "trigger_situations": "Negotiations, compromise discussions, formal arguments, minimum requirements",
+    "contexts": "Formal written/spoken, professional negotiations, formal discussions",
+    "variations": "pour le moins, à tout le moins, au minimum, pour ne pas dire",
+    "common_mistakes": "Confusing with 'tout au moins' (exactly the same meaning); incorrect position",
+    "level": "C1",
+    "patterns": [
+      "à + tout + le + moins"
+    ],
+    "collocates": "moins, least, minimum, minimal, floor",
+    "example_1": "Nous demandons, à tout le moins, un report du délai de livraison.",
+    "example_2": "Cette solution est, à tout le moins, intéressante à considérer.",
+    "example_3": "Nous devons, à tout le moins, préserver les acquis existants.",
+    "example_1_translation": "We are requesting, at the very least, an extension of the delivery time.",
+    "example_2_translation": "This solution is, at the very least, interesting to consider.",
+    "example_3_translation": "We must, at the very least, preserve existing achievements."
+  },
+  {
+    "chunk_text": "je ne saurais que trop",
+    "meaning": "I cannot emphasize enough / I cannot sufficiently",
+    "primary_function": "Intensive emphasis expression",
+    "communicative_purpose": "To express that something cannot be sufficiently emphasized or done",
+    "trigger_situations": "Strong recommendations, important warnings, emphatic advice",
+    "contexts": "Formal written/spoken, expert opinions, professional recommendations",
+    "variations": "je ne saurais trop, je ne saurais trop vous conseiller",
+    "common_mistakes": "Confusing word order; forgetting negative construction",
+    "level": "C1",
+    "patterns": [
+      "je + ne + saurais + que + trop + [infinitive]"
+    ],
+    "collocates": "saurais, enough, insufficient, emphasize, stress",
+    "example_1": "Je ne saurais que trop vous recommander cette approche.",
+    "example_2": "Je ne saurais que trop insister sur les bénéfices à long terme.",
+    "example_3": "Je ne saurais que trop vous mettre en garde contre cette décision hâtive.",
+    "example_1_translation": "I cannot recommend this approach enough.",
+    "example_2_translation": "I cannot stress enough the long-term benefits.",
+    "example_3_translation": "I cannot warn you enough against this hasty decision."
+  },
+  {
+    "chunk_text": "force est de constater que",
+    "meaning": "it must be acknowledged that / it is incumbent upon us to recognize that",
+    "primary_function": "Formal acknowledgment expression",
+    "communicative_purpose": "To formally acknowledge an evident fact or reality",
+    "trigger_situations": "Formal reports, official statements, balanced assessments, professional conclusions",
+    "contexts": "Formal written, institutional reports, official communications",
+    "variations": "il faut reconnaître que, force est de reconnaître que, il convient de reconnaître que",
+    "common_mistakes": "Confusing with 'il est force de' (to be forced to); incorrect expression construction",
+    "level": "C1",
+    "patterns": [
+      "force + est + de + constater + que + [fact]"
+    ],
+    "collocates": "force, must, acknowledge, recognize, admit",
+    "example_1": "Force est de constater que les résultats dépassent nos attentes initiales.",
+    "example_2": "Force est de constater que cette politique n'a pas atteint ses objectifs.",
+    "example_3": "Force est de constater que les ressources allouées sont insuffisantes.",
+    "example_1_translation": "It is clear that the results exceed our initial expectations.",
+    "example_2_translation": "It is clear that this policy has not achieved its objectives.",
+    "example_3_translation": "It is clear that the resources allocated are insufficient."
+  },
+  {
+    "chunk_text": "je me vois contraint de",
+    "meaning": "I find myself compelled to / I am forced to",
+    "primary_function": "Reluctant necessity expression",
+    "communicative_purpose": "To express that circumstances force one to take an action, often reluctantly",
+    "trigger_situations": "Formal complaints, disciplinary notices, formal terminations, difficult decisions",
+    "contexts": "Formal written, legal contexts, HR communications, official notices",
+    "variations": "je me vois dans l'obligation de, je me vois dans la nécessité de, je suis dans l'impossibilité de",
+    "common_mistakes": "Confusing gender agreement; using too dramatically in minor situations",
+    "level": "C1",
+    "patterns": [
+      "je + me + vois + contraint(e) + de + [action]"
+    ],
+    "collocates": "contraint, forced, compelled, obligated, obligated",
+    "example_1": "Je me vois contraint de signaler cette irrégularité à la hiérarchie.",
+    "example_2": "Je me vois contraint d'engager une procédure disciplinaire.",
+    "example_3": "Je me vois contrainte de mettre un terme à cette collaboration.",
+    "example_1_translation": "I see myself forced to report this irregularity to the hierarchy.",
+    "example_2_translation": "I am forced to initiate disciplinary proceedings.",
+    "example_3_translation": "I see myself forced to put an end to this collaboration."
+  },
+  {
+    "chunk_text": "pour peu que",
+    "meaning": "provided that / as long as / on the condition that",
+    "primary_function": "Conditional expression with positive condition",
+    "communicative_purpose": "To express that something is possible if a certain condition is met",
+    "trigger_situations": "Conditions, possibilities, formal stipulations, theoretical scenarios",
+    "contexts": "Formal written/spoken, legal contexts, formal conditions",
+    "variations": "pourvu que, à condition que, pour autant que, pour peu que",
+    "common_mistakes": "Confusing with 'pour peu que' meaning 'hardly' (peu = little); needing subjunctive",
+    "level": "C1",
+    "patterns": [
+      "pour + peu + que + [subjunctive condition]"
+    ],
+    "collocates": "peu, provided, as long as, condition, conditional",
+    "example_1": "Pour peu que vous acceptiez nos conditions, nous pouvons conclure l'accord.",
+    "example_2": "Pour peu que les circonstances le permettent, nous maintiendrons ce calendrier.",
+    "example_3": "Pour peu que chacun fasse un effort, la réussite sera au rendez-vous.",
+    "example_1_translation": "As long as you agree to our terms, we can close the deal.",
+    "example_2_translation": "As long as circumstances permit, we will maintain this schedule.",
+    "example_3_translation": "As long as everyone makes an effort, success will be there."
+  },
+  {
+    "chunk_text": "d'aucuns pourraient soutenir que",
+    "meaning": "some might argue that / certain people might maintain that",
+    "primary_function": "Academic/opinion introduction expression",
+    "communicative_purpose": "To introduce a counterargument or alternative perspective academically",
+    "trigger_situations": "Formal debates, academic writing, balanced presentations, counterarguments",
+    "contexts": "Formal written/spoken, academic contexts, formal debates",
+    "variations": "certains pourraient argue que, on pourrait soutenir que, il est des gens qui soutiendraient que",
+    "common_mistakes": "Confusing with 'aucuns' (none) meaning; using without understanding archaic tone",
+    "level": "C1",
+    "patterns": [
+      "d'aucuns + pourraient + soutenir + que + [counterargument]"
+    ],
+    "collocates": "d'aucuns, some, certain, argue, maintain, claim",
+    "example_1": "D'aucuns pourraient soutenir que cette mesure est excessive.",
+    "example_2": "D'aucuns pourraient soutenir que les avantages l'emportent sur les inconvénients.",
+    "example_3": "D'aucuns pourraient soutenir que la situation économique justifie ces restrictions.",
+    "example_1_translation": "Some might argue that this measure is excessive.",
+    "example_2_translation": "Some might argue that the pros outweigh the cons.",
+    "example_3_translation": "Some might argue that the economic situation justifies these restrictions."
+  },
+  {
+    "chunk_text": "je ne saurais que trop insister sur le fait que",
+    "meaning": "I cannot emphasize enough that / I cannot overstate the fact that",
+    "primary_function": "Intensive emphasis expression for facts",
+    "communicative_purpose": "To strongly emphasize the importance of a particular fact",
+    "trigger_situations": "Important warnings, crucial facts, formal emphasis, professional advice",
+    "contexts": "Formal written/spoken, professional recommendations, important communications",
+    "variations": "je ne saurais trop insister sur, il est crucial de noter que",
+    "common_mistakes": "Forgetting the final 'que'; overly dramatic usage",
+    "level": "C1",
+    "patterns": [
+      "je + ne + saurais + que + trop + insister + sur + le + fait + que + [important fact]"
+    ],
+    "collocates": "saurais, emphasize, crucial, critical, vital, essential",
+    "example_1": "Je ne saurais que trop insister sur le fait que ce délai est impératif.",
+    "example_2": "Je ne saurais que trop insister sur le fait que la confidentialité est essentielle.",
+    "example_3": "Je ne saurais que trop insister sur le fait que chaque erreur aura des conséquences.",
+    "example_1_translation": "I cannot stress enough that this deadline is imperative.",
+    "example_2_translation": "I cannot stress enough that confidentiality is essential.",
+    "example_3_translation": "I cannot stress enough that every mistake will have consequences."
+  },
+  {
+    "chunk_text": "il n'est est pas moins vrai que",
+    "meaning": "it is nonetheless true that / nevertheless / that said",
+    "primary_function": "Concessive affirmation expression",
+    "communicative_purpose": "To affirm something despite a previously mentioned contrast or obstacle",
+    "trigger_situations": "Balanced arguments, formal concessions, nuanced presentations",
+    "contexts": "Formal written/spoken, academic writing, professional discourse",
+    "variations": "il n'en est pas moins vrai que, il n'en demeure pas moins que, toujours est-il que",
+    "common_mistakes": "Incorrect 'est' position; confusion with similar expressions",
+    "level": "C1",
+    "patterns": [
+      "il + n'en + est + pas + moins + vrai + que + [affirmation]"
+    ],
+    "collocates": "vrai, nonetheless, still, true, undeniable, factual",
+    "example_1": "Il n'en est pas moins vrai que la situation économique reste fragile.",
+    "example_2": "Il n'en est pas moins vrai que sans formation adequate, les risques persistent.",
+    "example_3": "Il n'en est pas moins vrai que notre engagement reste total.",
+    "example_1_translation": "It is nonetheless true that the economic situation remains fragile.",
+    "example_2_translation": "It is nonetheless true that without adequate training, risks persist.",
+    "example_3_translation": "It is nonetheless true that our commitment remains total."
+  }
+]

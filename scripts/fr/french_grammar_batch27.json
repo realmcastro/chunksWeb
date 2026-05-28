@@ -1,0 +1,379 @@
+[
+  {
+    "structure_label": "Partitive article with food",
+    "core_meaning": "Expresses quantity of uncountable food items using du/de la/de l'",
+    "primary_communicative_fn": "Requesting or discussing food quantities in culinary contexts",
+    "when_to_use": "When ordering, discussing meals, or describing food quantities",
+    "pattern": "du/de la/de l' + aliment (uncountable food)",
+    "key_variations": [
+      "du pain (some bread)",
+      "de la viande (some meat)",
+      "de l'eau (some water)",
+      "de la crème (some cream)",
+      "du fromage (some cheese)"
+    ],
+    "essential_vocabulary_slots": "du, de la, de l', pain, viande, eau, crème, fromage",
+    "common_learner_mistakes": [
+      "Using un/une with uncountable foods",
+      "Omitting partitive after negation (→ becomes 'de')",
+      "Confusing with definite article"
+    ],
+    "chunk_compatibility": "Food/dining chunks (*Je prends du pain*, *Un verre de vin*)",
+    "primary_function": "Expressing indefinite food quantities",
+    "key_forms": "du pain / de la viande / de l'eau / de la crème",
+    "essential_vocabulary": "du, de la, de l', pain, viande, eau, crème, fromage, beurre, confiture",
+    "why_it_matters": "Partitive is mandatory with uncountable foods; omission or wrong article is ungrammatical",
+    "common_mistakes": "Using 'un pain' for uncountable; keeping partitive in negation; using definite article"
+  },
+  {
+    "structure_label": "Quantifier beaucoup de",
+    "core_meaning": "Indicates large quantity; always followed by 'de' then noun",
+    "primary_communicative_fn": "Expressing abundance or significant quantity",
+    "when_to_use": "When describing large amounts of countable or uncountable nouns",
+    "pattern": "beaucoup de + nom (countable or uncountable)",
+    "key_variations": [
+      "beaucoup de temps (a lot of time — uncountable)",
+      "beaucoup d'amis (a lot of friends — countable with elision)",
+      "beaucoup d'eau (lots of water — uncountable with elision)",
+      "Il y a beaucoup de monde (There are many people)"
+    ],
+    "essential_vocabulary_slots": "beaucoup, de, d', temps, ami, eau, monde, livres, travail",
+    "common_learner_mistakes": [
+      "Forgetting 'de' after 'beaucoup' (→ beaucoup de, not just beaucoup)",
+      "Using 'beaucoup' without 'de' directly with noun",
+      "Omitting elision with vowels (d' before vowel)"
+    ],
+    "chunk_compatibility": "Quantity/abundance chunks (*J'ai beaucoup de travail*, *Beaucoup de gens*)",
+    "primary_function": "Expressing significant quantities in speech and writing",
+    "key_forms": "beaucoup de temps / beaucoup d'amis / beaucoup de travail",
+    "essential_vocabulary": "beaucoup, de, d', temps, ami, eau, monde, livres, travail, amour",
+    "why_it_matters": "Beaucoup is frequent; incorrect 'de' omission is immediately noticeable",
+    "common_mistakes": "Omitting 'de'; forgetting elision; overusing with countables"
+  },
+  {
+    "structure_label": "Quantifier peu de",
+    "core_meaning": "Indicates small or insufficient quantity",
+    "primary_communicative_fn": "Expressing scarcity or inadequate amounts",
+    "when_to_use": "When describing small/insufficient amounts of countable or uncountable nouns",
+    "pattern": "peu de + nom",
+    "key_variations": [
+      "peu de chance (little chance — uncountable)",
+      "peu d'argent (little money — uncountable)",
+      "peu de monde (few people)",
+      "peu de livres (few books — countable)"
+    ],
+    "essential_vocabulary_slots": "peu, de, d', chance, argent, monde, livre, temps, courage",
+    "common_learner_mistakes": [
+      "Confusing with 'un peu de' (a little — positive vs little — scarce)",
+      "Omitting 'de'",
+      "Using in wrong semantic context (peu=lack, un peu=small amount)"
+    ],
+    "chunk_compatibility": "Scarcity chunks (*Peu de chance*, *Peu d'argent*, *Peu de temps*)",
+    "primary_function": "Expressing scarcity or insufficiency",
+    "key_forms": "peu de chance / peu d'argent / peu de monde / peu de temps",
+    "essential_vocabulary": "peu, de, d', chance, argent, monde, livre, temps, courage, opportunité",
+    "why_it_matters": "Distinction between 'peu' (scarce) and 'un peu' (small amount) is semantic",
+    "common_mistakes": "Confusing 'peu' and 'un peu'; omitting 'de'; wrong context application"
+  },
+  {
+    "structure_label": "Quantifier plusieurs",
+    "core_meaning": "Indicates an indefinite plural number (more than two but unspecified)",
+    "primary_communicative_fn": "Expressing plurality without specifying exact count",
+    "when_to_use": "With plural nouns when describing multiple items without exact number",
+    "pattern": "plusieurs + nom (plural required)",
+    "key_variations": [
+      "plusieurs fois (several times)",
+      "plusieurs jours (several days)",
+      "plusieurs personnes (several people)",
+      "plusieurs solutions (multiple solutions)"
+    ],
+    "essential_vocabulary_slots": "plusieurs, fois, jour, personne, solution, idée, heure, semaine",
+    "common_learner_mistakes": [
+      "Using 'plusieurs' with singular verb",
+      "Adding 'de' after plusieurs (→ no preposition needed)",
+      "Confusing with 'quelques'"
+    ],
+    "chunk_compatibility": "Indefinite plural chunks (*Plusieurs fois*, *Plusieurs jours*, *Plusieurs personnes*)",
+    "primary_function": "Indicating plural quantity without exact count",
+    "key_forms": "plusieurs fois / plusieurs jours / plusieurs personnes",
+    "essential_vocabulary": "plusieurs, fois, jour, personne, solution, idée, heure, semaine, mois",
+    "why_it_matters": "Plusieurs is frequent for vague plurals; mandatory agreement with plural noun",
+    "common_mistakes": "Using singular verb; adding 'de'; confusing with 'quelques' (few vs several)"
+  },
+  {
+    "structure_label": "Quantifier quelques",
+    "core_meaning": "Indicates a small indefinite number (few); always plural",
+    "primary_communicative_fn": "Describing small quantity of countable items",
+    "when_to_use": "With plural countable nouns for small unspecified amounts",
+    "pattern": "quelques + nom (plural)",
+    "key_variations": [
+      "quelques minutes (a few minutes)",
+      "quelques amis (a few friends)",
+      "quelques idées (a few ideas)",
+      "quelques jours (a few days)"
+    ],
+    "essential_vocabulary_slots": "quelques, minute, ami, idée, jour, personne, heure, exemple",
+    "common_learner_mistakes": [
+      "Using with singular nouns (→ must be plural)",
+      "Confusing with 'plusieurs' (quelques=few, plusieurs=several)",
+      "Omitting elision before vowel (quelques amis, not quelque amis)"
+    ],
+    "chunk_compatibility": "Small quantity chunks (*Quelques minutes*, *Quelques amis*, *Quelques jours*)",
+    "primary_function": "Expressing small quantity of countable items",
+    "key_forms": "quelques minutes / quelques amis / quelques idées / quelques jours",
+    "essential_vocabulary": "quelques, minute, ami, idée, jour, personne, heure, exemple, raison",
+    "why_it_matters": "Quelques is frequent in French; must always be plural; distinct from plusieurs",
+    "common_mistakes": "Using with singular; confusing with 'plusieurs'; omitting plural marking"
+  },
+  {
+    "structure_label": "Quantifier quelque chose",
+    "core_meaning": "Indefinite pronoun meaning 'something'; always masculine, requires 'de' + adjective",
+    "primary_communicative_fn": "Referring to unspecified entities or abstract concepts",
+    "when_to_use": "When referring to something unidentified or abstract",
+    "pattern": "quelque chose + de + adjectif",
+    "key_variations": [
+      "quelque chose d'important (something important)",
+      "quelque chose de nouveau (something new)",
+      "quelque chose de bizarre (something strange)",
+      "quelque chose de spécial (something special)"
+    ],
+    "essential_vocabulary_slots": "quelque chose, de, important, nouveau, bizarre, spécial, beau",
+    "common_learner_mistakes": [
+      "Placing adjective directly after (→ must use 'de' + adjective)",
+      "Using feminine or plural agreement (→ always masculine singular)",
+      "Forgetting 'de' entirely"
+    ],
+    "chunk_compatibility": "Vague reference chunks (*quelque chose d'important*, *quelque chose de nouveau*)",
+    "primary_function": "Indefinite pronoun reference to unspecified entities",
+    "key_forms": "quelque chose d'important / quelque chose de nouveau",
+    "essential_vocabulary": "quelque chose, de, important, nouveau, bizarre, spécial, beau, intéressant",
+    "why_it_matters": "Quelque chose structure is fixed; deviation is immediately ungrammatical",
+    "common_mistakes": "Omitting 'de'; direct adjective placement; incorrect gender agreement"
+  },
+  {
+    "structure_label": "Partitive after verbs of necessity/emotion",
+    "core_meaning": "Verbs and expressions requiring 'de' before noun in partitive sense",
+    "primary_communicative_fn": "Expressing need, fear, desire regarding things",
+    "when_to_use": "With verbs like avoir besoin de, avoir peur de, avoir envie de",
+    "pattern": "verbe + de + nom",
+    "key_variations": [
+      "avoir besoin de (need of)",
+      "avoir peur de (be afraid of)",
+      "manger de (eat of/some)",
+      "boire de (drink of/some)",
+      "parler de (speak of/about)"
+    ],
+    "essential_vocabulary_slots": "besoin, peur, manger, boire, parler, avoir, envie, soif",
+    "common_learner_mistakes": [
+      "Using definite article instead (→ avoir besoin du, wrong)",
+      "Omitting 'de' entirely",
+      "Confusion between partitive and definite usage"
+    ],
+    "chunk_compatibility": "Necessity/emotion chunks (*J'ai besoin de*, *J'ai peur de*, *J'ai envie de*)",
+    "primary_function": "Expressing relationship between verb and noun via partitive",
+    "key_forms": "avoir besoin de / avoir peur de / avoir envie de / parler de",
+    "essential_vocabulary": "besoin, peur, envie, manger, boire, parler, avoir, soif, faim",
+    "why_it_matters": "Partitive is mandatory after specific verbs; wrong article breaks meaning",
+    "common_mistakes": "Using definite article (du/la/les); omitting 'de'; wrong construction entirely"
+  },
+  {
+    "structure_label": "Quantifier trop de",
+    "core_meaning": "Means 'too much/too many'; expresses excess quantity",
+    "primary_communicative_fn": "Expressing excessive or problematic quantity",
+    "when_to_use": "When describing more than desired or necessary amount",
+    "pattern": "trop de + nom",
+    "key_variations": [
+      "trop de bruit (too much noise)",
+      "trop d'argent (too much money)",
+      "trop de problèmes (too many problems)",
+      "trop de travail (too much work)"
+    ],
+    "essential_vocabulary_slots": "trop, de, d', bruit, argent, problème, travail, temps, stress",
+    "common_learner_mistakes": [
+      "Omitting 'de'",
+      "Confusing with 'très' (very vs too much)",
+      "Using trop instead of 'très' when meaning 'very'"
+    ],
+    "chunk_compatibility": "Excess quantity chunks (*Trop de travail*, *Trop d'argent*, *Trop de stress*)",
+    "primary_function": "Expressing excessive quantity",
+    "key_forms": "trop de bruit / trop d'argent / trop de travail",
+    "essential_vocabulary": "trop, de, d', bruit, argent, problème, travail, temps, stress, dépense",
+    "why_it_matters": "Trop/très distinction is semantic; trop implies 'too much' (negative), très = 'very'",
+    "common_mistakes": "Using 'très' when 'trop' is correct; omitting 'de'; confusing with 'beaucoup'"
+  },
+  {
+    "structure_label": "Quantifier assez de",
+    "core_meaning": "Means 'enough'; indicates sufficient quantity",
+    "primary_communicative_fn": "Expressing adequacy or sufficiency of quantity",
+    "when_to_use": "When describing sufficient or adequate amount",
+    "pattern": "assez de + nom",
+    "key_variations": [
+      "assez de temps (enough time)",
+      "assez d'eau (enough water)",
+      "assez de courage (enough courage)",
+      "Il y a assez d'espace (There's enough space)"
+    ],
+    "essential_vocabulary_slots": "assez, de, d', temps, eau, courage, espace, argent, nourriture",
+    "common_learner_mistakes": [
+      "Forgetting 'de'",
+      "Not placing before noun",
+      "Confusing with 'assez' alone (adverb modifying adjectives)"
+    ],
+    "chunk_compatibility": "Sufficiency chunks (*Assez de temps*, *Assez d'argent*, *C'est assez*)",
+    "primary_function": "Expressing adequate or sufficient quantity",
+    "key_forms": "assez de temps / assez d'eau / assez de courage",
+    "essential_vocabulary": "assez, de, d', temps, eau, courage, espace, argent, nourriture, calme",
+    "why_it_matters": "Assez de is frequent; 'de' omission is immediately noticeable",
+    "common_mistakes": "Omitting 'de'; using 'assez' alone with nouns; wrong placement"
+  },
+  {
+    "structure_label": "Partitive in negative sentences",
+    "core_meaning": "Negation changes partitive to 'de'; du/des becomes just 'de'",
+    "primary_communicative_fn": "Expressing lack or absence via negative construction",
+    "when_to_use": "In negative sentences with partitive or indefinite articles",
+    "pattern": "ne + verbe + pas + de + nom",
+    "key_variations": [
+      "Je n'ai pas de travail (I don't have work)",
+      "Il ne boit pas d'alcool (He doesn't drink alcohol)",
+      "Nous n'avons pas de chance (We don't have luck)",
+      "Tu ne manges pas de viande? (You don't eat meat?)"
+    ],
+    "essential_vocabulary_slots": "ne, pas, de, d', travail, alcool, chance, viande, argent",
+    "common_learner_mistakes": [
+      "Keeping 'du/des' in negative (→ becomes 'de')",
+      "Forgetting 'ne' in formal contexts",
+      "Using partitive instead of 'de' in negation"
+    ],
+    "chunk_compatibility": "Negative statements (*Je n'ai pas de*, *Il ne boit pas d'*)",
+    "primary_function": "Expressing absence/lack via negation",
+    "key_forms": "Je n'ai pas de / Il ne boit pas d' / Nous n'avons pas de",
+    "essential_vocabulary": "ne, pas, de, d', avoir, boire, manger, vouloir, pouvoir, travailler",
+    "why_it_matters": "Partitive → de transformation is mandatory in negation; error breaks grammar",
+    "common_mistakes": "Keeping partitive du/des in negative; forgetting 'ne'; omitting 'de'"
+  },
+  {
+    "structure_label": "Quantifier la plupart de",
+    "core_meaning": "Means 'most of'; requires article after: most + the + noun",
+    "primary_communicative_fn": "Expressing majority or preponderance of entities",
+    "when_to_use": "When describing majority portion of a group or mass",
+    "pattern": "la plupart de + article + nom",
+    "key_variations": [
+      "la plupart des gens (most of the people)",
+      "la plupart du temps (most of the time)",
+      "la plupart des étudiants (most of the students)",
+      "la plupart d'entre eux (most of them)"
+    ],
+    "essential_vocabulary_slots": "la plupart, de, des, du, d', gens, temps, étudiant, entre",
+    "common_learner_mistakes": [
+      "Omitting 'des/du' after 'la plupart'",
+      "Using wrong article form",
+      "Forgetting that 'la plupart de' requires article before noun"
+    ],
+    "chunk_compatibility": "Majority chunks (*La plupart du temps*, *La plupart des gens*)",
+    "primary_function": "Expressing majority quantity with required double article structure",
+    "key_forms": "la plupart des gens / la plupart du temps / la plupart d'entre",
+    "essential_vocabulary": "la plupart, de, des, du, d', gens, temps, étudiant, entre, jours",
+    "why_it_matters": "Double article structure after 'la plupart de' is obligatory",
+    "common_mistakes": "Omitting second article; using single article; wrong contraction form"
+  },
+  {
+    "structure_label": "Partitive with drinks/containers",
+    "core_meaning": "Quantity expressions with beverages using container measure",
+    "primary_communicative_fn": "Ordering or discussing beverages with measured quantities",
+    "when_to_use": "When requesting or describing drinks measured by container",
+    "pattern": "un verre de / une tasse de / une bouteille de + boisson",
+    "key_variations": [
+      "un verre de vin (a glass of wine)",
+      "une tasse de café (a cup of coffee)",
+      "une bouteille d'eau (a bottle of water)",
+      "un verre d'eau (a glass of water)"
+    ],
+    "essential_vocabulary_slots": "verre, tasse, bouteille, de, vin, café, eau, lait",
+    "common_learner_mistakes": [
+      "Using indefinite article instead of partitive (→ un verre du vin, wrong)",
+      "Confusing container construction with partitive",
+      "Omitting 'de' between container and beverage"
+    ],
+    "chunk_compatibility": "Beverage chunks (*Un verre de vin*, *Une tasse de café*)",
+    "primary_function": "Measured beverage expressions; ordering at café/restaurant",
+    "key_forms": "un verre de vin / une tasse de café / une bouteille d'eau",
+    "essential_vocabulary": "verre, tasse, bouteille, assiette, de, vin, café, eau, lait, jus",
+    "why_it_matters": "Container + de + beverage is standard French ordering pattern",
+    "common_mistakes": "Using indefinite article with beverage; omitting 'de'; wrong preposition"
+  },
+  {
+    "structure_label": "Quantifier un peu de",
+    "core_meaning": "Means 'a little/some'; small positive amount (vs peu=scarce)",
+    "primary_communicative_fn": "Expressing small but present quantity",
+    "when_to_use": "When describing small amount of something (positive sense)",
+    "pattern": "un peu de + nom",
+    "key_variations": [
+      "un peu de temps (a little time)",
+      "un peu de sucre (a little sugar)",
+      "un peu d'eau (a little water)",
+      "un peu de patience (a little patience)"
+    ],
+    "essential_vocabulary_slots": "un peu, de, d', temps, sucre, eau, patience, lait, sel",
+    "common_learner_mistakes": [
+      "Confusing with 'peu de' (little vs a little — semantic opposite)",
+      "Using wrong form structure",
+      "Omitting 'un' (→ becomes 'peu de', meaning scarcity)"
+    ],
+    "chunk_compatibility": "Small quantity chunks (*Un peu de temps*, *Un peu de sucre*, *Un peu de café*)",
+    "primary_function": "Expressing small but positive quantity; softer than 'beaucoup'",
+    "key_forms": "un peu de temps / un peu de sucre / un peu d'eau",
+    "essential_vocabulary": "un peu, de, d', temps, sucre, eau, patience, lait, sel, café",
+    "why_it_matters": "Semantic distinction 'peu' (scarce) vs 'un peu' (a little) is critical",
+    "common_mistakes": "Confusing 'peu' and 'un peu'; omitting 'un'; wrong context"
+  },
+  {
+    "structure_label": "Partitive with abstract nouns",
+    "core_meaning": "Expresses quantity of abstract concepts (courage, patience, hope, respect)",
+    "primary_communicative_fn": "Discussing intangible qualities and virtues in quantified form",
+    "when_to_use": "When describing amounts of abstract concepts/virtues/qualities",
+    "pattern": "du/de la/de l' + concept abstrait",
+    "key_variations": [
+      "du courage (some courage)",
+      "de la patience (some patience)",
+      "de l'espoir (some hope)",
+      "du respect (some respect)"
+    ],
+    "essential_vocabulary_slots": "du, de la, de l', courage, patience, espoir, respect, amour",
+    "common_learner_mistakes": [
+      "Treating abstract nouns as countable",
+      "Using 'un' or indefinite article",
+      "Confusing partitive with definite article"
+    ],
+    "chunk_compatibility": "Virtue/quality chunks (*Du courage*, *De la patience*, *De l'espoir*)",
+    "primary_function": "Expressing quantity of intangible abstract concepts",
+    "key_forms": "du courage / de la patience / de l'espoir / du respect",
+    "essential_vocabulary": "du, de la, de l', courage, patience, espoir, respect, amour, beauté, liberté",
+    "why_it_matters": "Abstract nouns are uncountable; partitive use is mandatory",
+    "common_mistakes": "Using indefinite article; treating as countable; confusing with definite"
+  },
+  {
+    "structure_label": "Double quantifier encore beaucoup de",
+    "core_meaning": "Emphasis on remaining large quantity; combines 'still' with 'much'",
+    "primary_communicative_fn": "Emphasizing abundance of remaining items despite consumption/use",
+    "when_to_use": "When expressing that large quantity still remains/is available",
+    "pattern": "encore beaucoup de + nom",
+    "key_variations": [
+      "encore beaucoup de travail (still a lot of work)",
+      "encore beaucoup de temps (still lots of time)",
+      "encore beaucoup d'amis (still many friends)",
+      "encore beaucoup de possibilités (still many possibilities)"
+    ],
+    "essential_vocabulary_slots": "encore, beaucoup, de, d', travail, temps, ami, possibilité",
+    "common_learner_mistakes": [
+      "Using 'encores' (→ only 'encore', not doubled)",
+      "Misplacing words in structure",
+      "Using 'toujours' instead of 'encore' (toujours=always, encore=still)"
+    ],
+    "chunk_compatibility": "Emphasis chunks (*Encore beaucoup de travail*, *Encore beaucoup à faire*)",
+    "primary_function": "Emphasizing remaining quantity or persistence of abundance",
+    "key_forms": "encore beaucoup de travail / encore beaucoup de temps",
+    "essential_vocabulary": "encore, beaucoup, de, d', travail, temps, ami, possibilité, raison",
+    "why_it_matters": "Emphasis structure is fixed; appropriate for expressing remaining resources",
+    "common_mistakes": "Doubling 'encore'; wrong word order; confusing with 'toujours beaucoup'"
+  }
+]

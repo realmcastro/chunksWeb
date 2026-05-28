@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "collecte de données",
+    "meaning": "data collection",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research and statistics",
+    "patterns": [
+      "La collecte de données prend du temps",
+      "Nous avons amélioré la collecte de données"
+    ],
+    "collocates": [
+      "enquête",
+      "échantillon",
+      "information",
+      "méthodologie"
+    ],
+    "level": "B1",
+    "example_1": "La collecte de données prend du temps",
+    "example_2": "Nous avons amélioré la collecte de données",
+    "example_3": "Je connais collecte de données.",
+    "example_1_translation": "Data collection takes time",
+    "example_2_translation": "We have improved data collection",
+    "example_3_translation": "I know about data collection."
+  },
+  {
+    "chunk_text": "taux d'augmentation",
+    "meaning": "increase rate",
+    "primary_function": "noun",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "Le taux d'augmentation est de 5%",
+      "Le taux d'augmentation diminue"
+    ],
+    "collocates": [
+      "pourcentage",
+      "évolution",
+      "croissance",
+      "statistique"
+    ],
+    "level": "B1",
+    "example_1": "Le taux d'augmentation est de 5%",
+    "example_2": "Le taux d'augmentation diminue",
+    "example_3": "Je connais taux d'augmentation.",
+    "example_1_translation": "The rate of increase is 5%",
+    "example_2_translation": "Rate of increase decreases",
+    "example_3_translation": "I know rate of increase."
+  },
+  {
+    "chunk_text": "en pourcentage",
+    "meaning": "as a percentage",
+    "primary_function": "expression",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "Exprimé en pourcentage",
+      "Calculer en pourcentage"
+    ],
+    "collocates": [
+      "taux",
+      "chiffre",
+      "proportion",
+      "valeur"
+    ],
+    "level": "B1",
+    "example_1": "Exprimé en pourcentage",
+    "example_2": "Calculer en pourcentage",
+    "example_3": "Je connais en pourcentage.",
+    "example_1_translation": "Expressed as a percentage",
+    "example_2_translation": "Calculate as a percentage",
+    "example_3_translation": "I know in percentage."
+  },
+  {
+    "chunk_text": "la moyenne est de",
+    "meaning": "the average is",
+    "primary_function": "expression",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "La moyenne est de 75",
+      "Calculez la moyenne"
+    ],
+    "collocates": [
+      "calcul",
+      "statistique",
+      "résultat",
+      "donnée"
+    ],
+    "level": "B1",
+    "example_1": "La moyenne est de 75",
+    "example_2": "Calculez la moyenne",
+    "example_3": "Je connais la moyenne est de.",
+    "example_1_translation": "The average is 75",
+    "example_2_translation": "Calculate the average",
+    "example_3_translation": "I know the average is."
+  },
+  {
+    "chunk_text": "échelle de valeur",
+    "meaning": "value scale",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "data presentation",
+    "patterns": [
+      "L'échelle de valeur va de 1 à 10",
+      "Sur cette échelle de valeur"
+    ],
+    "collocates": [
+      "mesure",
+      "graduation",
+      "intervalle",
+      "cotation"
+    ],
+    "level": "B1",
+    "example_1": "L'échelle de valeur va de 1 à 10",
+    "example_2": "Sur cette échelle de valeur",
+    "example_3": "Je connais échelle de valeur.",
+    "example_1_translation": "The value scale goes from 1 to 10",
+    "example_2_translation": "On this scale of value",
+    "example_3_translation": "I know value scale."
+  },
+  {
+    "chunk_text": "données chiffrées",
+    "meaning": "numerical data",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "Les données chiffrées sont précises",
+      "Analysez les données chiffrées"
+    ],
+    "collocates": [
+      "chiffres",
+      "statistiques",
+      "quantité",
+      "mesure"
+    ],
+    "level": "B1",
+    "example_1": "Les données chiffrées sont précises",
+    "example_2": "Analysez les données chiffrées",
+    "example_3": "Je connais données chiffrées.",
+    "example_1_translation": "Encrypted data is precise",
+    "example_2_translation": "Analyze encrypted data",
+    "example_3_translation": "I know encrypted data."
+  },
+  {
+    "chunk_text": "source de statistiques",
+    "meaning": "statistics source",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Citez vos sources de statistiques",
+      "Les sources de statistiques sont fiables"
+    ],
+    "collocates": [
+      "référence",
+      "donnée",
+      "institution",
+      "fiabilité"
+    ],
+    "level": "B1",
+    "example_1": "Citez vos sources de statistiques",
+    "example_2": "Les sources de statistiques sont fiables",
+    "example_3": "Je connais source de statistiques.",
+    "example_1_translation": "Cite your statistical sources",
+    "example_2_translation": "Statistical sources are reliable",
+    "example_3_translation": "I know source of statistics."
+  },
+  {
+    "chunk_text": "tendance à la hausse",
+    "meaning": "upward trend",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "On observe une tendance à la hausse",
+      "La tendance à la hausse se confirme"
+    ],
+    "collocates": [
+      "augmentation",
+      "croissance",
+      "évolution",
+      "progression"
+    ],
+    "level": "B1",
+    "example_1": "On observe une tendance à la hausse",
+    "example_2": "La tendance à la hausse se confirme",
+    "example_3": "Je connais tendance à la hausse.",
+    "example_1_translation": "An upward trend is observed",
+    "example_2_translation": "The upward trend is confirmed",
+    "example_3_translation": "I know upward trend."
+  },
+  {
+    "chunk_text": "tendance à la baisse",
+    "meaning": "downward trend",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "Une tendance à la baisse est observée",
+      "La tendance à la baisse se poursuit"
+    ],
+    "collocates": [
+      "diminution",
+      "déclin",
+      "réduction",
+      "chute"
+    ],
+    "level": "B1",
+    "example_1": "Une tendance à la baisse est observée",
+    "example_2": "La tendance à la baisse se poursuit",
+    "example_3": "Je connais tendance à la baisse.",
+    "example_1_translation": "A downward trend is observed",
+    "example_2_translation": "The downward trend continues",
+    "example_3_translation": "I know downward trend."
+  },
+  {
+    "chunk_text": "indice de référence",
+    "meaning": "reference index",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "L'indice de référence est à 100",
+      "L'indice de référence a doublé"
+    ],
+    "collocates": [
+      "base",
+      "point de comparaison",
+      "évolution",
+      "mesure"
+    ],
+    "level": "B2",
+    "example_1": "L'indice de référence est à 100",
+    "example_2": "L'indice de référence a doublé",
+    "example_3": "On utilise indice de référence dans la vie quotidienne.",
+    "example_1_translation": "The benchmark index is at 100",
+    "example_2_translation": "The benchmark index has doubled",
+    "example_3_translation": "We use reference index in daily life."
+  },
+  {
+    "chunk_text": "corrélation entre les données",
+    "meaning": "correlation between data",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "Il existe une corrélation entre les données",
+      "La corrélation entre les données est forte"
+    ],
+    "collocates": [
+      "relation",
+      "lien",
+      "variable",
+      "analyse"
+    ],
+    "level": "B2",
+    "example_1": "Il existe une corrélation entre les données",
+    "example_2": "La corrélation entre les données est forte",
+    "example_3": "On utilise corrélation entre les données dans la vie quotidienne.",
+    "example_1_translation": "There is a correlation between the data",
+    "example_2_translation": "The correlation between the data is strong",
+    "example_3_translation": "We use correlation between data in daily life."
+  },
+  {
+    "chunk_text": "marge d'erreur",
+    "meaning": "margin of error",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "statistics",
+    "patterns": [
+      "La marge d'erreur est de 3%",
+      "Avec une marge d'erreur de 5%"
+    ],
+    "collocates": [
+      "précision",
+      "incertitude",
+      "tolérance",
+      "calcul"
+    ],
+    "level": "B2",
+    "example_1": "La marge d'erreur est de 3%",
+    "example_2": "Avec une marge d'erreur de 5%",
+    "example_3": "On utilise marge d'erreur dans la vie quotidienne.",
+    "example_1_translation": "The margin of error is 3%",
+    "example_2_translation": "With a margin of error of 5%",
+    "example_3_translation": "We use margin of error in daily life."
+  },
+  {
+    "chunk_text": "population cible",
+    "meaning": "target population",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "La population cible est les 18-35 ans",
+      "Étude réalisée sur une population cible"
+    ],
+    "collocates": [
+      "échantillon",
+      "enquête",
+      "groupe",
+      "démographie"
+    ],
+    "level": "B2",
+    "example_1": "La population cible est les 18-35 ans",
+    "example_2": "Étude réalisée sur une population cible",
+    "example_3": "On utilise population cible dans la vie quotidienne.",
+    "example_1_translation": "The target population is 18-35 year olds",
+    "example_2_translation": "Study carried out on a target population",
+    "example_3_translation": "We use target population in daily life."
+  },
+  {
+    "chunk_text": "échantillon représentatif",
+    "meaning": "representative sample",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "research",
+    "patterns": [
+      "L'échantillon représentatif compte 500 personnes",
+      "Nous avons utilisé un échantillon représentatif"
+    ],
+    "collocates": [
+      "étude",
+      "population",
+      "sondage",
+      "généralisation"
+    ],
+    "level": "B2",
+    "example_1": "L'échantillon représentatif compte 500 personnes",
+    "example_2": "Nous avons utilisé un échantillon représentatif",
+    "example_3": "On utilise échantillon représentatif dans la vie quotidienne.",
+    "example_1_translation": "The representative sample includes 500 people",
+    "example_2_translation": "We used a representative sample",
+    "example_3_translation": "We use representative sample in daily life."
+  },
+  {
+    "chunk_text": "interpréter les résultats",
+    "meaning": "to interpret results",
+    "primary_function": "expression",
+    "communicative_purpose": "research",
+    "patterns": [
+      "Il faut interpréter les résultats avec prudence",
+      "Comment interprétez-vous ces résultats?"
+    ],
+    "collocates": [
+      "analyse",
+      "conclusion",
+      "signification",
+      "donnée"
+    ],
+    "level": "B1",
+    "example_1": "Il faut interpréter les résultats avec prudence",
+    "example_2": "Comment interprétez-vous ces résultats?",
+    "example_3": "Je connais interpréter les résultats.",
+    "example_1_translation": "Results should be interpreted with caution",
+    "example_2_translation": "How do you interpret these results?",
+    "example_3_translation": "I know how to interpret the results."
+  }
+]

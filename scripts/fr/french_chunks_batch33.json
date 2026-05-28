@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "le patrimoine",
+    "meaning": "heritage",
+    "primary_function": "noun",
+    "communicative_purpose": "describing cultural heritage",
+    "patterns": [
+      "Le patrimoine français est très riche.",
+      "Ce monument fait partie du patrimoine mondial."
+    ],
+    "collocates": [
+      "patrimoine",
+      "héritage",
+      "culturel",
+      "historique",
+      "monument"
+    ],
+    "level": "B1",
+    "example_1": "Le patrimoine français est très riche.",
+    "example_2": "Ce monument fait partie du patrimoine mondial.",
+    "example_3": "Je connais le patrimoine.",
+    "example_1_translation": "French heritage is very rich.",
+    "example_2_translation": "This monument is part of the world heritage.",
+    "example_3_translation": "I know the heritage."
+  },
+  {
+    "chunk_text": "un monument historique",
+    "meaning": "a historic monument",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to historical buildings",
+    "patterns": [
+      "Nous visitons un monument historique.",
+      "La tour Eiffel est un monument historique."
+    ],
+    "collocates": [
+      "monument",
+      "historique",
+      "bâtiment",
+      "patrimoine",
+      "visite"
+    ],
+    "level": "A2",
+    "example_1": "Nous visitons un monument historique.",
+    "example_2": "La tour Eiffel est un monument historique.",
+    "example_3": "On utilise un monument historique dans la vie quotidienne.",
+    "example_1_translation": "We visit a historical monument.",
+    "example_2_translation": "The Eiffel Tower is a historic monument.",
+    "example_3_translation": "We use a historical monument in daily life."
+  },
+  {
+    "chunk_text": "une époque",
+    "meaning": "an era/period",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to historical periods",
+    "patterns": [
+      "Ce château date d'une autre époque.",
+      "À cette époque, la vie était différente."
+    ],
+    "collocates": [
+      "époque",
+      "période",
+      "ère",
+      "siècle",
+      " 历史"
+    ],
+    "level": "A2",
+    "example_1": "Ce château date d'une autre époque.",
+    "example_2": "À cette époque, la vie était différente.",
+    "example_3": "On utilise une époque dans la vie quotidienne.",
+    "example_1_translation": "This castle dates from another era.",
+    "example_2_translation": "At that time, life was different.",
+    "example_3_translation": "We use an era in everyday life."
+  },
+  {
+    "chunk_text": "une civilisation",
+    "meaning": "a civilization",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to civilizations",
+    "patterns": [
+      "La civilisation romaine a influencé l'Europe.",
+      "Cette civilisation existed il y a 3000 ans."
+    ],
+    "collocates": [
+      "civilisation",
+      "culture",
+      "société",
+      "peuple",
+      " histoire"
+    ],
+    "level": "B1",
+    "example_1": "La civilisation romaine a influencé l'Europe.",
+    "example_2": "Cette civilisation existed il y a 3000 ans.",
+    "example_3": "Je connais une civilisation.",
+    "example_1_translation": "Roman civilization influenced Europe.",
+    "example_2_translation": "This civilization existed 3000 years ago.",
+    "example_3_translation": "I know a civilization."
+  },
+  {
+    "chunk_text": "un château",
+    "meaning": "a castle",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to castles",
+    "patterns": [
+      "Ce château a été construits au Moyen Âge.",
+      "Le château de Versailles est magnificque."
+    ],
+    "collocates": [
+      "château",
+      "fort",
+      "moyen âge",
+      "noblesse",
+      "défense"
+    ],
+    "level": "A1",
+    "example_1": "Ce château a été construits au Moyen Âge.",
+    "example_2": "Le château de Versailles est magnificque.",
+    "example_3": "Je connais un château.",
+    "example_1_translation": "This castle was built in the Middle Ages.",
+    "example_2_translation": "The Palace of Versailles is magnificent.",
+    "example_3_translation": "I know a castle."
+  },
+  {
+    "chunk_text": "la Révolution française",
+    "meaning": "the French Revolution",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to French Revolution",
+    "patterns": [
+      "La Révolution française a commencé en 1789.",
+      "Les événements de la Révolution française ont changé l'Europe."
+    ],
+    "collocates": [
+      "révolution",
+      "française",
+      "1789",
+      "liberté",
+      " Bastille"
+    ],
+    "level": "B1",
+    "example_1": "La Révolution française a commencé en 1789.",
+    "example_2": "Les événements de la Révolution française ont changé l'Europe.",
+    "example_3": "Je connais la Révolution française.",
+    "example_1_translation": "The French Revolution began in 1789.",
+    "example_2_translation": "The events of the French Revolution changed Europe.",
+    "example_3_translation": "I know the French Revolution."
+  },
+  {
+    "chunk_text": "un artifact",
+    "meaning": "an artifact",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to historical objects",
+    "patterns": [
+      "Ce artifact a été retrouvé lors de fouilles.",
+      "Les artifacts du musée sont exposés."
+    ],
+    "collocates": [
+      "artifact",
+      "objet",
+      "antiquité",
+      "fouille",
+      " musée"
+    ],
+    "level": "B1",
+    "example_1": "Ce artifact a été retrouvé lors de fouilles.",
+    "example_2": "Les artifacts du musée sont exposés.",
+    "example_3": "Je connais un artifact.",
+    "example_1_translation": "This artifact was found during excavations.",
+    "example_2_translation": "The museum's artifacts are on display.",
+    "example_3_translation": "I know of an artifact."
+  },
+  {
+    "chunk_text": "l'Ancien Régime",
+    "meaning": "the Ancien Régime",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to pre-revolutionary France",
+    "patterns": [
+      "L'Ancien Régime a pris fin en 1789.",
+      "La société sous l'Ancien Régime était hiérarchique."
+    ],
+    "collocates": [
+      "ancien",
+      "régime",
+      "monarchie",
+      "privilège",
+      " féodalité"
+    ],
+    "level": "B2",
+    "example_1": "L'Ancien Régime a pris fin en 1789.",
+    "example_2": "La société sous l'Ancien Régime était hiérarchique.",
+    "example_3": "On utilise l'Ancien Régime dans la vie quotidienne.",
+    "example_1_translation": "The Ancien Régime ended in 1789.",
+    "example_2_translation": "Society under the Ancien Régime was hierarchical.",
+    "example_3_translation": "We use the Ancien Régime in daily life."
+  },
+  {
+    "chunk_text": "une trace du passé",
+    "meaning": "a trace of the past",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing historical remains",
+    "patterns": [
+      "Ces ruines sont des traces du passé.",
+      "On retrouve toujours des traces du passé dans cette région."
+    ],
+    "collocates": [
+      "trace",
+      "passé",
+      "vestige",
+      "souvenir",
+      " mémoire"
+    ],
+    "level": "B1",
+    "example_1": "Ces ruines sont des traces du passé.",
+    "example_2": "On retrouve toujours des traces du passé dans cette région.",
+    "example_3": "Je connais une trace du passé.",
+    "example_1_translation": "These ruins are traces of the past.",
+    "example_2_translation": "We still find traces of the past in this region.",
+    "example_3_translation": "I know a trace of the past."
+  },
+  {
+    "chunk_text": "un site archéologique",
+    "meaning": "an archaeological site",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to dig sites",
+    "patterns": [
+      "Ce site archéologique est ouvert au public.",
+      "Des fouilles ont lieu sur ce site archéologique."
+    ],
+    "collocates": [
+      "archéologique",
+      "site",
+      "fouille",
+      "vestige",
+      "découverte"
+    ],
+    "level": "B1",
+    "example_1": "Ce site archéologique est ouvert au public.",
+    "example_2": "Des fouilles ont lieu sur ce site archéologique.",
+    "example_3": "Je connais un site archéologique.",
+    "example_1_translation": "This archaeological site is open to the public.",
+    "example_2_translation": "Excavations are taking place on this archaeological site.",
+    "example_3_translation": "I know of an archaeological site."
+  },
+  {
+    "chunk_text": "la mémoire collective",
+    "meaning": "collective memory",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing shared historical memory",
+    "patterns": [
+      "La mémoire collective de la guerre persiste.",
+      "Cette journée fait partie de la mémoire collective."
+    ],
+    "collocates": [
+      "mémoire",
+      "collective",
+      "souvenir",
+      "historian",
+      "identity"
+    ],
+    "level": "B2",
+    "example_1": "La mémoire collective de la guerre persiste.",
+    "example_2": "Cette journée fait partie de la mémoire collective.",
+    "example_3": "On utilise la mémoire collective dans la vie quotidienne.",
+    "example_1_translation": "The collective memory of the war persists.",
+    "example_2_translation": "This day is part of the collective memory.",
+    "example_3_translation": "We use collective memory in daily life."
+  },
+  {
+    "chunk_text": "un musée d'histoire",
+    "meaning": "a history museum",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to history museums",
+    "patterns": [
+      "Nous allons au musée d'histoire.",
+      "Le musée d'histoire présente l'évolution de la société."
+    ],
+    "collocates": [
+      "musée",
+      "histoire",
+      "exposition",
+      "collection",
+      " patrimnine"
+    ],
+    "level": "A2",
+    "example_1": "Nous allons au musée d'histoire.",
+    "example_2": "Le musée d'histoire présente l'évolution de la société.",
+    "example_3": "On utilise un musée d'histoire dans la vie quotidienne.",
+    "example_1_translation": "We are going to the history museum.",
+    "example_2_translation": "The history museum presents the evolution of society.",
+    "example_3_translation": "We use a history museum in everyday life."
+  },
+  {
+    "chunk_text": "dater de",
+    "meaning": "to date from",
+    "primary_function": "verb",
+    "communicative_purpose": "establishing historical dates",
+    "patterns": [
+      "Ce bâtiment date de Louis XIV.",
+      "Cette tradition date de plusieurs siècles."
+    ],
+    "collocates": [
+      "dater",
+      "date",
+      "époque",
+      "période",
+      "origines"
+    ],
+    "level": "B1",
+    "example_1": "Ce bâtiment date de Louis XIV.",
+    "example_2": "Cette tradition date de plusieurs siècles.",
+    "example_3": "Je connais dater de.",
+    "example_1_translation": "This building dates from Louis XIV.",
+    "example_2_translation": "This tradition dates back several centuries.",
+    "example_3_translation": "I know dating from."
+  },
+  {
+    "chunk_text": "un personnage historique",
+    "meaning": "a historical figure",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to notable historical people",
+    "patterns": [
+      "Napoléon est un personnage historique célèbre.",
+      "Ce personnage historique a marqué son époque."
+    ],
+    "collocates": [
+      "personnage",
+      "historique",
+      "figure",
+      "célébrités",
+      "notoire"
+    ],
+    "level": "A2",
+    "example_1": "Napoléon est un personnage historique célèbre.",
+    "example_2": "Ce personnage historique a marqué son époque.",
+    "example_3": "On utilise un personnage historique dans la vie quotidienne.",
+    "example_1_translation": "Napoleon is a famous historical figure.",
+    "example_2_translation": "This historical figure marked his time.",
+    "example_3_translation": "We use a historical character in everyday life."
+  },
+  {
+    "chunk_text": "une tradition",
+    "meaning": "a tradition",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to traditions",
+    "patterns": [
+      "Cette tradition remonte au Moyen Âge.",
+      "Nous avons maintenu cette tradition familiale."
+    ],
+    "collocates": [
+      "tradition",
+      "coutume",
+      "usage",
+      "héritage",
+      "pratique"
+    ],
+    "level": "A2",
+    "example_1": "Cette tradition remonte au Moyen Âge.",
+    "example_2": "Nous avons maintenu cette tradition familiale.",
+    "example_3": "On utilise une tradition dans la vie quotidienne.",
+    "example_1_translation": "This tradition dates back to the Middle Ages.",
+    "example_2_translation": "We have maintained this family tradition.",
+    "example_3_translation": "We use a tradition in daily life."
+  }
+]

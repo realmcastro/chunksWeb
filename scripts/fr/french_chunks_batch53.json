@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "rédiger un rapport",
+    "meaning": "to write a report",
+    "primary_function": "expression",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Je dois rédiger un rapport",
+      "Il a rédigé un excellent rapport"
+    ],
+    "collocates": [
+      "document",
+      "analyse",
+      "conclusion",
+      "recommandation"
+    ],
+    "level": "B1",
+    "example_1": "Je dois rédiger un rapport",
+    "example_2": "Il a rédigé un excellent rapport",
+    "example_3": "Je connais rédiger un rapport.",
+    "example_1_translation": "I have to write a report",
+    "example_2_translation": "He wrote an excellent report",
+    "example_3_translation": "I know how to write a report."
+  },
+  {
+    "chunk_text": "table des matières",
+    "meaning": "table of contents",
+    "primary_function": "noun",
+    "communicative_purpose": "document structure",
+    "patterns": [
+      "La table des matières est à la fin",
+      "Veuillez consulter la table des matières"
+    ],
+    "collocates": [
+      "chapitres",
+      "sections",
+      "index",
+      "sommaire"
+    ],
+    "level": "B1",
+    "example_1": "La table des matières est à la fin",
+    "example_2": "Veuillez consulter la table des matières",
+    "example_3": "Je connais table des matières.",
+    "example_1_translation": "The table of contents is at the end",
+    "example_2_translation": "Please see the table of contents",
+    "example_3_translation": "I know table of contents."
+  },
+  {
+    "chunk_text": "annexe du document",
+    "meaning": "document appendix",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "document structure",
+    "patterns": [
+      "Voir l'annexe du document",
+      "Les données sont en annexe"
+    ],
+    "collocates": [
+      "appendice",
+      "supplément",
+      "information",
+      "Référence"
+    ],
+    "level": "B1",
+    "example_1": "Voir l'annexe du document",
+    "example_2": "Les données sont en annexe",
+    "example_3": "Je connais annexe du document.",
+    "example_1_translation": "See the annex of the document",
+    "example_2_translation": "The data is in the appendix",
+    "example_3_translation": "I know annex of the document."
+  },
+  {
+    "chunk_text": "page de garde",
+    "meaning": "title page",
+    "primary_function": "noun",
+    "communicative_purpose": "document structure",
+    "patterns": [
+      "La page de garde contient le titre",
+      "Créez une page de garde professionnelle"
+    ],
+    "collocates": [
+      "titre",
+      "auteur",
+      "date",
+      "logo"
+    ],
+    "level": "B1",
+    "example_1": "La page de garde contient le titre",
+    "example_2": "Créez une page de garde professionnelle",
+    "example_3": "Je connais page de garde.",
+    "example_1_translation": "The cover page contains the title",
+    "example_2_translation": "Create a professional cover page",
+    "example_3_translation": "I know cover page."
+  },
+  {
+    "chunk_text": "dresser un constat",
+    "meaning": "to establish findings",
+    "primary_function": "expression",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Le rapport dresse un constat alarmant",
+      "Nous avons dressé le constat de la situation"
+    ],
+    "collocates": [
+      "constatation",
+      "situation",
+      "analyse",
+      "bilan"
+    ],
+    "level": "B2",
+    "example_1": "Le rapport dresse un constat alarmant",
+    "example_2": "Nous avons dressé le constat de la situation",
+    "example_3": "On utilise dresser un constat dans la vie quotidienne.",
+    "example_1_translation": "The report draws an alarming observation",
+    "example_2_translation": "We have taken stock of the situation",
+    "example_3_translation": "We use drawing up an observation in daily life."
+  },
+  {
+    "chunk_text": "chef de projet",
+    "meaning": "project manager",
+    "primary_function": "noun",
+    "communicative_purpose": "professional context",
+    "patterns": [
+      "Le chef de projet supervise les travaux",
+      "Je suis le chef de projet pour ce dossier"
+    ],
+    "collocates": [
+      "équipe",
+      "responsabilité",
+      "coordination",
+      "délai"
+    ],
+    "level": "B1",
+    "example_1": "Le chef de projet supervise les travaux",
+    "example_2": "Je suis le chef de projet pour ce dossier",
+    "example_3": "Je connais chef de projet.",
+    "example_1_translation": "The project manager supervises the work",
+    "example_2_translation": "I am the project manager for this file",
+    "example_3_translation": "I know project manager."
+  },
+  {
+    "chunk_text": "compte rendu de réunion",
+    "meaning": "meeting minutes",
+    "primary_function": "noun",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Veuillez rédiger le compte rendu de réunion",
+      "Le compte rendu sera envoyé par e-mail"
+    ],
+    "collocates": [
+      "décisions",
+      "actions",
+      "participants",
+      "date"
+    ],
+    "level": "B1",
+    "example_1": "Veuillez rédiger le compte rendu de réunion",
+    "example_2": "Le compte rendu sera envoyé par e-mail",
+    "example_3": "Je connais compte rendu de réunion.",
+    "example_1_translation": "Please write the meeting minutes",
+    "example_2_translation": "The report will be sent by email",
+    "example_3_translation": "I know the meeting minutes."
+  },
+  {
+    "chunk_text": "notes de service",
+    "meaning": "service notes/memos",
+    "primary_function": "noun",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Les notes de service sont obligatoires",
+      "Une note de service a été publiée"
+    ],
+    "collocates": [
+      "directive",
+      "information",
+      "employés",
+      "communication"
+    ],
+    "level": "B2",
+    "example_1": "Les notes de service sont obligatoires",
+    "example_2": "Une note de service a été publiée",
+    "example_3": "On utilise notes de service dans la vie quotidienne.",
+    "example_1_translation": "Memos are required",
+    "example_2_translation": "A memo has been published",
+    "example_3_translation": "We use memos in everyday life."
+  },
+  {
+    "chunk_text": "procès-verbal",
+    "meaning": "minutes (of meeting)",
+    "primary_function": "noun",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Le procès-verbal a été approuvé",
+      "Nous avons signé le procès-verbal"
+    ],
+    "collocates": [
+      "réunion",
+      "délibération",
+      "décision",
+      "signature"
+    ],
+    "level": "B2",
+    "example_1": "Le procès-verbal a été approuvé",
+    "example_2": "Nous avons signé le procès-verbal",
+    "example_3": "On utilise procès-verbal dans la vie quotidienne.",
+    "example_1_translation": "The minutes were approved",
+    "example_2_translation": "We signed the minutes",
+    "example_3_translation": "We use minutes in everyday life."
+  },
+  {
+    "chunk_text": "mise à jour",
+    "meaning": "update",
+    "primary_function": "noun",
+    "communicative_purpose": "document maintenance",
+    "patterns": [
+      "Ce document nécessite une mise à jour",
+      "La mise à jour est prévue pour demain"
+    ],
+    "collocates": [
+      "modifier",
+      "réviser",
+      "actualiser",
+      "version"
+    ],
+    "level": "B1",
+    "example_1": "Ce document nécessite une mise à jour",
+    "example_2": "La mise à jour est prévue pour demain",
+    "example_3": "Je connais mise à jour.",
+    "example_1_translation": "This document requires updating",
+    "example_2_translation": "The update is scheduled for tomorrow",
+    "example_3_translation": "I know update."
+  },
+  {
+    "chunk_text": "document de référence",
+    "meaning": "reference document",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "document classification",
+    "patterns": [
+      "Consulter le document de référence",
+      "Ce document sert de référence"
+    ],
+    "collocates": [
+      "norme",
+      "procédure",
+      "guide",
+      "information"
+    ],
+    "level": "B1",
+    "example_1": "Consulter le document de référence",
+    "example_2": "Ce document sert de référence",
+    "example_3": "Je connais document de référence.",
+    "example_1_translation": "Consult the reference document",
+    "example_2_translation": "This document serves as a reference",
+    "example_3_translation": "I know reference document."
+  },
+  {
+    "chunk_text": "à des fins de",
+    "meaning": "for the purposes of",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "formal writing",
+    "patterns": [
+      "À des fins de simplification",
+      "À des fins d'archivage"
+    ],
+    "collocates": [
+      "objectif",
+      "raison",
+      "documentation",
+      "explication"
+    ],
+    "level": "B2",
+    "example_1": "À des fins de simplification",
+    "example_2": "À des fins d'archivage",
+    "example_3": "On utilise à des fins de dans la vie quotidienne.",
+    "example_1_translation": "For simplification purposes",
+    "example_2_translation": "For archival purposes",
+    "example_3_translation": "It is used for purposes in daily life."
+  },
+  {
+    "chunk_text": "formaliser par écrit",
+    "meaning": "to formalize in writing",
+    "primary_function": "expression",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Il faut formaliser par écrit les accords",
+      "Nous avons formalisé les décisions par écrit"
+    ],
+    "collocates": [
+      "contrat",
+      "accord",
+      "engagement",
+      "documentation"
+    ],
+    "level": "B2",
+    "example_1": "Il faut formaliser par écrit les accords",
+    "example_2": "Nous avons formalisé les décisions par écrit",
+    "example_3": "On utilise formaliser par écrit dans la vie quotidienne.",
+    "example_1_translation": "Agreements must be formalized in writing",
+    "example_2_translation": "We formalized the decisions in writing",
+    "example_3_translation": "We use formalizing in writing in daily life."
+  },
+  {
+    "chunk_text": "état des lieux",
+    "meaning": "assessment/situation report",
+    "primary_function": "noun",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "L'état des lieux est prévu demain",
+      "Nous avons fait un état des lieux complet"
+    ],
+    "collocates": [
+      "situation",
+      "évaluation",
+      "diagnostic",
+      "constat"
+    ],
+    "level": "B2",
+    "example_1": "L'état des lieux est prévu demain",
+    "example_2": "Nous avons fait un état des lieux complet",
+    "example_3": "On utilise état des lieux dans la vie quotidienne.",
+    "example_1_translation": "The inventory is expected tomorrow",
+    "example_2_translation": "We have made a complete inventory",
+    "example_3_translation": "We use inventory in daily life."
+  },
+  {
+    "chunk_text": "note de synthèse",
+    "meaning": "summary note",
+    "primary_function": "noun",
+    "communicative_purpose": "business writing",
+    "patterns": [
+      "Préparez une note de synthèse",
+      "La note de synthèse reprend les points essentiels"
+    ],
+    "collocates": [
+      "résumé",
+      "points clés",
+      "information",
+      "concision"
+    ],
+    "level": "B2",
+    "example_1": "Préparez une note de synthèse",
+    "example_2": "La note de synthèse reprend les points essentiels",
+    "example_3": "On utilise note de synthèse dans la vie quotidienne.",
+    "example_1_translation": "Prepare a summary note",
+    "example_2_translation": "The summary note covers the essential points",
+    "example_3_translation": "We use summary notes in daily life."
+  }
+]

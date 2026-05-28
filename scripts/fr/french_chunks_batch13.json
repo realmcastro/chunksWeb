@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "changement climatique",
+    "meaning": "climate change",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "discussing environmental issues",
+    "patterns": [
+      "Le changement climatique menace les écosystèmes.",
+      "Des mesures urgentes sont nécessaires pour atténuer le changement climatique."
+    ],
+    "collocates": [
+      "réchauffement",
+      "émissions",
+      "température",
+      "écosystème"
+    ],
+    "level": "B2",
+    "example_1": "Le changement climatique menace les écosystèmes.",
+    "example_2": "Des mesures urgentes sont nécessaires pour atténuer le changement climatique.",
+    "example_3": "On utilise changement climatique dans la vie quotidienne.",
+    "example_1_translation": "Climate change threatens ecosystems.",
+    "example_2_translation": "Urgent action is needed to mitigate climate change.",
+    "example_3_translation": "We use climate change in everyday life."
+  },
+  {
+    "chunk_text": "développement durable",
+    "meaning": "sustainable development",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to environmental sustainability",
+    "patterns": [
+      "Le développement durable est une priorité pour notre société.",
+      "Nous encourageons les pratiques de développement durable."
+    ],
+    "collocates": [
+      "écologie",
+      "économie",
+      "ressources",
+      "futur"
+    ],
+    "level": "B2",
+    "example_1": "Le développement durable est une priorité pour notre société.",
+    "example_2": "Nous encourageons les pratiques de développement durable.",
+    "example_3": "On utilise développement durable dans la vie quotidienne.",
+    "example_1_translation": "Sustainable development is a priority for our company.",
+    "example_2_translation": "We encourage sustainable development practices.",
+    "example_3_translation": "We use sustainable development in everyday life."
+  },
+  {
+    "chunk_text": "empreinte carbone",
+    "meaning": "carbon footprint",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "measuring environmental impact",
+    "patterns": [
+      "Nous cherchons à réduire notre empreinte carbone.",
+      "L'empreinte carbone de ce produit a été calculée."
+    ],
+    "collocates": [
+      "CO2",
+      "émissions",
+      "transport",
+      "production"
+    ],
+    "level": "B2",
+    "example_1": "Nous cherchons à réduire notre empreinte carbone.",
+    "example_2": "L'empreinte carbone de ce produit a été calculée.",
+    "example_3": "On utilise empreinte carbone dans la vie quotidienne.",
+    "example_1_translation": "We seek to reduce our carbon footprint.",
+    "example_2_translation": "The carbon footprint of this product has been calculated.",
+    "example_3_translation": "We use carbon footprint in daily life."
+  },
+  {
+    "chunk_text": "énergies renouvelables",
+    "meaning": "renewable energies",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "discussing clean energy sources",
+    "patterns": [
+      "Les énergies renouvelables représentent l'avenir.",
+      "Nous investissons dans les énergies renouvelables."
+    ],
+    "collocates": [
+      "solaire",
+      "éolienne",
+      "hydraulique",
+      "économie"
+    ],
+    "level": "B2",
+    "example_1": "Les énergies renouvelables représentent l'avenir.",
+    "example_2": "Nous investissons dans les énergies renouvelables.",
+    "example_3": "On utilise énergies renouvelables dans la vie quotidienne.",
+    "example_1_translation": "Renewable energies are the future.",
+    "example_2_translation": "We invest in renewable energies.",
+    "example_3_translation": "We use renewable energies in daily life."
+  },
+  {
+    "chunk_text": "biodiversité",
+    "meaning": "biodiversity",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to variety of life",
+    "patterns": [
+      "La biodiversité est menacée par la déforestation.",
+      "Nous devons protéger la biodiversité de notre planète."
+    ],
+    "collocates": [
+      "espèce",
+      "écosystème",
+      "protection",
+      "forêt"
+    ],
+    "level": "B2",
+    "example_1": "La biodiversité est menacée par la déforestation.",
+    "example_2": "Nous devons protéger la biodiversité de notre planète.",
+    "example_3": "On utilise biodiversité dans la vie quotidienne.",
+    "example_1_translation": "Biodiversity is threatened by deforestation.",
+    "example_2_translation": "We must protect the biodiversity of our planet.",
+    "example_3_translation": "We use biodiversity in daily life."
+  },
+  {
+    "chunk_text": "pollution atmosphérique",
+    "meaning": "air pollution",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "discussing air quality issues",
+    "patterns": [
+      "La pollution atmosphérique cause des problèmes de santé.",
+      "Les normes contre la pollution atmosphérique ont été renforcées."
+    ],
+    "collocates": [
+      "air",
+      "émissions",
+      "industrie",
+      "santé"
+    ],
+    "level": "B2",
+    "example_1": "La pollution atmosphérique cause des problèmes de santé.",
+    "example_2": "Les normes contre la pollution atmosphérique ont été renforcées.",
+    "example_3": "On utilise pollution atmosphérique dans la vie quotidienne.",
+    "example_1_translation": "Air pollution causes health problems.",
+    "example_2_translation": "Standards against air pollution have been strengthened.",
+    "example_3_translation": "We use air pollution in daily life."
+  },
+  {
+    "chunk_text": "effet de serre",
+    "meaning": "greenhouse effect",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "explaining climate mechanisms",
+    "patterns": [
+      "L'effet de serre provoque le réchauffement climatique.",
+      "Les gaz à effet de serre sont émis par les activités humaines."
+    ],
+    "collocates": [
+      "CO2",
+      "réchauffement",
+      "atmosphère",
+      "gaz"
+    ],
+    "level": "B2",
+    "example_1": "L'effet de serre provoque le réchauffement climatique.",
+    "example_2": "Les gaz à effet de serre sont émis par les activités humaines.",
+    "example_3": "On utilise effet de serre dans la vie quotidienne.",
+    "example_1_translation": "The greenhouse effect causes global warming.",
+    "example_2_translation": "Greenhouse gases are emitted by human activities.",
+    "example_3_translation": "We use greenhouse effect in daily life."
+  },
+  {
+    "chunk_text": "gestion des déchets",
+    "meaning": "waste management",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "discussing waste handling",
+    "patterns": [
+      "La gestion des déchets est un défi majeur pour les villes.",
+      "Nous devons améliorer la gestion des déchets ménagers."
+    ],
+    "collocates": [
+      "recyclage",
+      "poubelle",
+      "tri",
+      "décharge"
+    ],
+    "level": "B2",
+    "example_1": "La gestion des déchets est un défi majeur pour les villes.",
+    "example_2": "Nous devons améliorer la gestion des déchets ménagers.",
+    "example_3": "On utilise gestion des déchets dans la vie quotidienne.",
+    "example_1_translation": "Waste management is a major challenge for cities.",
+    "example_2_translation": "We need to improve household waste management.",
+    "example_3_translation": "We use waste management in daily life."
+  },
+  {
+    "chunk_text": "protection de l'environnement",
+    "meaning": "environmental protection",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to conservation efforts",
+    "patterns": [
+      "La protection de l'environnement est une responsabilité collective.",
+      "Des lois strictes encadrent la protection de l'environnement."
+    ],
+    "collocates": [
+      "nature",
+      "écologie",
+      "loi",
+      "ressource"
+    ],
+    "level": "B2",
+    "example_1": "La protection de l'environnement est une responsabilité collective.",
+    "example_2": "Des lois strictes encadrent la protection de l'environnement.",
+    "example_3": "On utilise protection de l'environnement dans la vie quotidienne.",
+    "example_1_translation": "Environmental protection is a collective responsibility.",
+    "example_2_translation": "Strict laws govern environmental protection.",
+    "example_3_translation": "We use environmental protection in daily life."
+  },
+  {
+    "chunk_text": "ressources naturelles",
+    "meaning": "natural resources",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to Earth's resources",
+    "patterns": [
+      "Les ressources naturelles sont limitées.",
+      "Nous devons préserver les ressources naturelles pour les générations futures."
+    ],
+    "collocates": [
+      "eau",
+      "forêt",
+      "minéral",
+      "énergie"
+    ],
+    "level": "B2",
+    "example_1": "Les ressources naturelles sont limitées.",
+    "example_2": "Nous devons préserver les ressources naturelles pour les générations futures.",
+    "example_3": "On utilise ressources naturelles dans la vie quotidienne.",
+    "example_1_translation": "Natural resources are limited.",
+    "example_2_translation": "We must preserve natural resources for future generations.",
+    "example_3_translation": "We use natural resources in daily life."
+  },
+  {
+    "chunk_text": "réchauffement climatique",
+    "meaning": "global warming",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "discussing temperature increase",
+    "patterns": [
+      "Le réchauffement climatique menace les côtes.",
+      "Les scientifiques confirment le réchauffement climatique."
+    ],
+    "collocates": [
+      "température",
+      "glace",
+      "océan",
+      "climat"
+    ],
+    "level": "B2",
+    "example_1": "Le réchauffement climatique menace les côtes.",
+    "example_2": "Les scientifiques confirment le réchauffement climatique.",
+    "example_3": "On utilise réchauffement climatique dans la vie quotidienne.",
+    "example_1_translation": "Global warming threatens the coasts.",
+    "example_2_translation": "Scientists confirm global warming.",
+    "example_3_translation": "We use global warming in everyday life."
+  },
+  {
+    "chunk_text": "zone humide",
+    "meaning": "wetland",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to marshy areas",
+    "patterns": [
+      "Les zones humides abritent une faune riche.",
+      "Ce projet vise à protéger les zones humides."
+    ],
+    "collocates": [
+      "marais",
+      "biodiversité",
+      "oiseau",
+      "protection"
+    ],
+    "level": "B2",
+    "example_1": "Les zones humides abritent une faune riche.",
+    "example_2": "Ce projet vise à protéger les zones humides.",
+    "example_3": "On utilise zone humide dans la vie quotidienne.",
+    "example_1_translation": "Wetlands are home to rich wildlife.",
+    "example_2_translation": "This project aims to protect wetlands.",
+    "example_3_translation": "We use wetland in daily life."
+  },
+  {
+    "chunk_text": "déforestation",
+    "meaning": "deforestation",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "discussing forest loss",
+    "patterns": [
+      "La déforestation détruit des écosystèmes entiers.",
+      "La déforestation en Amazonie inquiète les scientifiques."
+    ],
+    "collocates": [
+      "forêt",
+      "arbre",
+      "climat",
+      "biodiversité"
+    ],
+    "level": "B2",
+    "example_1": "La déforestation détruit des écosystèmes entiers.",
+    "example_2": "La déforestation en Amazonie inquiète les scientifiques.",
+    "example_3": "On utilise déforestation dans la vie quotidienne.",
+    "example_1_translation": "Deforestation destroys entire ecosystems.",
+    "example_2_translation": "Deforestation in the Amazon worries scientists.",
+    "example_3_translation": "We use deforestation in everyday life."
+  },
+  {
+    "chunk_text": "émissions de CO2",
+    "meaning": "CO2 emissions",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "measuring carbon output",
+    "patterns": [
+      "Les émissions de CO2 ont augmenté cette année.",
+      "Nous visons à réduire nos émissions de CO2 de 50%."
+    ],
+    "collocates": [
+      "carbone",
+      "climat",
+      "industrie",
+      "transport"
+    ],
+    "level": "B2",
+    "example_1": "Les émissions de CO2 ont augmenté cette année.",
+    "example_2": "Nous visons à réduire nos émissions de CO2 de 50%.",
+    "example_3": "On utilise émissions de CO2 dans la vie quotidienne.",
+    "example_1_translation": "CO2 emissions have increased this year.",
+    "example_2_translation": "We aim to reduce our CO2 emissions by 50%.",
+    "example_3_translation": "We use CO2 emissions in daily life."
+  },
+  {
+    "chunk_text": "écosystème fragile",
+    "meaning": "fragile ecosystem",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing vulnerable environments",
+    "patterns": [
+      "Les récifs coralliens sont des écosystèmes fragiles.",
+      "Ce écosystème fragile nécessite une protection spéciale."
+    ],
+    "collocates": [
+      "corail",
+      "espèce",
+      "menace",
+      "protection"
+    ],
+    "level": "B2",
+    "example_1": "Les récifs coralliens sont des écosystèmes fragiles.",
+    "example_2": "Ce écosystème fragile nécessite une protection spéciale.",
+    "example_3": "On utilise écosystème fragile dans la vie quotidienne.",
+    "example_1_translation": "Coral reefs are fragile ecosystems.",
+    "example_2_translation": "This fragile ecosystem requires special protection.",
+    "example_3_translation": "We use fragile ecosystem in daily life."
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "diffuser sur les ondes",
+    "meaning": "to broadcast on the airwaves",
+    "primary_function": "expression",
+    "communicative_purpose": "radio or television broadcasting",
+    "patterns": [
+      "Le discours sera diffuslé sur les ondes nationales",
+      "Nous allons diffuser sur les ondes à 20 heures"
+    ],
+    "collocates": [
+      "radio",
+      "télévision",
+      "émission",
+      "média"
+    ],
+    "level": "B1",
+    "example_1": "Le discours sera diffuslé sur les ondes nationales",
+    "example_2": "Nous allons diffuser sur les ondes à 20 heures",
+    "example_3": "Je connais diffuser sur les ondes.",
+    "example_1_translation": "The speech will be broadcast on national airwaves",
+    "example_2_translation": "We will be broadcasting on the airwaves at 8 p.m.",
+    "example_3_translation": "I know how to broadcast on the airwaves."
+  },
+  {
+    "chunk_text": "faire les gros titres",
+    "meaning": "to make headlines",
+    "primary_function": "expression",
+    "communicative_purpose": "being prominently featured in news",
+    "patterns": [
+      "Le scandale a fait les gros titres de tous les journaux",
+      "Cette découverte scientifique fait les gros titres"
+    ],
+    "collocates": [
+      "journal",
+      "presse",
+      "actualités",
+      "头条"
+    ],
+    "level": "B1",
+    "example_1": "Le scandale a fait les gros titres de tous les journaux",
+    "example_2": "Cette découverte scientifique fait les gros titres",
+    "example_3": "Je connais faire les gros titres.",
+    "example_1_translation": "The scandal made headlines in all the newspapers",
+    "example_2_translation": "This scientific discovery is making headlines",
+    "example_3_translation": "I know how to make headlines."
+  },
+  {
+    "chunk_text": "prendre la parole",
+    "meaning": "to take the floor, to speak up",
+    "primary_function": "expression",
+    "communicative_purpose": "communicating or addressing an audience",
+    "patterns": [
+      "Le président prendra la parole ce soir",
+      "Elle a pris la parole en réunion pour défonder son projet"
+    ],
+    "collocates": [
+      "discours",
+      "micro",
+      "intervention",
+      "débat"
+    ],
+    "level": "A2",
+    "example_1": "Le président prendra la parole ce soir",
+    "example_2": "Elle a pris la parole en réunion pour défonder son projet",
+    "example_3": "On utilise prendre la parole dans la vie quotidienne.",
+    "example_1_translation": "The President will speak this evening",
+    "example_2_translation": "She spoke at a meeting to deny her project",
+    "example_3_translation": "We use speaking in everyday life."
+  },
+  {
+    "chunk_text": "coller à la réalité",
+    "meaning": "to reflect reality, to be true to life",
+    "primary_function": "expression",
+    "communicative_purpose": "accurately representing truth",
+    "patterns": [
+      "Cefilm colle à la réalité du terrain",
+      "Les statistiques collent à la réalité du chômage"
+    ],
+    "collocates": [
+      "vérité",
+      "authenticité",
+      "concrétion",
+      "vécu"
+    ],
+    "level": "B2",
+    "example_1": "Cefilm colle à la réalité du terrain",
+    "example_2": "Les statistiques collent à la réalité du chômage",
+    "example_3": "On utilise coller à la réalité dans la vie quotidienne.",
+    "example_1_translation": "This film sticks to the reality on the ground",
+    "example_2_translation": "The statistics match the reality of unemployment",
+    "example_3_translation": "We use sticking to reality in everyday life."
+  },
+  {
+    "chunk_text": "dénoncer au grand jour",
+    "meaning": "to expose publicly, to denounce in open",
+    "primary_function": "expression",
+    "communicative_purpose": "public exposure of wrongdoing",
+    "patterns": [
+      "Le lanceur d'alerte a dénoncer les pratiques au grand jour",
+      "Le député a choisi de dénoncer la corruption au grand jour"
+    ],
+    "collocates": [
+      "scandale",
+      "transparence",
+      "média",
+      "révélation"
+    ],
+    "level": "B2",
+    "example_1": "Le lanceur d'alerte a dénoncer les pratiques au grand jour",
+    "example_2": "Le député a choisi de dénoncer la corruption au grand jour",
+    "example_3": "On utilise dénoncer au grand jour dans la vie quotidienne.",
+    "example_1_translation": "The whistleblower denounced the practices in broad daylight",
+    "example_2_translation": "The MP chose to denounce corruption in broad daylight",
+    "example_3_translation": "We use denouncing in broad daylight in everyday life."
+  },
+  {
+    "chunk_text": "cibler un public",
+    "meaning": "to target an audience",
+    "primary_function": "expression",
+    "communicative_purpose": "directing message to specific demographic",
+    "patterns": [
+      "Cette campagne publicitaire cible un public jeune",
+      "Le réalisateur cible un public international avec son film"
+    ],
+    "collocates": [
+      "marketing",
+      "audience",
+      "démographique",
+      "spectateur"
+    ],
+    "level": "B2",
+    "example_1": "Cette campagne publicitaire cible un public jeune",
+    "example_2": "Le réalisateur cible un public international avec son film",
+    "example_3": "On utilise cibler un public dans la vie quotidienne.",
+    "example_1_translation": "This advertising campaign targets a young audience",
+    "example_2_translation": "The director targets an international audience with his film",
+    "example_3_translation": "We use targeting an audience in daily life."
+  },
+  {
+    "chunk_text": "donner de la voix",
+    "meaning": "to raise one's voice, to speak up",
+    "primary_function": "expression",
+    "communicative_purpose": "making oneself heard",
+    "patterns": [
+      "Les syndicats ont donné de la voix pour négocier",
+      "Il faut donner de la voix lors de cette réunion importante"
+    ],
+    "collocates": [
+      "expression",
+      "opinion",
+      "revendication",
+      "protestation"
+    ],
+    "level": "B2",
+    "example_1": "Les syndicats ont donné de la voix pour négocier",
+    "example_2": "Il faut donner de la voix lors de cette réunion importante",
+    "example_3": "On utilise donner de la voix dans la vie quotidienne.",
+    "example_1_translation": "Unions gave their voice to negotiate",
+    "example_2_translation": "We must speak out during this important meeting",
+    "example_3_translation": "We use giving voice in daily life."
+  },
+  {
+    "chunk_text": "filtrer l'information",
+    "meaning": "to filter information",
+    "primary_function": "expression",
+    "communicative_purpose": "controlling or vetting news flow",
+    "patterns": [
+      "Le gouvernement essaie de filtrer l'information en période électorale",
+      "Les réseaux sociaux ne filtrent pas suffisamment la désinformation"
+    ],
+    "collocates": [
+      "censure",
+      "média",
+      "contrôle",
+      "propagande"
+    ],
+    "level": "B2",
+    "example_1": "Le gouvernement essaie de filtrer l'information en période électorale",
+    "example_2": "Les réseaux sociaux ne filtrent pas suffisamment la désinformation",
+    "example_3": "On utilise filtrer l'information dans la vie quotidienne.",
+    "example_1_translation": "The government tries to filter information during election periods",
+    "example_2_translation": "Social networks do not sufficiently filter misinformation",
+    "example_3_translation": "We use filtering information in daily life."
+  },
+  {
+    "chunk_text": "avoir le dernier mot",
+    "meaning": "to have the last word",
+    "primary_function": "expression",
+    "communicative_purpose": "winning an argument or final decision",
+    "patterns": [
+      "C'est toujours lui qui a le dernier mot dans les debates",
+      "Le juge aura le dernier mot dans cette affaire"
+    ],
+    "collocates": [
+      "autorité",
+      "décision",
+      "conclusion",
+      "suprématie"
+    ],
+    "level": "B1",
+    "example_1": "C'est toujours lui qui a le dernier mot dans les debates",
+    "example_2": "Le juge aura le dernier mot dans cette affaire",
+    "example_3": "Je connais avoir le dernier mot.",
+    "example_1_translation": "He always has the last word in debates.",
+    "example_2_translation": "The judge will have the last word in this case",
+    "example_3_translation": "I know how to have the last word."
+  },
+  {
+    "chunk_text": "porter plainte",
+    "meaning": "to file a complaint, to sue",
+    "primary_function": "expression",
+    "communicative_purpose": "legal action initiation",
+    "patterns": [
+      "Les victimes ont décidé de porter plainte contre X",
+      "Il faut porter plainte auprès du commissariat"
+    ],
+    "collocates": [
+      "procédure",
+      "justice",
+      "avocat",
+      "tribunal"
+    ],
+    "level": "A2",
+    "example_1": "Les victimes ont décidé de porter plainte contre X",
+    "example_2": "Il faut porter plainte auprès du commissariat",
+    "example_3": "On utilise porter plainte dans la vie quotidienne.",
+    "example_1_translation": "The victims decided to file a complaint against",
+    "example_2_translation": "You must file a complaint with the police station.",
+    "example_3_translation": "We use filing a complaint in daily life."
+  },
+  {
+    "chunk_text": "faire couler beaucoup d'encre",
+    "meaning": "to cause a lot of ink to flow (generate controversy)",
+    "primary_function": "expression",
+    "communicative_purpose": "generating much discussion or debate",
+    "patterns": [
+      "Cette réforme a fait couler beaucoup d'encre",
+      "L'affaire a fait couler beaucoup d'encre dans la presse"
+    ],
+    "collocates": [
+      "polémique",
+      "débat",
+      "controversie",
+      "média"
+    ],
+    "level": "B2",
+    "example_1": "Cette réforme a fait couler beaucoup d'encre",
+    "example_2": "L'affaire a fait couler beaucoup d'encre dans la presse",
+    "example_3": "On utilise faire couler beaucoup d'encre dans la vie quotidienne.",
+    "example_1_translation": "This reform has caused a lot of ink to be spilled",
+    "example_2_translation": "The affair caused a lot of ink to flow in the press.",
+    "example_3_translation": "We use to flow a lot of ink in daily life."
+  },
+  {
+    "chunk_text": "susciter l'intérêt",
+    "meaning": "to arouse interest",
+    "primary_function": "expression",
+    "communicative_purpose": "generating curiosity or attention",
+    "patterns": [
+      "Ce projet ne suscite pas vraiment l'intérêt des investisseurs",
+      "L'exposition suscite un vif intérêt auprès du public"
+    ],
+    "collocates": [
+      "curiosité",
+      "attention",
+      "attrait",
+      "fascination"
+    ],
+    "level": "B1",
+    "example_1": "Ce projet ne suscite pas vraiment l'intérêt des investisseurs",
+    "example_2": "L'exposition suscite un vif intérêt auprès du public",
+    "example_3": "Je connais susciter l'intérêt.",
+    "example_1_translation": "This project does not really arouse the interest of investors",
+    "example_2_translation": "The exhibition arouses keen interest among the public",
+    "example_3_translation": "I know how to generate interest."
+  },
+  {
+    "chunk_text": "relayer une information",
+    "meaning": "to relay/share information",
+    "primary_function": "expression",
+    "communicative_purpose": "spreading news or messages",
+    "patterns": [
+      "Les réseaux sociaux permettent de relayer une information rapidement",
+      "Nous vous prions de relayer cette information à vos collègues"
+    ],
+    "collocates": [
+      "partage",
+      "diffusion",
+      "média",
+      "transmission"
+    ],
+    "level": "B1",
+    "example_1": "Les réseaux sociaux permettent de relayer une information rapidement",
+    "example_2": "Nous vous prions de relayer cette information à vos collègues",
+    "example_3": "Je connais relayer une information.",
+    "example_1_translation": "Social networks allow information to be relayed quickly",
+    "example_2_translation": "Please pass this information on to your colleagues.",
+    "example_3_translation": "I know how to relay information."
+  },
+  {
+    "chunk_text": "être à l'antenne",
+    "meaning": "to be on air",
+    "primary_function": "expression",
+    "communicative_purpose": "broadcasting status",
+    "patterns": [
+      "Le journal est à l'antenne depuis ce matin",
+      "Nous serons à l'antenne à 19 heures pour le direct"
+    ],
+    "collocates": [
+      "émission",
+      "radio",
+      "télévision",
+      "diffusion"
+    ],
+    "level": "B1",
+    "example_1": "Le journal est à l'antenne depuis ce matin",
+    "example_2": "Nous serons à l'antenne à 19 heures pour le direct",
+    "example_3": "Je connais être à l'antenne.",
+    "example_1_translation": "The newspaper has been on the air since this morning",
+    "example_2_translation": "We will be on air at 7 p.m. for live",
+    "example_3_translation": "I know being on air."
+  },
+  {
+    "chunk_text": "manier la plume",
+    "meaning": "to wield the pen, to write skillfully",
+    "primary_function": "expression",
+    "communicative_purpose": "skilled writing ability",
+    "patterns": [
+      "Ce journaliste sait manier la plume avec élégance",
+      "L'essayiste manie la plume comme une épée acérée"
+    ],
+    "collocates": [
+      "écriture",
+      "style",
+      "journalisme",
+      "littérature"
+    ],
+    "level": "C1",
+    "example_1": "Ce journaliste sait manier la plume avec élégance",
+    "example_2": "L'essayiste manie la plume comme une épée acérée",
+    "example_3": "Je connais manier la plume.",
+    "example_1_translation": "This journalist knows how to handle the pen with elegance",
+    "example_2_translation": "The essayist wields the pen like a sharp sword",
+    "example_3_translation": "I know how to use a pen."
+  }
+]

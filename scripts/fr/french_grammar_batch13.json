@@ -1,0 +1,373 @@
+[
+  {
+    "structure_label": "Quel/Quelle + nom! (exclamative with adjective)",
+    "core_meaning": "Expressing strong emotion about something using quel before noun",
+    "primary_communicative_fn": "Conveying surprise, admiration, or strong emotion about a quality or entity",
+    "when_to_use": "When reacting emotionally to a noun or its quality; when expressing admiration or surprise about something",
+    "pattern": "Quel(s)/Quelle(s) + nom + [adjectif]! → expression d'émotion",
+    "key_variations": [
+      "Quel beau temps!",
+      "Quelle belle surprise!",
+      "Quels beaux enfants vous avez!",
+      "Quelles bonnes nouvelles!"
+    ],
+    "essential_vocabulary_slots": "quel, quelle, quels, quelles, beau, belle, bon, surprise, enfant, nouvelle",
+    "common_learner_mistakes": [
+      "Forgetting to agree quel with noun: *« quel beaux » instead of « quels beaux »",
+      "Using adjective before quel: *« beaux quel temps »"
+    ],
+    "chunk_compatibility": "Exclamative chunks: *Quel courage!*, *Quelle journée!*, *Quels progrès!*",
+    "primary_function": "Expressing admiration or surprise about nouns and their qualities",
+    "key_forms": "Quel beau temps! Quelle belle surprise! Quels beaux enfants! Quelles bonnes nouvelles!",
+    "essential_vocabulary": "quel, quelle, quels, quelles, beau, belle, bon, surprise, enfant, nouvelle",
+    "why_it_matters": "Essential for expressing genuine reactions and emotions in French; builds emotional expressiveness needed in conversation",
+    "common_mistakes": "Forgetting gender/number agreement on quel; incorrect word order (adjective before quel)",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Que + subject-verb! (exclamative with verb fronting)",
+    "core_meaning": "Exclamation with que fronting the verb phrase for emphasis on action or state",
+    "primary_communicative_fn": "Emphasizing intensity or degree of an action or quality through fronted exclamation",
+    "when_to_use": "When expressing intense emotion about an action, state, or quality; when emphasizing how much/how greatly something is true",
+    "pattern": "Que + [sujet + verbe] + ! → emphase sur l'action ou l'état",
+    "key_variations": [
+      "Que j'ai faim!",
+      "Que tu es gentil!",
+      "Qu'il fait beau!",
+      "Que nous sommes contents!"
+    ],
+    "essential_vocabulary_slots": "que, sujet, verbe, faim, gentil, faire, beau, content",
+    "common_learner_mistakes": [
+      "Confusing que (exclamation) with qui/que (relative pronoun)",
+      "Forgetting the subject after que: *« Que fait beau! »"
+    ],
+    "chunk_compatibility": "Exclamative chunks: *Que c'est beau!*, *Que c'est cher!*, *Qu'il est gentil!*",
+    "primary_function": "Expressing intensity or degree of emotion about actions/states",
+    "key_forms": "Que j'ai faim! Que tu es gentil! Qu'il fait beau! Que nous sommes contents!",
+    "essential_vocabulary": "que, avoir, faim, être, gentil, faire, beau, content, tremper",
+    "why_it_matters": "Enables natural emotional expression; essential for fluent, expressive speech in daily French",
+    "common_mistakes": "Confusing exclamatory que with interrogative or relative que; omitting subject after que",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Comme + subject-verb! (exclamative with comme)",
+    "core_meaning": "Exclamation emphasizing degree with comme meaning 'how' or expressing comparison of intensity",
+    "primary_communicative_fn": "Expressing the degree or intensity of a quality, action, or state with emphasis on 'how much'",
+    "when_to_use": "When commenting on the degree or intensity of something; when expressing admiration for how much or how greatly something is true",
+    "pattern": "Comme + sujet + verbe + ! → souligner le degré d'une action ou qualité",
+    "key_variations": [
+      "Comme il fait beau!",
+      "Comme tu as grandi!",
+      "Comme nous sommes heureux!",
+      "Comme elle court vite!"
+    ],
+    "essential_vocabulary_slots": "comme, sujet, verbe, faire, beau, grandir, heureux, courir, vite",
+    "common_learner_mistakes": [
+      "Using « comment » instead of « comme »: *« comment il fait beau »",
+      "Incorrect subject placement after comme: *« Comme fait il beau »"
+    ],
+    "chunk_compatibility": "Exclamative chunks: *Comme c'est joli!*, *Comme tu as raison!*, *Comme nous sommes chanceux!*",
+    "primary_function": "Emphasizing degree or intensity; expressing How much or how greatly",
+    "key_forms": "Comme il fait beau! Comme tu as grandi! Comme nous sommes heureux! Comme elle court vite!",
+    "essential_vocabulary": "comme, faire, beau, avoir, grandir, être, heureux, courir, vite, joli",
+    "why_it_matters": "Natural conversational marker for expressing degree and admiration; essential for sounding native-like in casual speech",
+    "common_mistakes": "Confusing « comment » (how in questions) with « comme » (how in exclamations); wrong subject-verb placement",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Ce que... c'est... (cleft for emphasis)",
+    "core_meaning": "Cleft sentence emphasizing a quality or fact through restructuring to highlight what matters most",
+    "primary_communicative_fn": "Focusing and emphasizing a specific element of a sentence by moving it to the front with ce que/c'est",
+    "when_to_use": "When emphasizing what you like, want, or value most; when highlighting the most important part of a statement",
+    "pattern": "Ce que + [sujet/complément] + c'est + [élément en emphase]",
+    "key_variations": [
+      "Ce que j'aime, c'est le chocolat.",
+      "Ce qu'il fait beau, c'est formidable.",
+      "Ce que je veux, c'est partir.",
+      "Ce qui nous plaît, c'est votre courage."
+    ],
+    "essential_vocabulary_slots": "ce, que, c'est, aimer, chocolat, vouloir, partir, plaire, courage",
+    "common_learner_mistakes": [
+      "Omitting the second part (c'est): *« ce que j'aime » without continuation",
+      "Using « ce qui » when ce que is correct (and vice versa); subject/object confusion"
+    ],
+    "chunk_compatibility": "Cleft emphasis chunks: *Ce que je veux, c'est...*, *Ce qu'il faut, c'est...*, *Ce qui manque, c'est...*",
+    "primary_function": "Emphasizing and focusing particular elements of sentences",
+    "key_forms": "Ce que j'aime, c'est le chocolat. Ce qu'il faut, c'est du courage. Ce qui compte, c'est la santé.",
+    "essential_vocabulary": "ce, que, c'est, aimer, vouloir, falloir, compter, courage, santé, chocolat",
+    "why_it_matters": "Advanced structure for natural emphasis in French; allows sophisticated highlighting of key ideas",
+    "common_mistakes": "Mixing ce que/ce qui; incomplete cleft (missing c'est clause); subject/object pronoun confusion",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Qu'est-ce que...! (exclamative surprise about object)",
+    "core_meaning": "Exclamation expressing surprise, admiration, or strong emotion about a direct object or situation",
+    "primary_communicative_fn": "Expressing surprised or emphatic reaction to a direct object, action, or situation",
+    "when_to_use": "When reacting with surprise or strong emotion to something someone did or said; when emphasizing the intensity of an action",
+    "pattern": "Qu'est-ce que + sujet + verbe + ! → réaction exclamatory à un complément d'objet",
+    "key_variations": [
+      "Qu'est-ce que c'est beau!",
+      "Qu'est-ce que tu as mangé!",
+      "Qu'est-ce qu'elle a réussi!",
+      "Qu'est-ce que nous avons ri!"
+    ],
+    "essential_vocabulary_slots": "qu'est-ce que, sujet, verbe, beau, manger, réussir, rire, c'est",
+    "common_learner_mistakes": [
+      "Confusing interrogative and exclamative uses (same form, context differs)",
+      "Using « qu'est-ce qui » for direct object: should use « qu'est-ce que »"
+    ],
+    "chunk_compatibility": "Exclamative chunks: *Qu'est-ce que c'est beau!*, *Qu'est-ce que tu es brave!*, *Qu'est-ce qu'il a grandi!*",
+    "primary_function": "Expressing surprise or emphatic reaction to direct objects",
+    "key_forms": "Qu'est-ce que c'est beau! Qu'est-ce que tu es brave! Qu'est-ce qu'il a grandi!",
+    "essential_vocabulary": "qu'est-ce que, être, beau, brave, grandir, c'est, réussir, manger, rire",
+    "why_it_matters": "Natural exclamatory structure essential for expressing surprise and emphasis in conversational French",
+    "common_mistakes": "Mixing interrogative and exclamative contexts; confusing qu'est-ce que (object) with qu'est-ce qui (subject)",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Ah! + interjection expressions",
+    "core_meaning": "Simple exclamations using interjections (ah, oh, eh, hélas, merde) with punctuation to express emotion",
+    "primary_communicative_fn": "Expressing immediate emotional reactions, surprise, disappointment, or acknowledgment",
+    "when_to_use": "In casual conversation to express surprise, pleasure, disappointment, or to acknowledge understanding",
+    "pattern": "[Ah/Oh/Eh/Hélas/Merde] + [!/?] + (complément)?",
+    "key_variations": ["Ah, c'est bien!", "Oh là là!", "Eh bien, continuez!", "Hélas, non!", "Merde, j'ai oublié!"],
+    "essential_vocabulary_slots": "ah, oh, eh, hélas, merde, bien, là, zut, non, oublié",
+    "common_learner_mistakes": [
+      "Overusing interjections in formal writing (too colloquial)",
+      "Confusing meaning: « eh » is attention-getter, « oh » is surprise, « ah » is realization"
+    ],
+    "chunk_compatibility": "Interjection chunks: *Ah bon!*, *Oh là là!*, *Eh bien!*, *Hélas, non!*, *Merde!*",
+    "primary_function": "Expressing immediate emotional reactions and acknowledgments",
+    "key_forms": "Ah! Ah, c'est bien! Oh là là! Eh bien! Hélas, non! Merde!",
+    "essential_vocabulary": "ah, oh, eh, hélas, merde, zut, bon, flûte, non, oui",
+    "why_it_matters": "Essential for natural, spontaneous speech; adds authenticity and emotional depth to French conversation",
+    "common_mistakes": "Overusing in formal contexts; misinterpreting interjection meanings; incorrect punctuation after",
+    "level": "A1"
+  },
+  {
+    "structure_label": "Dire que... (exclamative of surprise at reality)",
+    "core_meaning": "Exclamation expressing surprise or strong reaction that something is (or isn't) the case",
+    "primary_communicative_fn": "Expressing surprise, disbelief, or emotional reaction to a situation or fact",
+    "when_to_use": "When reacting with surprise or dismay to something that has happened or a situation that exists",
+    "pattern": "Dire que + indicatif → souligner la surprise face à une réalité",
+    "key_variations": [
+      "Dire que j'ai cru que ça n'arriverait jamais!",
+      "Dire qu'il est déjà minuit!",
+      "Dire que nous étions si inquiets!",
+      "Dire que tu as réussi!"
+    ],
+    "essential_vocabulary_slots": "dire, que, croire, arriver, minuit, être, inquiet, réussir, jamais",
+    "common_learner_mistakes": [
+      "Using conditional instead of indicative: *« Dire que j'aurais... »",
+      "Confusing with « dire » as verb meaning 'to say' (to introduce speech)"
+    ],
+    "chunk_compatibility": "Exclamative chunks: *Dire que c'est déjà fini!*, *Dire qu'on ne s'en est pas rendu compte!*",
+    "primary_function": "Expressing surprise or strong emotion at an unexpected fact or situation",
+    "primary_function": "Expressing surprise or emotional reaction to surprising facts",
+    "key_forms": "Dire qu'il est déjà minuit! Dire que tu as réussi! Dire qu'on ne s'en est pas rendu compte!",
+    "essential_vocabulary": "dire, que, minuit, réussir, rendre compte, croire, arriver, inquiet, jamais",
+    "why_it_matters": "Authentic French expression of surprise and emotion; shows emotional engagement with ideas and events",
+    "common_mistakes": "Using wrong tense (conditional instead of indicative); confusing with speech verb dire",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Soudain que... (exclamative of sudden realization)",
+    "core_meaning": "Exclamation expressing sudden awareness or unexpected realization of something",
+    "primary_communicative_fn": "Expressing sudden surprise or realization that something has happened or is the case",
+    "when_to_use": "When suddenly realizing something or becoming aware of a changed situation",
+    "pattern": "Soudain que + indicatif → surprendre avec une réalisation soudaine",
+    "key_variations": [
+      "Soudain qu'il fait froid!",
+      "Soudain qu'elle est partie!",
+      "Soudain que tout a changé!",
+      "Soudain qu'on est déjà en mai!"
+    ],
+    "essential_vocabulary_slots": "soudain, que, faire, froid, partir, changer, être, mai, froid",
+    "common_learner_mistakes": [
+      "Confusing with concessive « encore que »",
+      "Using with future tense (soudain only works with present/past): *« Soudain qu'il fera... »"
+    ],
+    "chunk_compatibility": "Realization chunks: *Soudain qu'on n'a plus le temps!*, *Soudain qu'il fait nuit!*",
+    "primary_function": "Expressing sudden realization or awareness of a changed situation",
+    "key_forms": "Soudain qu'il fait froid! Soudain qu'elle est partie! Soudain que tout a changé!",
+    "essential_vocabulary": "soudain, que, faire, froid, partir, être, changer, mai, nuit, temps",
+    "why_it_matters": "Expresses natural conversational patterns of sudden awareness; authentic in narrative and spoken French",
+    "common_mistakes": "Using with future tense; confusing with concessive clauses; incorrect tense usage",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Un peu que...! (informal affirmative exclamation)",
+    "core_meaning": "Informal emphatic affirmative meaning 'and how!' or 'you bet!' expressing strong yes or certainty",
+    "primary_communicative_fn": "Expressing emphatic affirmation or certainty in response to a question in very colloquial speech",
+    "when_to_use": "In very casual, colloquial speech when affirming strongly or emphatically that something is true or will happen",
+    "pattern": "Un peu que + indicatif/conditionnel! → affirmation emphatique familière",
+    "key_variations": [
+      "Un peu que j'ai faim!",
+      "Un peu que ça fait mal!",
+      "Un peu que il va venir!",
+      "Un peu que j'étais content!"
+    ],
+    "essential_vocabulary_slots": "peu, que, avoir, faim, faire, mal, aller, venir, être, content",
+    "common_learner_mistakes": [
+      "Using in formal contexts: too colloquial and informal for standard French",
+      "Confusing with « un peu de » meaning 'some' (different structure entirely)"
+    ],
+    "chunk_compatibility": "Colloquial affirmation chunks: *Un peu que oui!*, *Un peu que tu vas voir!*",
+    "primary_function": "Emphatic affirmation in very informal, colloquial speech",
+    "key_forms": "Un peu que j'ai faim! Un peu que ça fait mal! Un peu que tu vas voir!",
+    "essential_vocabulary": "peu, que, avoir, faim, faire, mal, aller, venir, être, oui, content",
+    "why_it_matters": "Important for understanding and participating in very casual French conversation; shows register awareness",
+    "common_mistakes": "Using in formal contexts; confusing with « un peu de »; incorrect register",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Tant s'en faut que... (exclamative denial)",
+    "core_meaning": "Exclamation strongly denying something, meaning 'far from it!' or expressing emphatic negation",
+    "primary_communicative_fn": "Expressing emphatic negation or contradiction to a stated or implied idea",
+    "when_to_use": "When strongly denying a proposition or correcting a misunderstanding about the truth or extent of something",
+    "pattern": "Tant s'en faut que + subjonctif! → négation emphatique et formelle",
+    "key_variations": [
+      "Tant s'en faut que ce soit facile!",
+      "Tant s'en faut que je sois d'accord!",
+      "Tant s'en faut qu'il ait réussi!",
+      "Tant s'en faut que ce soit terminé!"
+    ],
+    "essential_vocabulary_slots": "tant, faut, que, être, facile, accord, réussir, terminer, sois",
+    "common_learner_mistakes": [
+      "Forgetting the subjunctive after tant s'en faut: *« Tant s'en faut qu'il est »",
+      "Confusing positive/negative context or scope of negation"
+    ],
+    "chunk_compatibility": "Emphatic negation chunks: *Tant s'en faut que j'accepte!*, *Tant s'en faut qu'on soit prêt!*",
+    "primary_function": "Expressing emphatic negation and strong contradiction",
+    "key_forms": "Tant s'en faut que ce soit facile! Tant s'en faut que je sois d'accord! Tant s'en faut qu'il soit venu!",
+    "essential_vocabulary": "tant, faut, que, être, facile, accord, réussir, terminer, subjonctif, venir",
+    "why_it_matters": "Formal, emphatic structure essential for sophisticated disagreement and contradiction in French",
+    "common_mistakes": "Forgetting subjunctive mood; incorrect scope of negation; confusion in literary vs. conversational contexts",
+    "level": "C1"
+  },
+  {
+    "structure_label": "Pas si... que... (exclamative comparison)",
+    "core_meaning": "Exclamation saying something is not as much or as great as one might think; de-emphasizing or downplaying",
+    "primary_communicative_fn": "Expressing that something is less extreme, difficult, or significant than it appears or might be thought",
+    "when_to_use": "When downplaying difficulty, importance, or degree of something; when moderating expectations",
+    "pattern": "Pas si + adjectif/adverbe + que + phrase/ça → minimiser ou relativiser",
+    "key_variations": [
+      "Pas si difficile que ça!",
+      "Pas si facile que vous croyez!",
+      "Pas si mal que ça!",
+      "Pas si vite que ça!"
+    ],
+    "essential_vocabulary_slots": "pas, si, difficile, facile, mal, vite, que, ça, croire",
+    "common_learner_mistakes": [
+      "Forgetting second « que »: *« pas si difficile » alone is adjective, not exclamative",
+      "Confusing with simple comparative (missing second element of comparison)"
+    ],
+    "chunk_compatibility": "De-emphasis chunks: *Pas si grave!*, *Pas si important que vous croyez!*",
+    "primary_function": "De-emphasizing difficulty, importance, or degree; moderating expectations",
+    "key_forms": "Pas si difficile que ça! Pas si facile que vous croyez! Pas si mal que ça!",
+    "essential_vocabulary": "pas, si, difficile, facile, mal, vite, que, ça, grave, important, croire",
+    "why_it_matters": "Essential for nuanced conversation; allows sophisticated downplaying and perspective-shifting in French",
+    "common_mistakes": "Missing second « que »; confusing with simple adjective; treating as pure comparative",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Voilà ce que... (exclamative pointing out)",
+    "core_meaning": "Exclamation pointing out something with emotional emphasis, often illustrating a consequence or example",
+    "primary_communicative_fn": "Pointing out examples or consequences with emotional emphasis and commentary",
+    "when_to_use": "When illustrating a point through example; when commenting on consequences of actions or situations",
+    "pattern": "Voilà ce que + [clause complète] + ! → pointer avec emphase émotionnelle",
+    "key_variations": [
+      "Voilà ce que c'est que de trop parler!",
+      "Voilà ce que j'appelle un bon repas!",
+      "Voilà ce que c'est la vie!",
+      "Voilà ce que peut accomplir la persévérance!"
+    ],
+    "essential_vocabulary_slots": "voilà, ce, que, c'est, parler, appeler, bon, repas, vie, persévérance",
+    "common_learner_mistakes": [
+      "Confusing with « voici » (proximity) vs « voilà » (distance/generality)",
+      "Using « voilà que » which has different meaning (expressing suddenness)"
+    ],
+    "chunk_compatibility": "Illustrative chunks: *Voilà ce que je veux dire!*, *Voilà ce que tu risques!*",
+    "primary_function": "Pointing out examples and consequences with emotional emphasis",
+    "key_forms": "Voilà ce que c'est que de trop parler! Voilà ce que j'appelle un bon repas!",
+    "essential_vocabulary": "voilà, ce, que, c'est, appeler, parler, repas, vie, persévérance, risquer",
+    "why_it_matters": "Natural way to illustrate points and comment on situations; essential for storytelling and explanation",
+    "common_mistakes": "Confusing voilà/voici distinction; mixing with voilà que structure; wrong emphasis",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Jarnicot! / Palsambleu! (archaic exclamations)",
+    "core_meaning": "Euphemistic oath expressions from older French literary tradition, now archaic or humorous",
+    "primary_communicative_fn": "Expressing strong emotion or surprise using archaic oaths; historically authentic in literature",
+    "when_to_use": "In literary contexts, historical fiction, or humorous/nostalgic speech; rarely in modern conversation",
+    "pattern": "[Jarnicot!/Palsambleu!/Parbleu!/Cordieu!] + [!/?] + (phrase)?",
+    "key_variations": [
+      "Jarnicot, quelle surprise!",
+      "Parbleu, c'est vrai!",
+      "Palsambleu, ça alors!",
+      "Cordieu, c'est magnifique!"
+    ],
+    "essential_vocabulary_slots": "jarnicot, palsambleu, parbleu, cordieu, surprise, vrai, magnifique, alors",
+    "common_learner_mistakes": [
+      "Using in modern context: these are archaic/humorous only",
+      "Not recognizing them as exclamations in literary texts; misinterpreting archaic swearing"
+    ],
+    "chunk_compatibility": "Literary/archaic chunks: *Parbleu!*, *Jarnicot!*, *Palsambleu, quelle affaire!*",
+    "primary_function": "Expressing surprise/emotion using archaic oaths; recognizing literary authenticity",
+    "key_forms": "Jarnicot! Palsambleu! Parbleu, c'est vrai! Cordieu, quel malheur!",
+    "essential_vocabulary": "jarnicot, palsambleu, parbleu, cordieu, zest, surprise, vrai, magnifique, malheur",
+    "why_it_matters": "Essential for understanding French literature and historical texts; shows cultural and literary awareness",
+    "common_mistakes": "Using in modern contexts; not recognizing as archaic; misinterpreting historical swearing",
+    "level": "C2"
+  },
+  {
+    "structure_label": "Fichtre! / Sapristi! (mild archaic exclamations)",
+    "core_meaning": "Mild archaic exclamations showing surprise, frustration, or mild annoyance; euphemisms for stronger swearing",
+    "primary_communicative_fn": "Expressing mild surprise, frustration, or annoyance using polite euphemistic oaths",
+    "when_to_use": "In literary texts, nostalgic or humorous speech; sometimes in deliberate retro or comic contexts",
+    "pattern": "[Fichtre!/Sapristi!/Flûte!/Zut!] + [!/?] + (phrase)?",
+    "key_variations": [
+      "Fichtre, c'est embêtant!",
+      "Sapristi, quel délai!",
+      "Flûte, j'ai oublié!",
+      "Zut, alors!"
+    ],
+    "essential_vocabulary_slots": "fichtre, sapristi, flûte, zut, embêtant, délai, oublier, alors",
+    "common_learner_mistakes": [
+      "Using in formal speech (too colloquial)",
+      "Not knowing these are euphemisms for stronger swearing; misinterpreting register"
+    ],
+    "chunk_compatibility": "Mild frustration chunks: *Fichtre!*, *Sapristi!*, *Flûte, j'ai perdu!*",
+    "primary_function": "Expressing mild frustration or surprise with polite euphemistic oaths",
+    "key_forms": "Fichtre! Sapristi! Flûte, j'ai oublié! Zut, alors!",
+    "essential_vocabulary": "fichtre, sapristi, flûte, zut, embêtant, délai, oublier, alors, diantre",
+    "why_it_matters": "Shows register awareness and understanding of euphemism in French; recognizable in literature and culture",
+    "common_mistakes": "Using in formal contexts; misunderstanding euphemistic nature; wrong register application",
+    "level": "C1"
+  },
+  {
+    "structure_label": "En veux-tu, en voilà (exclamative abundance)",
+    "core_meaning": "Expression meaning 'in abundance, as much as you want' or 'and plenty of it'; expressing plentiful supply",
+    "primary_communicative_fn": "Expressing abundance, plenty, or more than enough of something with emphatic casualness",
+    "when_to_use": "When describing something that exists in large quantities; when emphasizing abundance or availability",
+    "pattern": "[Nom] + , en veux-tu, en voilà → expression d'abondance",
+    "key_variations": [
+      "Il y avait en veux-tu, en voilà de bons restaurants.",
+      "Des conseils, en veux-tu, en voilà.",
+      "En veux-tu, en voilà des raisons de s'inquiéter!",
+      "Il y en a en veux-tu, en voilà!"
+    ],
+    "essential_vocabulary_slots": "veux, voilà, veux-tu, voilà, conseil, raison, restaurant, abondance",
+    "common_learner_mistakes": [
+      "Confusing with other expressions of quantity",
+      "Using as question: this is always exclamatory statement, never interrogative"
+    ],
+    "chunk_compatibility": "Abundance chunks: *En veux-tu, en voilà de problèmes!*, *Des raisons, en veux-tu, en voilà!*",
+    "primary_function": "Expressing abundance and plenty with emphatic casualness",
+    "key_forms": "Des conseils, en veux-tu, en voilà. En veux-tu, en voilà des raisons! Il y en a en veux-tu, en voilà!",
+    "essential_vocabulary": "veux, voilà, conseil, raison, restaurant, abondance, problème, s'inquiéter",
+    "why_it_matters": "Authentic French idiom for expressing abundance; essential for natural, idiomatic speech",
+    "common_mistakes": "Treating as interrogative; confusing with other quantity expressions; wrong word order",
+    "level": "C1"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "structure_label": "Pronoun order: me, te, se, nous, vous before other pronouns",
+    "core_meaning": "Reflexive and personal pronouns precede other pronoun objects in the verbal chain",
+    "primary_communicative_fn": "Establishing correct pronoun sequencing with personal pronouns first",
+    "when_to_use": "When using multiple pronouns with a verb, place me/te/se/nous/vous before other objects",
+    "pattern": "verbe + pronom1 + pronom2 (me/te/se/nous/vous + le/la/les/lui/leur/en/y)",
+    "key_variations": [
+      "Il me le donne (He gives it to me).",
+      "Elle te la montre (She shows it to you).",
+      "Nous vous l'avons dit (We told it to you).",
+      "Ils se les sont appropriés (They took them for themselves)."
+    ],
+    "essential_vocabulary_slots": "donner, montrer, dire, approprier, envoyer, prêter, offrir",
+    "common_learner_mistakes": [
+      "Placing direct object pronoun before reflexive: *« le me donne » instead of « il me le donne »",
+      "Reversing the order of personal and direct object pronouns",
+      "Treating all pronouns as equivalent in ordering"
+    ],
+    "chunk_compatibility": "Complex pronoun sequences in routine interactions",
+    "primary_function": "Establishing pronoun hierarchy and correct ordering rules",
+    "key_forms": "me/te/se/nous/vous + le/la/les/lui/leur/en/y",
+    "essential_vocabulary": "donner, montrer, dire, envoyer, prêter, offrir, vendre, apporter",
+    "why_it_matters": "Personal pronouns take precedence in pronoun chains—foundational ordering rule",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Pronoun order: double object pronouns (le/la/les before lui/leur)",
+    "core_meaning": "When both a direct (le/la/les) and indirect (lui/leur) object pronoun are used, direct object precedes indirect object",
+    "primary_communicative_fn": "Ordering direct and indirect object pronouns correctly",
+    "when_to_use": "When two pronouns represent object and recipient, place direct object first",
+    "pattern": "verbe + le/la/les + lui/leur",
+    "key_variations": [
+      "Je le lui donne (I give it to him).",
+      "Elle la leur a prêtée (She lent it to them).",
+      "Nous le leur avons expliqué (We explained it to them).",
+      "Ils la lui ont présentée (They introduced her to him)."
+    ],
+    "essential_vocabulary_slots": "donner, prêter, expliquer, présenter, montrer, envoyer, vendre",
+    "common_learner_mistakes": [
+      "Reversing the order: *« je lui le donne » instead of « je le lui donne »",
+      "Placing indirect object before direct object",
+      "Confusing COD/COI pronouns in complex structures"
+    ],
+    "chunk_compatibility": "Indirect and direct object pronoun chains in exchanges",
+    "primary_function": "Establishing correct direct-before-indirect pronoun ordering",
+    "key_forms": "le/la/les + lui/leur",
+    "essential_vocabulary": "donner, prêter, expliquer, présenter, montrer, envoyer, vendre, apporter",
+    "why_it_matters": "Direct object pronouns precede indirect in standard French ordering",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Pronoun order with « en » and « y »",
+    "core_meaning": "« En » and « y » occupy the final position in the pronoun chain",
+    "primary_communicative_fn": "Placing partitive and locative pronouns at chain's end",
+    "when_to_use": "When using en/y with other pronouns, always place them last",
+    "pattern": "verbe + me/te/se/nous/vous + le/la/les + lui/leur + en/y",
+    "key_variations": [
+      "Je m'en souviens (I remember it/that).",
+      "Elle s'y intéresse (She's interested in it).",
+      "Nous nous en doutions (We suspected it).",
+      "Ils s'y attendent (They expect it)."
+    ],
+    "essential_vocabulary_slots": "souvenir, intéresser, douter, attendre, parler, besoin, avoir",
+    "common_learner_mistakes": [
+      "Placing « en » before other pronouns: *« en me souviens » instead of « je m'en souviens »",
+      "Putting y or en before reflexive pronouns",
+      "Treating en/y as equivalent to other pronouns in ordering"
+    ],
+    "chunk_compatibility": "Partitive and locative references with pronoun chains",
+    "primary_function": "Establishing en/y as final pronouns in pronoun sequences",
+    "key_forms": "me/te/se/nous/vous/le/la/les/lui/leur + en/y",
+    "essential_vocabulary": "souvenir, intéresser, douter, attendre, parler, avoir, besoin, penser",
+    "why_it_matters": "En and y always conclude pronoun chains—their position never varies",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Pronoun order with affirmative command",
+    "core_meaning": "In affirmative imperative, pronouns follow the verb in the order: le/la/les → lui/leur → y → en",
+    "primary_communicative_fn": "Ordering pronouns after imperative verbs with postposition",
+    "when_to_use": "In affirmative commands, pronouns follow verb and are hyphenated",
+    "pattern": "Verbe + le/la/les + lui/leur + y + en (with hyphens)",
+    "key_variations": [
+      "Donne-le-moi (Give it to me).",
+      "Dis-leur-en (Tell them about it).",
+      "Prête-la-lui (Lend it to him).",
+      "Parle-lui-en (Talk to him about it)."
+    ],
+    "essential_vocabulary_slots": "donner, dire, prêter, parler, envoyer, montrer, apporter",
+    "common_learner_mistakes": [
+      "Using negative imperative order: *« donne-moi-le » instead of « donne-le-moi »",
+      "Forgetting hyphens between verb and pronouns",
+      "Placing pronouns before verb in affirmative commands"
+    ],
+    "chunk_compatibility": "Direct commands with multiple pronoun recipients",
+    "primary_function": "Establishing postposition pronoun ordering in imperatives",
+    "key_forms": "Verbe + direct object + indirect object + y + en (all hyphenated)",
+    "essential_vocabulary": "donner, dire, prêter, parler, envoyer, montrer, apporter, porter",
+    "why_it_matters": "Affirmative imperatives reverse normal pronoun order—follows verb",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pronoun order with negative command",
+    "core_meaning": "In negative imperative, pronouns precede the verb in the same order as with conjugated verbs",
+    "primary_communicative_fn": "Ordering pronouns before verbs in negative commands",
+    "when_to_use": "In negative commands, pronouns stay before verb, not after",
+    "pattern": "Ne + pronoun(s) + verbe + pas",
+    "key_variations": [
+      "Ne le lui donne pas (Don't give it to him).",
+      "Ne leur en parle pas (Don't talk to them about it).",
+      "Ne la lui prête pas (Don't lend it to him).",
+      "Ne m'en parle pas (Don't talk to me about it)."
+    ],
+    "essential_vocabulary_slots": "donner, parler, prêter, dire, montrer, envoyer, faire",
+    "common_learner_mistakes": [
+      "Using postposition order from affirmative imperatives: *« ne donne-le-pas »",
+      "Placing pronouns after verb in negative commands",
+      "Reversing pronoun order between positive and negative"
+    ],
+    "chunk_compatibility": "Negative instructions with multiple pronoun referents",
+    "primary_function": "Maintaining pronoun precedence in negative imperatives",
+    "key_forms": "Ne + pronouns + verbe + pas",
+    "essential_vocabulary": "donner, parler, prêter, dire, montrer, envoyer, faire, apporter",
+    "why_it_matters": "Negative imperatives keep standard pronoun positioning before verbs",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pronoun stacking order: comprehensive rule",
+    "core_meaning": "Full ordering: me/te/se/nous/vous (1) → le/la/les (2) → lui/leur (3) → y (4) → en (5)",
+    "primary_communicative_fn": "Establishing complete pronoun hierarchy for all chain positions",
+    "when_to_use": "When using multiple pronouns, follow strict ordering based on pronoun type",
+    "pattern": "verbe + [me/te/se/nous/vous] + [le/la/les] + [lui/leur] + [y] + [en]",
+    "key_variations": [
+      "Il me le lui donne (He gives it to him for me).",
+      "Elle nous la leur a envoyée (She sent it to them for us).",
+      "Je m'y intéresse depuis longtemps (I've been interested in it for a long time).",
+      "Ils s'en sont aperçus (They became aware of it)."
+    ],
+    "essential_vocabulary_slots": "donner, envoyer, intéresser, apercevoir, dire, montrer, offrir",
+    "common_learner_mistakes": [
+      "Incorrect ordering of pronoun types",
+      "Forgetting « s' » before « en »: *« il se en est aperçu » instead of « il s'en est aperçu »",
+      "Treating pronoun positions as flexible or interchangeable"
+    ],
+    "chunk_compatibility": "Complex pronoun stacking in multi-object interactions",
+    "primary_function": "Establishing complete pronoun ordering hierarchy (five-position rule)",
+    "key_forms": "[1] me/te/se/nous/vous → [2] le/la/les → [3] lui/leur → [4] y → [5] en",
+    "essential_vocabulary": "donner, envoyer, intéresser, apercevoir, dire, montrer, offrir, faire",
+    "why_it_matters": "Pronoun hierarchy is fixed—understanding all five positions prevents errors",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Pronoun order in passé composé with reflexive verb",
+    "core_meaning": "With reflexive verbs in passé composé, the past participle agrees with the direct object pronoun",
+    "primary_communicative_fn": "Managing past participle agreement in reflexive constructions",
+    "when_to_use": "With reflexive passé composé, agree past participle with the COD (often the reflexive pronoun)",
+    "pattern": "auxiliaire (être) + pronom réfléchi + autre pronom (si applicable) | participe passé accordé",
+    "key_variations": [
+      "Elle s'est levée (She got up - agrees with feminine 'elle').",
+      "Ils se sont regardés (They looked at each other - plural agreement).",
+      "Nous nous sommes habillés (We got dressed - plural agreement).",
+      "Je me suis habillée (I got dressed - feminine agreement)."
+    ],
+    "essential_vocabulary_slots": "lever, regarder, habiller, laver, réveiller, coucher, approcher",
+    "common_learner_mistakes": [
+      "Forgetting agreement: *« elle s'est levé » instead of « elle s'est levée »",
+      "Treating reflexive as passive instead of true reflexive",
+      "Not agreeing when reflexive pronoun is the direct object"
+    ],
+    "chunk_compatibility": "Reflexive routine actions in past tense with agreement requirements",
+    "primary_function": "Managing past participle agreement in reflexive passé composé",
+    "key_forms": "être + reflexive pronoun + past participle (agreed)",
+    "essential_vocabulary": "lever, regarder, habiller, laver, réveiller, coucher, approcher, souvenir",
+    "why_it_matters": "Reflexive passé composé always uses être and requires agreement",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Pronoun order with verbs followed by « à » (lui/leur)",
+    "core_meaning": "Verbs of giving, saying, and showing use lui/leur as indirect objects",
+    "primary_communicative_fn": "Using indirect object pronouns for dative verbs",
+    "when_to_use": "With verbs taking 'à', use lui/leur not stressed pronouns after preposition",
+    "pattern": "verbe + le/la/les + lui/leur",
+    "key_variations": [
+      "Je lui ai offert un cadeau (I offered him a gift).",
+      "Elle leur a écrit une lettre (She wrote them a letter).",
+      "Nous le leur avons démontré (We demonstrated it to them).",
+      "Ils la lui ont présentée (They introduced her to him)."
+    ],
+    "essential_vocabulary_slots": "offrir, écrire, démontrer, présenter, dire, donner, montrer",
+    "common_learner_mistakes": [
+      "Using stressed pronouns after preposition: *« j'ai donné à lui » instead of « je lui ai donné »",
+      "Confusing dative 'à' verbs with prepositions requiring stressed pronouns",
+      "Placing à + pronoun after the infinitif instead of using lui/leur"
+    ],
+    "chunk_compatibility": "Giving, showing, and telling actions with indirect recipients",
+    "primary_function": "Managing indirect object pronouns with dative verbs",
+    "key_forms": "lui/leur (not à lui/à elle/à eux/à elles)",
+    "essential_vocabulary": "offrir, écrire, dire, donner, montrer, envoyer, démontrer, présenter",
+    "why_it_matters": "Lui/leur replace à + pronoun in pronoun chains—critical distinction",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pronoun order with verbs followed by « de » (en)",
+    "core_meaning": "Verbs and expressions requiring « de » use en for quantities or topics",
+    "primary_communicative_fn": "Using partitive pronouns with verbs requiring de",
+    "when_to_use": "With verbs taking 'de', use en to replace quantities or partitive meanings",
+    "pattern": "verbe + (me/te/se/nous/vous) + en",
+    "key_variations": [
+      "J'en ai besoin (I need some of it).",
+      "Elle s'en souvient (She remembers it).",
+      "Nous lui en avons parlé (We talked to him about it).",
+      "Nous en avons discuté (We discussed it)."
+    ],
+    "essential_vocabulary_slots": "besoin, souvenir, parler, discuter, avoir, penser, avoir peur",
+    "common_learner_mistakes": [
+      "Omitting « en » with partitive verbs: *« j'ai besoin » without « en »",
+      "Confusing verb requirements for « de » vs « à »",
+      "Placing en before other pronouns in the chain"
+    ],
+    "chunk_compatibility": "Topic and quantity references with verbs requiring de",
+    "primary_function": "Using en for quantities and topics with de-verbs",
+    "key_forms": "en (final position in chains)",
+    "essential_vocabulary": "besoin, souvenir, parler, discuter, avoir, penser, avoir peur, être sûr",
+    "why_it_matters": "En replaces de + pronoun and takes final position in chains",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Stressed pronouns after prepositions (moi, toi, lui, elle, etc.)",
+    "core_meaning": "Prepositions require stressed pronoun forms when referring to people",
+    "primary_communicative_fn": "Using disjunctive pronouns after prepositions",
+    "when_to_use": "After all prepositions (pour, sans, chez, avec, etc.), use stressed pronouns",
+    "pattern": "préposition + [moi/toi/lui/elle/nous/vous/eux/elles]",
+    "key_variations": [
+      "C'est pour moi (It's for me).",
+      "Il est parti sans elle (He left without her).",
+      "Nous comptons sur eux (We count on them).",
+      "Elle discute avec vous (She discusses with you)."
+    ],
+    "essential_vocabulary_slots": "pour, sans, chez, avec, sur, entre, vers, derrière",
+    "common_learner_mistakes": [
+      "Using subject pronouns after prepositions: *« pour je » instead of « pour moi »",
+      "Using tonic pronouns as subjects: *« moi suis » instead of « je suis »",
+      "Confusing subject and stressed pronoun forms"
+    ],
+    "chunk_compatibility": "Location and companionship expressions with stressed pronouns",
+    "primary_function": "Using stressed pronouns after all prepositions",
+    "key_forms": "moi, toi, lui, elle, nous, vous, eux, elles",
+    "essential_vocabulary": "pour, sans, chez, avec, sur, entre, vers, derrière, avant, après",
+    "why_it_matters": "Stressed pronouns are obligatory after all prepositions—cannot use subject forms",
+    "level": "A1"
+  },
+  {
+    "structure_label": "Pronoun order with compound tenses and double pronouns",
+    "core_meaning": "In compound tenses, past participle agreements follow specific rules based on pronouns",
+    "primary_communicative_fn": "Managing past participle agreement with multiple pronouns",
+    "when_to_use": "Agree past participle when direct object pronoun precedes the verb",
+    "pattern": "avoir/être + pronom(s) + participe passé accordé selon le COD qui précède",
+    "key_variations": [
+      "Je l'ai vue (agrees with 'la' = vue).",
+      "Je lui ai parlé (no agreement, 'lui' is indirect object).",
+      "Nous les avons pris (agrees with 'les' = pris).",
+      "Elle s'est couchée (agrees with 'se' = elle)."
+    ],
+    "essential_vocabulary_slots": "voir, parler, prendre, coucher, lever, habiller, donner",
+    "common_learner_mistakes": [
+      "Over-agreeing with indirect objects: *« je lui ai parlée » instead of « je lui ai parlé »",
+      "Confusing COD (direct) and COI (indirect) for agreement purposes",
+      "Not agreeing when direct object precedes"
+    ],
+    "chunk_compatibility": "Past tense expressions with multiple pronoun dependencies",
+    "primary_function": "Managing agreement rules with direct and indirect object pronouns",
+    "key_forms": "Agreement only with direct objects that precede the verb",
+    "essential_vocabulary": "voir, parler, prendre, coucher, lever, habiller, donner, envoyer",
+    "why_it_matters": "Agreement rules differ for direct vs indirect objects—critical distinction",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pronoun order: « ce » as object pronoun",
+    "core_meaning": "« Ce » (that/it in impersonal contexts) is invariable, never agrees",
+    "primary_communicative_fn": "Using invariable ce pronoun for abstract references",
+    "when_to_use": "Use ce to refer to ideas, statements, or abstract concepts",
+    "pattern": "verbe + ce (+ autres pronoms si applicable)",
+    "key_variations": [
+      "C'est intéressant (That's interesting).",
+      "Je le crois (I believe it).",
+      "Elle l'a dit (She said it).",
+      "Nous le pensons (We think it)."
+    ],
+    "essential_vocabulary_slots": "être, croire, dire, penser, vouloir, savoir, comprendre",
+    "common_learner_mistakes": [
+      "Treating « ce » as variable: *« ces », « cet », etc. in pronoun position",
+      "Confusing « ce » with « se » in reflexive contexts",
+      "Attempting to agree ce with antecedent"
+    ],
+    "chunk_compatibility": "Abstract references and opinions with invariable pronouns",
+    "primary_function": "Using invariable ce for abstract and impersonal references",
+    "key_forms": "ce (invariable)",
+    "essential_vocabulary": "être, croire, dire, penser, vouloir, savoir, comprendre, trouver",
+    "why_it_matters": "Ce is always invariable—never changes for gender or number",
+    "level": "A2"
+  },
+  {
+    "structure_label": "Pronoun order with « faire » + infinitive (causative)",
+    "core_meaning": "In causative construction, pronouns replace the subject of infinitive (not the object)",
+    "primary_communicative_fn": "Ordering pronouns in causative faire structures",
+    "when_to_use": "When faire + infinitif, pronouns replace the subject being made to do something",
+    "pattern": "faire + [pronom objet du causatif] + infinitif (+ complément si applicable)",
+    "key_variations": [
+      "Je lui ai fait ranger sa chambre (I made him tidy his room).",
+      "Elle les a fait venir (She had them come).",
+      "Nous l'avons fait travailler dur (We made him work hard).",
+      "Ils l'ont fait construire (They had it built)."
+    ],
+    "essential_vocabulary_slots": "faire, ranger, venir, travailler, construire, partir, manger",
+    "common_learner_mistakes": [
+      "Confusing the causative subject with the object",
+      "Not following pronoun ordering rules in causative chains",
+      "Treating faire + infinitif as simple faire conjugation"
+    ],
+    "chunk_compatibility": "Causative expressions with delegated actions",
+    "primary_function": "Managing pronoun positioning in causative faire + infinitif",
+    "key_forms": "faire + pronoun (subject of infinitive) + infinitif",
+    "essential_vocabulary": "faire, ranger, venir, travailler, construire, partir, manger, apprendre",
+    "why_it_matters": "Causative faire requires special pronoun handling—subject becomes object",
+    "level": "B2"
+  },
+  {
+    "structure_label": "Pronoun order: « voir », « entendre », « sentir » + infinitive",
+    "core_meaning": "Verbs of perception with infinitive keep the same pronoun rules",
+    "primary_communicative_fn": "Ordering pronouns with perception verbs and infinitives",
+    "when_to_use": "With voir/entendre/sentir + infinitif, place pronouns before the perception verb",
+    "pattern": "verbe de perception + pronom objet + infinitif",
+    "key_variations": [
+      "Je la vois travailler (I see her working).",
+      "Nous les entendons chanter (We hear them singing).",
+      "Elle l'a sentie passer (She felt her pass by).",
+      "Il les a vus arriver (He saw them arrive)."
+    ],
+    "essential_vocabulary_slots": "voir, entendre, sentir, travailler, chanter, passer, arriver",
+    "common_learner_mistakes": [
+      "Not moving the noun object to pronoun position before infinitive",
+      "Confusing with causative « faire » construction",
+      "Placing pronouns after the infinitif instead of before verb"
+    ],
+    "chunk_compatibility": "Perception expressions with observed actions",
+    "primary_function": "Managing pronouns with perception verbs and infinitives",
+    "key_forms": "perception verb + pronoun + infinitif",
+    "essential_vocabulary": "voir, entendre, sentir, travailler, chanter, passer, arriver, tomber",
+    "why_it_matters": "Perception verbs follow standard pronoun ordering before the main verb",
+    "level": "B1"
+  },
+  {
+    "structure_label": "Pronoun order with multiple negation particles",
+    "core_meaning": "Negative adverbs (plus, jamais, rien) require special placement with pronouns",
+    "primary_communicative_fn": "Ordering pronouns in negative statements with adverbial negation",
+    "when_to_use": "In negations with plus/jamais/rien, pronouns precede the negative adverb",
+    "pattern": "ne + pronom(s) + [plus/jamais/rien] + verbe",
+    "key_variations": [
+      "Je ne m'y intéresse plus (I'm no longer interested in it).",
+      "Elle n'en a jamais parlé (She never talked about it).",
+      "Nous ne lui avons rien dit (We told him nothing).",
+      "Ils ne la voient plus (They no longer see her)."
+    ],
+    "essential_vocabulary_slots": "intéresser, parler, dire, voir, faire, entendre, croire",
+    "common_learner_mistakes": [
+      "Placing negative adverbs before pronouns: *« ne plus m'intéresse »",
+      "Forgetting first « ne » in standard negation",
+      "Confusing order of pronouns and negative particles"
+    ],
+    "chunk_compatibility": "Negative expressions with pronoun-dependent meanings",
+    "primary_function": "Positioning pronouns correctly in adverbial negations",
+    "key_forms": "ne + pronouns + plus/jamais/rien + verbe",
+    "essential_vocabulary": "intéresser, parler, dire, voir, faire, entendre, croire, penser",
+    "why_it_matters": "Negative adverbs come after pronouns but before verbs—specific ordering",
+    "level": "B2"
+  }
+]

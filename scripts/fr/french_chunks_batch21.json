@@ -1,0 +1,370 @@
+[
+  {
+    "chunk_text": "fêter dignement",
+    "meaning": "to celebrate properly, to commemorate fittingly",
+    "primary_function": "Making respectful celebrations",
+    "communicative_purpose": "celebration and commemoration",
+    "trigger_situations": "Anniversaries, commemorations, formal celebrations",
+    "contexts": "Family gatherings, official events, ceremonies",
+    "output_priority": "Both",
+    "frequency": "Medium",
+    "formulaicity": "Semi-fixed",
+    "construction_type": "Phrase",
+    "acquisition_priority": "Automatic production",
+    "pattern": "fêter + adverb (dignement, joyeusement)",
+    "core_structure": "fêter + adverbe + complément",
+    "substitution_slots": "Adverb can vary; complement can be event or occasion",
+    "typical_collocates": ["célébrer", "événement", "commémorer", "solemnel", "occasion", "anniversaire"],
+    "common_substitutions": "célébrer dignement, commémorer",
+    "variations": "fêter dignement, bien fêter",
+    "common_mistakes": "Using only fêter without adverb; confusing with célébrer",
+    "similar_contrasting": "faire la fête, célébrer",
+    "interference_warnings": "English learners may omit the adverb",
+    "nuance": "Dignement adds formal respect to celebration",
+    "pragmatic_effect": "Shows respect and appropriate ceremonial tone",
+    "recall_cue": "Respectful celebrations",
+    "spacing_tag": "Long-term",
+    "upgrade_path": "Commémorer solennellement",
+    "chunk_family": "fêter dignement, célébrer dignement",
+    "is_idiom": 0,
+    "level": "B1",
+    "example_1": "Il faut fêter dignement cet événement important.",
+    "example_2": "Nous avons fêté dignement nos vingt ans de mariage.",
+    "example_3": "Les traditions doivent être fêtées dignement.",
+    "example_1_translation": "We must celebrate this important event with dignity.",
+    "example_2_translation": "We celebrated our twenty years of marriage with dignity.",
+    "example_3_translation": "Traditions should be celebrated respectfully."
+  },
+  {
+    "chunk_text": "organiser une fête",
+    "meaning": "to organize a party",
+    "primary_function": "expression",
+    "communicative_purpose": "planning celebrations",
+    "patterns": [
+      "Ils ont organisé une fête surprise pour son anniversaire.",
+      "Nous allons organiser une fête pour le Nouvel An."
+    ],
+    "collocates": [
+      "anniversaire",
+      "surprise",
+      "événement",
+      "réception"
+    ],
+    "level": "A2",
+    "example_1": "Ils ont organisé une fête surprise pour son anniversaire.",
+    "example_2": "Nous allons organiser une fête pour le Nouvel An.",
+    "example_3": "On utilise organiser une fête dans la vie quotidienne.",
+    "example_1_translation": "They threw a surprise party for his birthday.",
+    "example_2_translation": "We are going to have a New Year's party.",
+    "example_3_translation": "We use organizing a party in everyday life."
+  },
+  {
+    "chunk_text": "être de retour",
+    "meaning": "to be back, to have returned",
+    "primary_function": "expression",
+    "communicative_purpose": "returning from events or places",
+    "patterns": [
+      "Je suis de retour de vacances.",
+      "Elle est de retour parmi nous après sa maladie."
+    ],
+    "collocates": [
+      "retour",
+      "rentrer",
+      "arriver",
+      "revenir"
+    ],
+    "level": "A2",
+    "example_1": "Je suis de retour de vacances.",
+    "example_2": "Elle est de retour parmi nous après sa maladie.",
+    "example_3": "On utilise être de retour dans la vie quotidienne.",
+    "example_1_translation": "I'm back from vacation.",
+    "example_2_translation": "She is back with us after her illness.",
+    "example_3_translation": "We use being back in everyday life."
+  },
+  {
+    "chunk_text": "se réunir en famille",
+    "meaning": "to gather as a family",
+    "primary_function": "expression",
+    "communicative_purpose": "family gatherings",
+    "patterns": [
+      "Nous nous réunissons en famille chaque Noël.",
+      "Ils se réunissent en famille pour les grandes occasions."
+    ],
+    "collocates": [
+      "famille",
+      "réunion",
+      "Noël",
+      "Pâques",
+      "dynastie"
+    ],
+    "level": "A2",
+    "example_1": "Nous nous réunissons en famille chaque Noël.",
+    "example_2": "Ils se réunissent en famille pour les grandes occasions.",
+    "example_3": "On utilise se réunir en famille dans la vie quotidienne.",
+    "example_1_translation": "We get together as a family every Christmas.",
+    "example_2_translation": "They gather as a family for special occasions.",
+    "example_3_translation": "We use getting together as a family in daily life."
+  },
+  {
+    "chunk_text": "offrir un cadeau",
+    "meaning": "to give a gift",
+    "primary_function": "expression",
+    "communicative_purpose": "gift-giving occasions",
+    "patterns": [
+      "Je vais offrir un cadeau à ma mère.",
+      "Ils ont offert des fleurs à l'invitée d'honneur."
+    ],
+    "collocates": [
+      "cadeau",
+      "present",
+      "offrir",
+      "donner",
+      "réception"
+    ],
+    "level": "A1",
+    "example_1": "Je vais offrir un cadeau à ma mère.",
+    "example_2": "Ils ont offert des fleurs à l'invitée d'honneur.",
+    "example_3": "Je connais offrir un cadeau.",
+    "example_1_translation": "I'm going to give my mother a gift.",
+    "example_2_translation": "They presented flowers to the guest of honor.",
+    "example_3_translation": "I know how to give a gift."
+  },
+  {
+    "chunk_text": "lever son verre à",
+    "meaning": "to raise one's glass to, to toast",
+    "primary_function": "expression",
+    "communicative_purpose": "toasting and making toasts",
+    "patterns": [
+      "Levons nos verres à la mariée!",
+      "Il a levé son verre à la réussite de tous."
+    ],
+    "collocates": [
+      "toast",
+      "santé",
+      "célébrer",
+      "verre",
+      " trinquer"
+    ],
+    "level": "B1",
+    "example_1": "Levons nos verres à la mariée!",
+    "example_2": "Il a levé son verre à la réussite de tous.",
+    "example_3": "Je connais lever son verre à.",
+    "example_1_translation": "Let's raise our glasses to the bride!",
+    "example_2_translation": "He raised his glass to everyone’s success.",
+    "example_3_translation": "I know how to raise a glass to."
+  },
+  {
+    "chunk_text": "donner rendez-vous",
+    "meaning": "to give an appointment, to arrange to meet",
+    "primary_function": "expression",
+    "communicative_purpose": "scheduling meetings",
+    "patterns": [
+      "Le médecin m'a donné rendez-vous pour demain.",
+      "Ils ont donné rendez-vous au café à midi."
+    ],
+    "collocates": [
+      "rdv",
+      "meeting",
+      "rencontrer",
+      "horaire",
+      "planifier"
+    ],
+    "level": "A2",
+    "example_1": "Le médecin m'a donné rendez-vous pour demain.",
+    "example_2": "Ils ont donné rendez-vous au café à midi.",
+    "example_3": "On utilise donner rendez-vous dans la vie quotidienne.",
+    "example_1_translation": "The doctor gave me an appointment for tomorrow.",
+    "example_2_translation": "They arranged to meet at the café at noon.",
+    "example_3_translation": "We use appointments in everyday life."
+  },
+  {
+    "chunk_text": "manquer une occasion",
+    "meaning": "to miss an opportunity",
+    "primary_function": "expression",
+    "communicative_purpose": "regretting missed events",
+    "patterns": [
+      "Nous n'allons pas manquer cette occasion.",
+      "Il a manqué une occasion en or."
+    ],
+    "collocates": [
+      "opportunité",
+      "échapper",
+      "regret",
+      "perdre"
+    ],
+    "level": "B1",
+    "example_1": "Nous n'allons pas manquer cette occasion.",
+    "example_2": "Il a manqué une occasion en or.",
+    "example_3": "Je connais manquer une occasion.",
+    "example_1_translation": "We are not going to miss this opportunity.",
+    "example_2_translation": "He missed a golden opportunity.",
+    "example_3_translation": "I know how to miss an opportunity."
+  },
+  {
+    "chunk_text": "célébrer une victoire",
+    "meaning": "to celebrate a victory",
+    "primary_function": "expression",
+    "communicative_purpose": "celebrating achievements",
+    "patterns": [
+      "La ville célèbre sa victoire historique.",
+      "Ils ont célébrer la victoire de leur équipe."
+    ],
+    "collocates": [
+      "victoire",
+      "triomphe",
+      "succès",
+      "gagner",
+      "trophée"
+    ],
+    "level": "A2",
+    "example_1": "La ville célèbre sa victoire historique.",
+    "example_2": "Ils ont célébrer la victoire de leur équipe.",
+    "example_3": "On utilise célébrer une victoire dans la vie quotidienne.",
+    "example_1_translation": "The city celebrates its historic victory.",
+    "example_2_translation": "They celebrated their team's victory.",
+    "example_3_translation": "We use celebrating a victory in everyday life."
+  },
+  {
+    "chunk_text": "inaugurer un bâtiment",
+    "meaning": "to inaugurate a building",
+    "primary_function": "expression",
+    "communicative_purpose": "official openings",
+    "patterns": [
+      "Le président va inaugurER le nouveau musée.",
+      "Le bâtiment a été inauguré en présence du maire."
+    ],
+    "collocates": [
+      "inauguration",
+      "officiel",
+      "bâtiment",
+      "discours",
+      "coupure"
+    ],
+    "level": "B2",
+    "example_1": "Le président va inaugurER le nouveau musée.",
+    "example_2": "Le bâtiment a été inauguré en présence du maire.",
+    "example_3": "On utilise inaugurer un bâtiment dans la vie quotidienne.",
+    "example_1_translation": "The president will inaugurate the new museum.",
+    "example_2_translation": "The building was inaugurated in the presence of the mayor.",
+    "example_3_translation": "We use to inaugurate a building in daily life."
+  },
+  {
+    "chunk_text": "participer à une cérémonie",
+    "meaning": "to participate in a ceremony",
+    "primary_function": "expression",
+    "communicative_purpose": "attending formal events",
+    "patterns": [
+      "De nombreux officiels ont participé à la cérémonie.",
+      "Elle a participé à la cérémonie de remise des diplômes."
+    ],
+    "collocates": [
+      "cérémonie",
+      "officiel",
+      "diplôme",
+      "mariage",
+      "funérailles"
+    ],
+    "level": "B1",
+    "example_1": "De nombreux officiels ont participé à la cérémonie.",
+    "example_2": "Elle a participé à la cérémonie de remise des diplômes.",
+    "example_3": "Je connais participer à une cérémonie.",
+    "example_1_translation": "Many officials participated in the ceremony.",
+    "example_2_translation": "She participated in the graduation ceremony.",
+    "example_3_translation": "I know how to participate in a ceremony."
+  },
+  {
+    "chunk_text": "faire la fête toute la nuit",
+    "meaning": "to party all night",
+    "primary_function": "expression",
+    "communicative_purpose": "describing extended celebrations",
+    "patterns": [
+      "Ils ont fait la fête toute la nuit.",
+      "On a fait la fête jusqu'à l'aube."
+    ],
+    "collocates": [
+      "fête",
+      "nuit",
+      "danser",
+      "musique",
+      "ambiance"
+    ],
+    "level": "A2",
+    "example_1": "Ils ont fait la fête toute la nuit.",
+    "example_2": "On a fait la fête jusqu'à l'aube.",
+    "example_3": "On utilise faire la fête toute la nuit dans la vie quotidienne.",
+    "example_1_translation": "They partied all night.",
+    "example_2_translation": "We partied until dawn.",
+    "example_3_translation": "We use partying all night in everyday life."
+  },
+  {
+    "chunk_text": "annuler un événement",
+    "meaning": "to cancel an event",
+    "primary_function": "expression",
+    "communicative_purpose": "event cancellation",
+    "patterns": [
+      "Le concert a été annulé à cause de la pluie.",
+      "Ils ont dû annuler la cérémonie."
+    ],
+    "collocates": [
+      "annulation",
+      "report",
+      "événement",
+      "cancellation",
+      "repousser"
+    ],
+    "level": "B1",
+    "example_1": "Le concert a été annulé à cause de la pluie.",
+    "example_2": "Ils ont dû annuler la cérémonie.",
+    "example_3": "Je connais annuler un événement.",
+    "example_1_translation": "The concert was canceled due to rain.",
+    "example_2_translation": "They had to cancel the ceremony.",
+    "example_3_translation": "I know how to cancel an event."
+  },
+  {
+    "chunk_text": "profiter d'une occasion",
+    "meaning": "to take advantage of an opportunity",
+    "primary_function": "expression",
+    "communicative_purpose": "seizing opportunities",
+    "patterns": [
+      "Il faut profiter de cette occasion unique.",
+      "Elle a su profiter de l'occasion pour voyager."
+    ],
+    "collocates": [
+      "opportunité",
+      "chance",
+      "saisir",
+      "exploiter"
+    ],
+    "level": "B1",
+    "example_1": "Il faut profiter de cette occasion unique.",
+    "example_2": "Elle a su profiter de l'occasion pour voyager.",
+    "example_3": "Je connais profiter d'une occasion.",
+    "example_1_translation": "We must take advantage of this unique opportunity.",
+    "example_2_translation": "She knew how to take advantage of the opportunity to travel.",
+    "example_3_translation": "I know how to take advantage of an opportunity."
+  },
+  {
+    "chunk_text": "assister à une réunion",
+    "meaning": "to attend a meeting",
+    "primary_function": "expression",
+    "communicative_purpose": "meeting attendance",
+    "patterns": [
+      "J'ai assisté à une réunion importante ce matin.",
+      "Beaucoup de gens ont assisté à la réunion."
+    ],
+    "collocates": [
+      "réunion",
+      "présence",
+      "participant",
+      "séance",
+      "conférence"
+    ],
+    "level": "A2",
+    "example_1": "J'ai assisté à une réunion importante ce matin.",
+    "example_2": "Beaucoup de gens ont assisté à la réunion.",
+    "example_3": "On utilise assister à une réunion dans la vie quotidienne.",
+    "example_1_translation": "I attended an important meeting this morning.",
+    "example_2_translation": "Many people attended the meeting.",
+    "example_3_translation": "We use attending a meeting in everyday life."
+  }
+]

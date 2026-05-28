@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "aller à l'église",
+    "meaning": "to go to church",
+    "primary_function": "expression",
+    "communicative_purpose": "religious practices",
+    "patterns": [
+      "Elle va à l'église chaque dimanche"
+    ],
+    "collocates": [
+      "messe",
+      "prière",
+      "foi"
+    ],
+    "level": "A2",
+    "example_1": "Elle va à l'église chaque dimanche",
+    "example_2": "Tu peux dire aller à l'église quand tu veux exprimer to go to church.",
+    "example_3": "On utilise aller à l'église dans la vie quotidienne.",
+    "example_1_translation": "She goes to church every Sunday",
+    "example_2_translation": "You can say go to church when you want to express to go to church.",
+    "example_3_translation": "We use going to church in daily life."
+  },
+  {
+    "chunk_text": "prier Dieu",
+    "meaning": "to pray to God",
+    "primary_function": "expression",
+    "communicative_purpose": "spiritual practices",
+    "patterns": [
+      "Ils prient Dieu pour la guérison"
+    ],
+    "collocates": [
+      "prière",
+      "esprit",
+      "croyance"
+    ],
+    "level": "A2",
+    "example_1": "Ils prient Dieu pour la guérison",
+    "example_2": "Tu peux dire prier Dieu quand tu veux exprimer to pray to God.",
+    "example_3": "On utilise prier Dieu dans la vie quotidienne.",
+    "example_1_translation": "They pray to God for healing",
+    "example_2_translation": "You can say pray to God when you mean to pray to God.",
+    "example_3_translation": "We use praying to God in daily life."
+  },
+  {
+    "chunk_text": "être catholique",
+    "meaning": "to be Catholic",
+    "primary_function": "expression",
+    "communicative_purpose": "religious identity",
+    "patterns": [
+      "La majorité de la population est catholique"
+    ],
+    "collocates": [
+      "chrétien",
+      "religion",
+      "croyance"
+    ],
+    "level": "A2",
+    "example_1": "La majorité de la population est catholique",
+    "example_2": "Tu peux dire être catholique quand tu veux exprimer to be Catholic.",
+    "example_3": "On utilise être catholique dans la vie quotidienne.",
+    "example_1_translation": "The majority of the population is Catholic",
+    "example_2_translation": "You can say being Catholic when you want to express to be Catholic.",
+    "example_3_translation": "We use being Catholic in daily life."
+  },
+  {
+    "chunk_text": "être croyant",
+    "meaning": "to be a believer",
+    "primary_function": "expression",
+    "communicative_purpose": "spiritual orientation",
+    "patterns": [
+      "Il est croyant malgré les épreuves"
+    ],
+    "collocates": [
+      "foi",
+      "esprit",
+      "religion"
+    ],
+    "level": "A2",
+    "example_1": "Il est croyant malgré les épreuves",
+    "example_2": "Tu peux dire être croyant quand tu veux exprimer to be a believer.",
+    "example_3": "On utilise être croyant dans la vie quotidienne.",
+    "example_1_translation": "He is a believer despite the trials",
+    "example_2_translation": "You can say be a believer when you want to express to be a believer.",
+    "example_3_translation": "We use being a believer in daily life."
+  },
+  {
+    "chunk_text": "fêter Noël",
+    "meaning": "to celebrate Christmas",
+    "primary_function": "expression",
+    "communicative_purpose": "religious holidays",
+    "patterns": [
+      "Les familles françaises fêtent Noël le 25 décembre"
+    ],
+    "collocates": [
+      "vacances",
+      "famille",
+      "réveillon"
+    ],
+    "level": "A2",
+    "example_1": "Les familles françaises fêtent Noël le 25 décembre",
+    "example_2": "Tu peux dire fêter Noël quand tu veux exprimer to celebrate Christmas.",
+    "example_3": "On utilise fêter Noël dans la vie quotidienne.",
+    "example_1_translation": "French families celebrate Christmas on December 25",
+    "example_2_translation": "You can say celebrate Christmas when you want to express to celebrate Christmas.",
+    "example_3_translation": "We use to celebrate Christmas in everyday life."
+  },
+  {
+    "chunk_text": "baptiser un enfant",
+    "meaning": "to baptize a child",
+    "primary_function": "expression",
+    "communicative_purpose": "religious ceremonies",
+    "patterns": [
+      "Ils vont faire baptiser leur enfant"
+    ],
+    "collocates": [
+      "cérémonie",
+      "premier",
+      "christianisme"
+    ],
+    "level": "A2",
+    "example_1": "Ils vont faire baptiser leur enfant",
+    "example_2": "Tu peux dire baptiser un enfant quand tu veux exprimer to baptize a child.",
+    "example_3": "On utilise baptiser un enfant dans la vie quotidienne.",
+    "example_1_translation": "They are going to have their child baptized",
+    "example_2_translation": "You can say baptize a child when you mean to baptize a child.",
+    "example_3_translation": "We use baptizing a child in daily life."
+  },
+  {
+    "chunk_text": "avoir la foi",
+    "meaning": "to have faith",
+    "primary_function": "expression",
+    "communicative_purpose": "spiritual belief",
+    "patterns": [
+      "Elle a la foi malgré les difficultés"
+    ],
+    "collocates": [
+      "croyance",
+      "espoir",
+      "Dieu"
+    ],
+    "level": "A2",
+    "example_1": "Elle a la foi malgré les difficultés",
+    "example_2": "Tu peux dire avoir la foi quand tu veux exprimer to have faith.",
+    "example_3": "On utilise avoir la foi dans la vie quotidienne.",
+    "example_1_translation": "She has faith despite the difficulties",
+    "example_2_translation": "You can say have faith when you want to express to have faith.",
+    "example_3_translation": "We use having faith in daily life."
+  },
+  {
+    "chunk_text": "suivre une religion",
+    "meaning": "to follow a religion",
+    "primary_function": "expression",
+    "communicative_purpose": "religious adherence",
+    "patterns": [
+      " Beaucoup de gens suivent l'islam en France"
+    ],
+    "collocates": [
+      "croyances",
+      "pratiques",
+      "spiritualité"
+    ],
+    "level": "A2",
+    "example_1": " Beaucoup de gens suivent l'islam en France",
+    "example_2": "Tu peux dire suivre une religion quand tu veux exprimer to follow a religion.",
+    "example_3": "On utilise suivre une religion dans la vie quotidienne.",
+    "example_1_translation": "Many people follow Islam in France",
+    "example_2_translation": "You can say follow a religion when you want to express to follow a religion.",
+    "example_3_translation": "We use following a religion in daily life."
+  },
+  {
+    "chunk_text": "respecter les traditions",
+    "meaning": "to respect traditions",
+    "primary_function": "expression",
+    "communicative_purpose": "cultural and religious practices",
+    "patterns": [
+      "Il faut respecter les traditions de chacun"
+    ],
+    "collocates": [
+      "coutumes",
+      "héritage",
+      "cérémonies"
+    ],
+    "level": "A2",
+    "example_1": "Il faut respecter les traditions de chacun",
+    "example_2": "Tu peux dire respecter les traditions quand tu veux exprimer to respect traditions.",
+    "example_3": "On utilise respecter les traditions dans la vie quotidienne.",
+    "example_1_translation": "Everyone's traditions must be respected.",
+    "example_2_translation": "You can say respect traditions when you want to express your respect traditions.",
+    "example_3_translation": "We use respecting traditions in daily life."
+  },
+  {
+    "chunk_text": "observer le Ramadan",
+    "meaning": "to observe Ramadan",
+    "primary_function": "expression",
+    "communicative_purpose": "Islamic practices",
+    "patterns": [
+      "Les musulmans observent le Ramadan pendant un mois"
+    ],
+    "collocates": [
+      "jeûne",
+      "prière",
+      "Islam"
+    ],
+    "level": "B1",
+    "example_1": "Les musulmans observent le Ramadan pendant un mois",
+    "example_2": "'observer le Ramadan' est une expression utile.",
+    "example_3": "Je connais observer le Ramadan.",
+    "example_1_translation": "Muslims observe Ramadan for a month",
+    "example_2_translation": "'observe Ramadan' is a useful expression.",
+    "example_3_translation": "I know how to observe Ramadan."
+  },
+  {
+    "chunk_text": "faire un pèlerinage",
+    "meaning": "to make a pilgrimage",
+    "primary_function": "expression",
+    "communicative_purpose": "religious journeys",
+    "patterns": [
+      "Les fidèles font un pèlerinage à Lourdes"
+    ],
+    "collocates": [
+      "sanctuaire",
+      "voyage",
+      "dévotion"
+    ],
+    "level": "B1",
+    "example_1": "Les fidèles font un pèlerinage à Lourdes",
+    "example_2": "'faire un pèlerinage' est une expression utile.",
+    "example_3": "Je connais faire un pèlerinage.",
+    "example_1_translation": "The faithful make a pilgrimage to Lourdes",
+    "example_2_translation": "'to make a pilgrimage' is a useful expression.",
+    "example_3_translation": "I know how to make a pilgrimage."
+  },
+  {
+    "chunk_text": "être agnostique",
+    "meaning": "to be agnostic",
+    "primary_function": "expression",
+    "communicative_purpose": "spiritual orientation",
+    "patterns": [
+      "Il est agnostique et doute de l'existence de Dieu"
+    ],
+    "collocates": [
+      "incroyance",
+      "doute",
+      "philosophie"
+    ],
+    "level": "B1",
+    "example_1": "Il est agnostique et doute de l'existence de Dieu",
+    "example_2": "'être agnostique' est une expression utile.",
+    "example_3": "Je connais être agnostique.",
+    "example_1_translation": "He is agnostic and doubts the existence of God",
+    "example_2_translation": "'being agnostic' is a useful phrase.",
+    "example_3_translation": "I know how to be agnostic."
+  },
+  {
+    "chunk_text": "célébrer une cérémonie religieuse",
+    "meaning": "to celebrate a religious ceremony",
+    "primary_function": "expression",
+    "communicative_purpose": "religious events",
+    "patterns": [
+      "La famille célèbre une cérémonie religieuse"
+    ],
+    "collocates": [
+      "mariage",
+      "funérailles",
+      "baptême"
+    ],
+    "level": "B1",
+    "example_1": "La famille célèbre une cérémonie religieuse",
+    "example_2": "'célébrer une cérémonie religieuse' est une expression utile.",
+    "example_3": "Je connais célébrer une cérémonie religieuse.",
+    "example_1_translation": "The family celebrates a religious ceremony",
+    "example_2_translation": "'celebrate a religious ceremony' is a useful expression.",
+    "example_3_translation": "I know how to perform a religious ceremony."
+  },
+  {
+    "chunk_text": "remettre en question la foi",
+    "meaning": "to question faith",
+    "primary_function": "expression",
+    "communicative_purpose": "spiritual doubt",
+    "patterns": [
+      "Beaucoup de gens remettent en question leur foi"
+    ],
+    "collocates": [
+      "doute",
+      "philosophie",
+      "existence"
+    ],
+    "level": "B2",
+    "example_1": "Beaucoup de gens remettent en question leur foi",
+    "example_2": "Tu peux dire remettre en question la foi quand tu veux exprimer to question faith.",
+    "example_3": "On utilise remettre en question la foi dans la vie quotidienne.",
+    "example_1_translation": "Many people question their faith",
+    "example_2_translation": "You can say question faith when you mean to express your question faith.",
+    "example_3_translation": "We use questioning faith in everyday life."
+  },
+  {
+    "chunk_text": "pratiquer régulièrement",
+    "meaning": "to practice regularly",
+    "primary_function": "expression",
+    "communicative_purpose": "religious observance",
+    "patterns": [
+      "Elle pratique régulièrement sa religion"
+    ],
+    "collocates": [
+      "engagement",
+      "dévotion",
+      "rituel"
+    ],
+    "level": "B1",
+    "example_1": "Elle pratique régulièrement sa religion",
+    "example_2": "'pratiquer régulièrement' est une expression utile.",
+    "example_3": "Je connais pratiquer régulièrement.",
+    "example_1_translation": "She practices her religion regularly",
+    "example_2_translation": "'practice regularly' is a useful phrase.",
+    "example_3_translation": "I know how to practice regularly."
+  }
+]

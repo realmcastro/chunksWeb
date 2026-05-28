@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "faire les courses",
+    "meaning": "to go grocery shopping",
+    "primary_function": "expression",
+    "communicative_purpose": "describing grocery shopping",
+    "patterns": [
+      "Je fais les courses le samedi.",
+      "Nous avons fait les courses pour le dîner."
+    ],
+    "collocates": [
+      "courses",
+      "épicerie",
+      "marché",
+      "achats",
+      "alimentation"
+    ],
+    "level": "A1",
+    "example_1": "Je fais les courses le samedi.",
+    "example_2": "Nous avons fait les courses pour le dîner.",
+    "example_3": "Je connais faire les courses.",
+    "example_1_translation": "I go shopping on Saturday.",
+    "example_2_translation": "We shopped for dinner.",
+    "example_3_translation": "I know how to shop."
+  },
+  {
+    "chunk_text": "acheter en ligne",
+    "meaning": "to buy online",
+    "primary_function": "expression",
+    "communicative_purpose": "describing online shopping",
+    "patterns": [
+      "J'achète tout en ligne maintenant.",
+      "Acheter en ligne est très pratique."
+    ],
+    "collocates": [
+      "ligne",
+      "internet",
+      "e-commerce",
+      "commande",
+      "livraison"
+    ],
+    "level": "A2",
+    "example_1": "J'achète tout en ligne maintenant.",
+    "example_2": "Acheter en ligne est très pratique.",
+    "example_3": "On utilise acheter en ligne dans la vie quotidienne.",
+    "example_1_translation": "I buy everything online now.",
+    "example_2_translation": "Buying online is very convenient.",
+    "example_3_translation": "We use shopping online in everyday life."
+  },
+  {
+    "chunk_text": "un centre commercial",
+    "meaning": "a shopping mall",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to shopping centers",
+    "patterns": [
+      "Allons au centre commercial.",
+      "Le centre commercial est ouvert jusqu'à 21h."
+    ],
+    "collocates": [
+      "commercial",
+      "magasin",
+      "boutique",
+      "mall",
+      "achats"
+    ],
+    "level": "A1",
+    "example_1": "Allons au centre commercial.",
+    "example_2": "Le centre commercial est ouvert jusqu'à 21h.",
+    "example_3": "Je connais un centre commercial.",
+    "example_1_translation": "Let's go to the mall.",
+    "example_2_translation": "The shopping center is open until 9 p.m.",
+    "example_3_translation": "I know a shopping center."
+  },
+  {
+    "chunk_text": "faire des économies",
+    "meaning": "to save money",
+    "primary_function": "expression",
+    "communicative_purpose": "describing saving money",
+    "patterns": [
+      "Je fais des économies pour les vacances.",
+      "Il faut faire des économies."
+    ],
+    "collocates": [
+      "économies",
+      "épargner",
+      "argent",
+      "budget",
+      "épargne"
+    ],
+    "level": "A2",
+    "example_1": "Je fais des économies pour les vacances.",
+    "example_2": "Il faut faire des économies.",
+    "example_3": "On utilise faire des économies dans la vie quotidienne.",
+    "example_1_translation": "I'm saving money for the holidays.",
+    "example_2_translation": "You have to save money.",
+    "example_3_translation": "We use it to save money in daily life."
+  },
+  {
+    "chunk_text": "être en solde",
+    "meaning": "to be on sale",
+    "primary_function": "expression",
+    "communicative_purpose": "describing discounted items",
+    "patterns": [
+      "Ces vêtements sont en solde.",
+      "Le magasin est en solde jusqu'à vendredi."
+    ],
+    "collocates": [
+      "solde",
+      "réduction",
+      "promotion",
+      "discount",
+      "prix"
+    ],
+    "level": "A2",
+    "example_1": "Ces vêtements sont en solde.",
+    "example_2": "Le magasin est en solde jusqu'à vendredi.",
+    "example_3": "On utilise être en solde dans la vie quotidienne.",
+    "example_1_translation": "These clothes are on sale.",
+    "example_2_translation": "The store is on sale until Friday.",
+    "example_3_translation": "We use being on sale in everyday life."
+  },
+  {
+    "chunk_text": "payer en espèces",
+    "meaning": "to pay in cash",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cash payment",
+    "patterns": [
+      "Je préfère payer en espèces.",
+      "Le commerçant accepte les paiements en espèces."
+    ],
+    "collocates": [
+      "espèces",
+      "liquide",
+      "argent",
+      "cash",
+      "paiement"
+    ],
+    "level": "A2",
+    "example_1": "Je préfère payer en espèces.",
+    "example_2": "Le commerçant accepte les paiements en espèces.",
+    "example_3": "On utilise payer en espèces dans la vie quotidienne.",
+    "example_1_translation": "I prefer to pay in cash.",
+    "example_2_translation": "The merchant accepts cash payments.",
+    "example_3_translation": "We use cash to pay in everyday life."
+  },
+  {
+    "chunk_text": "acheter à crédit",
+    "meaning": "to buy on credit",
+    "primary_function": "expression",
+    "communicative_purpose": "describing credit purchases",
+    "patterns": [
+      "J'ai acheté cette voiture à crédit.",
+      "Acheter à crédit peut être dangereux."
+    ],
+    "collocates": [
+      "crédit",
+      "emprunt",
+      "financement",
+      "versement",
+      "taux"
+    ],
+    "level": "A2",
+    "example_1": "J'ai acheté cette voiture à crédit.",
+    "example_2": "Acheter à crédit peut être dangereux.",
+    "example_3": "On utilise acheter à crédit dans la vie quotidienne.",
+    "example_1_translation": "I bought this car on credit.",
+    "example_2_translation": "Buying on credit can be dangerous.",
+    "example_3_translation": "We use buying on credit in everyday life."
+  },
+  {
+    "chunk_text": "faire la queue",
+    "meaning": "to queue, to stand in line",
+    "primary_function": "expression",
+    "communicative_purpose": "describing waiting in line",
+    "patterns": [
+      "Il faut faire la queue pour entrer.",
+      "Nous avons fait la queue pendant une heure."
+    ],
+    "collocates": [
+      "queue",
+      "attente",
+      "file",
+      "patienter",
+      "ranger"
+    ],
+    "level": "A2",
+    "example_1": "Il faut faire la queue pour entrer.",
+    "example_2": "Nous avons fait la queue pendant une heure.",
+    "example_3": "On utilise faire la queue dans la vie quotidienne.",
+    "example_1_translation": "You have to queue to enter.",
+    "example_2_translation": "We waited in line for an hour.",
+    "example_3_translation": "We use queue in everyday life."
+  },
+  {
+    "chunk_text": "être cher",
+    "meaning": "to be expensive",
+    "primary_function": "expression",
+    "communicative_purpose": "describing prices",
+    "patterns": [
+      "Ce restaurant est vraiment cher.",
+      "Les houses sont trop chères ici."
+    ],
+    "collocates": [
+      "cher",
+      "coûteux",
+      "prix",
+      "onéreux",
+      "fortune"
+    ],
+    "level": "A1",
+    "example_1": "Ce restaurant est vraiment cher.",
+    "example_2": "Les houses sont trop chères ici.",
+    "example_3": "Je connais être cher.",
+    "example_1_translation": "This restaurant is really expensive.",
+    "example_2_translation": "The houses are too expensive here.",
+    "example_3_translation": "I know to be dear."
+  },
+  {
+    "chunk_text": "être bon marché",
+    "meaning": "to be cheap/inexpensive",
+    "primary_function": "expression",
+    "communicative_purpose": "describing low prices",
+    "patterns": [
+      "Ce quartier propose des produits bon marché.",
+      "Les légumes sont bon marché au marché."
+    ],
+    "collocates": [
+      "bon marché",
+      "pas cher",
+      "économique",
+      "abordable",
+      "discount"
+    ],
+    "level": "A2",
+    "example_1": "Ce quartier propose des produits bon marché.",
+    "example_2": "Les légumes sont bon marché au marché.",
+    "example_3": "On utilise être bon marché dans la vie quotidienne.",
+    "example_1_translation": "This neighborhood offers inexpensive products.",
+    "example_2_translation": "Vegetables are cheap at the market.",
+    "example_3_translation": "We use to be cheap in daily life."
+  },
+  {
+    "chunk_text": "le prix de vente",
+    "meaning": "the selling price",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to sale price",
+    "patterns": [
+      "Quel est le prix de vente?",
+      "Le prix de vente a augmenté."
+    ],
+    "collocates": [
+      "prix",
+      "vente",
+      "marché",
+      "offre",
+      "demande"
+    ],
+    "level": "A2",
+    "example_1": "Quel est le prix de vente?",
+    "example_2": "Le prix de vente a augmenté.",
+    "example_3": "On utilise le prix de vente dans la vie quotidienne.",
+    "example_1_translation": "What is the sale price?",
+    "example_2_translation": "The selling price has increased.",
+    "example_3_translation": "We use the sale price in everyday life."
+  },
+  {
+    "chunk_text": "faire des achats",
+    "meaning": "to make purchases",
+    "primary_function": "expression",
+    "communicative_purpose": "describing shopping activity",
+    "patterns": [
+      "J'ai fait des achats importants.",
+      "Les achats en ligne sont pratiques."
+    ],
+    "collocates": [
+      "achats",
+      "shopping",
+      "dépenses",
+      "acquisition",
+      "courses"
+    ],
+    "level": "A2",
+    "example_1": "J'ai fait des achats importants.",
+    "example_2": "Les achats en ligne sont pratiques.",
+    "example_3": "On utilise faire des achats dans la vie quotidienne.",
+    "example_1_translation": "I made some major purchases.",
+    "example_2_translation": "Online shopping is convenient.",
+    "example_3_translation": "We use it to make purchases in daily life."
+  },
+  {
+    "chunk_text": "dans le罐",
+    "meaning": "in the store/on sale",
+    "primary_function": "expression",
+    "communicative_purpose": "referring to items in store",
+    "patterns": [
+      "Ces produits sont dans le罐.",
+      "Le nouveau modèle arrive dans le罐."
+    ],
+    "collocates": [
+      "罐",
+      "magasin",
+      "stock",
+      "available",
+      " rayonnage"
+    ],
+    "level": "B1",
+    "example_1": "Ces produits sont dans le罐.",
+    "example_2": "Le nouveau modèle arrive dans le罐.",
+    "example_3": "Je connais dans le罐.",
+    "example_1_translation": "These products are in the 罐.",
+    "example_2_translation": "The new model arrives in the 罐.",
+    "example_3_translation": "I know in the 罐."
+  },
+  {
+    "chunk_text": "rembourser",
+    "meaning": "to reimburse, to refund",
+    "primary_function": "verb",
+    "communicative_purpose": "describing refund process",
+    "patterns": [
+      "Je voudrais être remboursé.",
+      "Le magasin rembourse sous 30 jours."
+    ],
+    "collocates": [
+      "rembourser",
+      "remboursement",
+      "retour",
+      "argent",
+      "droit"
+    ],
+    "level": "B1",
+    "example_1": "Je voudrais être remboursé.",
+    "example_2": "Le magasin rembourse sous 30 jours.",
+    "example_3": "Je connais rembourser.",
+    "example_1_translation": "I would like to be reimbursed.",
+    "example_2_translation": "The store refunds within 30 days.",
+    "example_3_translation": "I know how to repay."
+  },
+  {
+    "chunk_text": "un commerçant",
+    "meaning": "a merchant/tradesperson",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to shopkeeper",
+    "patterns": [
+      "Le commerçant est très agréable.",
+      "Les commerçants du marché sont sympas."
+    ],
+    "collocates": [
+      "commerçant",
+      "marchand",
+      "boutiquier",
+      "vendeur",
+      "magasin"
+    ],
+    "level": "A2",
+    "example_1": "Le commerçant est très agréable.",
+    "example_2": "Les commerçants du marché sont sympas.",
+    "example_3": "On utilise un commerçant dans la vie quotidienne.",
+    "example_1_translation": "The shopkeeper is very pleasant.",
+    "example_2_translation": "The market traders are friendly.",
+    "example_3_translation": "We use a trader in daily life."
+  }
+]

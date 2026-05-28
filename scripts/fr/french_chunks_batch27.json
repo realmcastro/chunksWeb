@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "porter une robe",
+    "meaning": "to wear a dress",
+    "primary_function": "expression",
+    "communicative_purpose": "describing clothing choices",
+    "patterns": [
+      "Elle porte une robe élégante.",
+      "Je vais porter une robe pour le mariage."
+    ],
+    "collocates": [
+      "robe",
+      "tenue",
+      "vêtements",
+      "habit",
+      "port"
+    ],
+    "level": "A1",
+    "example_1": "Elle porte une robe élégante.",
+    "example_2": "Je vais porter une robe pour le mariage.",
+    "example_3": "Je connais porter une robe.",
+    "example_1_translation": "She is wearing an elegant dress.",
+    "example_2_translation": "I'm going to wear a dress to the wedding.",
+    "example_3_translation": "I know how to wear a dress."
+  },
+  {
+    "chunk_text": "une paire de chaussures",
+    "meaning": "a pair of shoes",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to footwear",
+    "patterns": [
+      "J'ai besoin d'une nouvelle paire de chaussures.",
+      "C'est une belle paire de chaussures!"
+    ],
+    "collocates": [
+      "chaussures",
+      "bottines",
+      "sandales",
+      "talons",
+      "basket"
+    ],
+    "level": "A1",
+    "example_1": "J'ai besoin d'une nouvelle paire de chaussures.",
+    "example_2": "C'est une belle paire de chaussures!",
+    "example_3": "Je connais une paire de chaussures.",
+    "example_1_translation": "I need a new pair of shoes.",
+    "example_2_translation": "This is a beautiful pair of shoes!",
+    "example_3_translation": "I know a pair of shoes."
+  },
+  {
+    "chunk_text": "être habillé en noir",
+    "meaning": "to be dressed in black",
+    "primary_function": "expression",
+    "communicative_purpose": "describing clothing color",
+    "patterns": [
+      "Il est toujours habillé en noir.",
+      "Elles sont habillées en noir pour le deuil."
+    ],
+    "collocates": [
+      "noir",
+      "tenue",
+      "couleur",
+      "vêtements",
+      "noirceur"
+    ],
+    "level": "A2",
+    "example_1": "Il est toujours habillé en noir.",
+    "example_2": "Elles sont habillées en noir pour le deuil.",
+    "example_3": "On utilise être habillé en noir dans la vie quotidienne.",
+    "example_1_translation": "He always wears black.",
+    "example_2_translation": "They are dressed in black for mourning.",
+    "example_3_translation": "We use being dressed in black in everyday life."
+  },
+  {
+    "chunk_text": "porter un costume",
+    "meaning": "to wear a suit",
+    "primary_function": "expression",
+    "communicative_purpose": "describing formal attire",
+    "patterns": [
+      "Il porte un costume pour le travail.",
+      "Au mariage, il portait un costume gris."
+    ],
+    "collocates": [
+      "costume",
+      "veste",
+      "cravate",
+      "chemisier",
+      "tailleur"
+    ],
+    "level": "A2",
+    "example_1": "Il porte un costume pour le travail.",
+    "example_2": "Au mariage, il portait un costume gris.",
+    "example_3": "On utilise porter un costume dans la vie quotidienne.",
+    "example_1_translation": "He wears a suit for work.",
+    "example_2_translation": "At the wedding he wore a gray suit.",
+    "example_3_translation": "We use wearing a suit in daily life."
+  },
+  {
+    "chunk_text": "faire les soldes",
+    "meaning": "to go shopping during sales",
+    "primary_function": "expression",
+    "communicative_purpose": "shopping during sales periods",
+    "patterns": [
+      "Nous allons faire les soldes ce week-end.",
+      "Les soldes commencent demain."
+    ],
+    "collocates": [
+      "soldes",
+      "réductions",
+      "promotions",
+      "achats",
+      "magasins"
+    ],
+    "level": "A2",
+    "example_1": "Nous allons faire les soldes ce week-end.",
+    "example_2": "Les soldes commencent demain.",
+    "example_3": "On utilise faire les soldes dans la vie quotidienne.",
+    "example_1_translation": "We are going to have sales this weekend.",
+    "example_2_translation": "The sales start tomorrow.",
+    "example_3_translation": "We use sales in everyday life."
+  },
+  {
+    "chunk_text": "une boutique de mode",
+    "meaning": "a fashion boutique",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to fashion clothing",
+    "patterns": [
+      "Elle a ouvert sa propre boutique de mode.",
+      "Cette boutique de mode est très élégante."
+    ],
+    "collocates": [
+      "mode",
+      "vêtements",
+      "tendance",
+      "créateur",
+      "luxe"
+    ],
+    "level": "A2",
+    "example_1": "Elle a ouvert sa propre boutique de mode.",
+    "example_2": "Cette boutique de mode est très élégante.",
+    "example_3": "On utilise une boutique de mode dans la vie quotidienne.",
+    "example_1_translation": "She opened her own fashion boutique.",
+    "example_2_translation": "This fashion boutique is very elegant.",
+    "example_3_translation": "We use a fashion store in daily life."
+  },
+  {
+    "chunk_text": "porter des lunettes de soleil",
+    "meaning": "to wear sunglasses",
+    "primary_function": "expression",
+    "communicative_purpose": "describing sunglasses use",
+    "patterns": [
+      "Il porte des lunettes de soleil toute la journée.",
+      "En été, je porte mes lunettes de soleil."
+    ],
+    "collocates": [
+      "lunettes",
+      "soleil",
+      "rayures",
+      "protéger",
+      "visage"
+    ],
+    "level": "A1",
+    "example_1": "Il porte des lunettes de soleil toute la journée.",
+    "example_2": "En été, je porte mes lunettes de soleil.",
+    "example_3": "Je connais porter des lunettes de soleil.",
+    "example_1_translation": "He wears sunglasses all day.",
+    "example_2_translation": "In summer, I wear my sunglasses.",
+    "example_3_translation": "I know how to wear sunglasses."
+  },
+  {
+    "chunk_text": "une veste en cuir",
+    "meaning": "a leather jacket",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing specific clothing item",
+    "patterns": [
+      "Il porte une veste en cuir.",
+      "J'adore cette veste en cuir."
+    ],
+    "collocates": [
+      "veste",
+      "cuir",
+      "manteau",
+      "blouson",
+      "cuir"
+    ],
+    "level": "A2",
+    "example_1": "Il porte une veste en cuir.",
+    "example_2": "J'adore cette veste en cuir.",
+    "example_3": "On utilise une veste en cuir dans la vie quotidienne.",
+    "example_1_translation": "He wears a leather jacket.",
+    "example_2_translation": "I love this leather jacket.",
+    "example_3_translation": "We use a leather jacket in everyday life."
+  },
+  {
+    "chunk_text": "être à la mode",
+    "meaning": "to be fashionable",
+    "primary_function": "expression",
+    "communicative_purpose": "describing current fashion trends",
+    "patterns": [
+      "Cette marque est à la mode.",
+      "Ce style n'est plus à la mode."
+    ],
+    "collocates": [
+      "mode",
+      "tendance",
+      "style",
+      "actuel",
+      "élégant"
+    ],
+    "level": "A2",
+    "example_1": "Cette marque est à la mode.",
+    "example_2": "Ce style n'est plus à la mode.",
+    "example_3": "On utilise être à la mode dans la vie quotidienne.",
+    "example_1_translation": "This brand is fashionable.",
+    "example_2_translation": "This style is no longer fashionable.",
+    "example_3_translation": "We use being fashionable in everyday life."
+  },
+  {
+    "chunk_text": "porter un pulls",
+    "meaning": "to wear a sweater",
+    "primary_function": "expression",
+    "communicative_purpose": "describing knitwear",
+    "patterns": [
+      "Elle porte un pulls en laine.",
+      "Je porte un pulls quand il fait froid."
+    ],
+    "collocates": [
+      "pulls",
+      "laine",
+      "tricot",
+      "chandail",
+      "chaud"
+    ],
+    "level": "A1",
+    "example_1": "Elle porte un pulls en laine.",
+    "example_2": "Je porte un pulls quand il fait froid.",
+    "example_3": "Je connais porter un pulls.",
+    "example_1_translation": "She is wearing a wool sweater.",
+    "example_2_translation": "I wear sweaters when it's cold.",
+    "example_3_translation": "I know how to wear a sweater."
+  },
+  {
+    "chunk_text": "une robe de soirée",
+    "meaning": "an evening dress",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing formal evening wear",
+    "patterns": [
+      "Elle porte une robe de soirée magnifique.",
+      "Pour la soirée, il faut une robe de soirée."
+    ],
+    "collocates": [
+      "robe",
+      "soirée",
+      "élégante",
+      "grande occasion",
+      "tenue"
+    ],
+    "level": "A2",
+    "example_1": "Elle porte une robe de soirée magnifique.",
+    "example_2": "Pour la soirée, il faut une robe de soirée.",
+    "example_3": "On utilise une robe de soirée dans la vie quotidienne.",
+    "example_1_translation": "She is wearing a beautiful evening dress.",
+    "example_2_translation": "For the evening, you need an evening dress.",
+    "example_3_translation": "We use an evening dress in daily life."
+  },
+  {
+    "chunk_text": "changer de tenue",
+    "meaning": "to change clothes",
+    "primary_function": "expression",
+    "communicative_purpose": "describing clothing change",
+    "patterns": [
+      "Je dois changer de tenue avant la fête.",
+      "Elle change de tenue plusieurs fois par jour."
+    ],
+    "collocates": [
+      "tenue",
+      "vêtements",
+      "habit",
+      "changement",
+      "habiller"
+    ],
+    "level": "A2",
+    "example_1": "Je dois changer de tenue avant la fête.",
+    "example_2": "Elle change de tenue plusieurs fois par jour.",
+    "example_3": "On utilise changer de tenue dans la vie quotidienne.",
+    "example_1_translation": "I have to change my outfit before the party.",
+    "example_2_translation": "She changes her outfit several times a day.",
+    "example_3_translation": "We use changing outfits in daily life."
+  },
+  {
+    "chunk_text": "porter un jean",
+    "meaning": "to wear jeans",
+    "primary_function": "expression",
+    "communicative_purpose": "describing casual pants",
+    "patterns": [
+      "Je porte un jean tous les jours.",
+      "Il portait un jean et un t-shirt."
+    ],
+    "collocates": [
+      "jean",
+      "pantalon",
+      "casual",
+      "décontracté",
+      "denim"
+    ],
+    "level": "A1",
+    "example_1": "Je porte un jean tous les jours.",
+    "example_2": "Il portait un jean et un t-shirt.",
+    "example_3": "Je connais porter un jean.",
+    "example_1_translation": "I wear jeans every day.",
+    "example_2_translation": "He was wearing jeans and a t-shirt.",
+    "example_3_translation": "I know how to wear jeans."
+  },
+  {
+    "chunk_text": "une collection de moda",
+    "meaning": "a fashion collection",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing designer collections",
+    "patterns": [
+      "La nouvelle collection de moda est sortie.",
+      "Cette collection de moda a été présentée à Paris."
+    ],
+    "collocates": [
+      "collection",
+      "mode",
+      "créateur",
+      "défilé",
+      "saison"
+    ],
+    "level": "B1",
+    "example_1": "La nouvelle collection de moda est sortie.",
+    "example_2": "Cette collection de moda a été présentée à Paris.",
+    "example_3": "Je connais une collection de moda.",
+    "example_1_translation": "The new fashion collection is out.",
+    "example_2_translation": "This fashion collection was presented in Paris.",
+    "example_3_translation": "I know a moda collection."
+  },
+  {
+    "chunk_text": "porter un accessoire",
+    "meaning": "to wear an accessory",
+    "primary_function": "expression",
+    "communicative_purpose": "describing fashion accessories",
+    "patterns": [
+      "Elle porte toujours des accessoires.",
+      "Ce sac est un bel accessoire."
+    ],
+    "collocates": [
+      "accessoire",
+      "sac",
+      "bijou",
+      "écharpe",
+      "montre"
+    ],
+    "level": "A2",
+    "example_1": "Elle porte toujours des accessoires.",
+    "example_2": "Ce sac est un bel accessoire.",
+    "example_3": "On utilise porter un accessoire dans la vie quotidienne.",
+    "example_1_translation": "She always wears accessories.",
+    "example_2_translation": "This bag is a beautiful accessory.",
+    "example_3_translation": "We use wearing an accessory in daily life."
+  }
+]

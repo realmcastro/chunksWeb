@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "faire la vaisselle",
+    "meaning": "to wash dishes",
+    "primary_function": "verbal expression",
+    "communicative_purpose": "household chore communication",
+    "patterns": [
+      "Je fais la vaisselle après le dîner.",
+      "Tu peux faire la vaisselle s'il te plaît?"
+    ],
+    "collocates": [
+      "cuisine",
+      "eau",
+      "savon",
+      "propre"
+    ],
+    "level": "B2",
+    "example_1": "Je fais la vaisselle après le dîner.",
+    "example_2": "Tu peux faire la vaisselle s'il te plaît?",
+    "example_3": "On utilise faire la vaisselle dans la vie quotidienne.",
+    "example_1_translation": "I wash the dishes after dinner.",
+    "example_2_translation": "Can you do the dishes please?",
+    "example_3_translation": "We use washing dishes in everyday life."
+  },
+  {
+    "chunk_text": "cuisiner un repas",
+    "meaning": "to cook a meal",
+    "primary_function": "verbal expression",
+    "communicative_purpose": "food preparation discussion",
+    "patterns": [
+      "Elle aime cuisiner des repas sains.",
+      "Nous avons cuisiner un repas gastronomique pour nos invités."
+    ],
+    "collocates": [
+      "recette",
+      "ingrédient",
+      "cuisine",
+      "chef"
+    ],
+    "level": "B2",
+    "example_1": "Elle aime cuisiner des repas sains.",
+    "example_2": "Nous avons cuisiner un repas gastronomique pour nos invités.",
+    "example_3": "On utilise cuisiner un repas dans la vie quotidienne.",
+    "example_1_translation": "She enjoys cooking healthy meals.",
+    "example_2_translation": "We cooked a gourmet meal for our guests.",
+    "example_3_translation": "We use cooking a meal in everyday life."
+  },
+  {
+    "chunk_text": "réserver une table",
+    "meaning": "to book a table",
+    "primary_function": "verbal expression",
+    "communicative_purpose": "restaurant arrangements",
+    "patterns": [
+      "J'ai réservé une table pour deux personnes.",
+      "Pouvez-vous réserver une table pour ce soir?"
+    ],
+    "collocates": [
+      "restaurant",
+      "place",
+      "réservation",
+      "soir"
+    ],
+    "level": "B2",
+    "example_1": "J'ai réservé une table pour deux personnes.",
+    "example_2": "Pouvez-vous réserver une table pour ce soir?",
+    "example_3": "On utilise réserver une table dans la vie quotidienne.",
+    "example_1_translation": "I reserved a table for two people.",
+    "example_2_translation": "Can you reserve a table for tonight?",
+    "example_3_translation": "We use to reserve a table in everyday life."
+  },
+  {
+    "chunk_text": "carte des vins",
+    "meaning": "wine list",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "restaurant dining context",
+    "patterns": [
+      "La carte des vins propose un excellent choix.",
+      "Le serveur nous a présenté la carte des vins."
+    ],
+    "collocates": [
+      "vin",
+      "restaurant",
+      "sommelier",
+      "choix"
+    ],
+    "level": "B2",
+    "example_1": "La carte des vins propose un excellent choix.",
+    "example_2": "Le serveur nous a présenté la carte des vins.",
+    "example_3": "On utilise carte des vins dans la vie quotidienne.",
+    "example_1_translation": "The wine list offers an excellent choice.",
+    "example_2_translation": "The waiter presented us with the wine list.",
+    "example_3_translation": "We use wine list in daily life."
+  },
+  {
+    "chunk_text": "entrée principale",
+    "meaning": "main course",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing meal structure",
+    "patterns": [
+      "Pour l'entrée principale, nous avons choisi le poulet.",
+      "L'entrée principale est servie avec des légumes frais."
+    ],
+    "collocates": [
+      "plat",
+      "menu",
+      "cuisine",
+      "servir"
+    ],
+    "level": "B2",
+    "example_1": "Pour l'entrée principale, nous avons choisi le poulet.",
+    "example_2": "L'entrée principale est servie avec des légumes frais.",
+    "example_3": "On utilise entrée principale dans la vie quotidienne.",
+    "example_1_translation": "For the main starter we chose the chicken.",
+    "example_2_translation": "The main starter is served with fresh vegetables.",
+    "example_3_translation": "We use main entrance in daily life."
+  },
+  {
+    "chunk_text": "faire les courses",
+    "meaning": "to do the shopping",
+    "primary_function": "verbal expression",
+    "communicative_purpose": "grocery shopping discussion",
+    "patterns": [
+      "Je fais les courses au marché le samedi.",
+      "Il faut faire les courses pour le dîner de demain."
+    ],
+    "collocates": [
+      "marché",
+      "épicerie",
+      "alimentaire",
+      "panier"
+    ],
+    "level": "B2",
+    "example_1": "Je fais les courses au marché le samedi.",
+    "example_2": "Il faut faire les courses pour le dîner de demain.",
+    "example_3": "On utilise faire les courses dans la vie quotidienne.",
+    "example_1_translation": "I shop at the market on Saturdays.",
+    "example_2_translation": "We have to go shopping for dinner tomorrow.",
+    "example_3_translation": "We use shopping in everyday life."
+  },
+  {
+    "chunk_text": "coupe de champagne",
+    "meaning": "champagne flute",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "specific dining terminology",
+    "patterns": [
+      "Il a levé sa coupe de champagne pour porter un toast.",
+      "Une coupe de champagne, s'il vous plaît."
+    ],
+    "collocates": [
+      "champagne",
+      "toast",
+      "célébration",
+      "verre"
+    ],
+    "level": "B2",
+    "example_1": "Il a levé sa coupe de champagne pour porter un toast.",
+    "example_2": "Une coupe de champagne, s'il vous plaît.",
+    "example_3": "On utilise coupe de champagne dans la vie quotidienne.",
+    "example_1_translation": "He raised his glass of champagne in a toast.",
+    "example_2_translation": "A glass of champagne, please.",
+    "example_3_translation": "We use a glass of champagne in everyday life."
+  },
+  {
+    "chunk_text": "pain grillé",
+    "meaning": "toasted bread",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "breakfast and dining context",
+    "patterns": [
+      "Je prends mon petit-déjeuner avec du pain grillé.",
+      "Le pain grillé accompagne parfaitement les œufs."
+    ],
+    "collocates": [
+      "petit-déjeuner",
+      "t grille-pain",
+      "beurre",
+      "confiture"
+    ],
+    "level": "B2",
+    "example_1": "Je prends mon petit-déjeuner avec du pain grillé.",
+    "example_2": "Le pain grillé accompagne parfaitement les œufs.",
+    "example_3": "On utilise pain grillé dans la vie quotidienne.",
+    "example_1_translation": "I have breakfast with toast.",
+    "example_2_translation": "Toast is the perfect accompaniment to eggs.",
+    "example_3_translation": "We use toast in daily life."
+  },
+  {
+    "chunk_text": "au restaurant",
+    "meaning": "at the restaurant",
+    "primary_function": "prepositional phrase",
+    "communicative_purpose": "locating dining activity",
+    "patterns": [
+      "Nous avons dîné au restaurant italien.",
+      "Au restaurant, le service est compris."
+    ],
+    "collocates": [
+      "dîner",
+      "service",
+      "addition",
+      "serveur"
+    ],
+    "level": "B2",
+    "example_1": "Nous avons dîné au restaurant italien.",
+    "example_2": "Au restaurant, le service est compris.",
+    "example_3": "On utilise au restaurant dans la vie quotidienne.",
+    "example_1_translation": "We had dinner at the Italian restaurant.",
+    "example_2_translation": "In the restaurant, service is included.",
+    "example_3_translation": "We use it in restaurants in everyday life."
+  },
+  {
+    "chunk_text": "servir à table",
+    "meaning": "to serve at table",
+    "primary_function": "verbal expression",
+    "communicative_purpose": "dining preparation",
+    "patterns": [
+      "Elle sert à table avec élégance.",
+      "Le repas sera servi à table dans quelques minutes."
+    ],
+    "collocates": [
+      "plat",
+      "repas",
+      "service",
+      "cuisine"
+    ],
+    "level": "B2",
+    "example_1": "Elle sert à table avec élégance.",
+    "example_2": "Le repas sera servi à table dans quelques minutes.",
+    "example_3": "On utilise servir à table dans la vie quotidienne.",
+    "example_1_translation": "She serves at the table with elegance.",
+    "example_2_translation": "The meal will be served at the table in a few minutes.",
+    "example_3_translation": "We use serving at the table in everyday life."
+  },
+  {
+    "chunk_text": "goûter un plat",
+    "meaning": "to taste a dish",
+    "primary_function": "verbal expression",
+    "communicative_purpose": "experiencing food",
+    "patterns": [
+      "Le chef nous a fait goûteé ce plat.",
+      "Vous devez goûteér ce vin, il est excellent."
+    ],
+    "collocates": [
+      "dégustation",
+      "chef",
+      "restaurant",
+      "saveur"
+    ],
+    "level": "B2",
+    "example_1": "Le chef nous a fait goûteé ce plat.",
+    "example_2": "Vous devez goûteér ce vin, il est excellent.",
+    "example_3": "On utilise goûter un plat dans la vie quotidienne.",
+    "example_1_translation": "The chef made us taste this dish.",
+    "example_2_translation": "You must taste this wine, it is excellent.",
+    "example_3_translation": "We use to taste a dish in daily life."
+  },
+  {
+    "chunk_text": "menu du jour",
+    "meaning": "menu of the day",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "daily special offerings",
+    "patterns": [
+      "Le menu du jour change chaque semaine.",
+      "Qu'est-ce que le menu du jour propose?"
+    ],
+    "collocates": [
+      "spécial",
+      "offre",
+      "semaine",
+      "prix"
+    ],
+    "level": "B2",
+    "example_1": "Le menu du jour change chaque semaine.",
+    "example_2": "Qu'est-ce que le menu du jour propose?",
+    "example_3": "On utilise menu du jour dans la vie quotidienne.",
+    "example_1_translation": "The daily menu changes every week.",
+    "example_2_translation": "What does the daily menu offer?",
+    "example_3_translation": "We use the daily menu in everyday life."
+  },
+  {
+    "chunk_text": "addition s'il vous plaît",
+    "meaning": "the bill please",
+    "primary_function": "fixed expression",
+    "communicative_purpose": "requesting payment",
+    "patterns": [
+      "L'addition s'il vous plaît, nous желаем payer.",
+      "Pourriez-vous apporter l'addition?"
+    ],
+    "collocates": [
+      "payer",
+      "restaurant",
+      "serveur",
+      "montant"
+    ],
+    "level": "B2",
+    "example_1": "L'addition s'il vous plaît, nous желаем payer.",
+    "example_2": "Pourriez-vous apporter l'addition?",
+    "example_3": "On utilise addition s'il vous plaît dans la vie quotidienne.",
+    "example_1_translation": "The bill please, we will pay.",
+    "example_2_translation": "Could you bring the bill?",
+    "example_3_translation": "We use addition please in daily life."
+  },
+  {
+    "chunk_text": "cuisine française",
+    "meaning": "French cuisine",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "referring to French cooking",
+    "patterns": [
+      "La cuisine française est reconnue mondialement.",
+      "Ce restaurant propose une cuisine française traditionnelle."
+    ],
+    "collocates": [
+      "chef",
+      "tradition",
+      "restaurant",
+      "gastronomie"
+    ],
+    "level": "B2",
+    "example_1": "La cuisine française est reconnue mondialement.",
+    "example_2": "Ce restaurant propose une cuisine française traditionnelle.",
+    "example_3": "On utilise cuisine française dans la vie quotidienne.",
+    "example_1_translation": "French cuisine is recognized worldwide.",
+    "example_2_translation": "This restaurant offers traditional French cuisine.",
+    "example_3_translation": "We use French cuisine in everyday life."
+  },
+  {
+    "chunk_text": "plat du jour",
+    "meaning": "dish of the day",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "daily special",
+    "patterns": [
+      "Le plat du jour est uncassoulet délicieux.",
+      "Aujourd'hui, le plat du jour inclut du poisson frais."
+    ],
+    "collocates": [
+      "spécial",
+      "frais",
+      "chef",
+      "offre"
+    ],
+    "level": "B2",
+    "example_1": "Le plat du jour est uncassoulet délicieux.",
+    "example_2": "Aujourd'hui, le plat du jour inclut du poisson frais.",
+    "example_3": "On utilise plat du jour dans la vie quotidienne.",
+    "example_1_translation": "The dish of the day is a delicious cassoulet.",
+    "example_2_translation": "Today's special includes fresh fish.",
+    "example_3_translation": "We use the dish of the day in everyday life."
+  }
+]

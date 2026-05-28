@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "communiquer efficacement",
+    "meaning": "to communicate effectively",
+    "primary_function": "expression",
+    "communicative_purpose": "communication skills",
+    "patterns": [
+      "Il faut communiquer efficacement avec les clients",
+      "Elle sait communiquer efficacement"
+    ],
+    "collocates": [
+      "message",
+      "clairement",
+      "écoute",
+      "feedback"
+    ],
+    "level": "B1",
+    "example_1": "Il faut communiquer efficacement avec les clients",
+    "example_2": "Elle sait communiquer efficacement",
+    "example_3": "Je connais communiquer efficacement.",
+    "example_1_translation": "You must communicate effectively with customers",
+    "example_2_translation": "She knows how to communicate effectively",
+    "example_3_translation": "I know how to communicate effectively."
+  },
+  {
+    "chunk_text": "résoudre les problèmes",
+    "meaning": "to solve problems",
+    "primary_function": "expression",
+    "communicative_purpose": "problem solving",
+    "patterns": [
+      "Je sais résoudre les problèmes rapidement",
+      "Il est doué pour résoudre les problèmes"
+    ],
+    "collocates": [
+      "solution",
+      "difficulté",
+      "analyse",
+      "décision"
+    ],
+    "level": "B1",
+    "example_1": "Je sais résoudre les problèmes rapidement",
+    "example_2": "Il est doué pour résoudre les problèmes",
+    "example_3": "Je connais résoudre les problèmes.",
+    "example_1_translation": "I know how to solve problems quickly",
+    "example_2_translation": "He is good at solving problems",
+    "example_3_translation": "I know how to solve problems."
+  },
+  {
+    "chunk_text": "gérer mon temps",
+    "meaning": "to manage my time",
+    "primary_function": "expression",
+    "communicative_purpose": "time management",
+    "patterns": [
+      "Je dois mieux gérer mon temps",
+      "La gestion du temps est essentielle"
+    ],
+    "collocates": [
+      "agenda",
+      "priorité",
+      "organisation",
+      "efficacité"
+    ],
+    "level": "B1",
+    "example_1": "Je dois mieux gérer mon temps",
+    "example_2": "La gestion du temps est essentielle",
+    "example_3": "Je connais gérer mon temps.",
+    "example_1_translation": "I need to manage my time better",
+    "example_2_translation": "Time management is essential",
+    "example_3_translation": "I know how to manage my time."
+  },
+  {
+    "chunk_text": "travailler en autonomie",
+    "meaning": "to work independently",
+    "primary_function": "expression",
+    "communicative_purpose": "autonomy",
+    "patterns": [
+      "Je peux travailler en autonomie",
+      "Le poste demande de travailler en autonomie"
+    ],
+    "collocates": [
+      "indépendant",
+      "initiative",
+      "responsabilité",
+      "suivi"
+    ],
+    "level": "B1",
+    "example_1": "Je peux travailler en autonomie",
+    "example_2": "Le poste demande de travailler en autonomie",
+    "example_3": "Je connais travailler en autonomie.",
+    "example_1_translation": "I can work independently",
+    "example_2_translation": "The position requires working independently",
+    "example_3_translation": "I know how to work independently."
+  },
+  {
+    "chunk_text": "analyser les données",
+    "meaning": "to analyze data",
+    "primary_function": "expression",
+    "communicative_purpose": "data analysis",
+    "patterns": [
+      "Il faut analyser les données du rapport",
+      "Je sais analyser les données avec Excel"
+    ],
+    "collocates": [
+      "statistique",
+      "tableur",
+      "interprétation",
+      "conclusion"
+    ],
+    "level": "B1",
+    "example_1": "Il faut analyser les données du rapport",
+    "example_2": "Je sais analyser les données avec Excel",
+    "example_3": "Je connais analyser les données.",
+    "example_1_translation": "It is necessary to analyze the data in the report",
+    "example_2_translation": "I know how to analyze data with Excel",
+    "example_3_translation": "I know how to analyze data."
+  },
+  {
+    "chunk_text": "prendre des initiatives",
+    "meaning": "to take initiative",
+    "primary_function": "expression",
+    "communicative_purpose": "initiative",
+    "patterns": [
+      "Il faut prendre des initiatives dans ce poste",
+      "Elle ose prendre des initiatives"
+    ],
+    "collocates": [
+      "autonomie",
+      "créativité",
+      "proactivité",
+      "responsabilité"
+    ],
+    "level": "B2",
+    "example_1": "Il faut prendre des initiatives dans ce poste",
+    "example_2": "Elle ose prendre des initiatives",
+    "example_3": "On utilise prendre des initiatives dans la vie quotidienne.",
+    "example_1_translation": "You have to take initiative in this position",
+    "example_2_translation": "She dares to take initiatives",
+    "example_3_translation": "We use taking initiative in daily life."
+  },
+  {
+    "chunk_text": "s'adapter aux changements",
+    "meaning": "to adapt to changes",
+    "primary_function": "expression",
+    "communicative_purpose": "adaptability",
+    "patterns": [
+      "Il faut s'adapter aux changements",
+      "Je m'adapte facilement aux changements"
+    ],
+    "collocates": [
+      "flexibilité",
+      "évolution",
+      "mutation",
+      "adversité"
+    ],
+    "level": "B1",
+    "example_1": "Il faut s'adapter aux changements",
+    "example_2": "Je m'adapte facilement aux changements",
+    "example_3": "Je connais s'adapter aux changements.",
+    "example_1_translation": "You have to adapt to changes",
+    "example_2_translation": "I adapt easily to changes",
+    "example_3_translation": "I know how to adapt to changes."
+  },
+  {
+    "chunk_text": "coordonner une équipe",
+    "meaning": "to coordinate a team",
+    "primary_function": "expression",
+    "communicative_purpose": "team coordination",
+    "patterns": [
+      "Il doit coordonner une équipe de cinq personnes",
+      "Elle sait coordonner les équipes"
+    ],
+    "collocates": [
+      "organisation",
+      "direction",
+      "collaboration",
+      "planification"
+    ],
+    "level": "B2",
+    "example_1": "Il doit coordonner une équipe de cinq personnes",
+    "example_2": "Elle sait coordonner les équipes",
+    "example_3": "On utilise coordonner une équipe dans la vie quotidienne.",
+    "example_1_translation": "He must coordinate a team of five people",
+    "example_2_translation": "She knows how to coordinate teams",
+    "example_3_translation": "We use coordinating a team in daily life."
+  },
+  {
+    "chunk_text": "faire la différence",
+    "meaning": "to make a difference",
+    "primary_function": "expression",
+    "communicative_purpose": "value proposition",
+    "patterns": [
+      "Je veux faire la différence dans cette entreprise",
+      "Ce candidat peut faire la différence"
+    ],
+    "collocates": [
+      "impact",
+      "valeur ajoutée",
+      "contribution",
+      "singularité"
+    ],
+    "level": "B2",
+    "example_1": "Je veux faire la différence dans cette entreprise",
+    "example_2": "Ce candidat peut faire la différence",
+    "example_3": "On utilise faire la différence dans la vie quotidienne.",
+    "example_1_translation": "I want to make a difference in this company",
+    "example_2_translation": "This candidate can make the difference",
+    "example_3_translation": "We use it to make a difference in everyday life."
+  },
+  {
+    "chunk_text": "être force de proposition",
+    "meaning": "to be a source of proposals",
+    "primary_function": "expression",
+    "communicative_purpose": "proactive thinking",
+    "patterns": [
+      "Je veux être force de proposition",
+      "Il est force de proposition dans l'équipe"
+    ],
+    "collocates": [
+      "initiative",
+      "créativité",
+      "innovation",
+      "suggestion"
+    ],
+    "level": "B2",
+    "example_1": "Je veux être force de proposition",
+    "example_2": "Il est force de proposition dans l'équipe",
+    "example_3": "On utilise être force de proposition dans la vie quotidienne.",
+    "example_1_translation": "I want to be a force of suggestion",
+    "example_2_translation": "He is a force of suggestion in the team",
+    "example_3_translation": "We use being proactive in daily life."
+  },
+  {
+    "chunk_text": "respecter les délais",
+    "meaning": "to meet deadlines",
+    "primary_function": "expression",
+    "communicative_purpose": "time management",
+    "patterns": [
+      "Je respecte toujours les délais",
+      "Il est important de respecter les délais"
+    ],
+    "collocates": [
+      "ponctualité",
+      "assiduité",
+      "organisation",
+      "fiabilité"
+    ],
+    "level": "B1",
+    "example_1": "Je respecte toujours les délais",
+    "example_2": "Il est important de respecter les délais",
+    "example_3": "Je connais respecter les délais.",
+    "example_1_translation": "I always meet deadlines",
+    "example_2_translation": "It is important to meet deadlines",
+    "example_3_translation": "I know how to meet deadlines."
+  },
+  {
+    "chunk_text": "faire preuve de rigueur",
+    "meaning": "to demonstrate rigor",
+    "primary_function": "expression",
+    "communicative_purpose": "professional qualities",
+    "patterns": [
+      "Il faut faire preuve de rigueur dans ce travail",
+      "Elle fait preuve de beaucoup de rigueur"
+    ],
+    "collocates": [
+      "précision",
+      "discipline",
+      "méthode",
+      "exigence"
+    ],
+    "level": "B2",
+    "example_1": "Il faut faire preuve de rigueur dans ce travail",
+    "example_2": "Elle fait preuve de beaucoup de rigueur",
+    "example_3": "On utilise faire preuve de rigueur dans la vie quotidienne.",
+    "example_1_translation": "You have to be rigorous in this work.",
+    "example_2_translation": "She shows a lot of rigor",
+    "example_3_translation": "We use to show rigor in daily life."
+  },
+  {
+    "chunk_text": "avoir le sens du détail",
+    "meaning": "to have an eye for detail",
+    "primary_function": "expression",
+    "communicative_purpose": "attention to detail",
+    "patterns": [
+      "Ce travail demande d'avoir le sens du détail",
+      "Elle a le sens du détail"
+    ],
+    "collocates": [
+      "minutie",
+      "perfectionnisme",
+      "finesse",
+      "observation"
+    ],
+    "level": "B2",
+    "example_1": "Ce travail demande d'avoir le sens du détail",
+    "example_2": "Elle a le sens du détail",
+    "example_3": "On utilise avoir le sens du détail dans la vie quotidienne.",
+    "example_1_translation": "This job requires an eye for detail",
+    "example_2_translation": "She has an eye for detail",
+    "example_3_translation": "We use having an eye for detail in everyday life."
+  },
+  {
+    "chunk_text": "synthétiser les informations",
+    "meaning": "to synthesize information",
+    "primary_function": "expression",
+    "communicative_purpose": "information processing",
+    "patterns": [
+      "Il faut savoir synthétiser les informations",
+      "Je sais synthétiser les informations complexes"
+    ],
+    "collocates": [
+      "résumé",
+      "extraction",
+      "pertinent",
+      "clé"
+    ],
+    "level": "B2",
+    "example_1": "Il faut savoir synthétiser les informations",
+    "example_2": "Je sais synthétiser les informations complexes",
+    "example_3": "On utilise synthétiser les informations dans la vie quotidienne.",
+    "example_1_translation": "You have to know how to synthesize information",
+    "example_2_translation": "I know how to synthesize complex information",
+    "example_3_translation": "We use to synthesize information in daily life."
+  },
+  {
+    "chunk_text": "développer mes compétences",
+    "meaning": "to develop my skills",
+    "primary_function": "expression",
+    "communicative_purpose": "professional development",
+    "patterns": [
+      "Je veux développer mes compétences en management",
+      "Il est important de développer ses compétences"
+    ],
+    "collocates": [
+      "formation",
+      "évaluation",
+      "progression",
+      "carrière"
+    ],
+    "level": "B1",
+    "example_1": "Je veux développer mes compétences en management",
+    "example_2": "Il est important de développer ses compétences",
+    "example_3": "Je connais développer mes compétences.",
+    "example_1_translation": "I want to develop my management skills",
+    "example_2_translation": "It is important to develop your skills",
+    "example_3_translation": "I know how to develop my skills."
+  }
+]

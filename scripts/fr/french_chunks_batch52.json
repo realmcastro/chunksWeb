@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "faire une présentation",
+    "meaning": "to give a presentation",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Je vais faire une présentation",
+      "Il a fait une présentation claire"
+    ],
+    "collocates": [
+      "diapositives",
+      "exposé",
+      "soutenance",
+      "réunion"
+    ],
+    "level": "B1",
+    "example_1": "Je vais faire une présentation",
+    "example_2": "Il a fait une présentation claire",
+    "example_3": "Je connais faire une présentation.",
+    "example_1_translation": "I'm going to make a presentation",
+    "example_2_translation": "He made a clear presentation",
+    "example_3_translation": "I know how to give a presentation."
+  },
+  {
+    "chunk_text": "support visuel",
+    "meaning": "visual aid",
+    "primary_function": "noun",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Utilisez des supports visuels",
+      "Le support visuel était très efficace"
+    ],
+    "collocates": [
+      "diapositive",
+      "graphique",
+      "image",
+      "PowerPoint"
+    ],
+    "level": "B1",
+    "example_1": "Utilisez des supports visuels",
+    "example_2": "Le support visuel était très efficace",
+    "example_3": "Je connais support visuel.",
+    "example_1_translation": "Use visual supports",
+    "example_2_translation": "The visual support was very effective",
+    "example_3_translation": "I know visual support."
+  },
+  {
+    "chunk_text": "distribuer des documents",
+    "meaning": "to distribute documents",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Je vais distribuer les documents",
+      "Veuillez distribuer ces feuillets"
+    ],
+    "collocates": [
+      "copies",
+      "participants",
+      "rapport",
+      "information"
+    ],
+    "level": "B1",
+    "example_1": "Je vais distribuer les documents",
+    "example_2": "Veuillez distribuer ces feuillets",
+    "example_3": "Je connais distribuer des documents.",
+    "example_1_translation": "I will distribute the documents",
+    "example_2_translation": "Please distribute these leaflets",
+    "example_3_translation": "I know how to distribute documents."
+  },
+  {
+    "chunk_text": "prise de parole en public",
+    "meaning": "public speaking",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "La prise de parole en public m'intimide",
+      "Il a une bonne prise de parole en public"
+    ],
+    "collocates": [
+      "audience",
+      "confidence",
+      "discours",
+      "exposer"
+    ],
+    "level": "B2",
+    "example_1": "La prise de parole en public m'intimide",
+    "example_2": "Il a une bonne prise de parole en public",
+    "example_3": "On utilise prise de parole en public dans la vie quotidienne.",
+    "example_1_translation": "Public speaking intimidates me",
+    "example_2_translation": "He has good public speaking",
+    "example_3_translation": "Public speaking is used in everyday life."
+  },
+  {
+    "chunk_text": "enchaîner les diapositives",
+    "meaning": "to advance slides",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Vous pouvez enchaîner les diapositives",
+      "Il a enchaîné les diapositives rapidement"
+    ],
+    "collocates": [
+      "PowerPoint",
+      "clic",
+      "présentation",
+      "progression"
+    ],
+    "level": "B1",
+    "example_1": "Vous pouvez enchaîner les diapositives",
+    "example_2": "Il a enchaîné les diapositives rapidement",
+    "example_3": "Je connais enchaîner les diapositives.",
+    "example_1_translation": "You can chain the slides",
+    "example_2_translation": "He went through the slides quickly",
+    "example_3_translation": "I know how to sequence slides."
+  },
+  {
+    "chunk_text": "résumer les points clés",
+    "meaning": "to summarize key points",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Permettez-moi de résumer les points clés",
+      "En résumé, les points clés sont..."
+    ],
+    "collocates": [
+      "conclusion",
+      "synthèse",
+      "important",
+      "récapituler"
+    ],
+    "level": "B1",
+    "example_1": "Permettez-moi de résumer les points clés",
+    "example_2": "En résumé, les points clés sont...",
+    "example_3": "Je connais résumer les points clés.",
+    "example_1_translation": "Let me summarize the key points",
+    "example_2_translation": "In summary, the key points are...",
+    "example_3_translation": "I know how to summarize key points."
+  },
+  {
+    "chunk_text": "plan de la présentation",
+    "meaning": "presentation outline",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Voici le plan de la présentation",
+      "Présentons d'abord le plan"
+    ],
+    "collocates": [
+      "structure",
+      "sections",
+      "ordre",
+      "introduction"
+    ],
+    "level": "B1",
+    "example_1": "Voici le plan de la présentation",
+    "example_2": "Présentons d'abord le plan",
+    "example_3": "Je connais plan de la présentation.",
+    "example_1_translation": "Here is the presentation plan",
+    "example_2_translation": "Let's first present the plan",
+    "example_3_translation": "I know the presentation plan."
+  },
+  {
+    "chunk_text": "temps de parole",
+    "meaning": "speaking time",
+    "primary_function": "noun",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Vous avez 10 minutes de temps de parole",
+      "Respectez le temps de parole alloué"
+    ],
+    "collocates": [
+      "durée",
+      "limite",
+      "chronomètre",
+      "allocation"
+    ],
+    "level": "B1",
+    "example_1": "Vous avez 10 minutes de temps de parole",
+    "example_2": "Respectez le temps de parole alloué",
+    "example_3": "Je connais temps de parole.",
+    "example_1_translation": "You have 10 minutes of speaking time",
+    "example_2_translation": "Respect the allocated speaking time",
+    "example_3_translation": "I know speaking time."
+  },
+  {
+    "chunk_text": "tableaux et graphiques",
+    "meaning": "tables and charts",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Utilisez des tableaux et graphiques",
+      "Les tableaux et graphiques illustrent les données"
+    ],
+    "collocates": [
+      "données",
+      "statistiques",
+      "visualisation",
+      "support"
+    ],
+    "level": "B1",
+    "example_1": "Utilisez des tableaux et graphiques",
+    "example_2": "Les tableaux et graphiques illustrent les données",
+    "example_3": "Je connais tableaux et graphiques.",
+    "example_1_translation": "Use tables and graphs",
+    "example_2_translation": "Tables and graphs illustrate the data",
+    "example_3_translation": "I know tables and graphs."
+  },
+  {
+    "chunk_text": "questions du public",
+    "meaning": "audience questions",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Nous ouvrirons le temps des questions du public",
+      "Les questions du public étaient pertinentes"
+    ],
+    "collocates": [
+      "débat",
+      "intervention",
+      "réponse",
+      "clarification"
+    ],
+    "level": "B1",
+    "example_1": "Nous ouvrirons le temps des questions du public",
+    "example_2": "Les questions du public étaient pertinentes",
+    "example_3": "Je connais questions du public.",
+    "example_1_translation": "We will open the time for questions from the public",
+    "example_2_translation": "Questions from the audience were relevant",
+    "example_3_translation": "I know questions from the public."
+  },
+  {
+    "chunk_text": "se tenir à jour",
+    "meaning": "to keep up to date",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Il faut se tenir à jour sur ce sujet",
+      "Je me tiens à jour grâce à ces présentations"
+    ],
+    "collocates": [
+      "actualités",
+      "évolution",
+      "information",
+      "formation"
+    ],
+    "level": "B2",
+    "example_1": "Il faut se tenir à jour sur ce sujet",
+    "example_2": "Je me tiens à jour grâce à ces présentations",
+    "example_3": "On utilise se tenir à jour dans la vie quotidienne.",
+    "example_1_translation": "You need to keep up to date on this subject",
+    "example_2_translation": "I keep myself up to date thanks to these presentations",
+    "example_3_translation": "We use keeping up to date in daily life."
+  },
+  {
+    "chunk_text": "projeter des images",
+    "meaning": "to project images",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Nous allons projeter des images",
+      "L'écran permet de projeter les images"
+    ],
+    "collocates": [
+      "vidéoprojecteur",
+      "écran",
+      "PowerPoint",
+      "affichage"
+    ],
+    "level": "A2",
+    "example_1": "Nous allons projeter des images",
+    "example_2": "L'écran permet de projeter les images",
+    "example_3": "On utilise projeter des images dans la vie quotidienne.",
+    "example_1_translation": "We will project images",
+    "example_2_translation": "The screen allows you to project images",
+    "example_3_translation": "We use projecting images in everyday life."
+  },
+  {
+    "chunk_text": "la parole est à",
+    "meaning": "the floor is given to",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "La parole est à M. Dupont",
+      "La parole est maintenant à notre conférencier"
+    ],
+    "collocates": [
+      "intervenant",
+      "speaker",
+      "tour",
+      "présentation"
+    ],
+    "level": "B1",
+    "example_1": "La parole est à M. Dupont",
+    "example_2": "La parole est maintenant à notre conférencier",
+    "example_3": "Je connais la parole est à.",
+    "example_1_translation": "Mr. Dupont has the floor",
+    "example_2_translation": "The floor is now given to our speaker",
+    "example_3_translation": "I know the word is to."
+  },
+  {
+    "chunk_text": "démontrer les résultats",
+    "meaning": "to demonstrate results",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Ces chiffres démontrent les résultats",
+      "Je vais vous démontrer l'efficacité"
+    ],
+    "collocates": [
+      "preuve",
+      "évidence",
+      "chiffres",
+      "conclusion"
+    ],
+    "level": "B2",
+    "example_1": "Ces chiffres démontrent les résultats",
+    "example_2": "Je vais vous démontrer l'efficacité",
+    "example_3": "On utilise démontrer les résultats dans la vie quotidienne.",
+    "example_1_translation": "These figures demonstrate the results",
+    "example_2_translation": "I will demonstrate to you the effectiveness",
+    "example_3_translation": "We use to demonstrate the results in daily life."
+  },
+  {
+    "chunk_text": "exposer les conclusiones",
+    "meaning": "to present conclusions",
+    "primary_function": "expression",
+    "communicative_purpose": "presentation",
+    "patterns": [
+      "Permettez-moi d'exposer les conclusions",
+      "En conclusion, j'expose les points suivants"
+    ],
+    "collocates": [
+      "synthèse",
+      "résumé",
+      "fin",
+      "recommandation"
+    ],
+    "level": "B2",
+    "example_1": "Permettez-moi d'exposer les conclusions",
+    "example_2": "En conclusion, j'expose les points suivants",
+    "example_3": "On utilise exposer les conclusiones dans la vie quotidienne.",
+    "example_1_translation": "Let me state the findings",
+    "example_2_translation": "In conclusion, I make the following points",
+    "example_3_translation": "We use to present the conclusions in daily life."
+  }
+]

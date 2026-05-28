@@ -1,0 +1,316 @@
+[
+  {
+    "chunk_text": "servir dans l'armée",
+    "meaning": "to serve in the army",
+    "primary_function": "expression",
+    "communicative_purpose": "military service",
+    "patterns": [
+      "Il a servi dans l'armée pendant dix ans"
+    ],
+    "collocates": [
+      "militaire",
+      "soldat",
+      "service"
+    ],
+    "level": "A2",
+    "example_1": "Il a servi dans l'armée pendant dix ans",
+    "example_2": "Tu peux dire servir dans l'armée quand tu veux exprimer to serve in the army.",
+    "example_3": "On utilise servir dans l'armée dans la vie quotidienne.",
+    "example_1_translation": "He served in the army for ten years",
+    "example_2_translation": "You can say serve in the army when you want to express to serve in the army.",
+    "example_3_translation": "We use serving in the army in everyday life."
+  },
+  {
+    "chunk_text": "protéger le pays",
+    "meaning": "to protect the country",
+    "primary_function": "expression",
+    "communicative_purpose": "national defense",
+    "patterns": [
+      "Les soldats protègent le pays"
+    ],
+    "collocates": [
+      "défense",
+      "sécurité",
+      "frontières"
+    ],
+    "level": "A2",
+    "example_1": "Les soldats protègent le pays",
+    "example_2": "Tu peux dire protéger le pays quand tu veux exprimer to protect the country.",
+    "example_3": "On utilise protéger le pays dans la vie quotidienne.",
+    "example_1_translation": "Soldiers protect the country",
+    "example_2_translation": "You can say protect the country when you mean to protect the country.",
+    "example_3_translation": "We use to protect the country in daily life."
+  },
+  {
+    "chunk_text": "participer à une guerre",
+    "meaning": "to participate in a war",
+    "primary_function": "expression",
+    "communicative_purpose": "armed conflict",
+    "patterns": [
+      "Beaucoup de soldats ont participé à cette guerre"
+    ],
+    "collocates": [
+      "bataille",
+      "combattant",
+      "conflit"
+    ],
+    "level": "A2",
+    "example_1": "Beaucoup de soldats ont participé à cette guerre",
+    "example_2": "Tu peux dire participer à une guerre quand tu veux exprimer to participate in a war.",
+    "example_3": "On utilise participer à une guerre dans la vie quotidienne.",
+    "example_1_translation": "Many soldiers participated in this war",
+    "example_2_translation": "You can say participate in a war when you want to express to participate in a war.",
+    "example_3_translation": "We use participating in a war in everyday life."
+  },
+  {
+    "chunk_text": "être en service actif",
+    "meaning": "to be on active duty",
+    "primary_function": "expression",
+    "communicative_purpose": "military status",
+    "patterns": [
+      "Il est en service actif depuis deux ans"
+    ],
+    "collocates": [
+      "mission",
+      "déploiement",
+      "opération"
+    ],
+    "level": "B1",
+    "example_1": "Il est en service actif depuis deux ans",
+    "example_2": "'être en service actif' est une expression utile.",
+    "example_3": "Je connais être en service actif.",
+    "example_1_translation": "He has been on active duty for two years",
+    "example_2_translation": "'being on active duty' is a useful phrase.",
+    "example_3_translation": "I know being on active duty."
+  },
+  {
+    "chunk_text": "construire une défense",
+    "meaning": "to build a defense",
+    "primary_function": "expression",
+    "communicative_purpose": "military strategy",
+    "patterns": [
+      "Le général a ordonné de construire une défense"
+    ],
+    "collocates": [
+      "fortification",
+      "position",
+      "stratégie"
+    ],
+    "level": "B1",
+    "example_1": "Le général a ordonné de construire une défense",
+    "example_2": "'construire une défense' est une expression utile.",
+    "example_3": "Je connais construire une défense.",
+    "example_1_translation": "The general ordered to build a defense",
+    "example_2_translation": "'build a defense' is a useful phrase.",
+    "example_3_translation": "I know how to build a defense."
+  },
+  {
+    "chunk_text": "lancer une attaque",
+    "meaning": "to launch an attack",
+    "primary_function": "expression",
+    "communicative_purpose": "military operations",
+    "patterns": [
+      "L'armée a lancé une attaque à l'aube"
+    ],
+    "collocates": [
+      "assaut",
+      "offensive",
+      "opération"
+    ],
+    "level": "B1",
+    "example_1": "L'armée a lancé une attaque à l'aube",
+    "example_2": "'lancer une attaque' est une expression utile.",
+    "example_3": "Je connais lancer une attaque.",
+    "example_1_translation": "The army launched an attack at dawn",
+    "example_2_translation": "'launch an attack' is a useful phrase.",
+    "example_3_translation": "I know how to launch an attack."
+  },
+  {
+    "chunk_text": "négocier la paix",
+    "meaning": "to negotiate peace",
+    "primary_function": "expression",
+    "communicative_purpose": "diplomatic efforts",
+    "patterns": [
+      "Les dirigeants négocient la paix depuis des mois"
+    ],
+    "collocates": [
+      "traité",
+      "accord",
+      "diplomatie"
+    ],
+    "level": "B1",
+    "example_1": "Les dirigeants négocient la paix depuis des mois",
+    "example_2": "'négocier la paix' est une expression utile.",
+    "example_3": "Je connais négocier la paix.",
+    "example_1_translation": "Leaders have been negotiating peace for months",
+    "example_2_translation": "'negotiating peace' is a useful expression.",
+    "example_3_translation": "I know how to negotiate peace."
+  },
+  {
+    "chunk_text": "renforcer les frontières",
+    "meaning": "to reinforce borders",
+    "primary_function": "expression",
+    "communicative_purpose": "security measures",
+    "patterns": [
+      "Le gouvernement va renforcer les frontières"
+    ],
+    "collocates": [
+      "surveillance",
+      "contrôle",
+      "immigration"
+    ],
+    "level": "B2",
+    "example_1": "Le gouvernement va renforcer les frontières",
+    "example_2": "Tu peux dire renforcer les frontières quand tu veux exprimer to reinforce borders.",
+    "example_3": "On utilise renforcer les frontières dans la vie quotidienne.",
+    "example_1_translation": "The government will strengthen the borders",
+    "example_2_translation": "You can say reinforce borders when you mean to reinforce borders.",
+    "example_3_translation": "We use strengthening boundaries in everyday life."
+  },
+  {
+    "chunk_text": "signer un traité de paix",
+    "meaning": "to sign a peace treaty",
+    "primary_function": "expression",
+    "communicative_purpose": "international agreements",
+    "patterns": [
+      "Les deux pays ont signé un traité de paix"
+    ],
+    "collocates": [
+      "accord",
+      "négociation",
+      "trêve"
+    ],
+    "level": "B1",
+    "example_1": "Les deux pays ont signé un traité de paix",
+    "example_2": "'signer un traité de paix' est une expression utile.",
+    "example_3": "Je connais signer un traité de paix.",
+    "example_1_translation": "The two countries signed a peace treaty",
+    "example_2_translation": "'sign a peace treaty' is a useful expression.",
+    "example_3_translation": "I know how to sign a peace treaty."
+  },
+  {
+    "chunk_text": "faire la reco",
+    "meaning": "to carry out reconnaissance",
+    "primary_function": "expression",
+    "communicative_purpose": "military intelligence",
+    "patterns": [
+      "L'út went to do reconnaissance behind enemy lines"
+    ],
+    "collocates": [
+      "exploration",
+      "surveillance",
+      "information"
+    ],
+    "level": "B2",
+    "example_1": "L'út went to do reconnaissance behind enemy lines",
+    "example_2": "Tu peux dire faire la reco quand tu veux exprimer to carry out reconnaissance.",
+    "example_3": "On utilise faire la reco dans la vie quotidienne.",
+    "example_2_translation": "You can say do the recce when you want to express to carry out gratitude.",
+    "example_3_translation": "We use reconnaissance in everyday life."
+  },
+  {
+    "chunk_text": "être promuоfficier",
+    "meaning": "to be promoted to officer",
+    "primary_function": "expression",
+    "communicative_purpose": "military career advancement",
+    "patterns": [
+      "После двух лет службы он был повышен до офицера"
+    ],
+    "collocates": [
+      "rang",
+      "hiérarchie",
+      "carrière"
+    ],
+    "level": "B1",
+    "example_1": "После двух лет службы он был повышен до офицера",
+    "example_2": "'être promuоfficier' est une expression utile.",
+    "example_3": "Je connais être promuоfficier.",
+    "example_1_translation": "Please contact the guest for the presenter",
+    "example_2_translation": "'to be promoted to officer' is a useful expression.",
+    "example_3_translation": "I know how to be promoted to officer."
+  },
+  {
+    "chunk_text": "recruter des soldats",
+    "meaning": "to recruit soldiers",
+    "primary_function": "expression",
+    "communicative_purpose": "military personnel",
+    "patterns": [
+      "L'armée recrute des soldats pour la prochaine mission"
+    ],
+    "collocates": [
+      "engagement",
+      "volontaire",
+      "recrutement"
+    ],
+    "level": "B1",
+    "example_1": "L'armée recrute des soldats pour la prochaine mission",
+    "example_2": "'recruter des soldats' est une expression utile.",
+    "example_3": "Je connais recruter des soldats.",
+    "example_1_translation": "The army is recruiting soldiers for the next mission",
+    "example_2_translation": "'recruit soldiers' is a useful expression.",
+    "example_3_translation": "I know how to recruit soldiers."
+  },
+  {
+    "chunk_text": "déserter l'armée",
+    "meaning": "to desert the army",
+    "primary_function": "expression",
+    "communicative_purpose": "military transgressions",
+    "patterns": [
+      "Certains soldats ont déserté l'armée"
+    ],
+    "collocates": [
+      "fuite",
+      "trahison",
+      "insubordination"
+    ],
+    "level": "B1",
+    "example_1": "Certains soldats ont déserté l'armée",
+    "example_2": "'déserter l'armée' est une expression utile.",
+    "example_3": "Je connais déserter l'armée.",
+    "example_1_translation": "Some soldiers deserted the army",
+    "example_2_translation": "'deserting the army' is a useful expression.",
+    "example_3_translation": "I know how to desert the army."
+  },
+  {
+    "chunk_text": "maintenir la paix",
+    "meaning": "to maintain peace",
+    "primary_function": "expression",
+    "communicative_purpose": "peacekeeping operations",
+    "patterns": [
+      "Les casques bleus maintiennent la paix dans la région"
+    ],
+    "collocates": [
+      "ONU",
+      "stabilité",
+      "intervention"
+    ],
+    "level": "B1",
+    "example_1": "Les casques bleus maintiennent la paix dans la région",
+    "example_2": "'maintenir la paix' est une expression utile.",
+    "example_3": "Je connais maintenir la paix.",
+    "example_1_translation": "Peacekeepers maintain peace in the region",
+    "example_2_translation": "'keep the peace' is a useful phrase.",
+    "example_3_translation": "I know how to keep the peace."
+  },
+  {
+    "chunk_text": "former une alliance",
+    "meaning": "to form an alliance",
+    "primary_function": "expression",
+    "communicative_purpose": "international relations",
+    "patterns": [
+      "Plusieurs nations ont formé une alliance militaire"
+    ],
+    "collocates": [
+      "partenaire",
+      "engagement",
+      "soutien"
+    ],
+    "level": "B2",
+    "example_1": "Plusieurs nations ont formé une alliance militaire",
+    "example_2": "Tu peux dire former une alliance quand tu veux exprimer to form an alliance.",
+    "example_3": "On utilise former une alliance dans la vie quotidienne.",
+    "example_1_translation": "Several nations have formed a military alliance",
+    "example_2_translation": "You can say form an alliance when you want to express to form an alliance.",
+    "example_3_translation": "We use forming an alliance in daily life."
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "chunk_text": "gagner sa vie",
+    "meaning": "to earn one's living",
+    "primary_function": "expression",
+    "communicative_purpose": "employment and income",
+    "patterns": [
+      "Il gagne sa vie comme développeur web.",
+      "Elle gagne bien sa vie depuis qu'elle a été promue."
+    ],
+    "collocates": [
+      "salaire",
+      "emploi",
+      "revenu",
+      "travail",
+      "profession"
+    ],
+    "level": "A2",
+    "example_1": "Il gagne sa vie comme développeur web.",
+    "example_2": "Elle gagne bien sa vie depuis qu'elle a été promue.",
+    "example_3": "On utilise gagner sa vie dans la vie quotidienne.",
+    "example_1_translation": "He earns his living as a web developer.",
+    "example_2_translation": "She has been making a good living since she was promoted.",
+    "example_3_translation": "We use earning a living in everyday life."
+  },
+  {
+    "chunk_text": "faire des économies",
+    "meaning": "to save money",
+    "primary_function": "expression",
+    "communicative_purpose": "saving and financial planning",
+    "patterns": [
+      "Nous faisons des économies pour acheter une maison.",
+      "Il est temps de faire des économies."
+    ],
+    "collocates": [
+      "épargne",
+      "compte",
+      "épargner",
+      "budget",
+      "réserve"
+    ],
+    "level": "A2",
+    "example_1": "Nous faisons des économies pour acheter une maison.",
+    "example_2": "Il est temps de faire des économies.",
+    "example_3": "On utilise faire des économies dans la vie quotidienne.",
+    "example_1_translation": "We are saving money to buy a house.",
+    "example_2_translation": "It's time to save money.",
+    "example_3_translation": "We use it to save money in daily life."
+  },
+  {
+    "chunk_text": "payer en espèces",
+    "meaning": "to pay in cash",
+    "primary_function": "expression",
+    "communicative_purpose": "cash transactions",
+    "patterns": [
+      "Je préfère payer en espèces.",
+      "Le marchand n'accepte que les paiements en espèces."
+    ],
+    "collocates": [
+      "cash",
+      "liquide",
+      "billet",
+      "monnaie",
+      "carte"
+    ],
+    "level": "A1",
+    "example_1": "Je préfère payer en espèces.",
+    "example_2": "Le marchand n'accepte que les paiements en espèces.",
+    "example_3": "Je connais payer en espèces.",
+    "example_1_translation": "I prefer to pay in cash.",
+    "example_2_translation": "The merchant only accepts cash payments.",
+    "example_3_translation": "I know how to pay in cash."
+  },
+  {
+    "chunk_text": "être broke",
+    "meaning": "to be broke, to be skint",
+    "primary_function": "expression",
+    "communicative_purpose": "describing lack of money",
+    "patterns": [
+      "Je suis complètement broke après les vacances.",
+      "Il est souvent broke en fin de mois."
+    ],
+    "collocates": [
+      "sans argent",
+      "dettes",
+      "fauché",
+      "pauvre"
+    ],
+    "level": "B1",
+    "example_1": "Je suis complètement broke après les vacances.",
+    "example_2": "Il est souvent broke en fin de mois.",
+    "example_3": "Je connais être broke.",
+    "example_1_translation": "I'm totally broke after the holidays.",
+    "example_2_translation": "It often goes broke at the end of the month.",
+    "example_3_translation": "I know how to be broke."
+  },
+  {
+    "chunk_text": "faire un emprunt",
+    "meaning": "to take out a loan",
+    "primary_function": "expression",
+    "communicative_purpose": "borrowing money",
+    "patterns": [
+      "J'ai dû faire un emprunt pour acheter ma voiture.",
+      "La banque lui a accordé un emprunt."
+    ],
+    "collocates": [
+      "prêt",
+      "crédit",
+      "emprunter",
+      "taux",
+      "intérêt"
+    ],
+    "level": "B1",
+    "example_1": "J'ai dû faire un emprunt pour acheter ma voiture.",
+    "example_2": "La banque lui a accordé un emprunt.",
+    "example_3": "Je connais faire un emprunt.",
+    "example_1_translation": "I had to take out a loan to buy my car.",
+    "example_2_translation": "The bank granted him a loan.",
+    "example_3_translation": "I know how to take out a loan."
+  },
+  {
+    "chunk_text": "investir dans",
+    "meaning": "to invest in",
+    "primary_function": "expression",
+    "communicative_purpose": "investment activities",
+    "patterns": [
+      "Il a investi dans l'immobilier.",
+      "Nous devrions investir dans les énergies renouvelables."
+    ],
+    "collocates": [
+      "placement",
+      "action",
+      "obligation",
+      "portefeuille",
+      "dividende"
+    ],
+    "level": "B2",
+    "example_1": "Il a investi dans l'immobilier.",
+    "example_2": "Nous devrions investir dans les énergies renouvelables.",
+    "example_3": "On utilise investir dans dans la vie quotidienne.",
+    "example_1_translation": "He invested in real estate.",
+    "example_2_translation": "We should invest in renewable energy.",
+    "example_3_translation": "We use invest in in everyday life."
+  },
+  {
+    "chunk_text": "avoir des difficultés financières",
+    "meaning": "to have financial difficulties",
+    "primary_function": "expression",
+    "communicative_purpose": "financial problems",
+    "patterns": [
+      "Beaucoup de familles ont des difficultés financières.",
+      "L'entreprise traverse des difficultés financières."
+    ],
+    "collocates": [
+      "dettes",
+      "crise",
+      "faillite",
+      "prêt",
+      "surendettement"
+    ],
+    "level": "B1",
+    "example_1": "Beaucoup de familles ont des difficultés financières.",
+    "example_2": "L'entreprise traverse des difficultés financières.",
+    "example_3": "Je connais avoir des difficultés financières.",
+    "example_1_translation": "Many families are having financial difficulties.",
+    "example_2_translation": "The company is going through financial difficulties.",
+    "example_3_translation": "I know I have financial difficulties."
+  },
+  {
+    "chunk_text": "compter sur",
+    "meaning": "to count on, to rely on",
+    "primary_function": "expression",
+    "communicative_purpose": "relying on financial support",
+    "patterns": [
+      "Je compte sur mon épargne pour les vacances.",
+      "Elle compte sur son mari pour les finances."
+    ],
+    "collocates": [
+      "dépendance",
+      "soutien",
+      "aide",
+      "fiabilité",
+      "confiance"
+    ],
+    "level": "A2",
+    "example_1": "Je compte sur mon épargne pour les vacances.",
+    "example_2": "Elle compte sur son mari pour les finances.",
+    "example_3": "On utilise compter sur dans la vie quotidienne.",
+    "example_1_translation": "I'm counting on my vacation savings.",
+    "example_2_translation": "She relies on her husband for finances.",
+    "example_3_translation": "We use count on in everyday life."
+  },
+  {
+    "chunk_text": "payer une facture",
+    "meaning": "to pay a bill",
+    "primary_function": "expression",
+    "communicative_purpose": "paying expenses",
+    "patterns": [
+      "Je dois payer la facture d'électricité.",
+      "Les factures sont trop élevées ce mois-ci."
+    ],
+    "collocates": [
+      "facture",
+      "reçu",
+      "addition",
+      "loyer",
+      "charge"
+    ],
+    "level": "A2",
+    "example_1": "Je dois payer la facture d'électricité.",
+    "example_2": "Les factures sont trop élevées ce mois-ci.",
+    "example_3": "On utilise payer une facture dans la vie quotidienne.",
+    "example_1_translation": "I have to pay the electricity bill.",
+    "example_2_translation": "The bills are too high this month.",
+    "example_3_translation": "We use paying a bill in everyday life."
+  },
+  {
+    "chunk_text": "faire la vaisselle",
+    "meaning": "to wash dishes",
+    "primary_function": "expression",
+    "communicative_purpose": "household chores (using money for chores services)",
+    "patterns": [
+      "Je déteste faire la vaisselle.",
+      "Ils ont payé quelqu'un pour faire la vaisselle."
+    ],
+    "collocates": [
+      "vaisselle",
+      "nettoyer",
+      "cuisine",
+      "ménage"
+    ],
+    "level": "A1",
+    "example_1": "Je déteste faire la vaisselle.",
+    "example_2": "Ils ont payé quelqu'un pour faire la vaisselle.",
+    "example_3": "Je connais faire la vaisselle.",
+    "example_1_translation": "I hate doing the dishes.",
+    "example_2_translation": "They paid someone to do the dishes.",
+    "example_3_translation": "I know how to wash dishes."
+  },
+  {
+    "chunk_text": "poser un lapin à",
+    "meaning": "to stand someone up, to fail to meet",
+    "primary_function": "expression",
+    "communicative_purpose": "social obligations and financial loss",
+    "patterns": [
+      "Il a posé un lapin à son créancier.",
+      "Elle a posé un lapin au rendez-vous chez le dentiste."
+    ],
+    "collocates": [
+      "rendez-vous",
+      "absent",
+      "manquer",
+      "faute",
+      "négligence"
+    ],
+    "level": "B1",
+    "example_1": "Il a posé un lapin à son créancier.",
+    "example_2": "Elle a posé un lapin au rendez-vous chez le dentiste.",
+    "example_3": "Je connais poser un lapin à.",
+    "example_1_translation": "He stood up to his creditor.",
+    "example_2_translation": "She stood up at the dentist appointment.",
+    "example_3_translation": "I know how to ask a rabbit."
+  },
+  {
+    "chunk_text": "avoir un compte en banque",
+    "meaning": "to have a bank account",
+    "primary_function": "expression",
+    "communicative_purpose": "banking activities",
+    "patterns": [
+      "J'ai un compte en banque depuis mes 18 ans.",
+      "Il faut ouvrir un compte en banque pour travailler."
+    ],
+    "collocates": [
+      "banque",
+      "compte",
+      "épargne",
+      "courant",
+      "déposer"
+    ],
+    "level": "A2",
+    "example_1": "J'ai un compte en banque depuis mes 18 ans.",
+    "example_2": "Il faut ouvrir un compte en banque pour travailler.",
+    "example_3": "On utilise avoir un compte en banque dans la vie quotidienne.",
+    "example_1_translation": "I have had a bank account since I was 18.",
+    "example_2_translation": "You have to open a bank account to work.",
+    "example_3_translation": "We use having a bank account in daily life."
+  },
+  {
+    "chunk_text": "faire des bénéfices",
+    "meaning": "to make a profit",
+    "primary_function": "expression",
+    "communicative_purpose": "business profitability",
+    "patterns": [
+      "L'entreprise a fait des bénéfices records cette année.",
+      "Nous ne faisons pas assez de bénéfices pour continuer."
+    ],
+    "collocates": [
+      "profit",
+      "perte",
+      "revenu",
+      "chiffre d'affaires",
+      "gains"
+    ],
+    "level": "B1",
+    "example_1": "L'entreprise a fait des bénéfices records cette année.",
+    "example_2": "Nous ne faisons pas assez de bénéfices pour continuer.",
+    "example_3": "Je connais faire des bénéfices.",
+    "example_1_translation": "The company has made record profits this year.",
+    "example_2_translation": "We don't make enough profit to continue.",
+    "example_3_translation": "I know how to make a profit."
+  },
+  {
+    "chunk_text": "être endetté",
+    "meaning": "to be in debt",
+    "primary_function": "expression",
+    "communicative_purpose": "debt situations",
+    "patterns": [
+      "Beaucoup de jeunes sont endettés à cause des études.",
+      "Le pays est très endetté."
+    ],
+    "collocates": [
+      "dettes",
+      "crédit",
+      "emprunt",
+      "rembourser",
+      "intérêt"
+    ],
+    "level": "B1",
+    "example_1": "Beaucoup de jeunes sont endettés à cause des études.",
+    "example_2": "Le pays est très endetté.",
+    "example_3": "Je connais être endetté.",
+    "example_1_translation": "Many young people are in debt because of their studies.",
+    "example_2_translation": "The country is very in debt.",
+    "example_3_translation": "I know how to be in debt."
+  },
+  {
+    "chunk_text": "payer rubis sur l'ongle",
+    "meaning": "to pay on the nail, to pay promptly",
+    "primary_function": "expression",
+    "communicative_purpose": "prompt payment",
+    "patterns": [
+      "Il a toujours payé rubis sur l'ongle.",
+      "Payez rubis sur l'ongle et vous aurez une réduction."
+    ],
+    "collocates": [
+      "payer",
+      "promptement",
+      "immédiatement",
+      "comptant"
+    ],
+    "level": "C1",
+    "example_1": "Il a toujours payé rubis sur l'ongle.",
+    "example_2": "Payez rubis sur l'ongle et vous aurez une réduction.",
+    "example_3": "Je connais payer rubis sur l'ongle.",
+    "example_1_translation": "He always paid ruby ​​on the nail.",
+    "example_2_translation": "Pay rubtish on the nail and you will get a reduction.",
+    "example_3_translation": "I know how to pay ruby ​​on the nail."
+  }
+]

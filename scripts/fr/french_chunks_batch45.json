@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "faire une réservation",
+    "meaning": "to make a reservation",
+    "primary_function": "expression",
+    "communicative_purpose": "hotel booking",
+    "patterns": [
+      "J'ai fait une réservation pour ce soir",
+      "Vous pouvez faire une réservation en ligne"
+    ],
+    "collocates": [
+      "chambre",
+      "hôtel",
+      "confirmation",
+      "annulation"
+    ],
+    "level": "A2",
+    "example_1": "J'ai fait une réservation pour ce soir",
+    "example_2": "Vous pouvez faire une réservation en ligne",
+    "example_3": "On utilise faire une réservation dans la vie quotidienne.",
+    "example_1_translation": "I made a reservation for tonight",
+    "example_2_translation": "You can make a reservation online",
+    "example_3_translation": "We use making a reservation in everyday life."
+  },
+  {
+    "chunk_text": "pointer à l'accueil",
+    "meaning": "to check in at reception",
+    "primary_function": "expression",
+    "communicative_purpose": "hotel check-in",
+    "patterns": [
+      "Vous devez pointer à l'accueil à votre arrivée",
+      "On a pointé à l'accueil à 15h"
+    ],
+    "collocates": [
+      "réception",
+      "clé",
+      "chambre",
+      "registre"
+    ],
+    "level": "A2",
+    "example_1": "Vous devez pointer à l'accueil à votre arrivée",
+    "example_2": "On a pointé à l'accueil à 15h",
+    "example_3": "On utilise pointer à l'accueil dans la vie quotidienne.",
+    "example_1_translation": "You must check in at reception upon arrival",
+    "example_2_translation": "We clocked in at reception at 3 p.m.",
+    "example_3_translation": "We use pointer at reception in everyday life."
+  },
+  {
+    "chunk_text": "avoir une chambre libre",
+    "meaning": "to have an available room",
+    "primary_function": "expression",
+    "communicative_purpose": "hotel availability",
+    "patterns": [
+      "Avez-vous une chambre libre pour ce soir?",
+      "L'hôtel n'a plus de chambre libre"
+    ],
+    "collocates": [
+      "complet",
+      "disponible",
+      "réservation",
+      "occupation"
+    ],
+    "level": "A2",
+    "example_1": "Avez-vous une chambre libre pour ce soir?",
+    "example_2": "L'hôtel n'a plus de chambre libre",
+    "example_3": "On utilise avoir une chambre libre dans la vie quotidienne.",
+    "example_1_translation": "Do you have a free room for this evening?",
+    "example_2_translation": "The hotel no longer has any free rooms",
+    "example_3_translation": "We use having a spare room in daily life."
+  },
+  {
+    "chunk_text": "payer la nuit",
+    "meaning": "to pay per night",
+    "primary_function": "expression",
+    "communicative_purpose": "hotel pricing",
+    "patterns": [
+      "Combien paie-t-on la nuit?",
+      "On paie 80 euros la nuit"
+    ],
+    "collocates": [
+      "tarif",
+      "nuitée",
+      "petit-déjeuner",
+      "taxe"
+    ],
+    "level": "A2",
+    "example_1": "Combien paie-t-on la nuit?",
+    "example_2": "On paie 80 euros la nuit",
+    "example_3": "On utilise payer la nuit dans la vie quotidienne.",
+    "example_1_translation": "How much do we pay per night?",
+    "example_2_translation": "We pay 80 euros per night",
+    "example_3_translation": "We use pay at night in daily life."
+  },
+  {
+    "chunk_text": "visiter un monument",
+    "meaning": "to visit a monument",
+    "primary_function": "expression",
+    "communicative_purpose": "sightseeing",
+    "patterns": [
+      "On va visiter la Tour Eiffel demain",
+      "Quels monuments voulez-vous visiter?"
+    ],
+    "collocates": [
+      "musée",
+      "cathédrale",
+      "château",
+      "visite guidée"
+    ],
+    "level": "A1",
+    "example_1": "On va visiter la Tour Eiffel demain",
+    "example_2": "Quels monuments voulez-vous visiter?",
+    "example_3": "Je connais visiter un monument.",
+    "example_1_translation": "We are going to visit the Eiffel Tower tomorrow",
+    "example_2_translation": "Which monuments do you want to visit?",
+    "example_3_translation": "I know how to visit a monument."
+  },
+  {
+    "chunk_text": "acheter des souvenirs",
+    "meaning": "to buy souvenirs",
+    "primary_function": "expression",
+    "communicative_purpose": "shopping for gifts",
+    "patterns": [
+      "J'ai acheté des souvenirs pour ma famille",
+      "On trouve de beaux souvenirs au marché"
+    ],
+    "collocates": [
+      "magnets",
+      "carte",
+      "tasse",
+      "dépôt"
+    ],
+    "level": "A1",
+    "example_1": "J'ai acheté des souvenirs pour ma famille",
+    "example_2": "On trouve de beaux souvenirs au marché",
+    "example_3": "Je connais acheter des souvenirs.",
+    "example_1_translation": "I bought souvenirs for my family",
+    "example_2_translation": "You can find beautiful souvenirs at the market",
+    "example_3_translation": "I know how to buy souvenirs."
+  },
+  {
+    "chunk_text": "prendre des photos",
+    "meaning": "to take photos",
+    "primary_function": "expression",
+    "communicative_purpose": "photography",
+    "patterns": [
+      "J'ai pris beaucoup de photos",
+      "On ne peut pas prendre de photos à l'intérieur"
+    ],
+    "collocates": [
+      "appareil photo",
+      "selfie",
+      "vue",
+      "souvenir"
+    ],
+    "level": "A1",
+    "example_1": "J'ai pris beaucoup de photos",
+    "example_2": "On ne peut pas prendre de photos à l'intérieur",
+    "example_3": "Je connais prendre des photos.",
+    "example_1_translation": "I took a lot of photos",
+    "example_2_translation": "You can't take photos inside.",
+    "example_3_translation": "I know how to take photos."
+  },
+  {
+    "chunk_text": "prolonger le séjour",
+    "meaning": "to extend the stay",
+    "primary_function": "expression",
+    "communicative_purpose": "hotel extension",
+    "patterns": [
+      "Je voudrais prolonger mon séjour de deux jours",
+      "Malheureusement, on ne peut pas prolonger"
+    ],
+    "collocates": [
+      "disponible",
+      "nuit supplémentaire",
+      "tarif",
+      "discuter"
+    ],
+    "level": "B1",
+    "example_1": "Je voudrais prolonger mon séjour de deux jours",
+    "example_2": "Malheureusement, on ne peut pas prolonger",
+    "example_3": "Je connais prolonger le séjour.",
+    "example_1_translation": "I would like to extend my stay by two days",
+    "example_2_translation": "Unfortunately, we cannot extend",
+    "example_3_translation": "I know how to extend the stay."
+  },
+  {
+    "chunk_text": "visiter la région",
+    "meaning": "to visit the region",
+    "primary_function": "expression",
+    "communicative_purpose": "tourism",
+    "patterns": [
+      "On va visiter la région pendant une semaine",
+      "Cette région mérite d'être visitée"
+    ],
+    "collocates": [
+      "patrimoine",
+      "randonnée",
+      "plage",
+      "village"
+    ],
+    "level": "A2",
+    "example_1": "On va visiter la région pendant une semaine",
+    "example_2": "Cette région mérite d'être visitée",
+    "example_3": "On utilise visiter la région dans la vie quotidienne.",
+    "example_1_translation": "We are going to visit the region for a week",
+    "example_2_translation": "This region is worth visiting",
+    "example_3_translation": "We use visiting the region in daily life."
+  },
+  {
+    "chunk_text": "partir en vacances",
+    "meaning": "to go on vacation",
+    "primary_function": "expression",
+    "communicative_purpose": "travel and vacation",
+    "patterns": [
+      "On part en vacances au soleil",
+      "Où pars-tu en vacances cette année?"
+    ],
+    "collocates": [
+      "voyage",
+      "destination",
+      "révolution",
+      "travail"
+    ],
+    "level": "A1",
+    "example_1": "On part en vacances au soleil",
+    "example_2": "Où pars-tu en vacances cette année?",
+    "example_3": "Je connais partir en vacances.",
+    "example_1_translation": "We're going on vacation in the sun",
+    "example_2_translation": "Where are you going on vacation this year?",
+    "example_3_translation": "I know how to go on vacation."
+  },
+  {
+    "chunk_text": "louer une chambre d'hôte",
+    "meaning": "to rent a guest room/B&B",
+    "primary_function": "expression",
+    "communicative_purpose": "accommodation",
+    "patterns": [
+      "On a loué une chambre d'hôte dans le village",
+      "Les chambres d'hôte sont très confortables"
+    ],
+    "collocates": [
+      "petit-déjeuner",
+      "hôte",
+      "charme",
+      "rustique"
+    ],
+    "level": "B1",
+    "example_1": "On a loué une chambre d'hôte dans le village",
+    "example_2": "Les chambres d'hôte sont très confortables",
+    "example_3": "Je connais louer une chambre d'hôte.",
+    "example_1_translation": "We rented a guest room in the village",
+    "example_2_translation": "The guest rooms are very comfortable",
+    "example_3_translation": "I know how to rent a guest room."
+  },
+  {
+    "chunk_text": "voyager à l'étranger",
+    "meaning": "to travel abroad",
+    "primary_function": "expression",
+    "communicative_purpose": "international travel",
+    "patterns": [
+      "J'aime voyager à l'étranger",
+      "Il faut un passeport pour voyager à l'étranger"
+    ],
+    "collocates": [
+      "passeport",
+      "visa",
+      "douane",
+      "devise"
+    ],
+    "level": "A2",
+    "example_1": "J'aime voyager à l'étranger",
+    "example_2": "Il faut un passeport pour voyager à l'étranger",
+    "example_3": "On utilise voyager à l'étranger dans la vie quotidienne.",
+    "example_1_translation": "I like to travel abroad",
+    "example_2_translation": "You need a passport to travel abroad",
+    "example_3_translation": "We use traveling abroad in daily life."
+  },
+  {
+    "chunk_text": "faire du tourisme",
+    "meaning": "to do sightseeing",
+    "primary_function": "expression",
+    "communicative_purpose": "tourism",
+    "patterns": [
+      "On a fait du tourisme pendant trois jours",
+      "La ville est idéale pour faire du tourisme"
+    ],
+    "collocates": [
+      "visite",
+      "monument",
+      "guide",
+      "circuit"
+    ],
+    "level": "A2",
+    "example_1": "On a fait du tourisme pendant trois jours",
+    "example_2": "La ville est idéale pour faire du tourisme",
+    "example_3": "On utilise faire du tourisme dans la vie quotidienne.",
+    "example_1_translation": "We went sightseeing for three days",
+    "example_2_translation": "The city is ideal for sightseeing",
+    "example_3_translation": "We use tourism in everyday life."
+  },
+  {
+    "chunk_text": "être en voyage d'affaires",
+    "meaning": "to be on a business trip",
+    "primary_function": "expression",
+    "communicative_purpose": "business travel",
+    "patterns": [
+      "Je suis en voyage d'affaires cette semaine",
+      "Il est souvent en voyage d'affaires"
+    ],
+    "collocates": [
+      "réunion",
+      "client",
+      "hôtel",
+      "déplacement"
+    ],
+    "level": "B1",
+    "example_1": "Je suis en voyage d'affaires cette semaine",
+    "example_2": "Il est souvent en voyage d'affaires",
+    "example_3": "Je connais être en voyage d'affaires.",
+    "example_1_translation": "I'm on a business trip this week",
+    "example_2_translation": "He is often on business trips",
+    "example_3_translation": "I know being on a business trip."
+  },
+  {
+    "chunk_text": "découvrir une ville",
+    "meaning": "to discover a city",
+    "primary_function": "expression",
+    "communicative_purpose": "exploration",
+    "patterns": [
+      "On a découvert une ville charmante",
+      "Je veux découvrir Lyon et sa gastronomie"
+    ],
+    "collocates": [
+      "explorer",
+      "flâner",
+      "perdre",
+      "ruelle"
+    ],
+    "level": "A2",
+    "example_1": "On a découvert une ville charmante",
+    "example_2": "Je veux découvrir Lyon et sa gastronomie",
+    "example_3": "On utilise découvrir une ville dans la vie quotidienne.",
+    "example_1_translation": "We discovered a charming city",
+    "example_2_translation": "I want to discover Lyon and its gastronomy",
+    "example_3_translation": "We use discovering a city in daily life."
+  }
+]

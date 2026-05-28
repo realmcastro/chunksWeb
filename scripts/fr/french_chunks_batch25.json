@@ -1,0 +1,363 @@
+[
+  {
+    "chunk_text": "avoir confiance en soi",
+    "meaning": "to have self-confidence",
+    "primary_function": "expression",
+    "communicative_purpose": "self-confidence and self-esteem",
+    "patterns": [
+      "Il faut avoir confiance en soi pour réussir.",
+      "Elle a retrouvé confiance en elle après cette réussite."
+    ],
+    "collocates": [
+      "confiance",
+      "estime",
+      "assurance",
+      "sécurité",
+      "courage"
+    ],
+    "level": "A2",
+    "example_1": "Il faut avoir confiance en soi pour réussir.",
+    "example_2": "Elle a retrouvé confiance en elle après cette réussite.",
+    "example_3": "On utilise avoir confiance en soi dans la vie quotidienne.",
+    "example_1_translation": "You have to have confidence in yourself to succeed.",
+    "example_2_translation": "She regained her confidence after this success.",
+    "example_3_translation": "We use self-confidence in everyday life."
+  },
+  {
+    "chunk_text": "être stressé",
+    "meaning": "to be stressed",
+    "primary_function": "expression",
+    "communicative_purpose": "stress and anxiety",
+    "patterns": [
+      "Je suis très stressé avant les examens.",
+      "Elle est stressée par son nouveau travail."
+    ],
+    "collocates": [
+      "stress",
+      "anxiété",
+      "pression",
+      "tension",
+      "nerveux"
+    ],
+    "level": "A2",
+    "example_1": "Je suis très stressé avant les examens.",
+    "example_2": "Elle est stressée par son nouveau travail.",
+    "example_3": "On utilise être stressé dans la vie quotidienne.",
+    "example_1_translation": "I am very stressed before exams.",
+    "example_2_translation": "She is stressed about her new job.",
+    "example_3_translation": "We use being stressed in daily life."
+  },
+  {
+    "chunk_text": "ressentir de l'anxiété",
+    "meaning": "to feel anxiety",
+    "primary_function": "expression",
+    "communicative_purpose": "emotional distress",
+    "patterns": [
+      "Elle ressent une forte anxiété avant de parler en public.",
+      "J'ai ressenti de l'anxiété toute la journée."
+    ],
+    "collocates": [
+      "anxiété",
+      "inquiétude",
+      "peur",
+      "angoisse",
+      "appréhension"
+    ],
+    "level": "B1",
+    "example_1": "Elle ressent une forte anxiété avant de parler en public.",
+    "example_2": "J'ai ressenti de l'anxiété toute la journée.",
+    "example_3": "Je connais ressentir de l'anxiété.",
+    "example_1_translation": "She feels strong anxiety before speaking in public.",
+    "example_2_translation": "I felt anxious all day.",
+    "example_3_translation": "I know feeling anxiety."
+  },
+  {
+    "chunk_text": "se sentir déprimé",
+    "meaning": "to feel depressed",
+    "primary_function": "expression",
+    "communicative_purpose": "depression and low mood",
+    "patterns": [
+      "Il se sent déprimé depuis quelques semaines.",
+      "Beaucoup de gens se sentent déprimés en hiver."
+    ],
+    "collocates": [
+      "dépression",
+      "tristesse",
+      "malheur",
+      "détresse",
+      "moral"
+    ],
+    "level": "B1",
+    "example_1": "Il se sent déprimé depuis quelques semaines.",
+    "example_2": "Beaucoup de gens se sentent déprimés en hiver.",
+    "example_3": "Je connais se sentir déprimé.",
+    "example_1_translation": "He has been feeling depressed for a few weeks.",
+    "example_2_translation": "Many people feel depressed in winter.",
+    "example_3_translation": "I know feeling depressed."
+  },
+  {
+    "chunk_text": "avoir le cafard",
+    "meaning": "to have the blues, to feel gloomy",
+    "primary_function": "expression",
+    "communicative_purpose": "sadness and melancholy",
+    "patterns": [
+      "J'ai le cafard ce soir.",
+      "L'hiver, elle a souvent le cafard."
+    ],
+    "collocates": [
+      "cafard",
+      "tristesse",
+      "mélancolie",
+      "morne",
+      "défaitisme"
+    ],
+    "level": "B1",
+    "example_1": "J'ai le cafard ce soir.",
+    "example_2": "L'hiver, elle a souvent le cafard.",
+    "example_3": "Je connais avoir le cafard.",
+    "example_1_translation": "I'm feeling blue this evening.",
+    "example_2_translation": "In winter, she often feels blue.",
+    "example_3_translation": "I know I feel blue."
+  },
+  {
+    "chunk_text": "être en colère contre",
+    "meaning": "to be angry at",
+    "primary_function": "expression",
+    "communicative_purpose": "expressing anger",
+    "patterns": [
+      "Je suis en colère contre lui.",
+      "Elle est très en colère contre cette décision."
+    ],
+    "collocates": [
+      "colère",
+      "furieux",
+      "irrité",
+      "indigné",
+      "fâché"
+    ],
+    "level": "A1",
+    "example_1": "Je suis en colère contre lui.",
+    "example_2": "Elle est très en colère contre cette décision.",
+    "example_3": "Je connais être en colère contre.",
+    "example_1_translation": "I'm angry with him.",
+    "example_2_translation": "She is very angry about this decision.",
+    "example_3_translation": "I know how to be angry with."
+  },
+  {
+    "chunk_text": "avoir peur de",
+    "meaning": "to be afraid of",
+    "primary_function": "expression",
+    "communicative_purpose": "fear and phobia",
+    "patterns": [
+      "J'ai peur des araignées.",
+      "Elle a peur de ne pas réussir."
+    ],
+    "collocates": [
+      "peur",
+      "crainte",
+      "terreur",
+      "phobie",
+      "anxiété"
+    ],
+    "level": "A1",
+    "example_1": "J'ai peur des araignées.",
+    "example_2": "Elle a peur de ne pas réussir.",
+    "example_3": "Je connais avoir peur de.",
+    "example_1_translation": "I'm afraid of spiders.",
+    "example_2_translation": "She is afraid of not succeeding.",
+    "example_3_translation": "I know being afraid of."
+  },
+  {
+    "chunk_text": "être jaloux de",
+    "meaning": "to be jealous of",
+    "primary_function": "expression",
+    "communicative_purpose": "jealousy and envy",
+    "patterns": [
+      "Il est jaloux de son frère.",
+      "Elle est jalouse de la réussite de sa collègue."
+    ],
+    "collocates": [
+      "jalousie",
+      "envie",
+      "rivalité",
+      "possessivité",
+      "cupidité"
+    ],
+    "level": "A2",
+    "example_1": "Il est jaloux de son frère.",
+    "example_2": "Elle est jalouse de la réussite de sa collègue.",
+    "example_3": "On utilise être jaloux de dans la vie quotidienne.",
+    "example_1_translation": "He is jealous of his brother.",
+    "example_2_translation": "She is jealous of her colleague's success.",
+    "example_3_translation": "We use being jealous of in everyday life."
+  },
+  {
+    "chunk_text": "se remettre en question",
+    "meaning": "to question oneself",
+    "primary_function": "expression",
+    "communicative_purpose": "self-reflection and doubt",
+    "patterns": [
+      "Il se remet souvent en question.",
+      "Cette expérience l'a obligée à se remettre en question."
+    ],
+    "collocates": [
+      "questionnement",
+      "doute",
+      "réflexion",
+      "analyse",
+      "critique"
+    ],
+    "level": "B2",
+    "example_1": "Il se remet souvent en question.",
+    "example_2": "Cette expérience l'a obligée à se remettre en question.",
+    "example_3": "On utilise se remettre en question dans la vie quotidienne.",
+    "example_1_translation": "He often questions himself.",
+    "example_2_translation": "This experience forced her to question herself.",
+    "example_3_translation": "We use questioning ourselves in daily life."
+  },
+  {
+    "chunk_text": "surmonter une épreuve",
+    "meaning": "to overcome a trial/difficulty",
+    "primary_function": "expression",
+    "communicative_purpose": "coping with adversity",
+    "patterns": [
+      "Il a su surmonter cette épreuve difficile.",
+      "Nous devons surmonter cette épreuve ensemble."
+    ],
+    "collocates": [
+      "surmonter",
+      "épreuve",
+      "difficulté",
+      "obstacle",
+      "résilience"
+    ],
+    "level": "B1",
+    "example_1": "Il a su surmonter cette épreuve difficile.",
+    "example_2": "Nous devons surmonter cette épreuve ensemble.",
+    "example_3": "Je connais surmonter une épreuve.",
+    "example_1_translation": "He was able to overcome this difficult ordeal.",
+    "example_2_translation": "We must get through this together.",
+    "example_3_translation": "I know how to overcome a challenge."
+  },
+  {
+    "chunk_text": "avoir le moral à zéro",
+    "meaning": "to have one's morale at rock bottom",
+    "primary_function": "expression",
+    "communicative_purpose": "extremely low morale",
+    "patterns": [
+      "Avec cette nouvelle, j'ai le moral à zéro.",
+      "Elle avait le moral à zéro après son échec."
+    ],
+    "collocates": [
+      "moral",
+      "découragement",
+      "démotivation",
+      "abattement",
+      "tristesse"
+    ],
+    "level": "B1",
+    "example_1": "Avec cette nouvelle, j'ai le moral à zéro.",
+    "example_2": "Elle avait le moral à zéro après son échec.",
+    "example_3": "Je connais avoir le moral à zéro.",
+    "example_1_translation": "With this news, my morale is at zero.",
+    "example_2_translation": "Her morale was at zero after her failure.",
+    "example_3_translation": "I know my morale is at zero."
+  },
+  {
+    "chunk_text": "être满腹狐疑",
+    "meaning": "to be full of doubts, to be suspicious",
+    "primary_function": "expression",
+    "communicative_purpose": "suspicion and doubt",
+    "patterns": [
+      "Je suis plein de soupçons après ce qu'il a dit.",
+      "Elle est pleine de soupçons concernant ses intentions."
+    ],
+    "collocates": [
+      "soupçon",
+      "doute",
+      "méfiance",
+      "suspicion",
+      "dubitatif"
+    ],
+    "level": "B2",
+    "example_1": "Je suis plein de soupçons après ce qu'il a dit.",
+    "example_2": "Elle est pleine de soupçons concernant ses intentions.",
+    "example_3": "On utilise être满腹狐疑 dans la vie quotidienne.",
+    "example_1_translation": "I'm full of suspicion after what he said.",
+    "example_2_translation": "She is full of suspicions about his intentions.",
+    "example_3_translation": "We use être满腹狐疑 in daily life."
+  },
+  {
+    "chunk_text": "faire contre mauvaise fortune bon coeur",
+    "meaning": "to make the best of a bad situation",
+    "primary_function": "expression",
+    "communicative_purpose": "coping with adversity",
+    "patterns": [
+      "Il faut faire contre mauvaise fortune bon coeur.",
+      "Elle a fait contre mauvaise fortune bon coeur."
+    ],
+    "collocates": [
+      " résignation",
+      "optimisme",
+      "courage",
+      "philosophie",
+      " ACCEPTATION"
+    ],
+    "level": "B2",
+    "example_1": "Il faut faire contre mauvaise fortune bon coeur.",
+    "example_2": "Elle a fait contre mauvaise fortune bon coeur.",
+    "example_3": "On utilise faire contre mauvaise fortune bon coeur dans la vie quotidienne.",
+    "example_1_translation": "You have to face bad luck with all your heart.",
+    "example_2_translation": "She put up a brave face against bad luck.",
+    "example_3_translation": "We use to make good against bad luck in daily life."
+  },
+  {
+    "chunk_text": "perdre patience",
+    "meaning": "to lose patience",
+    "primary_function": "expression",
+    "communicative_purpose": "impatience expression",
+    "patterns": [
+      "J'ai perdu patience avec lui.",
+      "Le public a perdu patience face aux retards."
+    ],
+    "collocates": [
+      "patience",
+      "impatience",
+      "agacement",
+      "frustration",
+      "énervement"
+    ],
+    "level": "A2",
+    "example_1": "J'ai perdu patience avec lui.",
+    "example_2": "Le public a perdu patience face aux retards.",
+    "example_3": "On utilise perdre patience dans la vie quotidienne.",
+    "example_1_translation": "I lost patience with him.",
+    "example_2_translation": "The public has lost patience with the delays.",
+    "example_3_translation": "We use losing patience in daily life."
+  },
+  {
+    "chunk_text": "avoir le coeur brisé",
+    "meaning": "to have a broken heart",
+    "primary_function": "expression",
+    "communicative_purpose": "emotional heartbreak",
+    "patterns": [
+      "Elle a le coeur brisé après cette rupture.",
+      "Son départ m'a laissé le coeur brisé."
+    ],
+    "collocates": [
+      "coeur",
+      "rupture",
+      "deuil",
+      "amour",
+      "douleur",
+      "souffrance"
+    ],
+    "level": "A2",
+    "example_1": "Elle a le coeur brisé après cette rupture.",
+    "example_2": "Son départ m'a laissé le coeur brisé.",
+    "example_3": "On utilise avoir le coeur brisé dans la vie quotidienne.",
+    "example_1_translation": "She is heartbroken after this breakup.",
+    "example_2_translation": "His departure left me heartbroken.",
+    "example_3_translation": "We use having a broken heart in everyday life."
+  }
+]

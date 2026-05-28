@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "poser sa candidature",
+    "meaning": "to apply for a position",
+    "primary_function": "Job application expression",
+    "communicative_purpose": "Formal act of submitting application for employment",
+    "trigger_situations": "When applying for jobs, responding to job postings, career development",
+    "contexts": "Professional settings, job search, human resources contexts",
+    "variations": "poser sa candidature, envoyer sa candidature, faire acte de candidature",
+    "common_mistakes": "Confusing with 'déposer sa candidature' which is more formal; using wrong reflexive form",
+    "level": "B2",
+    "patterns": [
+      "poser + sa + candidature"
+    ],
+    "collocates": "poser sa candidature, j'ai posé ma candidature, soumettre sa candidature",
+    "example_1": "poser + sa + candidature",
+    "example_2": "Tu peux dire poser sa candidature quand tu veux exprimer to apply for a position.",
+    "example_3": "On utilise poser sa candidature dans la vie quotidienne.",
+    "example_1_translation": "poser + sa + candidature",
+    "example_2_translation": "You can say apply when you want to express to apply for a position.",
+    "example_3_translation": "We use applying in everyday life."
+  },
+  {
+    "chunk_text": "avoir de l'expérience",
+    "meaning": "to have experience",
+    "primary_function": "Qualification expression",
+    "communicative_purpose": "Indicating possession of professional or practical experience",
+    "trigger_situations": "During job interviews, describing qualifications, writing CV",
+    "contexts": "Professional contexts, job applications, career discussions",
+    "variations": "avoir de l'expérience, posséder de l'expérience, bénéficier de l'expérience",
+    "common_mistakes": "Forgetting 'de'; confusing with 'expérience' meaning experiment",
+    "level": "B2",
+    "patterns": [
+      "avoir + de + l'expérience"
+    ],
+    "collocates": "avoir de l'expérience, beaucoup d'expérience, expérience professionnelle",
+    "example_1": "avoir + de + l'expérience",
+    "example_2": "Tu peux dire avoir de l'expérience quand tu veux exprimer to have experience.",
+    "example_3": "On utilise avoir de l'expérience dans la vie quotidienne.",
+    "example_1_translation": "have + more + experience",
+    "example_2_translation": "You can say have experience when you want to express to have experience.",
+    "example_3_translation": "We use having experience in daily life."
+  },
+  {
+    "chunk_text": "être au chômage",
+    "meaning": "to be unemployed",
+    "primary_function": "Employment status expression",
+    "communicative_purpose": "Indicating lack of employment, being without a job",
+    "trigger_situations": "During job search, when explaining not working, in statistics contexts",
+    "contexts": "Social discussions, statistics, job center contexts",
+    "variations": "être au chômage, être sans emploi, être au RSA (French specific)",
+    "common_mistakes": "Confusing with 'chômé' meaning temporarily not working; using wrong preposition",
+    "level": "B2",
+    "patterns": [
+      "être + au + chômage"
+    ],
+    "collocates": "être au chômage, depuis combien de temps au chômage, le chômage",
+    "example_1": "être + au + chômage",
+    "example_2": "Tu peux dire être au chômage quand tu veux exprimer to be unemployed.",
+    "example_3": "On utilise être au chômage dans la vie quotidienne.",
+    "example_1_translation": "être + au + chômage",
+    "example_2_translation": "You can say be unemployed when you mean to be unemployed.",
+    "example_3_translation": "We use being unemployed in everyday life."
+  },
+  {
+    "chunk_text": "négocier un contrat",
+    "meaning": "to negotiate a contract",
+    "primary_function": "Business expression",
+    "communicative_purpose": "Discussing terms and conditions to reach agreement",
+    "trigger_situations": "During business deals, employment negotiations, service agreements",
+    "contexts": "Business settings, legal contexts, professional negotiations",
+    "variations": "négocier un contrat, signer un contrat, rompre un contrat",
+    "common_mistakes": "Confusing with 'négocier un prix' (negotiate a price); using wrong verb",
+    "level": "B2",
+    "patterns": [
+      "négocier + un + contrat"
+    ],
+    "collocates": "négocier un contrat, avons négocié,有能力 négocier",
+    "example_1": "négocier + un + contrat",
+    "example_2": "Tu peux dire négocier un contrat quand tu veux exprimer to negotiate a contract.",
+    "example_3": "On utilise négocier un contrat dans la vie quotidienne.",
+    "example_1_translation": "négocier + un + contrat",
+    "example_2_translation": "You can say negotiate a contract when you mean to negotiate a contract.",
+    "example_3_translation": "We use negotiating a contract in everyday life."
+  },
+  {
+    "chunk_text": "faire preuve de",
+    "meaning": "to demonstrate/to show evidence of",
+    "primary_function": "Demonstration expression",
+    "communicative_purpose": "Indicating that someone demonstrates a quality or characteristic",
+    "trigger_situations": "During evaluations, describing behavior, in professional contexts",
+    "contexts": "Workplace evaluations, character references, professional assessments",
+    "variations": "faire preuve de, démontrer, manifester",
+    "common_mistakes": "Confusing with 'faire la preuve' (prove); forgetting 'de'",
+    "level": "B2",
+    "patterns": [
+      "faire + preuve + de"
+    ],
+    "collocates": "faire preuve de, preuves de, fait preuve de professionnalisme",
+    "example_1": "faire + preuve + de",
+    "example_2": "Tu peux dire faire preuve de quand tu veux exprimer to demonstrate/to show evidence of.",
+    "example_3": "On utilise faire preuve de dans la vie quotidienne.",
+    "example_1_translation": "faire + preuve + de",
+    "example_2_translation": "You can say to demonstrate when you want to express to demonstrate/to show evidence of.",
+    "example_3_translation": "We use to demonstrate in daily life."
+  },
+  {
+    "chunk_text": "prendre des décisions",
+    "meaning": "to make decisions",
+    "primary_function": "Decision-making expression",
+    "communicative_purpose": "Describing the process of choosing between options",
+    "trigger_situations": "During management roles, in strategic planning, in personal life",
+    "contexts": "Business contexts, management, personal finance",
+    "variations": "prendre des décisions, décider, arrêter une décision",
+    "common_mistakes": "Confusing with 'décider de' (decide on); using wrong verb form",
+    "level": "B2",
+    "patterns": [
+      "prendre + des + décisions"
+    ],
+    "collocates": "prendre des décisions, décisions stratégiques,有能力 prendre des décisions",
+    "example_1": "prendre + des + décisions",
+    "example_2": "Tu peux dire prendre des décisions quand tu veux exprimer to make decisions.",
+    "example_3": "On utilise prendre des décisions dans la vie quotidienne.",
+    "example_1_translation": "prendre + des + décisions",
+    "example_2_translation": "You can say make decisions when you mean to make decisions.",
+    "example_3_translation": "We use making decisions in daily life."
+  },
+  {
+    "chunk_text": "être promu",
+    "meaning": "to be promoted",
+    "primary_function": "Career advancement expression",
+    "communicative_purpose": "Indicating advancement to higher position in organization",
+    "trigger_situations": "During career development, after good performance, in corporate contexts",
+    "contexts": "Workplace, human resources, career discussions",
+    "variations": "être promu, obtenir une promotion, être élevé en grade",
+    "common_mistakes": "Confusing passive with active form; using 'promouvoir' incorrectly",
+    "level": "B2",
+    "patterns": [
+      "être + promu"
+    ],
+    "collocates": "être promu, il a été promu, promu au poste de",
+    "example_1": "être + promu",
+    "example_2": "Tu peux dire être promu quand tu veux exprimer to be promoted.",
+    "example_3": "On utilise être promu dans la vie quotidienne.",
+    "example_1_translation": "être + promu",
+    "example_2_translation": "You can say be promoted when you want to express to be promoted.",
+    "example_3_translation": "We use to be promoted in daily life."
+  },
+  {
+    "chunk_text": "démissionner",
+    "meaning": "to resign/to quit",
+    "primary_function": "Employment termination expression",
+    "communicative_purpose": "Formal act of leaving a job voluntarily",
+    "trigger_situations": "When changing jobs, leaving a toxic work environment, retirement",
+    "contexts": "Workplace, human resources, professional discussions",
+    "variations": "démissionner, quitter son poste, donner sa démission",
+    "common_mistakes": "Confusing with 'renoncer' (renounce); using wrong register",
+    "level": "B2",
+    "patterns": [
+      "démissionner"
+    ],
+    "collocates": "démissionner, il a démissionné, envie de démissionner",
+    "example_1": "démissionner",
+    "example_2": "Tu peux dire démissionner quand tu veux exprimer to resign/to quit.",
+    "example_3": "On utilise démissionner dans la vie quotidienne.",
+    "example_1_translation": "resign",
+    "example_2_translation": "You can say resign when you mean to resign/to quit.",
+    "example_3_translation": "We use resign in everyday life."
+  },
+  {
+    "chunk_text": "travailler sous pression",
+    "meaning": "to work under pressure",
+    "primary_function": "Work condition expression",
+    "communicative_purpose": "Describing working in high-stress environment with deadlines",
+    "trigger_situations": "During stressful work periods, in demanding jobs, in crisis situations",
+    "contexts": "Corporate environments, hospitals, emergency services",
+    "variations": "travailler sous pression, être sous pression, faire face à la pression",
+    "common_mistakes": "Confusing preposition 'sous' with 'dans'; using wrong article",
+    "level": "B2",
+    "patterns": [
+      "travailler + sous + pression"
+    ],
+    "collocates": "travailler sous pression, beaucoup de pression, pression de travail",
+    "example_1": "travailler + sous + pression",
+    "example_2": "Tu peux dire travailler sous pression quand tu veux exprimer to work under pressure.",
+    "example_3": "On utilise travailler sous pression dans la vie quotidienne.",
+    "example_1_translation": "travailler + sous + pression",
+    "example_2_translation": "You can say work under pressure when you mean to work under pressure.",
+    "example_3_translation": "We use working under pressure in daily life."
+  },
+  {
+    "chunk_text": "gagner sa vie",
+    "meaning": "to earn one's living/to make a living",
+    "primary_function": "Livelihood expression",
+    "communicative_purpose": "Describing earning money to support oneself",
+    "trigger_situations": "When discussing employment, during career talks, in financial contexts",
+    "contexts": "Personal finance, career discussions, family conversations",
+    "variations": "gagner sa vie, subvenir à ses besoins, subvenir à ses besoins",
+    "common_mistakes": "Confusing with 'gagner du temps' (save time); using wrong article",
+    "level": "B2",
+    "patterns": [
+      "gagner + sa + vie"
+    ],
+    "collocates": "gagner sa vie, bien gagner sa vie, gagne-pain",
+    "example_1": "gagner + sa + vie",
+    "example_2": "Tu peux dire gagner sa vie quand tu veux exprimer to earn one's living/to make a living.",
+    "example_3": "On utilise gagner sa vie dans la vie quotidienne.",
+    "example_1_translation": "gagner + sa + vie",
+    "example_2_translation": "You can say earn one's living when you mean to earn one's living/to make a living.",
+    "example_3_translation": "We use earning a living in everyday life."
+  },
+  {
+    "chunk_text": "être compétent",
+    "meaning": "to be competent/to be skilled",
+    "primary_function": "Skill evaluation expression",
+    "communicative_purpose": "Indicating possession of required skills or abilities",
+    "trigger_situations": "During evaluations, job interviews, skill assessments",
+    "contexts": "Professional settings, human resources, certifications",
+    "variations": "être compétent, être qualifié, avoir des compétences",
+    "common_mistakes": "Confusing with English meaning; using with wrong noun gender",
+    "level": "B2",
+    "patterns": [
+      "être + compétent"
+    ],
+    "collocates": "être compétent, très compétent, compétent dans son domaine",
+    "example_1": "être + compétent",
+    "example_2": "Tu peux dire être compétent quand tu veux exprimer to be competent/to be skilled.",
+    "example_3": "On utilise être compétent dans la vie quotidienne.",
+    "example_1_translation": "être + compétent",
+    "example_2_translation": "You can say be competent when you want to express to be competent/to be skilled.",
+    "example_3_translation": "We use being competent in daily life."
+  },
+  {
+    "chunk_text": "congé parental",
+    "meaning": "parental leave",
+    "primary_function": "Work leave expression",
+    "communicative_purpose": "Designated time off for new parents to care for child",
+    "trigger_situations": "After childbirth, adoption, when caring for new baby",
+    "contexts": "Workplace policies, family discussions, HR contexts",
+    "variations": "congé parental, congé maternité (mothers only), congé paternité (fathers only)",
+    "common_mistakes": "Confusing types of leave; not knowing French-specific terminology",
+    "level": "B2",
+    "patterns": [
+      "congé + parental"
+    ],
+    "collocates": "congé parental, prendre un congé parental, durée du congé parental",
+    "example_1": "congé + parental",
+    "example_2": "Tu peux dire congé parental quand tu veux exprimer parental leave.",
+    "example_3": "On utilise congé parental dans la vie quotidienne.",
+    "example_1_translation": "congé + parental",
+    "example_2_translation": "You can say parental leave when you want to express parental leave.",
+    "example_3_translation": "We use parental leave in everyday life."
+  },
+  {
+    "chunk_text": "faire des heures supplémentaires",
+    "meaning": "to work overtime",
+    "primary_function": "Work time expression",
+    "communicative_purpose": "Describing working beyond normal scheduled hours",
+    "trigger_situations": "During busy periods, to meet deadlines, in demanding jobs",
+    "contexts": "Workplace, overtime discussions, compensation contexts",
+    "variations": "faire des heures supplémentaires, faire des heures supplémentaires, faire du rab' (informal)",
+    "common_mistakes": "Confusing with 'faire des heures' alone; using wrong adjective",
+    "level": "B2",
+    "patterns": [
+      "faire + des + heures + supplémentaires"
+    ],
+    "collocates": "faire des heures supplémentaires, heures supplémentaires payées, trop d'heures supplémentaires",
+    "example_1": "faire + des + heures + supplémentaires",
+    "example_2": "Tu peux dire faire des heures supplémentaires quand tu veux exprimer to work overtime.",
+    "example_3": "On utilise faire des heures supplémentaires dans la vie quotidienne.",
+    "example_1_translation": "faire + des + heures + supplémentaires",
+    "example_2_translation": "You can say work overtime when you mean to work overtime.",
+    "example_3_translation": "We use working overtime in daily life."
+  },
+  {
+    "chunk_text": "avoir un entretien",
+    "meaning": "to have an interview",
+    "primary_function": "Job interview expression",
+    "communicative_purpose": "Indicating scheduled meeting to evaluate candidacy",
+    "trigger_situations": "During job search, during evaluation periods, in professional settings",
+    "contexts": "Human resources, job search, professional meetings",
+    "variations": "avoir un entretien, passer un entretien, être convoqué à un entretien",
+    "common_mistakes": "Confusing with 'entretien' meaning maintenance; using wrong article",
+    "level": "B2",
+    "patterns": [
+      "avoir + un + entretien"
+    ],
+    "collocates": "avoir un entretien, entretien d'embauche, préparer un entretien",
+    "example_1": "avoir + un + entretien",
+    "example_2": "Tu peux dire avoir un entretien quand tu veux exprimer to have an interview.",
+    "example_3": "On utilise avoir un entretien dans la vie quotidienne.",
+    "example_1_translation": "avoir + un + entretien",
+    "example_2_translation": "You can say have an interview when you want to express to have an interview.",
+    "example_3_translation": "We use having an interview in daily life."
+  },
+  {
+    "chunk_text": "poser un LAP",
+    "meaning": "to take a leave of absence (congé)s",
+    "primary_function": "Leave of absence expression",
+    "communicative_purpose": "Designated time away from work for specific reasons",
+    "trigger_situations": "During sabbatical, for personal reasons, for extended illness",
+    "contexts": "Workplace, human resources, formal leave requests",
+    "variations": "poser un LAP, prendre un congé sans solde, être en LAP",
+    "common_mistakes": "Confusing with other types of leave; not knowing the acronym meaning",
+    "level": "B2",
+    "patterns": [
+      "poser + un + LAP"
+    ],
+    "collocates": "poser un LAP, LAP demandé, durée du LAP",
+    "example_1": "poser + un + LAP",
+    "example_2": "Tu peux dire poser un LAP quand tu veux exprimer to take a leave of absence (congé)s.",
+    "example_3": "On utilise poser un LAP dans la vie quotidienne.",
+    "example_1_translation": "poser + un + LAP",
+    "example_2_translation": "You can say put a LAP when you want to express to take a leave of absence (congé)s.",
+    "example_3_translation": "We use a LAP in everyday life."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "avoir un animal de compagnie",
+    "meaning": "to have a pet",
+    "primary_function": "expression",
+    "communicative_purpose": "describing pet ownership",
+    "patterns": [
+      "Nous avons un animal de compagnie.",
+      "Avoir un animal de compagnie est responsabilités."
+    ],
+    "collocates": [
+      "animal",
+      "compagnie",
+      "pet",
+      "responsabilité",
+      "soin"
+    ],
+    "level": "A2",
+    "example_1": "Nous avons un animal de compagnie.",
+    "example_2": "Avoir un animal de compagnie est responsabilités.",
+    "example_3": "On utilise avoir un animal de compagnie dans la vie quotidienne.",
+    "example_1_translation": "We have a pet.",
+    "example_2_translation": "Having a pet is responsibilities.",
+    "example_3_translation": "We use having a pet in daily life."
+  },
+  {
+    "chunk_text": "promener le chien",
+    "meaning": "to walk the dog",
+    "primary_function": "expression",
+    "communicative_purpose": "describing dog walking",
+    "patterns": [
+      "Je promène le chien chaque matin.",
+      "Elle promène son chien dans le parc."
+    ],
+    "collocates": [
+      "chien",
+      "promenade",
+      "promener",
+      "sortie",
+      "exercice"
+    ],
+    "level": "A1",
+    "example_1": "Je promène le chien chaque matin.",
+    "example_2": "Elle promène son chien dans le parc.",
+    "example_3": "Je connais promener le chien.",
+    "example_1_translation": "I walk the dog every morning.",
+    "example_2_translation": "She walks her dog in the park.",
+    "example_3_translation": "I know how to walk the dog."
+  },
+  {
+    "chunk_text": "nourrir le chat",
+    "meaning": "to feed the cat",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cat feeding",
+    "patterns": [
+      "Je nourris le chat deux fois par jour.",
+      "Le chat doit être nourri régulièrement."
+    ],
+    "collocates": [
+      "chat",
+      "nourrir",
+      "nourriture",
+      " gamelle",
+      "repas"
+    ],
+    "level": "A1",
+    "example_1": "Je nourris le chat deux fois par jour.",
+    "example_2": "Le chat doit être nourri régulièrement.",
+    "example_3": "Je connais nourrir le chat.",
+    "example_1_translation": "I feed the cat twice a day.",
+    "example_2_translation": "The cat must be fed regularly.",
+    "example_3_translation": "I know how to feed the cat."
+  },
+  {
+    "chunk_text": "un chenil",
+    "meaning": "a kennel",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to dog shelter",
+    "patterns": [
+      "Le chien est au chenil.",
+      "Nous avons mis le chien en chenil pendant les vacances."
+    ],
+    "collocates": [
+      "chenil",
+      "chien",
+      "abri",
+      "refuge",
+      "kennels"
+    ],
+    "level": "B1",
+    "example_1": "Le chien est au chenil.",
+    "example_2": "Nous avons mis le chien en chenil pendant les vacances.",
+    "example_3": "Je connais un chenil.",
+    "example_1_translation": "The dog is in the kennel.",
+    "example_2_translation": "We put the dog in a kennel during the holidays.",
+    "example_3_translation": "I know a kennel."
+  },
+  {
+    "chunk_text": "une visite chez le vétérinaire",
+    "meaning": "a visit to the vet",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing veterinary visits",
+    "patterns": [
+      "Le chat doit passer une visite chez le vétérinaire.",
+      "La visite chez le vétérinaire est prévue demain."
+    ],
+    "collocates": [
+      "vétérinaire",
+      "visite",
+      "animal",
+      "santé",
+      "soin"
+    ],
+    "level": "A2",
+    "example_1": "Le chat doit passer une visite chez le vétérinaire.",
+    "example_2": "La visite chez le vétérinaire est prévue demain.",
+    "example_3": "On utilise une visite chez le vétérinaire dans la vie quotidienne.",
+    "example_1_translation": "The cat needs a visit to the veterinarian.",
+    "example_2_translation": "The vet visit is scheduled for tomorrow.",
+    "example_3_translation": "We use a visit to the veterinarian in daily life."
+  },
+  {
+    "chunk_text": "élever des poules",
+    "meaning": "to raise chickens",
+    "primary_function": "expression",
+    "communicative_purpose": "describing chicken raising",
+    "patterns": [
+      "Nous elevons des poules dans notre jardin.",
+      "Élever des poules est de plus en plus populaire."
+    ],
+    "collocates": [
+      "poules",
+      "élever",
+      "poulailler",
+      "oeufs",
+      "élevage"
+    ],
+    "level": "A2",
+    "example_1": "Nous elevons des poules dans notre jardin.",
+    "example_2": "Élever des poules est de plus en plus populaire.",
+    "example_3": "On utilise élever des poules dans la vie quotidienne.",
+    "example_1_translation": "We raise chickens in our garden.",
+    "example_2_translation": "Raising chickens is becoming more and more popular.",
+    "example_3_translation": "Raising chickens is used in everyday life."
+  },
+  {
+    "chunk_text": "un aquarium",
+    "meaning": "an aquarium",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to fish tank",
+    "patterns": [
+      "Nous avons un aquarium avec des poissons rouges.",
+      "L'aquarium doit être nettoyé régulièrement."
+    ],
+    "collocates": [
+      "aquarium",
+      "poisson",
+      "eau",
+      "bocal",
+      "aquatique"
+    ],
+    "level": "A2",
+    "example_1": "Nous avons un aquarium avec des poissons rouges.",
+    "example_2": "L'aquarium doit être nettoyé régulièrement.",
+    "example_3": "On utilise un aquarium dans la vie quotidienne.",
+    "example_1_translation": "We have an aquarium with goldfish.",
+    "example_2_translation": "The aquarium should be cleaned regularly.",
+    "example_3_translation": "We use an aquarium in everyday life."
+  },
+  {
+    "chunk_text": "s'occuper d'un animal",
+    "meaning": "to take care of an animal",
+    "primary_function": "expression",
+    "communicative_purpose": "describing animal care",
+    "patterns": [
+      "Elle s'occupe bien de son animal.",
+      "S'occuper d'un animal demande du temps."
+    ],
+    "collocates": [
+      "animal",
+      "soin",
+      "responsabilité",
+      "attention",
+      "protéger"
+    ],
+    "level": "A2",
+    "example_1": "Elle s'occupe bien de son animal.",
+    "example_2": "S'occuper d'un animal demande du temps.",
+    "example_3": "On utilise s'occuper d'un animal dans la vie quotidienne.",
+    "example_1_translation": "She takes good care of her animal.",
+    "example_2_translation": "Caring for an animal takes time.",
+    "example_3_translation": "We use caring for an animal in everyday life."
+  },
+  {
+    "chunk_text": "un动物 abandonné",
+    "meaning": "an abandoned animal",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing abandoned pets",
+    "patterns": [
+      "Cet animal abandonné a besoin d'un foyer.",
+      "La shelter recueille les animaux abandonnés."
+    ],
+    "collocates": [
+      "abandonné",
+      "animal",
+      "refuge",
+      "sans abri",
+      " maltraitance"
+    ],
+    "level": "A2",
+    "example_1": "Cet animal abandonné a besoin d'un foyer.",
+    "example_2": "La shelter recueille les animaux abandonnés.",
+    "example_3": "On utilise un动物 abandonné dans la vie quotidienne.",
+    "example_1_translation": "This abandoned animal needs a home.",
+    "example_2_translation": "The shelter takes in abandoned animals.",
+    "example_3_translation": "We use an abandoned 动物 in daily life."
+  },
+  {
+    "chunk_text": "jouer avec le chat",
+    "meaning": "to play with the cat",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cat play",
+    "patterns": [
+      "L'enfant joue avec le chat.",
+      "Le chat aime jouer avec une boule de laine."
+    ],
+    "collocates": [
+      "chat",
+      "jeu",
+      "jouer",
+      "loisir",
+      "détente"
+    ],
+    "level": "A1",
+    "example_1": "L'enfant joue avec le chat.",
+    "example_2": "Le chat aime jouer avec une boule de laine.",
+    "example_3": "Je connais jouer avec le chat.",
+    "example_1_translation": "The child plays with the cat.",
+    "example_2_translation": "The cat likes to play with a ball of wool.",
+    "example_3_translation": "I know how to play with the cat."
+  },
+  {
+    "chunk_text": "dresser un chien",
+    "meaning": "to train a dog",
+    "primary_function": "expression",
+    "communicative_purpose": "describing dog training",
+    "patterns": [
+      "Il faut dresser le chien dès son jeune âge.",
+      "Un dresseur peut dresser le chien."
+    ],
+    "collocates": [
+      "chien",
+      "dresser",
+      "dressage",
+      "éduquer",
+      "ordre"
+    ],
+    "level": "B1",
+    "example_1": "Il faut dresser le chien dès son jeune âge.",
+    "example_2": "Un dresseur peut dresser le chien.",
+    "example_3": "Je connais dresser un chien.",
+    "example_1_translation": "The dog must be trained from a young age.",
+    "example_2_translation": "A trainer can train the dog.",
+    "example_3_translation": "I know how to train a dog."
+  },
+  {
+    "chunk_text": "une laisse",
+    "meaning": "a leash",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to dog leash",
+    "patterns": [
+      "Le chien doit être tenu en laisse.",
+      "J'ai oublié la laisse du chien."
+    ],
+    "collocates": [
+      "laisse",
+      "chien",
+      "tenu",
+      "promenade",
+      "attacher"
+    ],
+    "level": "A1",
+    "example_1": "Le chien doit être tenu en laisse.",
+    "example_2": "J'ai oublié la laisse du chien.",
+    "example_3": "Je connais une laisse.",
+    "example_1_translation": "The dog must be kept on a leash.",
+    "example_2_translation": "I forgot the dog's leash.",
+    "example_3_translation": "I know a leash."
+  },
+  {
+    "chunk_text": "donner à manger",
+    "meaning": "to feed, to give food",
+    "primary_function": "expression",
+    "communicative_purpose": "describing feeding animals",
+    "patterns": [
+      "N'oublie pas de donner à manger au chien.",
+      "Je donne à manger aux oiseaux le matin."
+    ],
+    "collocates": [
+      "manger",
+      "nourriture",
+      "nourrir",
+      "repas",
+      "portion"
+    ],
+    "level": "A1",
+    "example_1": "N'oublie pas de donner à manger au chien.",
+    "example_2": "Je donne à manger aux oiseaux le matin.",
+    "example_3": "Je connais donner à manger.",
+    "example_1_translation": "Don't forget to feed the dog.",
+    "example_2_translation": "I feed the birds in the morning.",
+    "example_3_translation": "I know how to feed."
+  },
+  {
+    "chunk_text": "un oiseaux",
+    "meaning": "a bird",
+    "primary_function": "noun",
+    "communicative_purpose": "referring to birds as pets",
+    "patterns": [
+      "Nous avons un oiseaux dans une cage.",
+      "L'oiseaux chante le matin."
+    ],
+    "collocates": [
+      "oiseaux",
+      "volaille",
+      " cage",
+      "chant",
+      "ailes"
+    ],
+    "level": "A1",
+    "example_1": "Nous avons un oiseaux dans une cage.",
+    "example_2": "L'oiseaux chante le matin.",
+    "example_3": "Je connais un oiseaux.",
+    "example_1_translation": "We have a bird in a cage.",
+    "example_2_translation": "The birds sing in the morning.",
+    "example_3_translation": "I know a bird."
+  },
+  {
+    "chunk_text": "l'espèce menacée",
+    "meaning": "the endangered species",
+    "primary_function": "noun phrase",
+    "communicative_purpose": "describing wildlife conservation",
+    "patterns": [
+      "Le panda est une espèce menacée.",
+      "Nous devons protéger les espèces menacées."
+    ],
+    "collocates": [
+      "espèce",
+      "menacée",
+      "extinction",
+      "conservation",
+      "protéger"
+    ],
+    "level": "B1",
+    "example_1": "Le panda est une espèce menacée.",
+    "example_2": "Nous devons protéger les espèces menacées.",
+    "example_3": "Je connais l'espèce menacée.",
+    "example_1_translation": "The panda is an endangered species.",
+    "example_2_translation": "We must protect endangered species.",
+    "example_3_translation": "I know the endangered species."
+  }
+]

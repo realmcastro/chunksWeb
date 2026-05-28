@@ -1,0 +1,347 @@
+[
+  {
+    "chunk_text": "mener une expérience",
+    "meaning": "to conduct an experiment",
+    "primary_function": "expression",
+    "communicative_purpose": "scientific experimentation",
+    "patterns": [
+      "Les chercheurs ont mené une expérience cruciale",
+      "Nous avons mené cette expérience en double aveugle"
+    ],
+    "collocates": [
+      "laboratoire",
+      "test",
+      "hypothèse",
+      "résultat"
+    ],
+    "level": "B1",
+    "example_1": "Les chercheurs ont mené une expérience cruciale",
+    "example_2": "Nous avons mené cette expérience en double aveugle",
+    "example_3": "Je connais mener une expérience.",
+    "example_1_translation": "Researchers conducted a crucial experiment",
+    "example_2_translation": "We conducted this experiment double-blind.",
+    "example_3_translation": "I know how to run an experiment."
+  },
+  {
+    "chunk_text": "émettre une hypothèse",
+    "meaning": "to emit/formulate a hypothesis",
+    "primary_function": "expression",
+    "communicative_purpose": "scientific hypothesis formation",
+    "patterns": [
+      "Le scientifique a émis une hypothèse novatrice",
+      "Nous devons émettre une hypothèse avant de commencer"
+    ],
+    "collocates": [
+      "théorie",
+      "supposition",
+      "conjecture",
+      "postulat"
+    ],
+    "level": "B1",
+    "example_1": "Le scientifique a émis une hypothèse novatrice",
+    "example_2": "Nous devons émettre une hypothèse avant de commencer",
+    "example_3": "Je connais émettre une hypothèse.",
+    "example_1_translation": "The scientist put forward an innovative hypothesis",
+    "example_2_translation": "We need to make an assumption before we begin",
+    "example_3_translation": "I know how to hypothesize."
+  },
+  {
+    "chunk_text": "confirmer une théorie",
+    "meaning": "to confirm a theory",
+    "primary_function": "expression",
+    "communicative_purpose": "scientific validation",
+    "patterns": [
+      "Les preuves semblent confirmer la théorie d'Einstein",
+      "Ces résultats ne confirment pas notre théorie initiale"
+    ],
+    "collocates": [
+      "evidence",
+      "validation",
+      "vérité",
+      "découverte"
+    ],
+    "level": "B1",
+    "example_1": "Les preuves semblent confirmer la théorie d'Einstein",
+    "example_2": "Ces résultats ne confirment pas notre théorie initiale",
+    "example_3": "Je connais confirmer une théorie.",
+    "example_1_translation": "Evidence appears to support Einstein's theory",
+    "example_2_translation": "These results do not confirm our initial theory",
+    "example_3_translation": "I know how to confirm a theory."
+  },
+  {
+    "chunk_text": "remonter aux sources",
+    "meaning": "to go back to the sources, to trace to origins",
+    "primary_function": "expression",
+    "communicative_purpose": "investigating origins or roots",
+    "patterns": [
+      "Pour comprendre le phénomène, il faut remonter aux sources",
+      "Les historiens remontent aux sources de la Révolution"
+    ],
+    "collocates": [
+      "origine",
+      "fondement",
+      "racine",
+      " généalogie"
+    ],
+    "level": "B2",
+    "example_1": "Pour comprendre le phénomène, il faut remonter aux sources",
+    "example_2": "Les historiens remontent aux sources de la Révolution",
+    "example_3": "On utilise remonter aux sources dans la vie quotidienne.",
+    "example_1_translation": "To understand the phenomenon, we must go back to the sources",
+    "example_2_translation": "Historians go back to the sources of the Revolution",
+    "example_3_translation": "We use going back to the sources in everyday life."
+  },
+  {
+    "chunk_text": "faire avancer la recherche",
+    "meaning": "to advance research",
+    "primary_function": "expression",
+    "communicative_purpose": "scientific progress",
+    "patterns": [
+      "Cette découverte pourrait faire avancer la recherche sur le cancer",
+      "Les collaborations internationales font avancer la recherche"
+    ],
+    "collocates": [
+      "science",
+      "progrès",
+      "innovation",
+      "découverte"
+    ],
+    "level": "B1",
+    "example_1": "Cette découverte pourrait faire avancer la recherche sur le cancer",
+    "example_2": "Les collaborations internationales font avancer la recherche",
+    "example_3": "Je connais faire avancer la recherche.",
+    "example_1_translation": "This discovery could advance cancer research",
+    "example_2_translation": "International collaborations advance research",
+    "example_3_translation": "I know how to advance research."
+  },
+  {
+    "chunk_text": "poser des jalons",
+    "meaning": "to lay down milestones",
+    "primary_function": "expression",
+    "communicative_purpose": "establishing foundations for future work",
+    "patterns": [
+      "Ce chercheur a posé des jalons importants dans ce domaine",
+      "Nous avons posé les jalons d'une nouvelle approche thérapeutique"
+    ],
+    "collocates": [
+      "fondation",
+      "base",
+      "progrès",
+      "pionnier"
+    ],
+    "level": "B2",
+    "example_1": "Ce chercheur a posé des jalons importants dans ce domaine",
+    "example_2": "Nous avons posé les jalons d'une nouvelle approche thérapeutique",
+    "example_3": "On utilise poser des jalons dans la vie quotidienne.",
+    "example_1_translation": "This researcher has set important milestones in this field",
+    "example_2_translation": "We have laid the foundations for a new therapeutic approach",
+    "example_3_translation": "We use setting milestones in daily life."
+  },
+  {
+    "chunk_text": "démontrer par A + B",
+    "meaning": "to demonstrate conclusively",
+    "primary_function": "expression",
+    "communicative_purpose": "proving something definitively",
+    "patterns": [
+      "Le律师 a démontér par A + B la culpabilité du témoin",
+      "Il faut se démontrér par A + B que cette méthode fonctionne"
+    ],
+    "collocates": [
+      "preuve",
+      "logique",
+      "évidence",
+      "conclusion"
+    ],
+    "level": "C1",
+    "example_1": "Le律师 a démontér par A + B la culpabilité du témoin",
+    "example_2": "Il faut se démontrér par A + B que cette méthode fonctionne",
+    "example_3": "Je connais démontrer par A + B.",
+    "example_1_translation": "Le律师 a démontér par A + B la culpabilité du témoin",
+    "example_2_translation": "Il faut se démontrér par A + B que cette méthode fonctionne",
+    "example_3_translation": "I know how to demonstrate by A + B."
+  },
+  {
+    "chunk_text": "avoir voix au chapitre",
+    "meaning": "to have a say, to have input",
+    "primary_function": "expression",
+    "communicative_purpose": "having decision-making influence",
+    "patterns": [
+      "Les patients devraient avoir voix au chapitre dans leur traitement",
+      "Les scientifiques ont finalmente eu voix au chapitre dans les politiques sanitaires"
+    ],
+    "collocates": [
+      "opinion",
+      "influence",
+      "participation",
+      "décision"
+    ],
+    "level": "B2",
+    "example_1": "Les patients devraient avoir voix au chapitre dans leur traitement",
+    "example_2": "Les scientifiques ont finalmente eu voix au chapitre dans les politiques sanitaires",
+    "example_3": "On utilise avoir voix au chapitre dans la vie quotidienne.",
+    "example_1_translation": "Patients should have a voice in their treatment",
+    "example_2_translation": "Scientists finally had a voice in health policies",
+    "example_3_translation": "We use having a voice in everyday life."
+  },
+  {
+    "chunk_text": "recouper les informations",
+    "meaning": "to cross-reference information",
+    "primary_function": "expression",
+    "communicative_purpose": "verifying information through multiple sources",
+    "patterns": [
+      "Il faut recouper les informations avant de publier",
+      "Les journalistes spécialisés recoupent les informations de plusieurs sources"
+    ],
+    "collocates": [
+      "vérification",
+      "source",
+      "confirmar",
+      "fiabilité"
+    ],
+    "level": "B2",
+    "example_1": "Il faut recouper les informations avant de publier",
+    "example_2": "Les journalistes spécialisés recoupent les informations de plusieurs sources",
+    "example_3": "On utilise recouper les informations dans la vie quotidienne.",
+    "example_1_translation": "Information must be cross-checked before publishing",
+    "example_2_translation": "Specialized journalists cross-check information from several sources",
+    "example_3_translation": "We use cross-checking information in daily life."
+  },
+  {
+    "chunk_text": "étayer une argumentation",
+    "meaning": "to support an argument",
+    "primary_function": "expression",
+    "communicative_purpose": "providing evidence for claims",
+    "patterns": [
+      "Il faut étayer votre argumentation avec des données concrètes",
+      "Cette étude étaye l'argumentation des climato-sceptiques"
+    ],
+    "collocates": [
+      "argument",
+      "preuve",
+      "soutien",
+      "justification"
+    ],
+    "level": "B2",
+    "example_1": "Il faut étayer votre argumentation avec des données concrètes",
+    "example_2": "Cette étude étaye l'argumentation des climato-sceptiques",
+    "example_3": "On utilise étayer une argumentation dans la vie quotidienne.",
+    "example_1_translation": "You must support your argument with concrete data",
+    "example_2_translation": "This study supports the argument of climate skeptics",
+    "example_3_translation": "We use to support an argument in everyday life."
+  },
+  {
+    "chunk_text": "se perdre en conjectures",
+    "meaning": "to get lost in speculation",
+    "primary_function": "expression",
+    "communicative_purpose": "indulging in fruitless speculation",
+    "patterns": [
+      "Plutôt que de se perdre en conjectures, focons sur les faits",
+      "Les analystes se perdent en conjectures sur les raisons du krach"
+    ],
+    "collocates": [
+      "spéculation",
+      "hypothèse",
+      "incertitude",
+      "théorie"
+    ],
+    "level": "C1",
+    "example_1": "Plutôt que de se perdre en conjectures, focons sur les faits",
+    "example_2": "Les analystes se perdent en conjectures sur les raisons du krach",
+    "example_3": "Je connais se perdre en conjectures.",
+    "example_1_translation": "Rather than getting lost in conjecture, let's focus on the facts",
+    "example_2_translation": "Analysts speculate about the reasons for the crash",
+    "example_3_translation": "I know how to get lost in conjectures."
+  },
+  {
+    "chunk_text": "établir une corrélation",
+    "meaning": "to establish a correlation",
+    "primary_function": "expression",
+    "communicative_purpose": "scientific correlation finding",
+    "patterns": [
+      "Les études ont établi une corrélation entre pollution et santé",
+      "Il ne suffit pas d'établir une corrélation, il faut démontrer la causalité"
+    ],
+    "collocates": [
+      "lien",
+      "relation",
+      "cause",
+      "effet"
+    ],
+    "level": "B2",
+    "example_1": "Les études ont établi une corrélation entre pollution et santé",
+    "example_2": "Il ne suffit pas d'établir une corrélation, il faut démontrer la causalité",
+    "example_3": "On utilise établir une corrélation dans la vie quotidienne.",
+    "example_1_translation": "Studies have established a correlation between pollution and health",
+    "example_2_translation": "It is not enough to establish a correlation, we must demonstrate causality",
+    "example_3_translation": "We use to establish a correlation in daily life."
+  },
+  {
+    "chunk_text": "passer au crible",
+    "meaning": "to scrutinize thoroughly",
+    "primary_function": "expression",
+    "communicative_purpose": "careful analysis and examination",
+    "patterns": [
+      "Tous les témoignages seront passés au crible",
+      "Le comité passe au crible chaque demande de financement"
+    ],
+    "collocates": [
+      "analyse",
+      "scrutin",
+      "examen",
+      "vérification"
+    ],
+    "level": "B2",
+    "example_1": "Tous les témoignages seront passés au crible",
+    "example_2": "Le comité passe au crible chaque demande de financement",
+    "example_3": "On utilise passer au crible dans la vie quotidienne.",
+    "example_1_translation": "All testimonies will be scrutinized",
+    "example_2_translation": "The committee screens each funding request",
+    "example_3_translation": "We use sifting in everyday life."
+  },
+  {
+    "chunk_text": "faire la preuve de",
+    "meaning": "to prove, to demonstrate",
+    "primary_function": "expression",
+    "communicative_purpose": "providing proof or evidence",
+    "patterns": [
+      "Cette étude fait la preuve de l'efficacité du traitement",
+      "Il faut faire la preuve de votre bonne foi"
+    ],
+    "collocates": [
+      "évidence",
+      "démonstration",
+      "certification",
+      "validation"
+    ],
+    "level": "B2",
+    "example_1": "Cette étude fait la preuve de l'efficacité du traitement",
+    "example_2": "Il faut faire la preuve de votre bonne foi",
+    "example_3": "On utilise faire la preuve de dans la vie quotidienne.",
+    "example_1_translation": "This study demonstrates the effectiveness of the treatment",
+    "example_2_translation": "You must demonstrate your good faith",
+    "example_3_translation": "We use to prove in daily life."
+  },
+  {
+    "chunk_text": "péter les plombs",
+    "meaning": "to blow a fuse, to go crazy (informal)",
+    "primary_function": "expression",
+    "communicative_purpose": "losing control or going insane",
+    "patterns": [
+      "Le chercheur a complètement pété les plombs après le failure de son projet",
+      "Quand il a appris la nouvelle, il a pété les plombs"
+    ],
+    "collocates": [
+      "folie",
+      "perte",
+      "contrôle",
+      "explosion"
+    ],
+    "level": "C1",
+    "example_1": "Le chercheur a complètement pété les plombs après le failure de son projet",
+    "example_2": "Quand il a appris la nouvelle, il a pété les plombs",
+    "example_3": "Je connais péter les plombs.",
+    "example_1_translation": "The researcher completely lost his temper after the failure of his project",
+    "example_2_translation": "When he heard the news, he lost his temper.",
+    "example_3_translation": "I know how to lose my temper."
+  }
+]

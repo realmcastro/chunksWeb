@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "remplir un formulaire",
+    "meaning": "to fill out a form",
+    "primary_function": "expression",
+    "communicative_purpose": "administrative procedures",
+    "patterns": [
+      "Vous devez remplir ce formulaire.",
+      "J'ai rempli le formulaire de demande de visa."
+    ],
+    "collocates": [
+      "formulaire",
+      "demande",
+      "case",
+      "cocher",
+      "signer"
+    ],
+    "level": "A2",
+    "example_1": "Vous devez remplir ce formulaire.",
+    "example_2": "J'ai rempli le formulaire de demande de visa.",
+    "example_3": "On utilise remplir un formulaire dans la vie quotidienne.",
+    "example_1_translation": "You must complete this form.",
+    "example_2_translation": "I have completed the visa application form.",
+    "example_3_translation": "We use filling out a form in everyday life."
+  },
+  {
+    "chunk_text": "déposer une plainte",
+    "meaning": "to file a complaint",
+    "primary_function": "expression",
+    "communicative_purpose": "legal complaints",
+    "patterns": [
+      "La victime a déposé une plainte contre X.",
+      "Il faut déposer plainte au commissariat."
+    ],
+    "collocates": [
+      "plainte",
+      "police",
+      "procédure",
+      "dénoncé",
+      "accusation"
+    ],
+    "level": "B1",
+    "example_1": "La victime a déposé une plainte contre X.",
+    "example_2": "Il faut déposer plainte au commissariat.",
+    "example_3": "Je connais déposer une plainte.",
+    "example_1_translation": "The victim filed a complaint against X.",
+    "example_2_translation": "You must file a complaint at the police station.",
+    "example_3_translation": "I know how to file a complaint."
+  },
+  {
+    "chunk_text": "faire appel",
+    "meaning": "to appeal",
+    "primary_function": "expression",
+    "communicative_purpose": "legal appeals",
+    "patterns": [
+      "La défense a décidé de faire appel.",
+      "Ils ont fait appel de la décision."
+    ],
+    "collocates": [
+      "appel",
+      "tribunal",
+      "juge",
+      "cassation",
+      "juridiction"
+    ],
+    "level": "B2",
+    "example_1": "La défense a décidé de faire appel.",
+    "example_2": "Ils ont fait appel de la décision.",
+    "example_3": "On utilise faire appel dans la vie quotidienne.",
+    "example_1_translation": "The defense decided to appeal.",
+    "example_2_translation": "They appealed the decision.",
+    "example_3_translation": "We use appeal in daily life."
+  },
+  {
+    "chunk_text": "obtenir un permis",
+    "meaning": "to obtain a permit/license",
+    "primary_function": "expression",
+    "communicative_purpose": "official authorizations",
+    "patterns": [
+      "Il faut obtenir un permis de construire.",
+      "J'ai enfin obtenu mon permis de conduire."
+    ],
+    "collocates": [
+      "permis",
+      "autorisation",
+      "licence",
+      "document",
+      "droit"
+    ],
+    "level": "B1",
+    "example_1": "Il faut obtenir un permis de construire.",
+    "example_2": "J'ai enfin obtenu mon permis de conduire.",
+    "example_3": "Je connais obtenir un permis.",
+    "example_1_translation": "You must obtain a building permit.",
+    "example_2_translation": "I finally got my driver's license.",
+    "example_3_translation": "I know how to get a license."
+  },
+  {
+    "chunk_text": "respecter la loi",
+    "meaning": "to respect the law",
+    "primary_function": "expression",
+    "communicative_purpose": "legal compliance",
+    "patterns": [
+      "Tout citoyen doit respecter la loi.",
+      "Les entreprises doivent respecter les lois en vigueur."
+    ],
+    "collocates": [
+      "loi",
+      "règle",
+      "réglementation",
+      "conformité",
+      "légalité"
+    ],
+    "level": "A2",
+    "example_1": "Tout citoyen doit respecter la loi.",
+    "example_2": "Les entreprises doivent respecter les lois en vigueur.",
+    "example_3": "On utilise respecter la loi dans la vie quotidienne.",
+    "example_1_translation": "Every citizen must respect the law.",
+    "example_2_translation": "Businesses must comply with applicable laws.",
+    "example_3_translation": "We use respecting the law in daily life."
+  },
+  {
+    "chunk_text": "signer un contrat",
+    "meaning": "to sign a contract",
+    "primary_function": "expression",
+    "communicative_purpose": "contractual agreements",
+    "patterns": [
+      "Nous avons signé un contrat de location.",
+      "Avant de signer, lisez bien le contrat."
+    ],
+    "collocates": [
+      "contrat",
+      "signature",
+      "clause",
+      "engagement",
+      "accord"
+    ],
+    "level": "B1",
+    "example_1": "Nous avons signé un contrat de location.",
+    "example_2": "Avant de signer, lisez bien le contrat.",
+    "example_3": "Je connais signer un contrat.",
+    "example_1_translation": "We signed a rental contract.",
+    "example_2_translation": "Before signing, read the contract carefully.",
+    "example_3_translation": "I know how to sign a contract."
+  },
+  {
+    "chunk_text": "être en règle",
+    "meaning": "to be in compliance, to be regular",
+    "primary_function": "expression",
+    "communicative_purpose": "administrative compliance",
+    "patterns": [
+      "Vos papiers sont en règle?",
+      "L'entreprise n'est pas en règle avec les autorités."
+    ],
+    "collocates": [
+      "papiers",
+      "documents",
+      "conforme",
+      "irrégularité",
+      "administratif"
+    ],
+    "level": "B1",
+    "example_1": "Vos papiers sont en règle?",
+    "example_2": "L'entreprise n'est pas en règle avec les autorités.",
+    "example_3": "Je connais être en règle.",
+    "example_1_translation": "Are your papers in order?",
+    "example_2_translation": "The company is not in good standing with the authorities.",
+    "example_3_translation": "I know how to be in good standing."
+  },
+  {
+    "chunk_text": "fournir des pièces justificatives",
+    "meaning": "to provide supporting documents",
+    "primary_function": "expression",
+    "communicative_purpose": "documentation requirements",
+    "patterns": [
+      "Vous devez fournir des pièces justificatives.",
+      "J'ai fourni toutes les pièces justificatives."
+    ],
+    "collocates": [
+      "document",
+      "justificatif",
+      "attestation",
+      "certificat",
+      "preuve"
+    ],
+    "level": "B2",
+    "example_1": "Vous devez fournir des pièces justificatives.",
+    "example_2": "J'ai fourni toutes les pièces justificatives.",
+    "example_3": "On utilise fournir des pièces justificatives dans la vie quotidienne.",
+    "example_1_translation": "You must provide supporting documents.",
+    "example_2_translation": "I have provided all supporting documents.",
+    "example_3_translation": "We use providing supporting documents in daily life."
+  },
+  {
+    "chunk_text": "engager des poursuites",
+    "meaning": "to initiate legal proceedings",
+    "primary_function": "expression",
+    "communicative_purpose": "legal action",
+    "patterns": [
+      "Le ministère public a engagé des poursuites.",
+      "Ils ont engagé des poursuites contre la société."
+    ],
+    "collocates": [
+      "poursuite",
+      "procédure",
+      "tribunal",
+      "accusation",
+      "plainte"
+    ],
+    "level": "B2",
+    "example_1": "Le ministère public a engagé des poursuites.",
+    "example_2": "Ils ont engagé des poursuites contre la société.",
+    "example_3": "On utilise engager des poursuites dans la vie quotidienne.",
+    "example_1_translation": "The public prosecutor initiated proceedings.",
+    "example_2_translation": "They filed lawsuits against the company.",
+    "example_3_translation": "We use suing in everyday life."
+  },
+  {
+    "chunk_text": "payer des amendes",
+    "meaning": "to pay fines",
+    "primary_function": "expression",
+    "communicative_purpose": "penalties and fines",
+    "patterns": [
+      "Il a dû payer des amendes pour excès de vitesse.",
+      "Les amendes pour parking peuvent être élevées."
+    ],
+    "collocates": [
+      "amende",
+      "contravention",
+      "sanction",
+      "pv",
+      "violation"
+    ],
+    "level": "A2",
+    "example_1": "Il a dû payer des amendes pour excès de vitesse.",
+    "example_2": "Les amendes pour parking peuvent être élevées.",
+    "example_3": "On utilise payer des amendes dans la vie quotidienne.",
+    "example_1_translation": "He had to pay fines for speeding.",
+    "example_2_translation": "Parking fines can be high.",
+    "example_3_translation": "We use paying fines in everyday life."
+  },
+  {
+    "chunk_text": "passer devant le juge",
+    "meaning": "to appear before a judge",
+    "primary_function": "expression",
+    "communicative_purpose": "court appearances",
+    "patterns": [
+      "Il va passer devant le juge demain.",
+      "L'accusé est passé devant le juge ce matin."
+    ],
+    "collocates": [
+      "juge",
+      "tribunal",
+      "audience",
+      "procès",
+      "verbatim"
+    ],
+    "level": "B1",
+    "example_1": "Il va passer devant le juge demain.",
+    "example_2": "L'accusé est passé devant le juge ce matin.",
+    "example_3": "Je connais passer devant le juge.",
+    "example_1_translation": "He will go before the judge tomorrow.",
+    "example_2_translation": "The accused appeared before the judge this morning.",
+    "example_3_translation": "I know how to stand before the judge."
+  },
+  {
+    "chunk_text": "établir un acte",
+    "meaning": "to draw up a document",
+    "primary_function": "expression",
+    "communicative_purpose": "document creation",
+    "patterns": [
+      "Le notaire va établir l'acte de vente.",
+      "Nous devons établir un acte de naissance."
+    ],
+    "collocates": [
+      "acte",
+      "notaire",
+      "document",
+      "authentique",
+      "légaliser"
+    ],
+    "level": "B2",
+    "example_1": "Le notaire va établir l'acte de vente.",
+    "example_2": "Nous devons établir un acte de naissance.",
+    "example_3": "On utilise établir un acte dans la vie quotidienne.",
+    "example_1_translation": "The notary will draw up the deed of sale.",
+    "example_2_translation": "We must establish a birth certificate.",
+    "example_3_translation": "We use establishing an act in daily life."
+  },
+  {
+    "chunk_text": "avoir droit à",
+    "meaning": "to be entitled to, to have the right to",
+    "primary_function": "expression",
+    "communicative_purpose": "legal entitlements",
+    "patterns": [
+      "Vous avez droit à un avocat.",
+      "Les employés ont droit à des congés payés."
+    ],
+    "collocates": [
+      "droit",
+      "allocation",
+      "prestation",
+      "autorisation",
+      "accès"
+    ],
+    "level": "A2",
+    "example_1": "Vous avez droit à un avocat.",
+    "example_2": "Les employés ont droit à des congés payés.",
+    "example_3": "On utilise avoir droit à dans la vie quotidienne.",
+    "example_1_translation": "You have the right to a lawyer.",
+    "example_2_translation": "Employees are entitled to paid leave.",
+    "example_3_translation": "We use having the right to in everyday life."
+  },
+  {
+    "chunk_text": "se conformer à la réglementation",
+    "meaning": "to comply with regulations",
+    "primary_function": "expression",
+    "communicative_purpose": "regulatory compliance",
+    "patterns": [
+      "Les entreprises doivent se conformer à la réglementation.",
+      "Nous nous sommes conformés à la réglementation en vigueur."
+    ],
+    "collocates": [
+      "règlement",
+      "norme",
+      "conformité",
+      "obligation",
+      "directive"
+    ],
+    "level": "B2",
+    "example_1": "Les entreprises doivent se conformer à la réglementation.",
+    "example_2": "Nous nous sommes conformés à la réglementation en vigueur.",
+    "example_3": "On utilise se conformer à la réglementation dans la vie quotidienne.",
+    "example_1_translation": "Businesses must comply with regulations.",
+    "example_2_translation": "We have complied with current regulations.",
+    "example_3_translation": "We use complying with regulations in daily life."
+  },
+  {
+    "chunk_text": "être témoin de",
+    "meaning": "to witness, to be a witness to",
+    "primary_function": "expression",
+    "communicative_purpose": "witnessing events",
+    "patterns": [
+      "J'ai été témoin d'un accident.",
+      "Elle a été témoin de la scène."
+    ],
+    "collocates": [
+      "témoin",
+      "observer",
+      "vu",
+      "attester",
+      "témoignage"
+    ],
+    "level": "A2",
+    "example_1": "J'ai été témoin d'un accident.",
+    "example_2": "Elle a été témoin de la scène.",
+    "example_3": "On utilise être témoin de dans la vie quotidienne.",
+    "example_1_translation": "I witnessed an accident.",
+    "example_2_translation": "She witnessed the scene.",
+    "example_3_translation": "We use witnessing in everyday life."
+  }
+]

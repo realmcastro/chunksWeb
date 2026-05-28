@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "d'une manière générale",
+    "meaning": "in a general way / generally speaking",
+    "primary_function": "Generalization expression",
+    "communicative_purpose": "Introducing general statements or broad perspectives",
+    "trigger_situations": "Presenting overview arguments, generalizing observations, opening presentations, framing discussions",
+    "contexts": "Business meetings, academic writing, formal presentations, professional reports, structured debates",
+    "variations": "d'une manière générale, de manière générale, en règle générale, d'une façon générale",
+    "common_mistakes": "Confusing with 'en général' (different register); using without proper context introduction; placing too late in argument",
+    "level": "A2",
+    "patterns": [
+      "d'une + manière + générale"
+    ],
+    "collocates": "d'une manière générale, dans l'ensemble, de façon générale, généralement parlant",
+    "example_1": "d'une + manière + générale",
+    "example_2": "Tu peux dire d'une manière générale quand tu veux exprimer in a general way / generally speaking.",
+    "example_3": "On utilise d'une manière générale dans la vie quotidienne.",
+    "example_1_translation": "in a + general way",
+    "example_2_translation": "You can say in a general way when you want to express in a general way / generally speaking.",
+    "example_3_translation": "It is generally used in daily life."
+  },
+  {
+    "chunk_text": "en fait",
+    "meaning": "in fact / actually",
+    "primary_function": "Correction or clarification marker",
+    "communicative_purpose": "Correcting a misconception or adding clarifying information",
+    "trigger_situations": "Clarifying misunderstandings, providing accurate information, contradicting expectations, adding nuance",
+    "contexts": "Discussions, debates, explanations, casual conversations, professional settings",
+    "variations": "en fait, en réalité, en vérité, en fait pas du tout",
+    "common_mistakes": "Using as simple emphasis instead of correction; confusing with 'en effet' (which confirms); overusing in formal writing",
+    "level": "A2",
+    "patterns": [
+      "en + fait"
+    ],
+    "collocates": "en fait, mais en fait, non en fait, en fait c'est",
+    "example_1": "en + fait",
+    "example_2": "Tu peux dire en fait quand tu veux exprimer in fact / actually.",
+    "example_3": "On utilise en fait dans la vie quotidienne.",
+    "example_1_translation": "en + fait",
+    "example_2_translation": "You can say in fact when you want to express in fact / actually.",
+    "example_3_translation": "We actually use it in everyday life."
+  },
+  {
+    "chunk_text": "à mon avis",
+    "meaning": "in my opinion",
+    "primary_function": "Opinion expression",
+    "communicative_purpose": "Expressing personal viewpoint while acknowledging subjectivity",
+    "trigger_situations": "Giving personal perspectives, discussing controversial topics, sharing interpretations, stating beliefs",
+    "contexts": "Debates, essays, meetings, casual discussions, formal arguments",
+    "variations": "à mon avis, de mon point de vue, selon moi, pour ma part",
+    "common_mistakes": "Forgetting 'à' preposition; using in formal reports without attribution; confusing with 'je pense que'",
+    "level": "A2",
+    "patterns": [
+      "à + mon + avis"
+    ],
+    "collocates": "à mon avis, à votre avis, à son avis, à notre avis",
+    "example_1": "à + mon + avis",
+    "example_2": "Tu peux dire à mon avis quand tu veux exprimer in my opinion.",
+    "example_3": "On utilise à mon avis dans la vie quotidienne.",
+    "example_1_translation": "à + mon + avis",
+    "example_2_translation": "You can say in my opinion when you want to express in my opinion.",
+    "example_3_translation": "In my opinion, it is used in everyday life."
+  },
+  {
+    "chunk_text": "d'une part",
+    "meaning": "on one hand",
+    "primary_function": "Argument structure marker",
+    "communicative_purpose": "Introducing the first element of a balanced argument",
+    "trigger_situations": "Presenting two sides of an issue, weighing pros and cons, structured argumentation, comparative analysis",
+    "contexts": "Formal debates, academic writing, business presentations, strategic planning, analytical reports",
+    "variations": "d'une part, d'un côté, premièrement, d'entrée de jeu",
+    "common_mistakes": "Using without 'd'autre part' to complete the structure; awkward sentence construction when not followed by contrast",
+    "level": "A2",
+    "patterns": [
+      "d'une + part"
+    ],
+    "collocates": "d'une part, d'autre part, d'une part... d'autre part, d'un côté... de l'autre",
+    "example_1": "d'une + part",
+    "example_2": "Tu peux dire d'une part quand tu veux exprimer on one hand.",
+    "example_3": "On utilise d'une part dans la vie quotidienne.",
+    "example_1_translation": "on the one hand",
+    "example_2_translation": "You can say on the one hand when you want to express on one hand.",
+    "example_3_translation": "On the one hand, we use it in everyday life."
+  },
+  {
+    "chunk_text": "enfin",
+    "meaning": "finally / well / at last",
+    "primary_function": "Discourse organizer",
+    "communicative_purpose": "Concluding, summarizing, or expressing resignation",
+    "trigger_situations": "Ending lists, summarizing points, expressing exasperation, transitioning to main point",
+    "contexts": "Conversations, presentations, formal discussions, narrative structure, casual speech",
+    "variations": "enfin, en fin de compte, finalement, lastly, en dernier lieu",
+    "common_mistakes": "Confusing with 'à la fin' (at the end of); using for emphasis without proper context; register mismatch in formal documents",
+    "level": "A2",
+    "patterns": [
+      "enfin"
+    ],
+    "collocates": "enfin, et enfin, mais enfin, enfin bref, enfin presque",
+    "example_1": "J'utilise souvent enfin pour parler de finally / well / at last.",
+    "example_2": "Tu peux dire enfin quand tu veux exprimer finally / well / at last.",
+    "example_3": "On utilise enfin dans la vie quotidienne.",
+    "example_1_translation": "I often use finally to talk about finally / well / at last.",
+    "example_2_translation": "You can say finally when you want to express finally / well / at last.",
+    "example_3_translation": "Finally, we use it in daily life."
+  },
+  {
+    "chunk_text": "c'est-à-dire",
+    "meaning": "that is to say / i.e.",
+    "primary_function": "Explanatory connector",
+    "communicative_purpose": "Clarifying, specifying, or providing precise definition",
+    "trigger_situations": "Defining terms, giving examples, explaining technical concepts, elaborating on statements",
+    "contexts": "Academic texts, professional meetings, technical explanations, formal writing, lectures",
+    "variations": "c'est-à-dire, c'est-à-dire que, à savoir, autrement dit, soit dit",
+    "common_mistakes": "Overusing as filler; confusing with 'c'est que'; pronouncing incorrectly (silent 'e'); using in place of 'c'est que'",
+    "level": "A2",
+    "patterns": [
+      "c'est-à-dire"
+    ],
+    "collocates": "c'est-à-dire, eh bien c'est-à-dire, ou plutôt c'est-à-dire",
+    "example_1": "c'est-à-dire",
+    "example_2": "Tu peux dire c'est-à-dire quand tu veux exprimer that is to say / i.e..",
+    "example_3": "On utilise c'est-à-dire dans la vie quotidienne.",
+    "example_1_translation": "that's to say",
+    "example_2_translation": "You can say that is to say when you want to express that is to say / i.e..",
+    "example_3_translation": "We use that is to say in daily life."
+  },
+  {
+    "chunk_text": "je suis en train de",
+    "meaning": "I am in the process of",
+    "primary_function": "Progressive action expression",
+    "communicative_purpose": "Indicating an ongoing action in progress",
+    "trigger_situations": "Explaining current activities, describing ongoing work, updating progress, excuse-making",
+    "contexts": "Work updates, status reports, daily conversations, explaining delays, professional communication",
+    "variations": "je suis en train de, je suis en train de faire, je me suis mis à, je suis en cours de",
+    "common_mistakes": "Dropping 'en train'; using with past or future tense incorrectly; confusing with 'je vais' for future; informal contraction 'je suis entrain de' (incorrect)",
+    "level": "A2",
+    "patterns": [
+      "je + suis + en + train + de"
+    ],
+    "collocates": "je suis en train de, nous sommes en train de, je serais en train de",
+    "example_1": "je + suis + en + train + de",
+    "example_2": "Tu peux dire je suis en train de quand tu veux exprimer I am in the process of.",
+    "example_3": "On utilise je suis en train de dans la vie quotidienne.",
+    "example_1_translation": "je + suis + en + train + de",
+    "example_2_translation": "You can say I am in the process of when you want to express I am in the process of.",
+    "example_3_translation": "We use I'm trying to in daily life."
+  },
+  {
+    "chunk_text": "en ce qui me concerne",
+    "meaning": "as far as I'm concerned",
+    "primary_function": "Personal perspective marker",
+    "communicative_purpose": "Limiting a statement to one's own viewpoint or domain",
+    "trigger_situations": "Clarifying personal scope, distinguishing individual from general, expressing personal stance",
+    "contexts": "Formal discussions, professional meetings, questionnaires, policy debates, academic discourse",
+    "variations": "en ce qui me concerne, concernant, pour ce qui est de, en ce qui a trait à",
+    "common_mistakes": "Confusing word order; using 'concerne' as verb instead of participle; overformal for casual contexts",
+    "level": "A2",
+    "patterns": [
+      "en + ce + qui + me + concerne"
+    ],
+    "collocates": "en ce qui me concerne, en ce qui concerne, en ce qui nous concerne",
+    "example_1": "en + ce + qui + me + concerne",
+    "example_2": "Tu peux dire en ce qui me concerne quand tu veux exprimer as far as I'm concerned.",
+    "example_3": "On utilise en ce qui me concerne dans la vie quotidienne.",
+    "example_1_translation": "en + ce + qui + me + concerne",
+    "example_2_translation": "You can say as far as I'm concerned when you want to express as far as I'm concerned.",
+    "example_3_translation": "We use it in my daily life."
+  },
+  {
+    "chunk_text": "cela dit",
+    "meaning": "that said / having said that",
+    "primary_function": "Concessive connector",
+    "communicative_purpose": "Acknowledging a point while introducing a contrasting perspective",
+    "trigger_situations": "Balancing arguments, conceding points, adding nuance, transitional moments in discourse",
+    "contexts": "Formal debates, professional reports, analytical writing, structured discussions",
+    "variations": "cela dit, ceci dit, pourtant, néanmoins, toutefois",
+    "common_mistakes": "Using without prior statement to contrast; placing at sentence beginning awkwardly; confusing with 'donc' (therefore)",
+    "level": "A2",
+    "patterns": [
+      "cela + dit"
+    ],
+    "collocates": "cela dit, mais cela dit, et cela dit, toujours est-il que",
+    "example_1": "cela + dit",
+    "example_2": "Tu peux dire cela dit quand tu veux exprimer that said / having said that.",
+    "example_3": "On utilise cela dit dans la vie quotidienne.",
+    "example_1_translation": "cela + dit",
+    "example_2_translation": "You can say ça dit when you want to express that said / having said that.",
+    "example_3_translation": "We use this said in daily life."
+  },
+  {
+    "chunk_text": "pour ainsi dire",
+    "meaning": "so to speak / as it were",
+    "primary_function": "Hedging expression",
+    "communicative_purpose": "Softening statements, indicating figurative language, adding caution",
+    "trigger_situations": "Using metaphors, generalizing loosely, self-correcting, diplomatic formulations",
+    "contexts": "Formal speeches, diplomatic discourse, academic writing, professional negotiations",
+    "variations": "pour ainsi dire, pour ainsi dire proverbial, comme qui dirait, si j'ose dire",
+    "common_mistakes": "Using without figurative context; overusing in formal writing; placement errors in sentence structure",
+    "level": "A2",
+    "patterns": [
+      "pour + ainsi + dire"
+    ],
+    "collocates": "pour ainsi dire, comme on dit, si l'on peut dire, en quelque sorte",
+    "example_1": "pour + ainsi + dire",
+    "example_2": "Tu peux dire pour ainsi dire quand tu veux exprimer so to speak / as it were.",
+    "example_3": "On utilise pour ainsi dire dans la vie quotidienne.",
+    "example_1_translation": "pour + ainsi + dire",
+    "example_2_translation": "You can say so to speak when you want to express so to speak / as it were.",
+    "example_3_translation": "We use it so to speak in everyday life."
+  },
+  {
+    "chunk_text": "il va sans dire que",
+    "meaning": "it goes without saying that",
+    "primary_function": "Emphasis marker",
+    "communicative_purpose": "Introducing self-evident or obvious statements",
+    "trigger_situations": "Stating obvious facts, emphasizing shared knowledge, rhetorical emphasis, preamble to arguments",
+    "contexts": "Formal writing, speeches, academic texts, professional reports, diplomatic discourse",
+    "variations": "il va sans dire que, cela va sans dire, de soi-dit, évidemment",
+    "common_mistakes": "Using without completing 'que'; overly dramatic in casual contexts; redundant with other emphasis words",
+    "level": "A2",
+    "patterns": [
+      "il + va + sans + dire + que"
+    ],
+    "collocates": "il va sans dire que, cela va sans dire que, comme il va sans dire",
+    "example_1": "il + va + sans + dire + que",
+    "example_2": "Tu peux dire il va sans dire que quand tu veux exprimer it goes without saying that.",
+    "example_3": "On utilise il va sans dire que dans la vie quotidienne.",
+    "example_1_translation": "il + va + sans + dire + que",
+    "example_2_translation": "You can say it goes without saying that when you want to express it goes without saying that.",
+    "example_3_translation": "It goes without saying that we use it in everyday life."
+  },
+  {
+    "chunk_text": "bien entendu",
+    "meaning": "of course / naturally",
+    "primary_function": "Agreement and emphasis marker",
+    "communicative_purpose": "Confirming shared understanding or obvious agreement",
+    "trigger_situations": "Affirming points, conceding minor issues, agreeing with conditions, acknowledging obvious facts",
+    "contexts": "Business meetings, formal conversations, negotiations, professional discussions, polite discourse",
+    "variations": "bien entendu, naturellement, bien sûr, cela va de soi, il est évident que",
+    "common_mistakes": "Using sarcastically without context; confusing with 'évidemment' (which is stronger); repetition without substance",
+    "level": "A2",
+    "patterns": [
+      "bien + entendu"
+    ],
+    "collocates": "bien entendu, mais bien entendu, oui bien entendu, bien entendu que",
+    "example_1": "bien + entendu",
+    "example_2": "Tu peux dire bien entendu quand tu veux exprimer of course / naturally.",
+    "example_3": "On utilise bien entendu dans la vie quotidienne.",
+    "example_1_translation": "bien + entendu",
+    "example_2_translation": "You can say of course when you want to express of course / naturally.",
+    "example_3_translation": "We of course use it in everyday life."
+  },
+  {
+    "chunk_text": "à vrai dire",
+    "meaning": "to tell the truth / frankly",
+    "primary_function": "Honesty marker",
+    "communicative_purpose": "Introducing candid or honest assessment",
+    "trigger_situations": "Confessing, being honest, revealing true feelings, self-reflection, critical assessment",
+    "contexts": "Personal discussions, professional feedback, interviews, confessional contexts, honest evaluations",
+    "variations": "à vrai dire, franchement, honnêtement, soit dit entre nous, entre nous soit dit",
+    "common_mistakes": "Using to introduce controversial opinions without softening; confusing with 'en fait'; overusing in professional emails",
+    "level": "A2",
+    "patterns": [
+      "à + vrai + dire"
+    ],
+    "collocates": "à vrai dire, à dire vrai, pour dire vrai, en toute franchise",
+    "example_1": "à + vrai + dire",
+    "example_2": "Tu peux dire à vrai dire quand tu veux exprimer to tell the truth / frankly.",
+    "example_3": "On utilise à vrai dire dans la vie quotidienne.",
+    "example_1_translation": "à + vrai + dire",
+    "example_2_translation": "You can tell the truth when you want to express to tell the truth / frankly.",
+    "example_3_translation": "We actually use it in everyday life."
+  },
+  {
+    "chunk_text": "de plus",
+    "meaning": "moreover / furthermore",
+    "primary_function": "Addition connector",
+    "communicative_purpose": "Adding information that supports or extends the previous point",
+    "trigger_situations": "Building arguments, adding supporting evidence, continuing narratives, reinforcing points",
+    "contexts": "Academic writing, formal reports, business proposals, structured arguments, presentations",
+    "variations": "de plus, de surcroît, en outre, de plus, par ailleurs",
+    "common_mistakes": "Confusing with 'du plus' (doesn't exist in this context); using in spoken language where 'aussi' would be natural; placement errors",
+    "level": "A2",
+    "patterns": [
+      "de + plus"
+    ],
+    "collocates": "de plus, et de plus, de plus en plus, qui plus est",
+    "example_1": "de + plus",
+    "example_2": "Tu peux dire de plus quand tu veux exprimer moreover / furthermore.",
+    "example_3": "On utilise de plus dans la vie quotidienne.",
+    "example_1_translation": "de + plus",
+    "example_2_translation": "You can say more when you want to express more/more.",
+    "example_3_translation": "We use it more in daily life."
+  },
+  {
+    "chunk_text": "en définitive",
+    "meaning": "ultimately / in short",
+    "primary_function": "Conclusion marker",
+    "communicative_purpose": "Concluding with final assessment or summary",
+    "trigger_situations": "Drawing conclusions, summarizing arguments, reaching final judgments, closing discussions",
+    "contexts": "Formal debates, academic conclusions, strategic decisions, business summaries, legal contexts",
+    "variations": "en définitive, en fin de compte, finalement, en dernière analyse, somme toute",
+    "common_mistakes": "Using too early before presenting all arguments; confusing with 'définitivement' (permanently); overly formal for everyday speech",
+    "level": "A2",
+    "patterns": [
+      "en + définitive"
+    ],
+    "collocates": "en définitive, en définitive il faut, mais en définitive",
+    "example_1": "en + définitive",
+    "example_2": "Tu peux dire en définitive quand tu veux exprimer ultimately / in short.",
+    "example_3": "On utilise en définitive dans la vie quotidienne.",
+    "example_1_translation": "en + définitive",
+    "example_2_translation": "You can say ultimately when you want to express ultimately / in short.",
+    "example_3_translation": "We ultimately use it in daily life."
+  }
+]

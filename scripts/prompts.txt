@@ -1,0 +1,427 @@
+You are a linguistics and language acquisition expert specialized in chunk-based acquisition, lexical bundles, formulaic language, collocations, colligations, inversion structures, and native-like fluency development.
+
+Your task is to create a complete English chunk database for a learner targeting a strong C1 level.
+
+IMPORTANT INSTRUCTIONS:
+
+* Generate the FULL database in this project.
+* Produce EXACTLY 1500 chunks in total.
+* There are 10 primary categories.
+* Generate EXACTLY 150 chunks for EACH category.
+* Generate ALL categories in sequence in a single continuous project.
+* Complete one category fully before moving to the next.
+* Maintain continuous internal consistency across all categories.
+* Within every category, systematically include all major forms of formulaic language where relevant: lexical bundles, collocations, colligations, fixed expressions, semi-fixed expressions, sentence frames, inversion structures, and other high-frequency patterned constructions.
+
+PRIMARY CATEGORIES:
+
+1. Core functional chunks
+2. Discourse markers and connectors
+3. Sentence openers and framing expressions
+4. Stance, emphasis, hedging, and evaluation expressions
+5. High-frequency collocations and lexical partnerships
+6. Phrasal verbs and multi-word verbs
+7. Verb + preposition and verb-complement structures
+8. Fixed expressions, conversational formulas, and social routines
+9. Sentence frames, grammatical patterns, and structural templates
+10. Idiomatic expressions in real-world use
+
+CROSS-CATEGORY COVERAGE REQUIREMENT:
+Across the full 1500-chunk database, ensure systematic coverage of:
+
+* Lexical bundles
+* Collocations
+* Colligations
+* Inversion structures
+* Fixed expressions
+* Semi-fixed expressions
+* Formulaic sequences
+* Sentence frames
+* Grammatical constructions
+* Discourse-organizing patterns
+* Pragmatic routines
+* Register-specific bundles
+* Academic and professional phraseology
+
+SPECIAL DISTRIBUTION REQUIREMENT FOR CATEGORY 2:
+For "Discourse markers and connectors," ensure balanced coverage across:
+
+* Conversational English
+* Academic English
+* Professional English
+* Everyday English
+
+DISTRIBUTION RULE:
+
+* Each category must contain EXACTLY 150 chunks.
+* The complete database must total EXACTLY 1500 chunks.
+* Generate approximately equal coverage across the major subtypes relevant to each category.
+* Ensure representation of spoken and written usage, formal and informal registers, and both fixed and productive patterns.
+
+OUTPUT STRUCTURE:
+
+* Generate Category 1 in full (Chunks 1-150).
+* Then Category 2 in full (Chunks 1-150).
+* Continue sequentially until Category 10 is complete.
+* Reset chunk numbering within each category (1-150).
+
+OUTPUT FORMAT FOR EACH CHUNK:
+
+# [Category Name]
+
+## Chunk [Number]/150
+
+* Chunk:
+* Meaning:
+* Primary function:
+* Communicative purpose:
+* Trigger situations:
+* Contexts:
+* Domain: (Conversational / Academic / Professional / Everyday)
+* Register:
+* Output priority: (Speaking / Writing / Both)
+* Frequency: (Very high / High / Medium)
+* Formulaicity: (Fixed / Semi-fixed / Productive)
+* Construction type: (Lexical bundle / Collocation / Colligation / Inversion / Fixed expression / Sentence frame / Idiom / Other)
+* Pattern:
+* Core structure:
+* Substitution slots:
+* Typical collocates:
+* Common substitutions:
+* Variations:
+* Common mistakes:
+* Similar or contrasting chunks:
+* Interference warnings:
+* Nuance:
+* Pragmatic effect:
+* Acquisition priority: (Recognition / Controlled production / Automatic production)
+* CEFR productivity level: (B2 receptive / B2 productive / C1 productive)
+* Recall cue:
+* Upgrade path:
+* Chunk family:
+* Spacing tag: (Immediate / Short-term / Long-term review)
+* Example 1:
+* Example 2:
+* Example 3:
+
+QUALITY REQUIREMENTS:
+
+* Prioritize high-frequency, high-utility chunks.
+* Order from most useful and transferable to less frequent but still valuable.
+* Avoid repetition, overlap, or near-duplicates.
+* Focus on immediately usable real-world language.
+* Include both spoken and written applications where relevant.
+* Include authentic native-speaker usage patterns.
+* Explicitly represent lexical bundles, collocations, colligations, inversion structures, and other recurrent constructions where appropriate.
+
+ANALYTICAL REQUIREMENTS:
+
+* Clearly identify fixed vs variable elements.
+* Highlight substitution possibilities.
+* Compare commonly confused alternatives when relevant.
+* Explain differences in tone, implication, formality, and pragmatic force.
+* Identify typical syntactic environments, colligational behavior, and collocational preferences.
+* Note restrictions on usage, register, discourse position, or grammatical compatibility where applicable.
+
+PEDAGOGICAL GOAL:
+The output must optimize for:
+
+* active recall
+* spaced repetition
+* automaticity
+* flexible recombination
+* pattern recognition
+* natural production
+* native-like fluency
+
+SEQUENCING PRINCIPLE:
+
+* Begin each category with the highest-frequency and highest-transfer chunks.
+* Progress toward lower-frequency but high-value advanced chunks.
+* Maintain a balance between receptive recognition and productive usefulness.
+
+CONSISTENCY REQUIREMENTS:
+
+* Maintain uniform terminology, classification standards, and analytical depth across all 1500 chunks.
+* Ensure no semantic redundancy within or across categories.
+* Preserve clear progression from foundational to advanced usage.
+* Keep categorization precise and mutually distinct wherever possible.
+
+Begin immediately with Category 2: Discourse markers and connectors.
+
+______________________________________________________________________________________________________________
+
+You are a language acquisition expert specializing in foundational English development for absolute beginners.
+
+Your task is to create the minimal foundational grammar system required before chunk-based learning can begin.
+
+OBJECTIVE:
+Build the learner's pre-chunk foundation: the smallest possible set of grammatical and functional structures necessary to understand and produce basic English.
+
+SCOPE:
+- Generate EXACTLY 75 foundational micro-structures.
+- Focus exclusively on the highest-frequency, highest-utility beginner patterns.
+- These structures must prepare learners for later chunk acquisition.
+
+CORE PRINCIPLE:
+This is not a full beginner grammar course.
+It is a pre-chunk foundation designed to enable comprehension, pattern recognition, and initial production.
+
+DOMAINS:
+1. Core building blocks
+2. Essential sentence mechanics
+3. Time and reference foundations
+4. Functional survival patterns
+5. Chunk preparation patterns
+
+DISTRIBUTION:
+- Generate EXACTLY 15 items per domain.
+- Total: EXACTLY 75 items.
+
+OUTPUT FORMAT:
+
+# [Domain Name]
+
+## Structure [Number]/15
+- Structure:
+- Core meaning:
+- Primary function:
+- When to use:
+- Pattern:
+- Key forms:
+- Essential vocabulary:
+- Common mistakes:
+- Why it matters for chunk learning:
+- Example 1:
+- Example 2:
+- Example 3:
+
+QUALITY REQUIREMENTS:
+- Prioritize spoken communication.
+- Use only the most essential patterns.
+- Focus on immediate comprehension and production.
+- Avoid unnecessary grammar terminology.
+- Ensure every structure directly supports future chunk acquisition.
+
+PEDAGOGICAL GOALS:
+- Pattern recognition
+- Basic sentence formation
+- Early comprehension
+- Initial speaking ability
+- Chunk readiness
+
+SEQUENCING:
+- Start with identity and existence.
+- Progress to action and interaction.
+- End with chunk preparation patterns.
+
+do all
+
+
+______________________________________________________________________________________________________________
+
+Generate the dataset directly as output data, not as Python code, pseudocode, templates, or partial examples.
+
+Critical requirements:
+
+* Return the complete final dataset itself.
+* Do NOT generate scripts that generate the dataset.
+* Do NOT provide placeholders such as "..." or "remaining entries omitted".
+* Do NOT provide sample entries followed by instructions.
+* Do NOT split the response into conceptual and final versions.
+* Do NOT explain the process.
+* Do NOT truncate any category.
+
+Output format requirements:
+
+* A single valid JSON array.
+* Exactly 1,500 fully populated JSON objects.
+* No markdown.
+* No code fences.
+* No comments.
+* No surrounding explanation.
+
+Structure requirements:
+
+* 10 categories.
+* Exactly 150 entries per category.
+* Every object must be complete and ready for direct SQLite import.
+
+Each object must contain all required fields:
+
+* category
+* subcategory
+* word
+* phonetic
+* part_of_speech
+* cefr_level
+* frequency_rank
+* regional_variant
+* article
+* plural_form
+* countability
+* primary_meaning
+* secondary_meaning
+* usage_notes
+* common_collocations
+* synonyms
+* antonyms
+* image_search_query
+* image_context
+* image_tags
+* example_1
+* example_1_translation
+* example_2
+* example_2_translation
+* example_3
+* example_3_translation
+* pronunciation_tips
+* memory_hook
+* related_words
+* common_mistakes
+* learning_priority
+
+Image query requirements:
+
+* `image_search_query` must be optimized for image retrieval.
+* It must disambiguate ambiguous words using context.
+* Include regional context when relevant.
+
+Example:
+For "flat", use:
+"british apartment exterior urban residential flat"
+
+Generation rules:
+
+* All entries must be unique.
+* All entries must be practical and highly visual.
+* Prioritize concrete vocabulary.
+* Include natural Brazilian Portuguese translations in all example translations.
+* Ensure examples increase in contextual complexity from 1 to 3.
+* Maintain strict JSON validity throughout.
+
+If output limits are reached, continue automatically in the next response until all 1,500 objects are delivered, preserving valid JSON continuity across parts.
+Start immediately with the opening `[` and end only after the final closing `]`.
+
+______________________________________________________________________________________________________________
+
+USE THE ORCHESTRATOR MODE TO DESINGNATE THE TASK TO ANOTHER CHAT AFTER RETURN HERE, ONLY STOP AFTER COME TO 1500 GENERATIONS
+
+Generate a batch of German vocabulary words for a language learning app.
+Return ONLY a valid JSON array, no markdown, no explanation.
+
+Each batch: 20–25 words from a single CEFR level (A1, A2, B1, B2) For  C1, or C2 only 10 per request/chat.
+Generate one level per request. I will ask for each level separately.
+
+Start with: [SPECIFY LEVEL: A1 / A2 / B1 / B2 / C1 / C2]
+Focus on: [SPECIFY CATEGORY or "mixed" for variety]
+
+JSON format — each object must have exactly these fields:
+
+{
+  "word": "pen",
+  "phonetic": "/pɛn/",
+  "part_of_speech": "noun",
+  "cefr_level": "A1",
+  "category": "Everyday Objects",
+  "subcategory": "Stationery",
+  "article": "a",
+  "plural_form": "pens",
+  "countability": "C",
+  "regional_variant": "Both",
+  "frequency_rank": 1,
+  "primary_meaning": "a writing instrument that uses ink",
+  "secondary_meaning": "",
+  "usage_notes": "",
+  "common_collocations": "ballpoint pen, pen and paper",
+  "synonyms": "writing tool, biro",
+  "antonyms": "",
+  "image_search_query": "blue ballpoint pen on desk writing",
+  "image_context": "a hand holding a blue pen writing on paper",
+  "image_tags": "pen, writing, stationery, ink, blue",
+  "example_1": "I see a pen.",
+  "example_1_translation": "Eu vejo uma caneta.",
+  "example_2": "The pen is on the table.",
+  "example_2_translation": "A caneta está na mesa.",
+  "example_3": "She bought a new pen yesterday for her exams.",
+  "example_3_translation": "Ela comprou uma caneta nova ontem para suas provas.",
+  "pronunciation_tips": "short e sound, do not diphthongize; /pɛn/ not /pɪn/",
+  "memory_hook": "PEN writes the letter P",
+  "related_words": "pencil, marker, ink, notebook",
+  "common_mistakes": "confusing 'pen' with 'pin' in pronunciation",
+  "learning_priority": "high"
+}
+
+Rules:
+- word: bare word, no article included
+- article: "a", "an", "the", or "" (empty for verbs, uncountables, proper nouns)
+- plural_form: noun plural or "" for verbs/adjectives
+- countability: "C" (countable), "U" (uncountable), "C/U", or "" for non-nouns
+- regional_variant: "Both", "British", or "American"
+- frequency_rank: sequential integer starting from 1 within this batch
+- phonetic: IPA notation with slashes, e.g. /wɜːrd/
+- example sentences must be level-appropriate (A1 = simple present/basic vocabulary, C2 = complex structures)
+- example_1_translation, example_2_translation, example_3_translation: translate to Brazilian Portuguese
+- learning_priority: "high" for core vocabulary, "medium" for useful, "low" for rare/specialized
+- image_search_query: 4–8 words describing a concrete, searchable image
+- Do NOT repeat words from previous batches
+- Do NOT wrap in markdown code blocks — return raw JSON array only
+Generate a batch of English vocabulary words for a language learning app.
+Return ONLY a valid JSON array, no markdown, no explanation.
+
+Each batch: 20–25 words from a single CEFR level (A1, A2, B1, B2, C1, or C2).
+Generate one level per request. I will ask for each level separately.
+
+Start with: [SPECIFY LEVEL: A1 / A2 / B1 / B2 / C1 / C2]
+Focus on: [SPECIFY CATEGORY or "mixed" for variety]
+
+JSON format — each object must have exactly these fields:
+
+{
+  "word": "pen",
+  "phonetic": "/pɛn/",
+  "part_of_speech": "noun",
+  "cefr_level": "A1",
+  "category": "Everyday Objects",
+  "subcategory": "Stationery",
+  "article": "a",
+  "plural_form": "pens",
+  "countability": "C",
+  "regional_variant": "Both",
+  "frequency_rank": 1,
+  "primary_meaning": "a writing instrument that uses ink",
+  "secondary_meaning": "",
+  "usage_notes": "",
+  "common_collocations": "ballpoint pen, pen and paper",
+  "synonyms": "writing tool, biro",
+  "antonyms": "",
+  "image_search_query": "blue ballpoint pen on desk writing",
+  "image_context": "a hand holding a blue pen writing on paper",
+  "image_tags": "pen, writing, stationery, ink, blue",
+  "example_1": "I see a pen.",
+  "example_1_translation": "Eu vejo uma caneta.",
+  "example_2": "The pen is on the table.",
+  "example_2_translation": "A caneta está na mesa.",
+  "example_3": "She bought a new pen yesterday for her exams.",
+  "example_3_translation": "Ela comprou uma caneta nova ontem para suas provas.",
+  "pronunciation_tips": "short e sound, do not diphthongize; /pɛn/ not /pɪn/",
+  "memory_hook": "PEN writes the letter P",
+  "related_words": "pencil, marker, ink, notebook",
+  "common_mistakes": "confusing 'pen' with 'pin' in pronunciation",
+  "learning_priority": "high"
+}
+
+Rules:
+- word: bare word, no article included
+- article: "a", "an", "the", or "" (empty for verbs, uncountables, proper nouns)
+- plural_form: noun plural or "" for verbs/adjectives
+- countability: "C" (countable), "U" (uncountable), "C/U", or "" for non-nouns
+- regional_variant: "Both", "British", or "American"
+- frequency_rank: sequential integer starting from 1 within this batch
+- phonetic: IPA notation with slashes, e.g. /wɜːrd/
+- example sentences must be level-appropriate (A1 = simple present/basic vocabulary, C2 = complex structures)
+- example_1_translation, example_2_translation, example_3_translation: translate to Brazilian Portuguese
+- learning_priority: "high" for core vocabulary, "medium" for useful, "low" for rare/specialized
+- image_search_query: 4–8 words describing a concrete, searchable image
+- Do NOT repeat words from previous batches
+- Do NOT wrap in markdown code blocks — return raw JSON array only

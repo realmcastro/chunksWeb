@@ -1,0 +1,369 @@
+[
+  {
+    "structure_label": "Tu vs Vous formality distinction",
+    "core_meaning": "Choosing between 'tu' (informal) and 'vous' (formal) based on relationship and context",
+    "primary_communicative_fn": "Establishing appropriate social distance and respect",
+    "when_to_use": "When addressing someone in conversation; tu with friends/family, vous with strangers/authority/plural",
+    "pattern": "tu + verbe conjugué (familier) / vous + verbe conjugué (formel/courtois/pluriel)",
+    "key_variations": [
+      "Tu veux un café? (entre amis)",
+      "Vous voulez un café? (au client)",
+      "Vous (plural: plusieurs personnes)"
+    ],
+    "essential_vocabulary_slots": "tu, vous, veux, voulez, ami, cliente, étudiant, professeur",
+    "common_learner_mistakes": [
+      "Using tu with strangers or authority figures",
+      "Using vous with close friends causing distance",
+      "Not adjusting register appropriately"
+    ],
+    "chunk_compatibility": "Compatible with greetings (*Bonjour, tu vas bien?*), offers (*Tu prends un café?*)",
+    "primary_function": "Managing social relationships through appropriate pronoun choice",
+    "key_forms": "Tu veux? / Vous voulez? / On y va? (informal nous)",
+    "essential_vocabulary": "tu, vous, ami, famille, client, professeur, étranger, respecter",
+    "why_it_matters": "Register choice is foundational to French politeness and cultural appropriateness; wrong register damages relationships",
+    "common_mistakes": "Defaulting to tu everywhere (→ perceived rudeness); never switching to vous even when required"
+  },
+  {
+    "structure_label": "Intonation vs est-ce que for questions",
+    "core_meaning": "Using rising intonation instead of 'est-ce que' or inversion in casual speech",
+    "primary_communicative_fn": "Asking questions informally without formal structure",
+    "when_to_use": "In casual conversations, spoken French among friends; avoid in writing or formal settings",
+    "pattern": "intonation montante (rising tone) / n'est-ce pas? (confirmation tag)",
+    "key_variations": [
+      "Tu viens? (instead of Est-ce que tu viens?)",
+      "Il est là? (instead of Est-il là?)"
+    ],
+    "essential_vocabulary_slots": "viens, est, arrive, sais, comprends, veux",
+    "common_learner_mistakes": [
+      "Using in formal writing",
+      "Not recognizing this as valid colloquial French",
+      "Applying intonation strategy to formal contexts"
+    ],
+    "chunk_compatibility": "Works with social questions (*Tu viens demain?*), confirmations (*Il est là, non?*)",
+    "primary_function": "Rapid, informal questioning in spoken discourse",
+    "key_forms": "Tu viens? / Il arrive? / Tu sais? / Ça va?",
+    "essential_vocabulary": "venir, arriver, savoir, aller, comprendre, vouloir",
+    "why_it_matters": "Distinguishes formal/written French from natural spoken French; essential for listening comprehension",
+    "common_mistakes": "Writing intonation-based questions in formal essays; over-formalizing casual speech"
+  },
+  {
+    "structure_label": "'On' replacing 'nous' informally",
+    "core_meaning": "Using 'on' instead of 'nous' in informal French; always verb third-person singular",
+    "primary_communicative_fn": "Including the speaker in a group action while maintaining informal tone",
+    "when_to_use": "In casual conversation; on is nearly universal in spoken French, nous more in writing/formal",
+    "pattern": "on + verbe (3e pers. sing.) = nous + verbe conjugué",
+    "key_variations": [
+      "On y va (instead of Nous y allons)",
+      "On a dit que (instead of Nous avons dit que)",
+      "On peut faire ça (instead of Nous pouvons faire ça)"
+    ],
+    "essential_vocabulary_slots": "on, aller, avoir, pouvoir, faire, dire, venir, vivre",
+    "common_learner_mistakes": [
+      "Using 'on' in formal writing",
+      "Conjugating verb in plural after 'on'",
+      "Forgetting 'on' can mean 'people/one' broadly, not just 'we'"
+    ],
+    "chunk_compatibility": "Core to casual activity chunks (*On y va*, *On peut*, *On a*)",
+    "primary_function": "Casual self-inclusion in group actions; universal in modern French speech",
+    "key_forms": "On y va / On a dit / On peut faire / On va manger",
+    "essential_vocabulary": "on, aller, faire, avoir, pouvoir, venir, dire, manger",
+    "why_it_matters": "On is MANDATORY for natural French speech; learners not exposed sound artificial",
+    "common_mistakes": "Insisting on 'nous' in casual contexts (→ overly formal); conjugating plural after 'on'"
+  },
+  {
+    "structure_label": "Formal 'en' substitution for de + noun",
+    "core_meaning": "Using 'en' to replace de + noun in formal/academic writing; pronoun replacing quantity or possession",
+    "primary_communicative_fn": "Avoiding repetition of nouns in formal discourse; maintaining conciseness",
+    "when_to_use": "In formal writing, academic texts, literature; rare in casual speech",
+    "pattern": "en + verb (replaces du/de la/des/de l')",
+    "key_variations": [
+      "J'ai appris la nouvelle → J'en ai appris",
+      "Des fleurs? Il y en a beaucoup",
+      "Vous avez du pain? J'en veux deux"
+    ],
+    "essential_vocabulary_slots": "en, avoir, vouloir, avoir besoin, parler, apprendre, connaître",
+    "common_learner_mistakes": [
+      "Overusing in speech where prepositional phrase is clearer",
+      "Using when clarity requires full noun",
+      "Misplacing 'en' in compound tenses"
+    ],
+    "chunk_compatibility": "Formal requests (*J'en veux trois*), necessity expressions (*On en a besoin*)",
+    "primary_function": "Formal economy of language; pronoun substitution to avoid noun repetition",
+    "key_forms": "J'en ai / J'en veux / J'en parle / Je n'en sais rien",
+    "essential_vocabulary": "en, avoir, vouloir, parler, besoin, fleur, pain, café, temps",
+    "why_it_matters": "Essential for formal French reading/writing; distinguishes formal register from casual",
+    "common_mistakes": "Using 'en' in casual speech (→ sounds stilted); forgetting position in compound tenses"
+  },
+  {
+    "structure_label": "Formal imperative 'veuillez' + infinitive",
+    "core_meaning": "Using 'veuille(z)' or passive forms for polite formal commands instead of direct imperative",
+    "primary_communicative_fn": "Making requests sound extremely polite and indirect in formal contexts",
+    "when_to_use": "Formal letters, professional requests, diplomatic communication",
+    "pattern": "Veuillez + infinitif / Que cela soit fait!",
+    "key_variations": [
+      "Veuillez agréer mes salutations distinguées (formal letter)",
+      "Que cela soit fait immédiatement! (passive imperative)",
+      "Veuillez nous contacter"
+    ],
+    "essential_vocabulary_slots": "veuillez, agréer, faire, être, salutations, contacter, trouver",
+    "common_learner_mistakes": [
+      "Using imperative 'fais' in formal letters",
+      "Over-formal tone in casual contexts",
+      "Incorrect conjugation of 'vouloir' as 'veuille'"
+    ],
+    "chunk_compatibility": "Professional email/letter closings; formal written requests",
+    "primary_function": "Extremely polite formal imperative; indispensable for professional French",
+    "key_forms": "Veuillez agréer / Veuillez trouver / Que cela soit fait",
+    "essential_vocabulary": "veuillez, agréer, salutations, distinguées, contacter, joindre, trouver",
+    "why_it_matters": "Mandatory in French formal correspondence; omission perceived as rude or casual",
+    "common_mistakes": "Using direct imperative in formal letters; incorrect 'veille' conjugation"
+  },
+  {
+    "structure_label": "Passive voice register: formal vs active",
+    "core_meaning": "Passive voice (être + participe passé) is more frequent in formal/written French than active",
+    "primary_communicative_fn": "Shifting focus from agent to action; creating formality or impersonality",
+    "when_to_use": "Academic texts, formal reports, official documents; rare in spoken French",
+    "pattern": "être + participe passé (+ par + agent optional)",
+    "key_variations": [
+      "La lettre a été écrite (passive, formal)",
+      "On a écrit la lettre (active, neutral)",
+      "Le rapport sera soumis demain"
+    ],
+    "essential_vocabulary_slots": "être, participe passé, par, rapport, lettre, soumettre, écrire, réaliser",
+    "common_learner_mistakes": [
+      "Overusing passive in speech (sounds unnatural)",
+      "Avoiding passive in formal writing when appropriate",
+      "Confusion about past participle agreement in passive"
+    ],
+    "chunk_compatibility": "Technical/academic reports (*Le projet a été complété*), formal announcements",
+    "primary_function": "Formal/academic tone; focusing on action rather than agent",
+    "key_forms": "Sera écrit / A été dit / Est considéré / Peuvent être trouvés",
+    "essential_vocabulary": "être, participe passé, par, rapport, lettre, projet, système, résultat",
+    "why_it_matters": "Passive voice is obligatory register marker for formal French; overuse in speech sounds artificial",
+    "common_mistakes": "Using passive excessively in conversation; incorrect past participle agreement"
+  },
+  {
+    "structure_label": "Colloquial contractions in speech",
+    "core_meaning": "Common informal contractions in spoken French; dropping syllables or eliding words",
+    "primary_communicative_fn": "Rapid, authentic speech patterns in casual conversation",
+    "when_to_use": "Casual conversation, listening comprehension; NEVER in writing",
+    "pattern": "je → j' / ne → ∅ / il → y / lui → 'lui / pas → pa",
+    "key_variations": [
+      "je ne sais → chais (je sais)",
+      "il n'y a → y'a",
+      "je lui ai dit → j'lui ai dit",
+      "J'sais pas (je ne sais pas)",
+      "Y'a pas de souci"
+    ],
+    "essential_vocabulary_slots": "sais, avoir, lui, dire, vouloir, pouvoir, aller, besoin",
+    "common_learner_mistakes": [
+      "Using in writing (unacceptable in formal/standard contexts)",
+      "Not recognizing in listening comprehension",
+      "Overusing to sound 'authentic' (→ sounds forced)"
+    ],
+    "chunk_compatibility": "Casual acknowledgment chunks (*Y'a pas de souci*), informal speech (*Chais pas*)",
+    "primary_function": "Natural rapid speech; listening comprehension of native speakers",
+    "key_forms": "Chais pas / Y'a pas / J'lui ai dit / Faut / Veux",
+    "essential_vocabulary": "sais, avoir, lui, vouloir, pouvoir, faire, aller, jour",
+    "why_it_matters": "Critical for understanding authentic French speech; distinguishes formal writing from natural conversation",
+    "common_mistakes": "Writing contractions in essays; not recognizing them in listening"
+  },
+  {
+    "structure_label": "Formal letter conventions",
+    "core_meaning": "Using appropriate formulaic expressions in formal correspondence (opening, body, closing)",
+    "primary_communicative_fn": "Establishing professional tone and following French epistolary norms",
+    "when_to_use": "Professional letters, applications, formal correspondence",
+    "pattern": "Monsieur/Madame + objet + corps + formules de politesse standardisées",
+    "key_variations": [
+      "Monsieur le Directeur,",
+      "Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées",
+      "En attente de votre réponse",
+      "Cordialement, / Respectueusement,"
+    ],
+    "essential_vocabulary_slots": "Monsieur, Madame, Directeur, agréer, salutations, distinguées, attente, cordialement",
+    "common_learner_mistakes": [
+      "Using informal closings ('bisous') in professional letters",
+      "Mixing registers mid-letter",
+      "Omitting required formulas (perceived as rude)"
+    ],
+    "chunk_compatibility": "Professional opening/closing chunks; formal written requests",
+    "primary_function": "Establishing professional credibility through conventional epistolary form",
+    "key_forms": "Monsieur, / Je vous prie d'agréer / Mes salutations / Cordialement",
+    "essential_vocabulary": "Monsieur, Madame, agréer, salutations, distinguées, prier, cordialement, attendre",
+    "why_it_matters": "French letter writing is highly conventional; deviation is perceived as incompetent or disrespectful",
+    "common_mistakes": "Informal tone in professional letters; missing or incorrect closing formula"
+  },
+  {
+    "structure_label": "Professional/technical register vocabulary",
+    "core_meaning": "Using field-specific terminology appropriately in professional contexts",
+    "primary_communicative_fn": "Demonstrating expertise and communicating precisely within professional domains",
+    "when_to_use": "Professional meetings, reports, specialized discussions; avoid with non-experts",
+    "pattern": "terme technique + contexte professionnel / facture vs note",
+    "key_variations": [
+      "facture (invoice) vs note (bill/tab)",
+      "réunion (meeting) vs séance (session)",
+      "collègue (colleague) vs compagnon (workmate, archaic)"
+    ],
+    "essential_vocabulary_slots": "facture, réunion, collègue, rapport, projet, délai, budget, contrat",
+    "common_learner_mistakes": [
+      "Using technical jargon with non-experts (mismatched audience)",
+      "Using overly simple terms in professional settings",
+      "Mixing English business terms inappropriately"
+    ],
+    "chunk_compatibility": "Professional communication (*Voici la facture*, *Réunion prévue demain*)",
+    "primary_function": "Precise professional communication; demonstrating field competence",
+    "key_forms": "La facture / rapport mensuel / délai imparti / contrat signé",
+    "essential_vocabulary": "facture, réunion, rapport, projet, délai, budget, contrat, signature",
+    "why_it_matters": "Professional register credibility depends on precise terminology; wrong level damages professional ethos",
+    "common_mistakes": "Translating English jargon literally; using casual terms in formal reports"
+  },
+  {
+    "structure_label": "Academic register: impersonal constructions",
+    "core_meaning": "Using impersonal verbs and hedging language in academic French writing",
+    "primary_communicative_fn": "Creating objectivity, distance, and scholarly authority; avoiding direct assertion",
+    "when_to_use": "Academic papers, research writing, scholarly discourse",
+    "pattern": "il semble que / il paraît que / il convient de / il importe de + clause",
+    "key_variations": [
+      "Il semble que ce phénomène...",
+      "Il convient de noter que...",
+      "On peut affirmer que... (slightly less formal than il importe)",
+      "Il importe de souligner"
+    ],
+    "essential_vocabulary_slots": "semble, paraît, convient, importe, noter, affirmer, souligner, phénomène",
+    "common_learner_mistakes": [
+      "Being too direct/assertive in academic writing",
+      "Using colloquial expressions in papers",
+      "Overusing personal pronouns (je/nous) in formal academic texts"
+    ],
+    "chunk_compatibility": "Academic introductions (*Il convient de noter*), literature review (*Il semble que*)",
+    "primary_function": "Creating scholarly register; asserting ideas with appropriate academic hedging",
+    "key_forms": "Il semble / Il convient / Il importe / On peut affirmer",
+    "essential_vocabulary": "semble, convient, importe, noter, affirmer, souligner, phénomène, argument",
+    "why_it_matters": "Academic register is essential for credibility in scholarly French; directness damages ethos",
+    "common_mistakes": "Using personal voice ('Je crois'); omitting hedging ('C'est vrai que')"
+  },
+  {
+    "structure_label": "Tu/vous across generations and social evolution",
+    "core_meaning": "Evolution of tu/vous usage among different age groups and modern social contexts",
+    "primary_communicative_fn": "Navigating generational norms in French address; understanding social change",
+    "when_to_use": "Assessing appropriate register in diverse social situations; cross-generational communication",
+    "pattern": "tu (jeunes/entre-famille) / vous (aînés/professionnel) / shifting boundaries by generation",
+    "key_variations": [
+      "Les jeunes se tutoient entre eux (even strangers may tu)",
+      "Dans cette famille, on se vouvoie encore (older families retain vous)",
+      "En entreprise moderne: tu entre collègues; vous avec clients"
+    ],
+    "essential_vocabulary_slots": "jeunes, âinés, famille, entreprise, collègue, client, génération, usage",
+    "common_learner_mistakes": [
+      "Assuming all French people your age use tu everywhere",
+      "Not adjusting to generational norms",
+      "Overgeneralizing Parisian youth norms to all groups"
+    ],
+    "chunk_compatibility": "Contextual greeting adjustments (*Tu vas bien?* vs *Vous allez bien?*)",
+    "primary_function": "Sociolinguistic competence; reading generational/regional context appropriately",
+    "key_forms": "Variable by group; no fixed pattern; context-dependent",
+    "essential_vocabulary": "tu, vous, génération, jeune, âiné, usage, social, moderne",
+    "why_it_matters": "Tu/vous boundaries are shifting in modern French; rigid adherence may seem outdated",
+    "common_mistakes": "Refusing to tu younger people even when invited; excessive vous with peers"
+  },
+  {
+    "structure_label": "Regional variation in French",
+    "core_meaning": "Recognizing that register norms and vocabulary vary by French-speaking region",
+    "primary_communicative_fn": "Understanding regional identity markers; avoiding over-normalization",
+    "when_to_use": "When traveling or reading literature from other Francophone regions",
+    "pattern": "regional forms ≠ standard Parisian French; valid alternatives",
+    "key_variations": [
+      "Belgian: 'septante' (70) vs Parisian 'soixante-dix'",
+      "Swiss: 'huitante' (80) vs Parisian 'quatre-vingts'",
+      "Canadian: different tu/vous boundaries; 'là' as discourse marker",
+      "African French: distinct vocabulary and pronunciation"
+    ],
+    "essential_vocabulary_slots": "septante, huitante, soixante-dix, quatre-vingts, là, Belgique, Suisse, Canada",
+    "common_learner_mistakes": [
+      "Thinking Parisian French is the only standard",
+      "Using regional markers in inappropriate formal contexts",
+      "Judging non-Parisian variants as 'wrong'"
+    ],
+    "chunk_compatibility": "Situational adaptability; understanding regional media and literature",
+    "primary_function": "Sociolinguistic awareness; respecting regional Francophone identity",
+    "key_forms": "Septante/huitante vs soixante-dix/quatre-vingts; regional vocabulary",
+    "essential_vocabulary": "septante, huitante, soixante-dix, quatre-vingts, Belgique, Suisse, Canada, Afrique",
+    "why_it_matters": "French is pluricentric language; learners must recognize valid regional variation",
+    "common_mistakes": "Insisting on Parisian norms; dismissing regional variants; rigid standardization"
+  },
+  {
+    "structure_label": "Softening requests with negative polarity",
+    "core_meaning": "Using negative/subjunctive structures to soften requests or refusals politely",
+    "primary_communicative_fn": "Making requests/refusals more tactful and socially appropriate",
+    "when_to_use": "Negotiation, diplomatic communication, polite disagreement",
+    "pattern": "Je ne peux pas... / Je serais désolé de ne pas / Il serait préférable de ne pas",
+    "key_variations": [
+      "Je ne peux pas / Je suis désolé de ne pas pouvoir (instead of 'Non')",
+      "Il serait préférable de ne pas... (instead of 'Non, on peut pas')",
+      "Je ne pourrais malheureusement pas (hypothetical softening)"
+    ],
+    "essential_vocabulary_slots": "pouvoir, désolé, préférable, ne, malheureusement, pouvoir, préférer",
+    "common_learner_mistakes": [
+      "Being too blunt in requests ('Fais-le!'; use subjunctive)",
+      "Using imperative when softness is needed",
+      "Overusing negativity (→ sounds overly negative)"
+    ],
+    "chunk_compatibility": "Polite refusal chunks (*Je ne peux pas*), diplomatic requests",
+    "primary_function": "Softening refusals/requests through negative polarity and subjunctive mood",
+    "key_forms": "Je ne peux pas / Il serait préférable / Je serais désolé",
+    "essential_vocabulary": "pouvoir, désolé, préférable, malheureusement, ne, malheureusement, préférer",
+    "why_it_matters": "Polite softening is cultural norm in French interaction; directness perceived as rude",
+    "common_mistakes": "Being too direct ('Non'); using imperative in diplomatic contexts"
+  },
+  {
+    "structure_label": "Digital/social media register",
+    "core_meaning": "Using appropriate style for online communication (abbreviations, tone, conventions)",
+    "primary_communicative_fn": "Communicating efficiently in digital spaces; understanding online identity markers",
+    "when_to_use": "Social media, text messaging, casual online forums; NEVER in formal contexts",
+    "pattern": "abréviations + emoticons + style concis + majuscules",
+    "key_variations": [
+      "mdr (mort de rire) = lol",
+      "svp (s'il vous plaît)",
+      "pk (pourquoi)",
+      "@+ (à plus)",
+      "OMG / c chelou / c dingue"
+    ],
+    "essential_vocabulary_slots": "mdr, svp, pk, OMG, lol, chelou, dingue, à bientôt",
+    "common_learner_mistakes": [
+      "Using abbreviations in professional emails",
+      "Using formal register in informal online contexts",
+      "Over-abbreviating to point of unintelligibility"
+    ],
+    "chunk_compatibility": "Casual online exchange chunks (*À plus tard*, *C chelou*)",
+    "primary_function": "Efficient digital communication; signaling in-group membership online",
+    "key_forms": "mdr / svp / pk / @+ / OMG / c'est / ya",
+    "essential_vocabulary": "mdr, svp, pk, OMG, lol, à plus, demain, aujourd'hui, merci",
+    "why_it_matters": "Digital register is now dominant in many French contexts; understanding conventions is essential",
+    "common_mistakes": "Using abbreviations in professional context; formal tone in casual digital spaces"
+  },
+  {
+    "structure_label": "Code-switching within conversation",
+    "core_meaning": "Switching registers within a single conversation based on interlocutor/context shift",
+    "primary_communicative_fn": "Maintaining social fluency across changing contexts; adapting to audience shifts",
+    "when_to_use": "Any conversation that changes context (formal meeting → casual break; one person leaves/arrives)",
+    "pattern": "tu→vous / familier→soutenu / selon interlocuteur/contexte",
+    "key_variations": [
+      "Au travail avec collègue: vous / Après avec ami: tu",
+      "Réunion formelle (soutenu) / Pause café (familier)",
+      "Switching from vous to tu when relationship develops",
+      "English insertion in technical discourse"
+    ],
+    "essential_vocabulary_slots": "tu, vous, formel, familier, collègue, ami, réunion, pause",
+    "common_learner_mistakes": [
+      "Staying in one register when context changes",
+      "Switching abruptly without transition",
+      "Not recognizing when code-switch is appropriate/required"
+    ],
+    "chunk_compatibility": "Situational adaptability; multiple register chunks required",
+    "primary_function": "Social fluency; navigating multi-context interactions",
+    "key_forms": "Variable; depends on context; no fixed forms",
+    "essential_vocabulary": "tu, vous, formel, familier, context, situation, approprié",
+    "why_it_matters": "Code-switching skill is mark of fluent French speaker; inability to switch signals non-nativeness",
+    "common_mistakes": "Failing to recognize register shift opportunities; sudden, jarring transitions"
+  }
+]

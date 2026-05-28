@@ -1,0 +1,361 @@
+[
+  {
+    "chunk_text": "prendre le pouvoir",
+    "meaning": "to take power",
+    "primary_function": "expression",
+    "communicative_purpose": "political seizure of power",
+    "patterns": [
+      "Le parti a pris le pouvoir lors des élections.",
+      "Un groupe militaire a pris le pouvoir par un coup d'État."
+    ],
+    "collocates": [
+      "pouvoir",
+      "coup d'état",
+      "renverser",
+      "diriger",
+      "gouverner"
+    ],
+    "level": "B1",
+    "example_1": "Le parti a pris le pouvoir lors des élections.",
+    "example_2": "Un groupe militaire a pris le pouvoir par un coup d'État.",
+    "example_3": "Je connais prendre le pouvoir.",
+    "example_1_translation": "The party took power in the elections.",
+    "example_2_translation": "A military group took power in a coup.",
+    "example_3_translation": "I know how to take power."
+  },
+  {
+    "chunk_text": "voter une loi",
+    "meaning": "to vote on a law",
+    "primary_function": "expression",
+    "communicative_purpose": "legislative process",
+    "patterns": [
+      "Le Parlement a vote une nouvelle loi.",
+      "Cette loi a été votée à l'unanimité."
+    ],
+    "collocates": [
+      "loi",
+      "parlement",
+      "vote",
+      "scrutin",
+      "députés"
+    ],
+    "level": "B1",
+    "example_1": "Le Parlement a vote une nouvelle loi.",
+    "example_2": "Cette loi a été votée à l'unanimité.",
+    "example_3": "Je connais voter une loi.",
+    "example_1_translation": "Parliament passed a new law.",
+    "example_2_translation": "This law was passed unanimously.",
+    "example_3_translation": "I know how to pass a law."
+  },
+  {
+    "chunk_text": "diriger un pays",
+    "meaning": "to run a country",
+    "primary_function": "expression",
+    "communicative_purpose": "political leadership",
+    "patterns": [
+      "Il dirige le pays depuis vingt ans.",
+      "Qui va diriger ce pays après les élections?"
+    ],
+    "collocates": [
+      "pays",
+      "gouvernement",
+      "dirigeant",
+      "président",
+      "premier ministre"
+    ],
+    "level": "A2",
+    "example_1": "Il dirige le pays depuis vingt ans.",
+    "example_2": "Qui va diriger ce pays après les élections?",
+    "example_3": "On utilise diriger un pays dans la vie quotidienne.",
+    "example_1_translation": "He has ruled the country for twenty years.",
+    "example_2_translation": "Who will lead this country after the elections?",
+    "example_3_translation": "We use leading a country in everyday life."
+  },
+  {
+    "chunk_text": "organiser des élections",
+    "meaning": "to organize elections",
+    "primary_function": "expression",
+    "communicative_purpose": "electoral processes",
+    "patterns": [
+      "Le pays organise des élections présidentielles.",
+      "Des élections anticipées ont été organisées."
+    ],
+    "collocates": [
+      "élection",
+      "urne",
+      "scrutin",
+      "suffrage",
+      "candidat"
+    ],
+    "level": "B1",
+    "example_1": "Le pays organise des élections présidentielles.",
+    "example_2": "Des élections anticipées ont été organisées.",
+    "example_3": "Je connais organiser des élections.",
+    "example_1_translation": "The country is holding presidential elections.",
+    "example_2_translation": "Early elections were held.",
+    "example_3_translation": "I know how to organize elections."
+  },
+  {
+    "chunk_text": "faire campagne",
+    "meaning": "to campaign",
+    "primary_function": "expression",
+    "communicative_purpose": "political campaigning",
+    "patterns": [
+      "Les candidats font campagne depuis des mois.",
+      "Il a fait campagne sur le thème de l'emploi."
+    ],
+    "collocates": [
+      "campagne",
+      "électorale",
+      "propagande",
+      "discours",
+      "meeting"
+    ],
+    "level": "B1",
+    "example_1": "Les candidats font campagne depuis des mois.",
+    "example_2": "Il a fait campagne sur le thème de l'emploi.",
+    "example_3": "Je connais faire campagne.",
+    "example_1_translation": "The candidates have been campaigning for months.",
+    "example_2_translation": "He campaigned on the theme of employment.",
+    "example_3_translation": "I know how to campaign."
+  },
+  {
+    "chunk_text": "gouverner le pays",
+    "meaning": "to govern the country",
+    "primary_function": "expression",
+    "communicative_purpose": "governance",
+    "patterns": [
+      "Ce parti gouverne le pays depuis 2010.",
+      "Ils veulent gouverner différemment."
+    ],
+    "collocates": [
+      "gouvernement",
+      "pouvoir",
+      "majorité",
+      "opposition",
+      "politique"
+    ],
+    "level": "A2",
+    "example_1": "Ce parti gouverne le pays depuis 2010.",
+    "example_2": "Ils veulent gouverner différemment.",
+    "example_3": "On utilise gouverner le pays dans la vie quotidienne.",
+    "example_1_translation": "This party has governed the country since 2010.",
+    "example_2_translation": "They want to govern differently.",
+    "example_3_translation": "We use govern the country in daily life."
+  },
+  {
+    "chunk_text": "tenir une réunion",
+    "meaning": "to hold a meeting",
+    "primary_function": "expression",
+    "communicative_purpose": "political meetings",
+    "patterns": [
+      "Le conseil tient une réunion hebdomadaire.",
+      "Une réunion d'urgence a été tenue."
+    ],
+    "collocates": [
+      "réunion",
+      "conseil",
+      "sénat",
+      "assemblée",
+      "session"
+    ],
+    "level": "A2",
+    "example_1": "Le conseil tient une réunion hebdomadaire.",
+    "example_2": "Une réunion d'urgence a été tenue.",
+    "example_3": "On utilise tenir une réunion dans la vie quotidienne.",
+    "example_1_translation": "The council holds a weekly meeting.",
+    "example_2_translation": "An emergency meeting was held.",
+    "example_3_translation": "We use holding a meeting in everyday life."
+  },
+  {
+    "chunk_text": "adopter une politique",
+    "meaning": "to adopt a policy",
+    "primary_function": "expression",
+    "communicative_purpose": "policy making",
+    "patterns": [
+      "Le gouvernement a adopté une nouvelle politique migratoire.",
+      "Nous devons adopter des politiques environnementales."
+    ],
+    "collocates": [
+      "politique",
+      "stratégie",
+      "mesure",
+      "initiative",
+      "réforme"
+    ],
+    "level": "B2",
+    "example_1": "Le gouvernement a adopté une nouvelle politique migratoire.",
+    "example_2": "Nous devons adopter des politiques environnementales.",
+    "example_3": "On utilise adopter une politique dans la vie quotidienne.",
+    "example_1_translation": "The government has adopted a new migration policy.",
+    "example_2_translation": "We must adopt environmental policies.",
+    "example_3_translation": "We use adopting a policy in daily life."
+  },
+  {
+    "chunk_text": "manifester pacifiquement",
+    "meaning": "to demonstrate peacefully",
+    "primary_function": "expression",
+    "communicative_purpose": "peaceful protest",
+    "patterns": [
+      "Les syndicats ont manifester pacifiquement.",
+      "Ils veulent manifester pacifiquement pour leurs droits."
+    ],
+    "collocates": [
+      "manifester",
+      "protestation",
+      "gilet jaune",
+      "conteste",
+      "mobilisation"
+    ],
+    "level": "B1",
+    "example_1": "Les syndicats ont manifester pacifiquement.",
+    "example_2": "Ils veulent manifester pacifiquement pour leurs droits.",
+    "example_3": "Je connais manifester pacifiquement.",
+    "example_1_translation": "The unions demonstrated peacefully.",
+    "example_2_translation": "They want to demonstrate peacefully for their rights.",
+    "example_3_translation": "I know how to demonstrate peacefully."
+  },
+  {
+    "chunk_text": "être en fonction",
+    "meaning": "to be in office, to hold office",
+    "primary_function": "expression",
+    "communicative_purpose": "holding official position",
+    "patterns": [
+      "Le président est en fonction depuis 2018.",
+      "Elle reste en fonction jusqu'aux élections."
+    ],
+    "collocates": [
+      "poste",
+      "mandat",
+      "charge",
+      "responsabilité",
+      "pouvoir"
+    ],
+    "level": "B1",
+    "example_1": "Le président est en fonction depuis 2018.",
+    "example_2": "Elle reste en fonction jusqu'aux élections.",
+    "example_3": "Je connais être en fonction.",
+    "example_1_translation": "The president has been in office since 2018.",
+    "example_2_translation": "She remains in office until the elections.",
+    "example_3_translation": "I know how to be in office."
+  },
+  {
+    "chunk_text": "nommer un ministre",
+    "meaning": "to appoint a minister",
+    "primary_function": "expression",
+    "communicative_purpose": "governmental appointments",
+    "patterns": [
+      "Le président a nommé un nouveau ministre.",
+      "Elle a été nommée ministre de la Culture."
+    ],
+    "collocates": [
+      "ministre",
+      "nomination",
+      "portefeuille",
+      "gouvernement",
+      "poste"
+    ],
+    "level": "B1",
+    "example_1": "Le président a nommé un nouveau ministre.",
+    "example_2": "Elle a été nommée ministre de la Culture.",
+    "example_3": "Je connais nommer un ministre.",
+    "example_1_translation": "The president has appointed a new minister.",
+    "example_2_translation": "She was appointed Minister of Culture.",
+    "example_3_translation": "I know how to appoint a minister."
+  },
+  {
+    "chunk_text": "protéger les intérêts",
+    "meaning": "to protect interests",
+    "primary_function": "expression",
+    "communicative_purpose": "defending interests",
+    "patterns": [
+      "Le gouvernement doit protéger les intérêts nationaux.",
+      "Ils veulent protéger leurs intérêts économiques."
+    ],
+    "collocates": [
+      "intérêt",
+      "défense",
+      "national",
+      "économique",
+      "stratégique"
+    ],
+    "level": "B2",
+    "example_1": "Le gouvernement doit protéger les intérêts nationaux.",
+    "example_2": "Ils veulent protéger leurs intérêts économiques.",
+    "example_3": "On utilise protéger les intérêts dans la vie quotidienne.",
+    "example_1_translation": "The government must protect national interests.",
+    "example_2_translation": "They want to protect their economic interests.",
+    "example_3_translation": "We use protecting interests in everyday life."
+  },
+  {
+    "chunk_text": "former une coalition",
+    "meaning": "to form a coalition",
+    "primary_function": "expression",
+    "communicative_purpose": "political alliances",
+    "patterns": [
+      "Les partis ont formé une coalition gouvernementale.",
+      "Une coalition de circonstance s'est formée."
+    ],
+    "collocates": [
+      "coalition",
+      "alliance",
+      "parti",
+      "gouvernement",
+      "union"
+    ],
+    "level": "B2",
+    "example_1": "Les partis ont formé une coalition gouvernementale.",
+    "example_2": "Une coalition de circonstance s'est formée.",
+    "example_3": "On utilise former une coalition dans la vie quotidienne.",
+    "example_1_translation": "The parties formed a government coalition.",
+    "example_2_translation": "A coalition of circumstances was formed.",
+    "example_3_translation": "We use forming a coalition in everyday life."
+  },
+  {
+    "chunk_text": "dissoudre le Parlement",
+    "meaning": "to dissolve Parliament",
+    "primary_function": "expression",
+    "communicative_purpose": "political dissolution",
+    "patterns": [
+      "Le président a décider de dissoudre le Parlement.",
+      "Cette mesure provoque la dissolution de l'assemblée."
+    ],
+    "collocates": [
+      "dissolution",
+      "parlement",
+      "assemblée",
+      "élections anticipées"
+    ],
+    "level": "B2",
+    "example_1": "Le président a décider de dissoudre le Parlement.",
+    "example_2": "Cette mesure provoque la dissolution de l'assemblée.",
+    "example_3": "On utilise dissoudre le Parlement dans la vie quotidienne.",
+    "example_1_translation": "The president decided to dissolve Parliament.",
+    "example_2_translation": "This measure causes the dissolution of the assembly.",
+    "example_3_translation": "Dissolve Parliament is used in everyday life."
+  },
+  {
+    "chunk_text": "être affilié à",
+    "meaning": "to be affiliated with",
+    "primary_function": "expression",
+    "communicative_purpose": "political affiliation",
+    "patterns": [
+      "Il est affilié au parti travailliste.",
+      "Cette organisation n'est affiliée à aucun parti."
+    ],
+    "collocates": [
+      "affiliation",
+      "parti",
+      "mouvement",
+      "idéologie",
+      "membre"
+    ],
+    "level": "B1",
+    "example_1": "Il est affilié au parti travailliste.",
+    "example_2": "Cette organisation n'est affiliée à aucun parti.",
+    "example_3": "Je connais être affilié à.",
+    "example_1_translation": "He is affiliated with the Labor Party.",
+    "example_2_translation": "This organization is not affiliated with any party.",
+    "example_3_translation": "I know to be affiliated with."
+  }
+]

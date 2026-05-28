@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_text": "aller au cinéma",
+    "meaning": "to go to the movies",
+    "primary_function": "expression",
+    "communicative_purpose": "entertainment activities",
+    "patterns": [
+      "Nous allons au cinéma ce soir"
+    ],
+    "collocates": [
+      "film",
+      "séance",
+      "pop-corn"
+    ],
+    "level": "A2",
+    "example_1": "Nous allons au cinéma ce soir",
+    "example_2": "Tu peux dire aller au cinéma quand tu veux exprimer to go to the movies.",
+    "example_3": "On utilise aller au cinéma dans la vie quotidienne.",
+    "example_1_translation": "We're going to the movies tonight",
+    "example_2_translation": "You can say go to the cinema when you mean to go to the movies.",
+    "example_3_translation": "We use going to the cinema in everyday life."
+  },
+  {
+    "chunk_text": "jouer au théâtre",
+    "meaning": "to act in theater",
+    "primary_function": "expression",
+    "communicative_purpose": "performing arts",
+    "patterns": [
+      "Elle joue au théâtre depuis dix ans"
+    ],
+    "collocates": [
+      "scène",
+      "rôle",
+      "comédie"
+    ],
+    "level": "A2",
+    "example_1": "Elle joue au théâtre depuis dix ans",
+    "example_2": "Tu peux dire jouer au théâtre quand tu veux exprimer to act in theater.",
+    "example_3": "On utilise jouer au théâtre dans la vie quotidienne.",
+    "example_1_translation": "She has been acting in theater for ten years",
+    "example_2_translation": "You can say acting in theater when you mean to act in theater.",
+    "example_3_translation": "We use theater in everyday life."
+  },
+  {
+    "chunk_text": "regarder un film",
+    "meaning": "to watch a movie",
+    "primary_function": "expression",
+    "communicative_purpose": "media consumption",
+    "patterns": [
+      "J'ai regardé un film intéressant hier"
+    ],
+    "collocates": [
+      "écran",
+      "导演",
+      "histoire"
+    ],
+    "level": "A2",
+    "example_1": "J'ai regardé un film intéressant hier",
+    "example_2": "Tu peux dire regarder un film quand tu veux exprimer to watch a movie.",
+    "example_3": "On utilise regarder un film dans la vie quotidienne.",
+    "example_1_translation": "I watched an interesting movie yesterday",
+    "example_2_translation": "You can say watch a movie when you want to say to watch a movie.",
+    "example_3_translation": "We use watching a movie in daily life."
+  },
+  {
+    "chunk_text": "tourner un film",
+    "meaning": "to shoot a film",
+    "primary_function": "expression",
+    "communicative_purpose": "film production",
+    "patterns": [
+      "Ils tournent un film en ce moment à Paris"
+    ],
+    "collocates": [
+      "caméra",
+      "plateau",
+      "scène"
+    ],
+    "level": "B1",
+    "example_1": "Ils tournent un film en ce moment à Paris",
+    "example_2": "'tourner un film' est une expression utile.",
+    "example_3": "Je connais tourner un film.",
+    "example_1_translation": "They are filming a film at the moment in Paris",
+    "example_2_translation": "'shooting a film' is a useful expression.",
+    "example_3_translation": "I know how to shoot a film."
+  },
+  {
+    "chunk_text": "jouer dans un film",
+    "meaning": "to act in a film",
+    "primary_function": "expression",
+    "communicative_purpose": "film performance",
+    "patterns": [
+      "Il a joué dans plusieurs films известных"
+    ],
+    "collocates": [
+      "rôle",
+      "scène",
+      "carrière"
+    ],
+    "level": "A2",
+    "example_1": "Il a joué dans plusieurs films известных",
+    "example_2": "Tu peux dire jouer dans un film quand tu veux exprimer to act in a film.",
+    "example_3": "On utilise jouer dans un film dans la vie quotidienne.",
+    "example_1_translation": "He starred in several известных films",
+    "example_2_translation": "You can say act in a film when you mean to act in a film.",
+    "example_3_translation": "We use acting in a film in everyday life."
+  },
+  {
+    "chunk_text": "faire la une d'un film",
+    "meaning": "to star in a film",
+    "primary_function": "expression",
+    "communicative_purpose": "leading role",
+    "patterns": [
+      "Elle fait la une du nouveau film de Lelouch"
+    ],
+    "collocates": [
+      "rôle principal",
+      "vedette",
+      "distribution"
+    ],
+    "level": "B1",
+    "example_1": "Elle fait la une du nouveau film de Lelouch",
+    "example_2": "'faire la une d'un film' est une expression utile.",
+    "example_3": "Je connais faire la une d'un film.",
+    "example_1_translation": "She headlines Lelouch's new movie",
+    "example_2_translation": "'to headline a movie' is a useful expression.",
+    "example_3_translation": "I know how to headline a movie."
+  },
+  {
+    "chunk_text": "realiser un documentaire",
+    "meaning": "to direct a documentary",
+    "primary_function": "expression",
+    "communicative_purpose": "documentary production",
+    "patterns": [
+      "Il a réalisé un documentaire primé"
+    ],
+    "collocates": [
+      "sujet",
+      "interview",
+      "images"
+    ],
+    "level": "B2",
+    "example_1": "Il a réalisé un documentaire primé",
+    "example_2": "Tu peux dire realiser un documentaire quand tu veux exprimer to direct a documentary.",
+    "example_3": "On utilise realiser un documentaire dans la vie quotidienne.",
+    "example_1_translation": "He made an award-winning documentary",
+    "example_2_translation": "You can say direct a documentary when you mean to direct a documentary.",
+    "example_3_translation": "We use making a documentary in everyday life."
+  },
+  {
+    "chunk_text": "jouer la comédie",
+    "meaning": "to act in comedies",
+    "primary_function": "expression",
+    "communicative_purpose": "comedic performance",
+    "patterns": [
+      "Il aime jouer la comédie à la télévision"
+    ],
+    "collocates": [
+      "humour",
+      "rire",
+      "divertissement"
+    ],
+    "level": "A2",
+    "example_1": "Il aime jouer la comédie à la télévision",
+    "example_2": "Tu peux dire jouer la comédie quand tu veux exprimer to act in comedies.",
+    "example_3": "On utilise jouer la comédie dans la vie quotidienne.",
+    "example_1_translation": "He likes to act on television",
+    "example_2_translation": "You can say acting when you mean to act in comedies.",
+    "example_3_translation": "We use acting in everyday life."
+  },
+  {
+    "chunk_text": "assister à une Avant-première",
+    "meaning": "to attend a premiere",
+    "primary_function": "expression",
+    "communicative_purpose": "film events",
+    "patterns": [
+      "Nous avons assisté à l'avant-première du film"
+    ],
+    "collocates": [
+      "public",
+      "stars",
+      "projection"
+    ],
+    "level": "B1",
+    "example_1": "Nous avons assisté à l'avant-première du film",
+    "example_2": "'assister à une Avant-première' est une expression utile.",
+    "example_3": "Je connais assister à une Avant-première.",
+    "example_1_translation": "We attended the premiere of the film",
+    "example_2_translation": "'attend a Prerelease' is a useful phrase.",
+    "example_3_translation": "I know how to attend a Prerelease."
+  },
+  {
+    "chunk_text": "doubler un film",
+    "meaning": "to dub a film",
+    "primary_function": "expression",
+    "communicative_purpose": "audio production",
+    "patterns": [
+      "Ils doublent le film en plusieurs langues"
+    ],
+    "collocates": [
+      "voix",
+      "sons",
+      "version"
+    ],
+    "level": "B1",
+    "example_1": "Ils doublent le film en plusieurs langues",
+    "example_2": "'doubler un film' est une expression utile.",
+    "example_3": "Je connais doubler un film.",
+    "example_1_translation": "They dub the film in several languages",
+    "example_2_translation": "'dubbing a film' is a useful expression.",
+    "example_3_translation": "I know how to dub a film."
+  },
+  {
+    "chunk_text": "jouer un rôle penting",
+    "meaning": "to play an important role",
+    "primary_function": "expression",
+    "communicative_purpose": "theatrical performance",
+    "patterns": [
+      "Il joue un rôle penting dans cette pièce"
+    ],
+    "collocates": [
+      "personnage",
+      "distribution",
+      "scène"
+    ],
+    "level": "A2",
+    "example_1": "Il joue un rôle penting dans cette pièce",
+    "example_2": "Tu peux dire jouer un rôle penting quand tu veux exprimer to play an important role.",
+    "example_3": "On utilise jouer un rôle penting dans la vie quotidienne.",
+    "example_1_translation": "He plays a penting role in this play",
+    "example_2_translation": "You can say play an important role when you want to express to play an important role.",
+    "example_3_translation": "We use play a penting role in daily life."
+  },
+  {
+    "chunk_text": "monter sur scène",
+    "meaning": "to go on stage",
+    "primary_function": "expression",
+    "communicative_purpose": "performance activities",
+    "patterns": [
+      "Les acteurs montent sur scène à 20h"
+    ],
+    "collocates": [
+      "spectacle",
+      "public",
+      "lumière"
+    ],
+    "level": "B1",
+    "example_1": "Les acteurs montent sur scène à 20h",
+    "example_2": "'monter sur scène' est une expression utile.",
+    "example_3": "Je connais monter sur scène.",
+    "example_1_translation": "The actors take the stage at 8 p.m.",
+    "example_2_translation": "'getting on stage' is a useful expression.",
+    "example_3_translation": "I know how to go on stage."
+  },
+  {
+    "chunk_text": "payer la место",
+    "meaning": "to pay for the ticket",
+    "primary_function": "expression",
+    "communicative_purpose": "commercial transactions",
+    "patterns": [
+      "Il a payé la место pour le concert"
+    ],
+    "collocates": [
+      "billet",
+      "prix",
+      "réservation"
+    ],
+    "level": "A2",
+    "example_1": "Il a payé la место pour le concert",
+    "example_2": "Tu peux dire payer la место quand tu veux exprimer to pay for the ticket.",
+    "example_3": "On utilise payer la место dans la vie quotidienne.",
+    "example_1_translation": "He paid the место for the concert",
+    "example_2_translation": "You can say pay the место when you want to express to pay for the ticket.",
+    "example_3_translation": "We use pay the место in daily life."
+  },
+  {
+    "chunk_text": "faire sensation au box-office",
+    "meaning": "to be a box office hit",
+    "primary_function": "expression",
+    "communicative_purpose": "commercial success",
+    "patterns": [
+      "Ce film fait sensation au box-office"
+    ],
+    "collocates": [
+      "succès",
+      "public",
+      "recettes"
+    ],
+    "level": "B2",
+    "example_1": "Ce film fait sensation au box-office",
+    "example_2": "Tu peux dire faire sensation au box-office quand tu veux exprimer to be a box office hit.",
+    "example_3": "On utilise faire sensation au box-office dans la vie quotidienne.",
+    "example_1_translation": "This film is a box office sensation",
+    "example_2_translation": "You can say to be a box office hit when you mean to be a box office hit.",
+    "example_3_translation": "We use making a box office sensation in everyday life."
+  },
+  {
+    "chunk_text": "jouer les inconvenient",
+    "meaning": "to play the villain",
+    "primary_function": "expression",
+    "communicative_purpose": "character roles",
+    "patterns": [
+      "Il joue les inconvenient dans ce film"
+    ],
+    "collocates": [
+      "méchant",
+      "rôle",
+      "personnage"
+    ],
+    "level": "A2",
+    "example_1": "Il joue les inconvenient dans ce film",
+    "example_2": "Tu peux dire jouer les inconvenient quand tu veux exprimer to play the villain.",
+    "example_3": "On utilise jouer les inconvenient dans la vie quotidienne.",
+    "example_1_translation": "He plays the disadvantages in this film",
+    "example_2_translation": "You can say play the inconvenience when you mean to play the villain.",
+    "example_3_translation": "We use playing disadvantages in everyday life."
+  }
+]

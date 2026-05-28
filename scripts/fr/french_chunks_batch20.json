@@ -1,0 +1,349 @@
+[
+  {
+    "chunk_text": "faire partie de la famille",
+    "meaning": "to be part of the family",
+    "primary_function": "expression",
+    "communicative_purpose": "family membership and belonging",
+    "patterns": [
+      "Il fait partie de la famille depuis son mariage.",
+      "Elle se sent faire partie de cette famille adoptive."
+    ],
+    "collocates": [
+      "famille",
+      "marier",
+      "adoptif",
+      "apparenter"
+    ],
+    "level": "A2",
+    "example_1": "Il fait partie de la famille depuis son mariage.",
+    "example_2": "Elle se sent faire partie de cette famille adoptive.",
+    "example_3": "On utilise faire partie de la famille dans la vie quotidienne.",
+    "example_1_translation": "He has been part of the family since his marriage.",
+    "example_2_translation": "She feels part of this adoptive family.",
+    "example_3_translation": "We use being part of the family in everyday life."
+  },
+  {
+    "chunk_text": "être proche de quelqu'un",
+    "meaning": "to be close to someone",
+    "primary_function": "expression",
+    "communicative_purpose": "describing intimate relationships",
+    "patterns": [
+      "Je suis très proche de ma mère.",
+      "Ils ne sont plus aussi proches qu'avant."
+    ],
+    "collocates": [
+      "intime",
+      "confiance",
+      "lié",
+      "détaché"
+    ],
+    "level": "A2",
+    "example_1": "Je suis très proche de ma mère.",
+    "example_2": "Ils ne sont plus aussi proches qu'avant.",
+    "example_3": "On utilise être proche de quelqu'un dans la vie quotidienne.",
+    "example_1_translation": "I am very close to my mother.",
+    "example_2_translation": "They are not as close as before.",
+    "example_3_translation": "We use being close to someone in everyday life."
+  },
+  {
+    "chunk_text": "avoir des liens de parenté",
+    "meaning": "to have family ties",
+    "primary_function": "expression",
+    "communicative_purpose": "explaining family relationships",
+    "patterns": [
+      "Ils ont des liens de parenté avec la noblesse.",
+      "Nous n'avons aucun lien de parenté."
+    ],
+    "collocates": [
+      "parenté",
+      "cousin",
+      "oncle",
+      "tante",
+      "lien"
+    ],
+    "level": "B1",
+    "example_1": "Ils ont des liens de parenté avec la noblesse.",
+    "example_2": "Nous n'avons aucun lien de parenté.",
+    "example_3": "Je connais avoir des liens de parenté.",
+    "example_1_translation": "They have family ties with the nobility.",
+    "example_2_translation": "We are not related.",
+    "example_3_translation": "I know I have family ties."
+  },
+  {
+    "chunk_text": "se mettre en couple",
+    "meaning": "to become a couple",
+    "primary_function": "expression",
+    "communicative_purpose": "forming romantic relationships",
+    "patterns": [
+      "Ils se sont mis en couple il y a deux ans.",
+      "Elle ne veut pas se mettre en couple pour le moment."
+    ],
+    "collocates": [
+      "relation",
+      "amour",
+      "romantique",
+      "célibataire"
+    ],
+    "level": "B1",
+    "example_1": "Ils se sont mis en couple il y a deux ans.",
+    "example_2": "Elle ne veut pas se mettre en couple pour le moment.",
+    "example_3": "Je connais se mettre en couple.",
+    "example_1_translation": "They became a couple two years ago.",
+    "example_2_translation": "She doesn't want to get into a relationship at the moment.",
+    "example_3_translation": "I know how to get into a relationship."
+  },
+  {
+    "chunk_text": "vivre en concubinage",
+    "meaning": "to live together as an unmarried couple",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cohabitation without marriage",
+    "patterns": [
+      "Le concubinage est de plus en plus courant.",
+      "Ils vivent en concubinage depuis cinq ans."
+    ],
+    "collocates": [
+      "cohabiter",
+      "union libre",
+      "partenaire",
+      "ménage"
+    ],
+    "level": "B1",
+    "example_1": "Le concubinage est de plus en plus courant.",
+    "example_2": "Ils vivent en concubinage depuis cinq ans.",
+    "example_3": "Je connais vivre en concubinage.",
+    "example_1_translation": "Cohabitation is becoming more and more common.",
+    "example_2_translation": "They have been living together for five years.",
+    "example_3_translation": "I know how to live together."
+  },
+  {
+    "chunk_text": "faire la connaissance de",
+    "meaning": "to meet (for the first time), to get to know",
+    "primary_function": "expression",
+    "communicative_purpose": "first meetings and introductions",
+    "patterns": [
+      "J'ai fait la connaissance de son père hier.",
+      "Nous avons fait connaissance lors d'un voyage."
+    ],
+    "collocates": [
+      "rencontrer",
+      "présenter",
+      "accueillir",
+      "sympathique"
+    ],
+    "level": "A2",
+    "example_1": "J'ai fait la connaissance de son père hier.",
+    "example_2": "Nous avons fait connaissance lors d'un voyage.",
+    "example_3": "On utilise faire la connaissance de dans la vie quotidienne.",
+    "example_1_translation": "I met his father yesterday.",
+    "example_2_translation": "We met during a trip.",
+    "example_3_translation": "We use getting to know each other in everyday life."
+  },
+  {
+    "chunk_text": "maintenir le contact",
+    "meaning": "to keep in touch",
+    "primary_function": "expression",
+    "communicative_purpose": "staying in communication",
+    "patterns": [
+      "Malgré la distance, nous maintenons le contact.",
+      "Il est important de maintenir le contact avec sa famille."
+    ],
+    "collocates": [
+      "correspondre",
+      "appeler",
+      "visiter",
+      "distances"
+    ],
+    "level": "A2",
+    "example_1": "Malgré la distance, nous maintenons le contact.",
+    "example_2": "Il est important de maintenir le contact avec sa famille.",
+    "example_3": "On utilise maintenir le contact dans la vie quotidienne.",
+    "example_1_translation": "Despite the distance, we maintain contact.",
+    "example_2_translation": "It is important to maintain contact with your family.",
+    "example_3_translation": "We use maintaining contact in daily life."
+  },
+  {
+    "chunk_text": "couper les ponts",
+    "meaning": "to cut ties, to break off contact",
+    "primary_function": "expression",
+    "communicative_purpose": "ending relationships definitively",
+    "patterns": [
+      "Elle a décidé de couper les ponts avec sa famille.",
+      "Ils ont coupé les ponts après cette dispute."
+    ],
+    "collocates": [
+      "rupture",
+      "dispute",
+      "éloigner",
+      "définitif"
+    ],
+    "level": "B2",
+    "example_1": "Elle a décidé de couper les ponts avec sa famille.",
+    "example_2": "Ils ont coupé les ponts après cette dispute.",
+    "example_3": "On utilise couper les ponts dans la vie quotidienne.",
+    "example_1_translation": "She decided to cut ties with her family.",
+    "example_2_translation": "They cut ties after this argument.",
+    "example_3_translation": "We use cutting bridges in everyday life."
+  },
+  {
+    "chunk_text": "se réconcilier avec",
+    "meaning": "to reconcile with, to make up with",
+    "primary_function": "expression",
+    "communicative_purpose": "repairing broken relationships",
+    "patterns": [
+      "Ils ont fini par se réconcilier après des années.",
+      "Je voudrais me réconcilier avec mon frère."
+    ],
+    "collocates": [
+      "pardonner",
+      "excuse",
+      "dispute",
+      "apaissement"
+    ],
+    "level": "B1",
+    "example_1": "Ils ont fini par se réconcilier après des années.",
+    "example_2": "Je voudrais me réconcilier avec mon frère.",
+    "example_3": "Je connais se réconcilier avec.",
+    "example_1_translation": "They finally reconciled after years.",
+    "example_2_translation": "I would like to reconcile with my brother.",
+    "example_3_translation": "I know how to reconcile with."
+  },
+  {
+    "chunk_text": "avoir des affinités",
+    "meaning": "to have affinities, to have things in common",
+    "primary_function": "expression",
+    "communicative_purpose": "describing shared interests or connections",
+    "patterns": [
+      "Nous avons des affinités musicales.",
+      "Ils n'ont aucune affinité de caractère."
+    ],
+    "collocates": [
+      "passion",
+      "intérêt",
+      "commun",
+      "similarité"
+    ],
+    "level": "B1",
+    "example_1": "Nous avons des affinités musicales.",
+    "example_2": "Ils n'ont aucune affinité de caractère.",
+    "example_3": "Je connais avoir des affinités.",
+    "example_1_translation": "We have musical affinities.",
+    "example_2_translation": "They have no character affinity.",
+    "example_3_translation": "I know I have affinities."
+  },
+  {
+    "chunk_text": "tisser des liens",
+    "meaning": "to weave bonds, to build relationships",
+    "primary_function": "expression",
+    "communicative_purpose": "creating and developing relationships",
+    "patterns": [
+      "Cette expérience a permis de tisser des liens solides.",
+      "Il sait tisser des liens avec ses collaborateurs."
+    ],
+    "collocates": [
+      "relation",
+      "amitié",
+      "confiance",
+      "rapprochement"
+    ],
+    "level": "B2",
+    "example_1": "Cette expérience a permis de tisser des liens solides.",
+    "example_2": "Il sait tisser des liens avec ses collaborateurs.",
+    "example_3": "On utilise tisser des liens dans la vie quotidienne.",
+    "example_1_translation": "This experience allowed us to build strong bonds.",
+    "example_2_translation": "He knows how to build relationships with his colleagues.",
+    "example_3_translation": "We use building connections in daily life."
+  },
+  {
+    "chunk_text": "s'entendre bien avec",
+    "meaning": "to get along well with",
+    "primary_function": "expression",
+    "communicative_purpose": "describing harmonious relationships",
+    "patterns": [
+      "Elle s'entend très bien avec ses collègues.",
+      "Les enfants ne s'entendent pas bien entre eux."
+    ],
+    "collocates": [
+      "sympathie",
+      "harmonie",
+      "conflit",
+      "dispute"
+    ],
+    "level": "A2",
+    "example_1": "Elle s'entend très bien avec ses collègues.",
+    "example_2": "Les enfants ne s'entendent pas bien entre eux.",
+    "example_3": "On utilise s'entendre bien avec dans la vie quotidienne.",
+    "example_1_translation": "She gets along very well with her colleagues.",
+    "example_2_translation": "The children don't get along well with each other.",
+    "example_3_translation": "We use getting along well with in everyday life."
+  },
+  {
+    "chunk_text": "faire fonction de beau-parent",
+    "meaning": "to act as a step-parent",
+    "primary_function": "expression",
+    "communicative_purpose": "step-family relationships",
+    "patterns": [
+      "Il fait fonction de beau-père depuis le remariage.",
+      "Elle fait fonction de belle-mère pour les enfants."
+    ],
+    "collocates": [
+      "beau-père",
+      "belle-mère",
+      "belle-fille",
+      "gendre"
+    ],
+    "level": "B1",
+    "example_1": "Il fait fonction de beau-père depuis le remariage.",
+    "example_2": "Elle fait fonction de belle-mère pour les enfants.",
+    "example_3": "Je connais faire fonction de beau-parent.",
+    "example_1_translation": "He has acted as father-in-law since the remarriage.",
+    "example_2_translation": "She acts as a stepmother to the children.",
+    "example_3_translation": "I know how to act as a step-parent."
+  },
+  {
+    "chunk_text": "porter secours à",
+    "meaning": "to come to someone's aid, to help",
+    "primary_function": "expression",
+    "communicative_purpose": "providing help in emergencies",
+    "patterns": [
+      "Les pompiers ont porté secours aux sinistrés.",
+      "Elle a porté secours à la victime de l'accident."
+    ],
+    "collocates": [
+      "secours",
+      "aide",
+      "urgence",
+      "secourir"
+    ],
+    "level": "B1",
+    "example_1": "Les pompiers ont porté secours aux sinistrés.",
+    "example_2": "Elle a porté secours à la victime de l'accident.",
+    "example_3": "Je connais porter secours à.",
+    "example_1_translation": "Firefighters came to the aid of the victims.",
+    "example_2_translation": "She helped the accident victim.",
+    "example_3_translation": "I know how to help."
+  },
+  {
+    "chunk_text": "faire belly-bisou",
+    "meaning": "to give a belly kiss (to babies)",
+    "primary_function": "expression",
+    "communicative_purpose": "affectionate family gestures",
+    "patterns": [
+      "Le bébé adore quand je lui fais des belly-bisous.",
+      "Elle fait des belly-bisous à sa fille chaque matin."
+    ],
+    "collocates": [
+      "câlin",
+      "bisou",
+      "bébé",
+      "affection",
+      "tendre"
+    ],
+    "level": "A1",
+    "example_1": "Le bébé adore quand je lui fais des belly-bisous.",
+    "example_2": "Elle fait des belly-bisous à sa fille chaque matin.",
+    "example_3": "Je connais faire belly-bisou.",
+    "example_1_translation": "The baby loves it when I give him belly kisses.",
+    "example_2_translation": "She gives her daughter belly kisses every morning.",
+    "example_3_translation": "I know how to do a belly kiss."
+  }
+]

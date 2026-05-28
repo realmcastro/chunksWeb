@@ -1,0 +1,362 @@
+[
+  {
+    "chunk_text": "faire du vélo",
+    "meaning": "to go cycling",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cycling activity",
+    "patterns": [
+      "Je fais du vélo le matin.",
+      "Le week-end, nous faisons du vélo."
+    ],
+    "collocates": [
+      "vélo",
+      "cyclisme",
+      "piste",
+      "randonnée",
+      "sport"
+    ],
+    "level": "A1",
+    "example_1": "Je fais du vélo le matin.",
+    "example_2": "Le week-end, nous faisons du vélo.",
+    "example_3": "Je connais faire du vélo.",
+    "example_1_translation": "I cycle in the morning.",
+    "example_2_translation": "On weekends we go cycling.",
+    "example_3_translation": "I know how to ride a bike."
+  },
+  {
+    "chunk_text": "jouer de la guitare",
+    "meaning": "to play guitar",
+    "primary_function": "expression",
+    "communicative_purpose": "describing musical activity",
+    "patterns": [
+      "Elle joue de la guitare depuis longtemps.",
+      "Je voudrais jouer de la guitare."
+    ],
+    "collocates": [
+      "guitare",
+      "musique",
+      "instrument",
+      "jouer",
+      "apprendre"
+    ],
+    "level": "A1",
+    "example_1": "Elle joue de la guitare depuis longtemps.",
+    "example_2": "Je voudrais jouer de la guitare.",
+    "example_3": "Je connais jouer de la guitare.",
+    "example_1_translation": "She has been playing guitar for a long time.",
+    "example_2_translation": "I would like to play guitar.",
+    "example_3_translation": "I know how to play guitar."
+  },
+  {
+    "chunk_text": "faire de la natation",
+    "meaning": "to go swimming",
+    "primary_function": "expression",
+    "communicative_purpose": "describing swimming activity",
+    "patterns": [
+      "Je fais de la natation deux fois par semaine.",
+      "La natation est un excellent sport."
+    ],
+    "collocates": [
+      "natation",
+      "piscine",
+      "nage",
+      "sport",
+      "aquatique"
+    ],
+    "level": "A1",
+    "example_1": "Je fais de la natation deux fois par semaine.",
+    "example_2": "La natation est un excellent sport.",
+    "example_3": "Je connais faire de la natation.",
+    "example_1_translation": "I swim twice a week.",
+    "example_2_translation": "Swimming is a great sport.",
+    "example_3_translation": "I know how to swim."
+  },
+  {
+    "chunk_text": "regarder un film",
+    "meaning": "to watch a movie",
+    "primary_function": "expression",
+    "communicative_purpose": "describing film viewing",
+    "patterns": [
+      "Nous allons regarder un film ce soir.",
+      "J'ai regardé un bon film hier."
+    ],
+    "collocates": [
+      "film",
+      "cinéma",
+      "visionner",
+      "séance",
+      "projection"
+    ],
+    "level": "A1",
+    "example_1": "Nous allons regarder un film ce soir.",
+    "example_2": "J'ai regardé un bon film hier.",
+    "example_3": "Je connais regarder un film.",
+    "example_1_translation": "We're going to watch a movie tonight.",
+    "example_2_translation": "I watched a good movie yesterday.",
+    "example_3_translation": "I know how to watch a movie."
+  },
+  {
+    "chunk_text": "faire une promenade",
+    "meaning": "to take a walk",
+    "primary_function": "expression",
+    "communicative_purpose": "describing walking activity",
+    "patterns": [
+      "Nous faisons une promenade dans le parc.",
+      "Après le dîner, je fais une promenade."
+    ],
+    "collocates": [
+      "promenade",
+      "marche",
+      "balade",
+      "sortie",
+      "marcher"
+    ],
+    "level": "A1",
+    "example_1": "Nous faisons une promenade dans le parc.",
+    "example_2": "Après le dîner, je fais une promenade.",
+    "example_3": "Je connais faire une promenade.",
+    "example_1_translation": "We take a walk in the park.",
+    "example_2_translation": "After dinner, I take a walk.",
+    "example_3_translation": "I know how to take a walk."
+  },
+  {
+    "chunk_text": "jouer aux cartes",
+    "meaning": "to play cards",
+    "primary_function": "expression",
+    "communicative_purpose": "describing card games",
+    "patterns": [
+      "Nous jouons aux cartes le soir.",
+      "Ils jouent aux cartes depuis des heures."
+    ],
+    "collocates": [
+      "cartes",
+      "jeu",
+      "扑克",
+      "loisir",
+      "amis"
+    ],
+    "level": "A1",
+    "example_1": "Nous jouons aux cartes le soir.",
+    "example_2": "Ils jouent aux cartes depuis des heures.",
+    "example_3": "Je connais jouer aux cartes.",
+    "example_1_translation": "We play cards in the evening.",
+    "example_2_translation": "They've been playing cards for hours.",
+    "example_3_translation": "I know how to play cards."
+  },
+  {
+    "chunk_text": "faire du jardinage",
+    "meaning": "to do gardening",
+    "primary_function": "expression",
+    "communicative_purpose": "describing gardening activity",
+    "patterns": [
+      "Je fais du jardinage le week-end.",
+      "Le jardinage est très relaxant."
+    ],
+    "collocates": [
+      "jardin",
+      "jardinage",
+      "plante",
+      "jardinier",
+      "vert"
+    ],
+    "level": "A2",
+    "example_1": "Je fais du jardinage le week-end.",
+    "example_2": "Le jardinage est très relaxant.",
+    "example_3": "On utilise faire du jardinage dans la vie quotidienne.",
+    "example_1_translation": "I do gardening on the weekends.",
+    "example_2_translation": "Gardening is very relaxing.",
+    "example_3_translation": "We use gardening in everyday life."
+  },
+  {
+    "chunk_text": "prendre des photos",
+    "meaning": "to take photos",
+    "primary_function": "expression",
+    "communicative_purpose": "describing photography",
+    "patterns": [
+      "Elle prend des photos professionnelles.",
+      "Je prends toujours des photos de mes voyages."
+    ],
+    "collocates": [
+      "photo",
+      "photographie",
+      "appareil",
+      "cliché",
+      "image"
+    ],
+    "level": "A2",
+    "example_1": "Elle prend des photos professionnelles.",
+    "example_2": "Je prends toujours des photos de mes voyages.",
+    "example_3": "On utilise prendre des photos dans la vie quotidienne.",
+    "example_1_translation": "She takes professional photos.",
+    "example_2_translation": "I always take photos of my travels.",
+    "example_3_translation": "We use taking photos in everyday life."
+  },
+  {
+    "chunk_text": "faire du yoga",
+    "meaning": "to do yoga",
+    "primary_function": "expression",
+    "communicative_purpose": "describing yoga practice",
+    "patterns": [
+      "Je fais du yoga chaque matin.",
+      "Le yoga aide à se détendre."
+    ],
+    "collocates": [
+      "yoga",
+      "méditation",
+      "flexion",
+      "relaxation",
+      "bien-être"
+    ],
+    "level": "A2",
+    "example_1": "Je fais du yoga chaque matin.",
+    "example_2": "Le yoga aide à se détendre.",
+    "example_3": "On utilise faire du yoga dans la vie quotidienne.",
+    "example_1_translation": "I do yoga every morning.",
+    "example_2_translation": "Yoga helps you relax.",
+    "example_3_translation": "We use yoga in daily life."
+  },
+  {
+    "chunk_text": "jouer à un jeu vidéo",
+    "meaning": "to play video games",
+    "primary_function": "expression",
+    "communicative_purpose": "describing gaming",
+    "patterns": [
+      "Les enfants jouent à un jeu vidéo.",
+      "Je joue à des jeux vidéo depuis longtemps."
+    ],
+    "collocates": [
+      "jeu vidéo",
+      "gaming",
+      "console",
+      "ordinateur",
+      "loisir"
+    ],
+    "level": "A2",
+    "example_1": "Les enfants jouent à un jeu vidéo.",
+    "example_2": "Je joue à des jeux vidéo depuis longtemps.",
+    "example_3": "On utilise jouer à un jeu vidéo dans la vie quotidienne.",
+    "example_1_translation": "The children are playing a video game.",
+    "example_2_translation": "I've been playing video games for a long time.",
+    "example_3_translation": "We use playing a video game in everyday life."
+  },
+  {
+    "chunk_text": "faire de la lecture",
+    "meaning": "to read, to do reading",
+    "primary_function": "expression",
+    "communicative_purpose": "describing reading activity",
+    "patterns": [
+      "Je fais de la lecture chaque soir.",
+      "La lecture est ma passion."
+    ],
+    "collocates": [
+      "lecture",
+      "livre",
+      "lecture",
+      "livres",
+      "lecture"
+    ],
+    "level": "A2",
+    "example_1": "Je fais de la lecture chaque soir.",
+    "example_2": "La lecture est ma passion.",
+    "example_3": "On utilise faire de la lecture dans la vie quotidienne.",
+    "example_1_translation": "I read every evening.",
+    "example_2_translation": "Reading is my passion.",
+    "example_3_translation": "We use reading in daily life."
+  },
+  {
+    "chunk_text": "aller au cinéma",
+    "meaning": "to go to the cinema",
+    "primary_function": "expression",
+    "communicative_purpose": "describing cinema outings",
+    "patterns": [
+      "Nous allons au cinéma ce week-end.",
+      "Aller au cinéma est une sortie populaire."
+    ],
+    "collocates": [
+      "cinéma",
+      "film",
+      "séance",
+      "sortie",
+      "movie"
+    ],
+    "level": "A1",
+    "example_1": "Nous allons au cinéma ce week-end.",
+    "example_2": "Aller au cinéma est une sortie populaire.",
+    "example_3": "Je connais aller au cinéma.",
+    "example_1_translation": "We are going to the cinema this weekend.",
+    "example_2_translation": "Going to the cinema is a popular outing.",
+    "example_3_translation": "I know how to go to the cinema."
+  },
+  {
+    "chunk_text": "faire du trekking",
+    "meaning": "to go trekking",
+    "primary_function": "expression",
+    "communicative_purpose": "describing hiking/trekking",
+    "patterns": [
+      "Nous faisons du trekking dans les montagnes.",
+      "Le trekking est un sport exigeant."
+    ],
+    "collocates": [
+      "trekking",
+      "randonnée",
+      "montagne",
+      "nature",
+      "aventure"
+    ],
+    "level": "B1",
+    "example_1": "Nous faisons du trekking dans les montagnes.",
+    "example_2": "Le trekking est un sport exigeant.",
+    "example_3": "Je connais faire du trekking.",
+    "example_1_translation": "We go trekking in the mountains.",
+    "example_2_translation": "Trekking is a demanding sport.",
+    "example_3_translation": "I know how to trek."
+  },
+  {
+    "chunk_text": "peindre",
+    "meaning": "to paint",
+    "primary_function": "verb",
+    "communicative_purpose": "describing painting activity",
+    "patterns": [
+      "Elle aime peindre des paysages.",
+      "Je peins depuis mon enfance."
+    ],
+    "collocates": [
+      "peinture",
+      "tableau",
+      "artiste",
+      "couleur",
+      " toile"
+    ],
+    "level": "A2",
+    "example_1": "Elle aime peindre des paysages.",
+    "example_2": "Je peins depuis mon enfance.",
+    "example_3": "On utilise peindre dans la vie quotidienne.",
+    "example_1_translation": "She likes to paint landscapes.",
+    "example_2_translation": "I have painted since my childhood.",
+    "example_3_translation": "We use paint in everyday life."
+  },
+  {
+    "chunk_text": "collectionner des timbres",
+    "meaning": "to collect stamps",
+    "primary_function": "expression",
+    "communicative_purpose": "describing stamp collecting hobby",
+    "patterns": [
+      "Il collectionne des timbres depuis 20 ans.",
+      "La collection de timbres est mon hobby."
+    ],
+    "collocates": [
+      "timbres",
+      "collection",
+      "philatélie",
+      "poste",
+      "hobby"
+    ],
+    "level": "B1",
+    "example_1": "Il collectionne des timbres depuis 20 ans.",
+    "example_2": "La collection de timbres est mon hobby.",
+    "example_3": "Je connais collectionner des timbres.",
+    "example_1_translation": "He has been collecting stamps for 20 years.",
+    "example_2_translation": "Collecting stamps is my hobby.",
+    "example_3_translation": "I know how to collect stamps."
+  }
+]
