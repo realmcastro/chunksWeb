@@ -1,11 +1,11 @@
 import { NextResponse } from 'next/server';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import {
   recordStudySession,
   getCurrentStreak,
   getMasteredCount,
   recordSessionActivity,
 } from '@/lib/db/sqlite';
-import { cookies } from 'next/headers';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -17,22 +17,6 @@ import { cookies } from 'next/headers';
 - Stores chunk IDs for later retrieval in review/feynman modes
 - Requires authentication via session cookie
 */
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-
-  if (!sessionCookie) {
-    return null;
-  }
-
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
-}
 
 export async function POST(request: Request) {
   try {

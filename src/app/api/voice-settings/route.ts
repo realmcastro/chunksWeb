@@ -1,23 +1,11 @@
 import { NextResponse } from 'next/server';
-import { cookies } from 'next/headers';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import { getTTSSettings, saveTTSSettings } from '@/lib/pronunciation/storage/ttsSettingsStorage';
 import {
   getAllVoicePreferences,
   saveVoicePreferences,
 } from '@/lib/pronunciation/storage/voicePrefsStorage';
 import type { Locale } from '@/lib/pronunciation/types';
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-  if (!sessionCookie) return null;
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
-}
 
 export async function GET() {
   try {

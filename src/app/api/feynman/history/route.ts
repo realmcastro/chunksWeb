@@ -1,18 +1,6 @@
 import { NextResponse } from 'next/server';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import { getAllFeynmanExplanations } from '@/lib/db/sqlite';
-import { cookies } from 'next/headers';
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-  if (!sessionCookie) return null;
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
-}
 
 export async function GET() {
   try {

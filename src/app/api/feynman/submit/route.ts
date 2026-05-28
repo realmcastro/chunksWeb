@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import { saveFeynmanExplanation, getChunkProgress, updateChunkProgress } from '@/lib/db/sqlite';
 import { calculateSM2 } from '@/lib/spaced-repetition/sm2';
-import { cookies } from 'next/headers';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -18,22 +18,6 @@ interface FeynmanSubmitRequest {
   chunkId: number;
   explanation: string;
   quality: number;
-}
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-
-  if (!sessionCookie) {
-    return null;
-  }
-
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
 }
 
 export async function POST(request: Request) {

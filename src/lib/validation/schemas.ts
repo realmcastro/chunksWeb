@@ -10,6 +10,19 @@ import { z } from 'zod';
 const positiveInt = z.coerce.number().int().positive();
 const quality = z.coerce.number().int().min(0).max(5);
 
+/*
+! Session cookie payload — validated on every read so a tampered or legacy
+! cookie cannot bypass type assumptions downstream. Stored as plain JSON in
+! an httpOnly cookie; signing/encryption would require KMS work and is
+! tracked separately.
+*/
+export const sessionPayloadSchema = z.object({
+  userId: z.number().int().positive(),
+  username: z.string().min(1).max(200),
+  expiresAt: z.number().int().positive(),
+});
+export type SessionPayload = z.infer<typeof sessionPayloadSchema>;
+
 export const loginSchema = z.object({
   username: z.string().trim().min(1, 'Username required'),
   password: z.string().min(1, 'Password required'),

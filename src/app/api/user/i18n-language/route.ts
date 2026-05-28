@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { cookies } from 'next/headers';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import { getUserI18nLanguage, setUserI18nLanguage } from '@/lib/db/sqlite';
 
 /*
@@ -10,18 +10,6 @@ import { getUserI18nLanguage, setUserI18nLanguage } from '@/lib/db/sqlite';
 */
 
 const VALID_LANGUAGES = new Set(['en', 'pt', 'es', 'fr']);
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-  if (!sessionCookie) return null;
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
-}
 
 export async function GET() {
   try {

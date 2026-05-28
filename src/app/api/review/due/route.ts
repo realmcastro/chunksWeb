@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import { getDueChunks, getExamplesForChunk, getCategoryById } from '@/lib/db/sqlite';
-import { cookies } from 'next/headers';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas.
@@ -11,22 +11,6 @@ import { cookies } from 'next/headers';
 - Limit is configurable via query param (default 20)
 - Requires authentication via session cookie
 */
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-
-  if (!sessionCookie) {
-    return null;
-  }
-
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
-}
 
 export async function GET(request: Request) {
   try {

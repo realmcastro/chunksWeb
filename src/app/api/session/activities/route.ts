@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
+import { getUserIdFromCookie } from '@/lib/auth/session';
 import { getPreviousSessionChunkIds, getRecentSessionActivities } from '@/lib/db/sqlite';
-import { cookies } from 'next/headers';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -11,22 +11,6 @@ import { cookies } from 'next/headers';
 - If mode=random and recent=true, returns chunk IDs from most recent random session
 - Used by review and feynman modes to get previously studied chunks
 */
-
-async function getUserIdFromCookie(): Promise<number | null> {
-  const cookieStore = await cookies();
-  const sessionCookie = cookieStore.get('session');
-
-  if (!sessionCookie) {
-    return null;
-  }
-
-  try {
-    const session = JSON.parse(sessionCookie.value);
-    return session.userId || null;
-  } catch {
-    return null;
-  }
-}
 
 export async function GET(request: Request) {
   try {
