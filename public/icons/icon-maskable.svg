@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ChunksWeb">
+  <rect width="512" height="512" fill="#3b82f6"/>
+  <g transform="translate(144 160)" fill="#ffffff">
+    <path d="M30 0h184c17 0 30 13 30 30v152c0 17-13 30-30 30H30c-17 0-30-13-30-30V30C0 13 13 0 30 0zm0 24c-3 0-6 3-6 6v152c0 3 3 6 6 6h184c3 0 6-3 6-6V30c0-3-3-6-6-6H30z"/>
+    <rect x="48" y="48" width="148" height="16" rx="5"/>
+    <rect x="48" y="82" width="124" height="16" rx="5"/>
+    <rect x="48" y="116" width="148" height="16" rx="5"/>
+    <rect x="48" y="150" width="92" height="16" rx="5"/>
+  </g>
+</svg>
