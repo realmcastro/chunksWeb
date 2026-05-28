@@ -28,6 +28,8 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 - `algorithm` — SM-2 / FSRS
 - `seo` — metadata, sitemap
 - `operations` — backup, deploy
+- `delight` — easter eggs, mascot, sound, polish
+- `interactive` — páginas dialógicas / dirigidas a interação
 
 ## Índice
 
@@ -98,6 +100,9 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 | 74 | AI coach — daily plan recommender | feature,interactive | pendente |
 | 76 | Chunks feed (TikTok-style discovery) | feature,interactive | pendente |
 | 77 | Pronunciation duel arena | feature,interactive | pendente |
+| 78 | Idle screensaver (DVD bounce) | feature,delight | pendente |
+| 79 | Mascot/companion pet | feature,delight | pendente (decisão design) |
+| 82 | Ambient sensory polish (SFX/haptics/seasonal) | feature,delight,a11y | pendente |
 | 70 | Audio recording module | module | pendente |
 | 75 | Admin/instructor dashboard | feature | bloqueado (decisão role) |
 | 80 | AI tutoring chat (Claude) | feature | pendente |
