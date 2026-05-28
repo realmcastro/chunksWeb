@@ -1,0 +1,288 @@
+{
+  "timestamp": "2026-05-09T22:05:55.492Z",
+  "language": "fr",
+  "tables": {
+    "chunks": {
+      "totalRows": 1160,
+      "columns": {
+        "meaning": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "primary_function": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "communicative_purpose": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "trigger_situations": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 679,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "contexts": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 679,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "variations": {
+          "total": 1160,
+          "nullCount": 1160,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        },
+        "common_mistakes": {
+          "total": 1160,
+          "nullCount": 341,
+          "placeholderCount": 679,
+          "nullPercent": "29.4",
+          "filledPercent": "70.6"
+        },
+        "pattern": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 341,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "typical_collocates": {
+          "total": 1160,
+          "nullCount": 341,
+          "placeholderCount": 0,
+          "nullPercent": "29.4",
+          "filledPercent": "70.6"
+        },
+        "cefr_level_id": {
+          "total": 1160,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "register_id": {
+          "total": 1160,
+          "nullCount": 1160,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        },
+        "slug": {
+          "total": 1160,
+          "nullCount": 1160,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        },
+        "content_hash": {
+          "total": 1160,
+          "nullCount": 819,
+          "placeholderCount": 0,
+          "nullPercent": "70.6",
+          "filledPercent": "29.4"
+        }
+      },
+      "sampleWithNulls": []
+    },
+    "grammar_structures": {
+      "totalRows": 403,
+      "columns": {
+        "core_meaning": {
+          "total": 403,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "primary_communicative_fn": {
+          "total": 403,
+          "nullCount": 0,
+          "placeholderCount": 313,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "when_to_use": {
+          "total": 403,
+          "nullCount": 0,
+          "placeholderCount": 299,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "pattern": {
+          "total": 403,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "key_variations": {
+          "total": 403,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "essential_vocabulary_slots": {
+          "total": 403,
+          "nullCount": 403,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        },
+        "common_learner_mistakes": {
+          "total": 403,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "key_forms": {
+          "total": 403,
+          "nullCount": 403,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        },
+        "slug": {
+          "total": 403,
+          "nullCount": 403,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        },
+        "content_hash": {
+          "total": 403,
+          "nullCount": 403,
+          "placeholderCount": 0,
+          "nullPercent": "100.0",
+          "filledPercent": "0.0"
+        }
+      },
+      "sampleWithNulls": []
+    },
+    "vocabulary_words": {
+      "totalRows": 1871,
+      "columns": {
+        "phonetic": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "part_of_speech": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "category": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "subcategory": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1867,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "primary_meaning": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "secondary_meaning": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1867,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "usage_notes": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1867,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "common_collocations": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1867,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "synonyms": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1867,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "antonyms": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1867,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "image_search_query": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 0,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "example_1": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1384,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        },
+        "example_1_translation": {
+          "total": 1871,
+          "nullCount": 0,
+          "placeholderCount": 1384,
+          "nullPercent": "0.0",
+          "filledPercent": "100.0"
+        }
+      },
+      "sampleWithNulls": []
+    }
+  },
+  "examples": {
+    "frenchChunkExamples": 3621,
+    "frenchGrammarExamples": 237,
+    "totalFrenchExamples": 3858,
+    "placeholderExamples": 0,
+    "placeholderSamples": []
+  },
+  "summary": {
+    "chunksNeedFilling": 1160,
+    "grammarNeedFilling": 403,
+    "vocabNeedFilling": 1871
+  }
+}

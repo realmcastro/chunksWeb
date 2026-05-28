@@ -1,0 +1,2709 @@
+{
+  "chunks_updated": 0,
+  "examples_inserted": 1455,
+  "collocations_inserted": 1964,
+  "variations_inserted": 1766,
+  "grammar_updated": 0,
+  "errors": [
+    {
+      "chunk": "avoir de l'expérience",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être au chômage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "négocier un contrat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "travailler sous pression",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "gagner sa vie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire l'apprentissage de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être à même de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "en vue de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir accès à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser des jalons",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire foi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il s'avère que",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "en싶ngélisé par",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "au péril de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à tort et à travers",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire table rase",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "en marge de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à chaud",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en ligne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "télécharger un fichier",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se connecter à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "mise à jour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "protocole de sécurité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "base de données",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "interface utilisateur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "intelligence artificielle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "apprentissage automatique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "blockchain",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cyberattaque",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "stockage cloud",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "réseau social",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "algorithmique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "traitement de données",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "changement climatique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "développement durable",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "empreinte carbone",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "énergies renouvelables",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "biodiversité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "pollution atmosphérique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "effet de serre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "gestion des déchets",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "protection de l'environnement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "ressources naturelles",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "réchauffement climatique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "zone humide",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déforestation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "émissions de CO2",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "écosystème fragile",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la vaisselle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cuisiner un repas",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "réserver une table",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "carte des vins",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "entrée principale",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire les courses",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "coupe de champagne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "pain grillé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "au restaurant",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "servir à table",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "goûter un plat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "menu du jour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "addition s'il vous plaît",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cuisine française",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "plat du jour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire escale à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre la correspondance",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en transit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "valise épuisée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "voyager à l'aveugle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "partir en vrille",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre le large",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être à bord de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "renchérrir sur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "toucher terre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir le pied marin",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la navette",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "perdre de l'altitude",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "bon pied, bon œil",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à tombeau ouvert",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire du sport",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre un cours",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer les prolongations",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "marquer un point",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire bouger les lignes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "courir le marathon",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "donner sa langue au chat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer cartes sur table",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la course en tête",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "remporter le trophée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "noyer le poisson",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "élever le niveau de jeu",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir le souffle coupé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer crânement sa chance",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "exposer au public",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "donner vie à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "couper le souffle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "peindre sous un jour nouveau",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer sur les mots",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "recevoir un accueil triomphal",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser nu",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tailler sa réputation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "crever l'écran",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire vibrer le cœur du public",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "accrocher le public",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "raconter une histoire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tirer un portrait",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lancer sur le marché",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir du talent à revendre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "diffuser sur les ondes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire les gros titres",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre la parole",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "coller à la réalité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dénoncer au grand jour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cibler un public",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "donner de la voix",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "filtrer l'information",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir le dernier mot",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter plainte",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire couler beaucoup d'encre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "susciter l'intérêt",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "relayer une information",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être à l'antenne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "manier la plume",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "mener une expérience",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "émettre une hypothèse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "confirmer une théorie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "remonter aux sources",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire avancer la recherche",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "démontrer par A + B",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir voix au chapitre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "recouper les informations",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "étayer une argumentation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se perdre en conjectures",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "établir une corrélation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "passer au crible",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la preuve de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il fait beau",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il fait froid",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire partie de la famille",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être proche de quelqu'un",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir des liens de parenté",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se mettre en couple",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "vivre en concubinage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la connaissance de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "maintenir le contact",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "couper les ponts",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se réconcilier avec",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir des affinités",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tisser des liens",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "s'entendre bien avec",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire fonction de beau-parent",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter secours à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire belly-bisou",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "fêter dignement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "organiser une fête",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être de retour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se réunir en famille",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "offrir un cadeau",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lever son verre à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "donner rendez-vous",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "manquer une occasion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "célébrer une victoire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "inaugurer un bâtiment",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "participer à une cérémonie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la fête toute la nuit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "annuler un événement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "profiter d'une occasion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "assister à une réunion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire des économies",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être broke",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire un emprunt",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "investir dans",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir des difficultés financières",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "compter sur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer une facture",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser un lapin à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir un compte en banque",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire des bénéfices",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être endetté",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer rubis sur l'ongle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "remplir un formulaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déposer une plainte",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire appel",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "obtenir un permis",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "respecter la loi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "signer un contrat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en règle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "fournir des pièces justificatives",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "engager des poursuites",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer des amendes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "passer devant le juge",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "établir un acte",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir droit à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se conformer à la réglementation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être témoin de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre le pouvoir",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "voter une loi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "diriger un pays",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "organiser des élections",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire campagne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "gouverner le pays",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tenir une réunion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "adopter une politique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "manifester pacifiquement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en fonction",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "nommer un ministre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "protéger les intérêts",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "former une coalition",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dissoudre le Parlement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être affilié à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir confiance en soi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être stressé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "ressentir de l'anxiété",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se sentir déprimé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en colère contre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir peur de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être jaloux de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se remettre en question",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "surmonter une épreuve",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être满腹狐疑",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire contre mauvaise fortune bon coeur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "perdre patience",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir le coeur brisé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il pleut à verse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il fait un temps couvert",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le soleil se lève",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le soleil se couche",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il fait très chaud",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une tempête de neige",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il y a du vent",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il fait doux",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la température chute",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un temps orageux",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il grêle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le prévisions météorologiques",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une canicule",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter une robe",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une paire de chaussures",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être habillé en noir",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter un costume",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire les soldes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une boutique de mode",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter des lunettes de soleil",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une veste en cuir",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être à la mode",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter un pulls",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une robe de soirée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "changer de tenue",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter un jean",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une collection de moda",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "porter un accessoire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire du vélo",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer de la guitare",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire de la natation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "regarder un film",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire une promenade",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer aux cartes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire du jardinage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre des photos",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire du yoga",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer à un jeu vidéo",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire de la lecture",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "aller au cinéma",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire du trekking",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "peindre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "collectionner des timbres",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "acheter en ligne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un centre commercial",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en solde",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "acheter à crédit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être cher",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être bon marché",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le prix de vente",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire des achats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dans le罐",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "rembourser",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un commerçant",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir un animal de compagnie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "promener le chien",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "nourrir le chat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un chenil",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une visite chez le vétérinaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "élever des poules",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un aquarium",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "s'occuper d'un animal",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un动物 abandonné",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer avec le chat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dresser un chien",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une laisse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "donner à manger",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un oiseaux",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "l'espèce menacée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "habiter en ville",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le transports en commun",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un quartier commerçant",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la circulation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une zone piétonne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un immeuble",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un musée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une borne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le bruit de la ville",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un parc",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la propreté",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une station de métro",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le centre-ville",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un embouteillage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "habiter à la campagne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un champ",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une ferme",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire des travaux agricoles",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un tracteur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la récolte",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un paysan",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un village",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un ruisseau",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "paitre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la nature",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un bois",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cultiver la terre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une colline",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "leсь",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "le patrimoine",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un monument historique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une époque",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une civilisation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un château",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la Révolution française",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un artifact",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "l'Ancien Régime",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une trace du passé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un site archéologique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la mémoire collective",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un musée d'histoire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dater de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "un personnage historique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "une tradition",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer du piano",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "aller à un concert",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "chanter une chanson",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "composer de la musique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer dans un orchestre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "accorder une guitare",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre des leçons de musique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir l'oreille musicale",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer de la batterie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "chanter en chœur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "accorder un instrument",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer d'un instrument à vent",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "enregistrer un album",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la connaissance d'un Musicien",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lire un roman",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "écrire un poème",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "publier un livre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être passionné de lecture",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "crire un roman policier",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "consulter un dictionnaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "rédiger une biographie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "crire un scénario",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "publier un article",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "traduire un texte",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "crire de la poésie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "signer un livre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "crire des mémoires",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "bouquiner le weekend",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être auteur à succès",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer au théâtre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tourner un film",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer dans un film",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la une d'un film",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "realiser un documentaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer la comédie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "assister à une Avant-première",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "doubler un film",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer un rôle penting",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "monter sur scène",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer la место",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire sensation au box-office",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouer les inconvenient",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire de la publicité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lancer une campagne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "diffuser une annonce",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "promouvoir un produit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la une",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": " cibler un publique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "créer une marque",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire connaître un produit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "manipuler l'opinion publique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "vendre un service",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir un impact sur les ventes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "рекламировать товар",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire une offre promotionnelle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": " sponsoriser un événement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "analyser le comportement du consommateur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "commettre un crime",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être arrêté par la police",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "passer en jugement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être condamné à une peine",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "témoigner au tribunal",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "enquêter sur une affaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "voler quelque chose",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dissuader le crime",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire justice",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "purger une peine",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "violer la loi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "défendre un client",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "trouver un avocat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être reconnu coupable",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "servir dans l'armée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "protéger le pays",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "participer à une guerre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en service actif",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "construire une défense",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lancer une attaque",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "négocier la paix",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "renforcer les frontières",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "signer un traité de paix",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la reco",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être promuоfficier",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "recruter des soldats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déserter l'armée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "maintenir la paix",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "former une alliance",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "aller à l'église",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prier Dieu",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être catholique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être croyant",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "fêter Noël",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "baptiser un enfant",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir la foi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "suivre une religion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "respecter les traditions",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "observer le Ramadan",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire un pèlerinage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être agnostique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "célébrer une cérémonie religieuse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "remettre en question la foi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "pratiquer régulièrement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lutter contre la pauvreté",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "protéger l'environnement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "défendre les droits",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "promouvoir l'égalité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "scolariser les enfants",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir accès aux soins",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "combattre les discriminations",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "réduire les inégalités",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "vivre dans la précarité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "soutenir les migrants",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "changer la société",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être impliqué dans la communauté",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "lutter pour une cause",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "améliorer les conditions de vie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre le métro",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "rater le bus",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire de l'auto-stop",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "conduire sur l'autoroute",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "stationner au parking",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "changer de train",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre un taxi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "louer une voiture",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire un tour en vélo",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "attraper le vol",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "acheter un billet de train",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se garer en double file",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "marcher jusqu'à la gare",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "louer un appartement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer le loyer",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "emménager dans une maison",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déménager d'un appartement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "habiter au troisième étage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire des travaux",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser du parquet",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "installer l'électricité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "changer les fenêtres",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir une vue sur la mer",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "jouxter une boulangerie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "sous-louer une chambre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer les charges",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire partie de la copropriété",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "s'installer à la campagne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "passer une commande",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir un régime spécial",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer l'addition",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "servir à manger",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir faim",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "manger au restaurant",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "commander le dessert",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre l'apéritif",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déguster le vin",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cuisiner maison",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "accompagner de vin",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "emporter les restes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire une réservation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "pointer à l'accueil",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir une chambre libre",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "payer la nuit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "visiter un monument",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "acheter des souvenirs",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prolonger le séjour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "visiter la région",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "partir en vacances",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "louer une chambre d'hôte",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "voyager à l'étranger",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire du tourisme",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en voyage d'affaires",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "découvrir une ville",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "organiser une réunion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "présenter un projet",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "établir un devis",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "fixer un rendez-vous",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre des notes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "exposer les résultats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "respecter les délais",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "conclure un accord",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire une pause",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "exprimer mon avis",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "demander une augmentation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "trouver un terrain d'entente",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "sponsoriser un événement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "travailler en équipe",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "gérer un équipe",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "envoyer un mail",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "imprimer un document",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "partager un fichier",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "répondre au téléphone",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "fixer des objectifs",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "évaluer la performance",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre une décision",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déléguer des tâches",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "assurer le suivi",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire un rapport",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "planifier les activités",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "respecter la hiérarchie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "cumuler les fonctions",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "passer un entretien",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "déposer ma candidature",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "préparer mon CV",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "correspondre au profil",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "list mes compétences",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "négocier mon salaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être autonome",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "rejoindre une entreprise",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire un stage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être débordé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser des congés",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "changer de carrière",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être en période d'essai",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "communiquer efficacement",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "résoudre les problèmes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "gérer mon temps",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "travailler en autonomie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "analyser les données",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prendre des initiatives",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "s'adapter aux changements",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "coordonner une équipe",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire la différence",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "être force de proposition",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire preuve de rigueur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "avoir le sens du détail",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "synthétiser les informations",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "développer mes compétences",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "envoyer un e-mail",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "pièce jointe",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "copie à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "répondre à un message",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "confirmation de réception",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à l'attention de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "courrier électronique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "objet du message",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "boîte de réception",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "transmettre des documents",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "envoi différé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "destinataire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "correspondance professionnelle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prière de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "décrocher le téléphone",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "Qui est à l'appareil?",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "Je vous passe M.",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser le téléphone",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la ligne est occupée",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "Vous avez été coupé",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la sonnerie",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "appeler le standard",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la communication est mauvaise",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "je vous rappelle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prière de laisser un message",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "téléphoner à quelqu'un",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "conférence téléphonique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser un congés",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la ligne ne répond pas",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire une présentation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "support visuel",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "distribuer des documents",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "prise de parole en public",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "enchaîner les diapositives",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "résumer les points clés",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "plan de la présentation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "temps de parole",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tableaux et graphiques",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "questions du public",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se tenir à jour",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "projeter des images",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la parole est à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "démontrer les résultats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "exposer les conclusiones",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "rédiger un rapport",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "table des matières",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "annexe du document",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "page de garde",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dresser un constat",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "chef de projet",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "compte rendu de réunion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "notes de service",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "procès-verbal",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "document de référence",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à des fins de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "formaliser par écrit",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "état des lieux",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "note de synthèse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "collecte de données",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "taux d'augmentation",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "en pourcentage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "la moyenne est de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "échelle de valeur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "données chiffrées",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "source de statistiques",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tendance à la hausse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tendance à la baisse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "indice de référence",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "corrélation entre les données",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "marge d'erreur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "population cible",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "échantillon représentatif",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "interpréter les résultats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "méthode de recherche",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "formuler une hypothèse",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "collecter des données",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "analyser les résultats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "revue de la littérature",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "travail de terrain",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "étude de cas",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "enquête par questionnaire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "observations participantes",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "validité des résultats",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "échantillonnage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "triangulation des sources",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "hypothèse nulle",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "groupe témoin",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "protocole expérimental",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "structure d'un mémoire",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "état de l'art",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "poser une problématique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "démarche analytique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "formulation des questions",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "synthèse bibliographique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "note critique",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "aller dans le sens de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "en conformité avec",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire autorité",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "souligner l'importance de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "tirer une conclusion",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "apporter un éclairage",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "selon l'auteur",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "citer une source",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à défaut de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "étayé par des preuves",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "faire référence à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "dans la mesure où",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "comme le souligne",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "renvoyer à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se référer à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "il convient de noter",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "au même titre que",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "donner lieu à",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "à l'appui de",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "indiquer la référence",
+      "error": "Too many parameter values were provided"
+    },
+    {
+      "chunk": "se fondant sur",
+      "error": "Too many parameter values were provided"
+    }
+  ]
+}

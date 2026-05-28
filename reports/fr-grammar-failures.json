@@ -1,0 +1,452 @@
+[
+  {
+    "structure_id": 346,
+    "structure_label": "être au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 347,
+    "structure_label": "avoir au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 348,
+    "structure_label": "-ER verbs conjugation (present tense)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 349,
+    "structure_label": "-IR verbs conjugation (present tense)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 350,
+    "structure_label": "-RE verbs conjugation (present tense)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 351,
+    "structure_label": "aller au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 352,
+    "structure_label": "venir au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 353,
+    "structure_label": "faire au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 354,
+    "structure_label": "pouvoir au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 355,
+    "structure_label": "vouloir au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 356,
+    "structure_label": "devoir au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 358,
+    "structure_label": "les verbes pronominaux au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 359,
+    "structure_label": "dire au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 360,
+    "structure_label": "voir au présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 377,
+    "structure_label": "Pronoun order: double object pronouns (le/la/les before lui/leur)",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 384,
+    "structure_label": "Pronoun order with verbs followed by « de » (en)",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 387,
+    "structure_label": "Pronoun order: « ce » as object pronoun",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 388,
+    "structure_label": "Pronoun order with « faire » + infinitive (causative)",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 389,
+    "structure_label": "Pronoun order: « voir », « entendre », « sentir » + infinitive",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 433,
+    "structure_label": "Subjonctif after verbs of opinion in reported speech",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 434,
+    "structure_label": "Historic infinitive in indirect speech",
+    "attempt": 2,
+    "motivo": "Marker \"avoir\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 436,
+    "structure_label": "Present conditional for polite requests",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 437,
+    "structure_label": "Conditional for hypothetical presents",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 443,
+    "structure_label": "Si + imparfait → present conditional result",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 445,
+    "structure_label": "Mixed conditional (past condition, present result)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 447,
+    "structure_label": "Conditional with sans (but for) and avec (but for)",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 449,
+    "structure_label": "Conditional anterior (would have) vs conditionnel présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 451,
+    "structure_label": "Subjonctif after verbs of willing and wanting",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 452,
+    "structure_label": "Subjonctif after impersonal expressions of necessity",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 453,
+    "structure_label": "Subjonctif after expressions of emotion",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 454,
+    "structure_label": "Subjonctif after conjunctions of purpose",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 455,
+    "structure_label": "Subjonctif after conjunctions of concession",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 456,
+    "structure_label": "Subjonctif after superlatives and unique expressions",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 457,
+    "structure_label": "Subjonctif in relative clauses with vague antecedent",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 458,
+    "structure_label": "Subjonctif vs indicatif after « il semble que »",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 459,
+    "structure_label": "Subjonctif parfait (passé) for anterior actions",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 460,
+    "structure_label": "Subjonctif after « jusqu'à ce que »",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 461,
+    "structure_label": "Present subjunctive vs imperfect subjunctive",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 462,
+    "structure_label": "Subjonctif after « en attendant que »",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 463,
+    "structure_label": "Subjonctif after indefinite pronouns",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 464,
+    "structure_label": "Subjonctif for objective vs subjective judgment",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 465,
+    "structure_label": "Subjonctif after « pour que » vs « pour »",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 474,
+    "structure_label": "« au moment où » for simultaneous events",
+    "attempt": 2,
+    "motivo": "Marker \"vous\" not found in enough examples (found in 1/3)"
+  },
+  {
+    "structure_id": 476,
+    "structure_label": "« de nos jours » for present-time reference",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 477,
+    "structure_label": "« autrefois » and « jadis » for past-time reference",
+    "attempt": 2,
+    "motivo": "Marker \"à la\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 491,
+    "structure_label": "« de loin » for extreme comparison",
+    "attempt": 2,
+    "motivo": "Marker \"de la\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 501,
+    "structure_label": "« envoyer chercher » for summoning",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 564,
+    "structure_label": "Collect quantities with plural nouns",
+    "attempt": 2,
+    "motivo": "Marker \"combien\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 577,
+    "structure_label": "Emphasis with « à + nom/pronoun + de + infinitif »",
+    "attempt": 2,
+    "motivo": "Marker \"vous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 601,
+    "structure_label": "Formal vs informal address",
+    "attempt": 2,
+    "motivo": "Marker \"vous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 614,
+    "structure_label": "Digital/social media register",
+    "attempt": 2,
+    "motivo": "Marker \"vous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 615,
+    "structure_label": "Code-switching awareness",
+    "attempt": 2,
+    "motivo": "Marker \"vous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 637,
+    "structure_label": "Partitive after expressions of quantity",
+    "attempt": 2,
+    "motivo": "Marker \"avoir\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 648,
+    "structure_label": "conditionnel présent",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 649,
+    "structure_label": "si + imparfait + conditionnel (conditionnel présent)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 653,
+    "structure_label": "subjonctif présent (Formation)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 654,
+    "structure_label": "subjonctif après les expressions de désir (vouloir que, désirer que)",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 655,
+    "structure_label": "subjonctif après les expressions d'émotion (avoir peur que, être content que)",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 656,
+    "structure_label": "subjonctif après les expressions d'incertitude (douter que, ne pas croire que)",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 657,
+    "structure_label": "subjonctif impersonnel (il faut que, il est nécessaire que)",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 659,
+    "structure_label": "subjonctif après les conjonctions (bien que, pour que, avant que)",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 660,
+    "structure_label": "conditionnel passé (conditionnel deuxième forme)",
+    "attempt": 2,
+    "motivo": "Marker \"rait\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 663,
+    "structure_label": "plus-que-parfait",
+    "attempt": 2,
+    "motivo": "Marker \"était\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 665,
+    "structure_label": "après avoir + participe passé",
+    "attempt": 2,
+    "motivo": "Marker \"être\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 672,
+    "structure_label": "le subjonctif présent (verbes réguliers)",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 673,
+    "structure_label": "il faut que + subjonctif",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 674,
+    "structure_label": "avant que + subjonctif",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 676,
+    "structure_label": "Passif avec « par »",
+    "attempt": 2,
+    "motivo": "Marker \"être\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 677,
+    "structure_label": "Passif avec « de »",
+    "attempt": 2,
+    "motivo": "Marker \"être\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 687,
+    "structure_label": " 文章标题: participe présent comme adjectif",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 694,
+    "structure_label": " 文章标题: dont pour complément",
+    "attempt": 2,
+    "motivo": "Marker \"dont\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 699,
+    "structure_label": " 文章标题: quoi que (subjonctif)",
+    "attempt": 2,
+    "motivo": "Marker \"soit\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 727,
+    "structure_label": "Presentative « c'est... qui/que » with adjectives",
+    "attempt": 2,
+    "motivo": "Marker \" présent\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 729,
+    "structure_label": "Emphasis with « encore » and inversion",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  },
+  {
+    "structure_id": 731,
+    "structure_label": "Emphasis with adverbial pronouns « en » and « y »",
+    "attempt": 2,
+    "motivo": "Marker \"nous\" not found in enough examples (found in 0/3)"
+  }
+]

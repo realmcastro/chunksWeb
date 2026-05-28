@@ -1,0 +1,229 @@
+{
+  "mode": "live",
+  "timestamp": "2026-05-09T19:38:58.681Z",
+  "files_processed": 24,
+  "total_entries": 360,
+  "inserted": 341,
+  "would_insert": 0,
+  "skipped": 19,
+  "errors": 0,
+  "error_types": {},
+  "files": [
+    {
+      "file": "french_chunks_batch58.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch59.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 13,
+      "would_insert": 0,
+      "skipped": 2,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch60.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch61.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch62.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch63.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch64.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch65.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch66.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch67.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch68.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch69.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch70.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 13,
+      "would_insert": 0,
+      "skipped": 2,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch71.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch72.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch73.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch74.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 13,
+      "would_insert": 0,
+      "skipped": 2,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch75.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch76.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch77.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch78.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch79.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 14,
+      "would_insert": 0,
+      "skipped": 1,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch80.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 13,
+      "would_insert": 0,
+      "skipped": 2,
+      "errors": 0
+    },
+    {
+      "file": "french_chunks_batch81.json",
+      "type": "chunk",
+      "total_entries": 15,
+      "inserted": 15,
+      "would_insert": 0,
+      "skipped": 0,
+      "errors": 0
+    }
+  ]
+}

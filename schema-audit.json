@@ -1,0 +1,507 @@
+=== grammar_structures columns ===
+[
+  {
+    "cid": 0,
+    "name": "id",
+    "type": "INTEGER",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 1
+  },
+  {
+    "cid": 1,
+    "name": "category_id",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 2,
+    "name": "source_file",
+    "type": "TEXT",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 3,
+    "name": "entry_index",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 4,
+    "name": "entry_total",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 5,
+    "name": "structure_label",
+    "type": "TEXT",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 6,
+    "name": "core_meaning",
+    "type": "TEXT",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 7,
+    "name": "primary_communicative_fn",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 8,
+    "name": "when_to_use",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 9,
+    "name": "pattern",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 10,
+    "name": "key_variations",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 11,
+    "name": "essential_vocabulary_slots",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 12,
+    "name": "common_learner_mistakes",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 13,
+    "name": "chunk_compatibility",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 14,
+    "name": "primary_function",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 15,
+    "name": "key_forms",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 16,
+    "name": "essential_vocabulary",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 17,
+    "name": "why_it_matters",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 18,
+    "name": "common_mistakes",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 19,
+    "name": "slug",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 20,
+    "name": "content_hash",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 21,
+    "name": "display_order",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": "0",
+    "pk": 0
+  },
+  {
+    "cid": 22,
+    "name": "created_at",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": "strftime('%s','now')",
+    "pk": 0
+  },
+  {
+    "cid": 23,
+    "name": "updated_at",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": "strftime('%s','now')",
+    "pk": 0
+  },
+  {
+    "cid": 24,
+    "name": "language",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": "'en'",
+    "pk": 0
+  }
+]
+
+=== examples columns ===
+[
+  {
+    "cid": 0,
+    "name": "id",
+    "type": "INTEGER",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 1
+  },
+  {
+    "cid": 1,
+    "name": "item_type",
+    "type": "TEXT",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 2,
+    "name": "item_id",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 3,
+    "name": "example_index",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": "1",
+    "pk": 0
+  },
+  {
+    "cid": 4,
+    "name": "text_en",
+    "type": "TEXT",
+    "notnull": 1,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 5,
+    "name": "text_target",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 6,
+    "name": "audio_path",
+    "type": "TEXT",
+    "notnull": 0,
+    "dflt_value": null,
+    "pk": 0
+  },
+  {
+    "cid": 7,
+    "name": "is_canonical",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": "0",
+    "pk": 0
+  },
+  {
+    "cid": 8,
+    "name": "created_at",
+    "type": "INTEGER",
+    "notnull": 1,
+    "dflt_value": "strftime('%s','now')",
+    "pk": 0
+  }
+]
+
+=== sample EN structure with examples ===
+[
+  {
+    "id": 147,
+    "structure_label": "Have to for external obligation",
+    "pattern": "[Subject] + have to/has to + [base verb]",
+    "core_meaning": "Obligation from rules or situation.",
+    "example_index": 3,
+    "text_en": "We don't have to stay until the end.",
+    "text_target": null
+  },
+  {
+    "id": 116,
+    "structure_label": "Future: will vs going to (predictions)",
+    "pattern": "I think + will; Look at... + going to.",
+    "core_meaning": "Prediction based on opinion (will) vs evidence (going to).",
+    "example_index": 2,
+    "text_en": "She's going to have a baby. (seen her belly)",
+    "text_target": null
+  },
+  {
+    "id": 261,
+    "structure_label": "Might for possibility",
+    "pattern": "[Subject] + might + [base verb]",
+    "core_meaning": "Weak possibility, maybe.",
+    "example_index": 1,
+    "text_en": "He might be in his office.",
+    "text_target": null
+  },
+  {
+    "id": 323,
+    "structure_label": "What about + noun/verb-ing? (suggestion)",
+    "pattern": "What about + [noun / verb-ing]?",
+    "core_meaning": "Proposing an alternative or including something.",
+    "example_index": 3,
+    "text_en": "We need a present. What about a book?",
+    "text_target": null
+  },
+  {
+    "id": 123,
+    "structure_label": "Third conditional (If + had + past participle, would have + past participle)",
+    "pattern": "If + [Past Perfect], [would have + past participle]",
+    "core_meaning": "Imaginary past situation, regret.",
+    "example_index": 3,
+    "text_en": "If I had known, I would have told you.",
+    "text_target": null
+  },
+  {
+    "id": 184,
+    "structure_label": "To be honest, ...",
+    "pattern": "To be honest, + [clause]",
+    "core_meaning": "Introducing frank opinion.",
+    "example_index": 3,
+    "text_en": "To be honest, I'm exhausted.",
+    "text_target": null
+  },
+  {
+    "id": 278,
+    "structure_label": "it must / might / can't be (deduction)",
+    "pattern": "It + must/might/can't + be + [noun/adjective/verb-ing]",
+    "core_meaning": "Logical deduction about present.",
+    "example_index": 2,
+    "text_en": "It can't be that hard.",
+    "text_target": null
+  },
+  {
+    "id": 282,
+    "structure_label": "Is it okay if I...? / Can I...? variations",
+    "pattern": "Is it okay/ alright if I + [present simple]?",
+    "core_meaning": "Casual permission.",
+    "example_index": 2,
+    "text_en": "Can I have a glass of water?",
+    "text_target": null
+  },
+  {
+    "id": 10,
+    "structure_label": "Who is + [person]?",
+    "pattern": "Who is + that/he/she/this?",
+    "core_meaning": "Asking about a person’s identity.",
+    "example_index": 1,
+    "text_en": "Who’s that man?",
+    "text_target": null
+  },
+  {
+    "id": 222,
+    "structure_label": "How do you say ... in English?",
+    "pattern": "How do you say + [word/expression] + in English?",
+    "core_meaning": "Asking for translation/expression.",
+    "example_index": 1,
+    "text_en": "How do you say \"biblioteca\" in English?",
+    "text_target": null
+  },
+  {
+    "id": 24,
+    "structure_label": "I want to + [verb]",
+    "pattern": "I want to + base verb | She wants to + base verb",
+    "core_meaning": "Expressing a desire to do something.",
+    "example_index": 2,
+    "text_en": "Do you want to watch TV?",
+    "text_target": null
+  },
+  {
+    "id": 7,
+    "structure_label": "It is + [colour / size / descriptive adjective]",
+    "pattern": "It is + colour/size adjective",
+    "core_meaning": "Describing the most basic properties of an object.",
+    "example_index": 2,
+    "text_en": "It’s very small.",
+    "text_target": null
+  }
+]
+
+=== sample FR structure with examples ===
+[
+  {
+    "id": 571,
+    "structure_label": "Emphasis with « même »",
+    "pattern": "même + nom/pronom/verbe",
+    "core_meaning": "Emphasizing the subject or object with 'même' (even/self); emphasizes inclusion or intensity",
+    "example_index": 0,
+    "text_en": "The sentence demonstrates the pattern.",
+    "text_target": "La phrase illustrate the pattern."
+  },
+  {
+    "id": 509,
+    "structure_label": "« faire confiance à » for trusting",
+    "pattern": "[Personne] + faire confiance + à + [personne] → trusting",
+    "core_meaning": "Using faire confiance à to trust someone",
+    "example_index": 0,
+    "text_en": "The sentence demonstrates the pattern.",
+    "text_target": "La phrase demonstrate the pattern."
+  },
+  {
+    "id": 497,
+    "structure_label": "« faire + infinitif » without agent",
+    "pattern": "[Subject] + faire + [infinitif] → causative without agent",
+    "core_meaning": "Using faire + infinitif without specifying who performs the action",
+    "example_index": 1,
+    "text_en": "Another example with the structure.",
+    "text_target": "Another sentence with structure."
+  },
+  {
+    "id": 500,
+    "structure_label": "« entendre + infinitif » for auditory perception",
+    "pattern": "[Sujet] + entendre + [person] + [infinitif] → heard action",
+    "core_meaning": "Using entendre + infinitif to perceive sound of action",
+    "example_index": 0,
+    "text_en": "The sentence demonstrates the pattern.",
+    "text_target": "La phrase demonstrate the pattern."
+  },
+  {
+    "id": 725,
+    "structure_label": "Left dislocation for emphasis",
+    "pattern": "Élément topicalisé + , + pronom + verbe + complément",
+    "core_meaning": "Moves an element to the front for emphasis, followed by a pronoun",
+    "example_index": 2,
+    "text_en": "A final example for practice.",
+    "text_target": "A final sentence for practice."
+  },
+  {
+    "id": 412,
+    "structure_label": "Dire que... (exclamative of surprise at reality)",
+    "pattern": "Dire que + indicatif → emphasizing unexpected reality",
+    "core_meaning": "Exclamation expressing surprise that something is (or isn't) the case",
+    "example_index": 1,
+    "text_en": "Another example with the structure.",
+    "text_target": "Another example with grammar."
+  },
+  {
+    "id": 507,
+    "structure_label": "« faire plaisir à » for pleasing",
+    "pattern": "[Chose/Sujet] + faire plaisir + à + [personne] → pleasing",
+    "core_meaning": "Using faire plaisir à to please someone",
+    "example_index": 1,
+    "text_en": "Another example with the structure.",
+    "text_target": "Another example with structure."
+  },
+  {
+    "id": 419,
+    "structure_label": "Fichtre! / Sapristi! (mild archaic exclamations)",
+    "pattern": "Fichtre!/Sapristi!/Flûte!/Zut! → mild exclamations",
+    "core_meaning": "Mild archaic exclamations showing mild surprise or annoyance",
+    "example_index": 2,
+    "text_en": "A final example for practice.",
+    "text_target": "A final sentence for practice."
+  },
+  {
+    "id": 374,
+    "structure_label": "Verb sequence with « préférer + infinitif »",
+    "pattern": "Sujet + préférer + infinitif",
+    "core_meaning": "Expresses preference for an action",
+    "example_index": 2,
+    "text_en": "A final example for practice.",
+    "text_target": "A final sentence for practice."
+  },
+  {
+    "id": 619,
+    "structure_label": "Partitive article 'du'",
+    "pattern": "du + nom",
+    "core_meaning": "Indicates unspecified quantity of uncountable nouns",
+    "example_index": 2,
+    "text_en": "A final example for practice.",
+    "text_target": "A final example for practice."
+  },
+  {
+    "id": 354,
+    "structure_label": "pouvoir au présent",
+    "pattern": "je peux / tu peux / il peut / nous pouvons / vous pouvez / ils peuvent",
+    "core_meaning": "to be able to / can / may",
+    "example_index": 2,
+    "text_en": "We cannot.",
+    "text_target": "Nous ne pouvons pas."
+  },
+  {
+    "id": 517,
+    "structure_label": "les pronoms démonstratifs",
+    "pattern": "celui / celle / ceux / celles (+ -ci, -là for close/distant) / ce (celui qui, ce que)",
+    "core_meaning": "demonstrative pronouns (this one, that one, these, those)",
+    "example_index": 1,
+    "text_en": "Another example with the structure.",
+    "text_target": "Another example with grammar."
+  }
+]
+
+=== count check ===
+FR grammar structures: 403
+FR grammar examples: 1209

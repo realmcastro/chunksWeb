@@ -1,0 +1,4354 @@
+{
+  "french_chunks_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "à tout à l'heure",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "à tout à l'heure",
+        "level": "A1",
+        "meaning": "see you later"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "comment allez-vous",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "comment allez-vous",
+        "level": "A1",
+        "meaning": "how are you (formal)"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je ne sais pas",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "je ne sais pas",
+        "level": "A1",
+        "meaning": "I don't know"
+      }
+    }
+  ],
+  "french_chunks_batch10.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "poser sa candidature",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "poser sa candidature",
+        "level": "B2",
+        "meaning": "to apply for a position"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "avoir de l'expérience",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir de l'expérience",
+        "level": "B2",
+        "meaning": "to have experience"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "être au chômage",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être au chômage",
+        "level": "B2",
+        "meaning": "to be unemployed"
+      }
+    }
+  ],
+  "french_chunks_batch11.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire l'apprentissage de",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire l'apprentissage de",
+        "level": "B2",
+        "meaning": "to learn, to acquire knowledge of"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "être à même de",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être à même de",
+        "level": "B2",
+        "meaning": "to be able to, to be in a position to"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "au regard de",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "au regard de",
+        "level": "B2",
+        "meaning": "in view of, with regard to"
+      }
+    }
+  ],
+  "french_chunks_batch12.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "être en ligne",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être en ligne",
+        "level": "B2",
+        "meaning": "to be online, to be connected"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "télécharger un fichier",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "télécharger un fichier",
+        "level": "B2",
+        "meaning": "to download a file"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "se connecter à",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "se connecter à",
+        "level": "B2",
+        "meaning": "to log in to, to connect to"
+      }
+    }
+  ],
+  "french_chunks_batch13.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "changement climatique",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "changement climatique",
+        "level": "B2",
+        "meaning": "climate change"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "développement durable",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "développement durable",
+        "level": "B2",
+        "meaning": "sustainable development"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "empreinte carbone",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "empreinte carbone",
+        "level": "B2",
+        "meaning": "carbon footprint"
+      }
+    }
+  ],
+  "french_chunks_batch14.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire la vaisselle",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire la vaisselle",
+        "level": "B2",
+        "meaning": "to wash dishes"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "cuisiner un repas",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "cuisiner un repas",
+        "level": "B2",
+        "meaning": "to cook a meal"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "réserver une table",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "réserver une table",
+        "level": "B2",
+        "meaning": "to book a table"
+      }
+    }
+  ],
+  "french_chunks_batch15.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire escale à",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire escale à",
+        "level": "B2",
+        "meaning": "to make a stopover at, to call at"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "prendre la correspondance",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "prendre la correspondance",
+        "level": "B2",
+        "meaning": "to catch a connecting flight/train"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "être en transit",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être en transit",
+        "level": "B2",
+        "meaning": "to be in transit"
+      }
+    }
+  ],
+  "french_chunks_batch16.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire du sport",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire du sport",
+        "level": "A1",
+        "meaning": "to do sports, to exercise"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "prendre un cours",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "prendre un cours",
+        "level": "A2",
+        "meaning": "to take a lesson/class"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "jouer les prolongations",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "jouer les prolongations",
+        "level": "B2",
+        "meaning": "to go into overtime/extra time"
+      }
+    }
+  ],
+  "french_chunks_batch17.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "exposer au public",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "exposer au public",
+        "level": "A2",
+        "meaning": "to exhibit to the public"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "donner vie à",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "donner vie à",
+        "level": "B1",
+        "meaning": "to bring to life"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "couper le souffle",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "couper le souffle",
+        "level": "B1",
+        "meaning": "to take one's breath away"
+      }
+    }
+  ],
+  "french_chunks_batch18.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "diffuser sur les ondes",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "diffuser sur les ondes",
+        "level": "B1",
+        "meaning": "to broadcast on the airwaves"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "faire les gros titres",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire les gros titres",
+        "level": "B1",
+        "meaning": "to make headlines"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "prendre la parole",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "prendre la parole",
+        "level": "A2",
+        "meaning": "to take the floor, to speak up"
+      }
+    }
+  ],
+  "french_chunks_batch19.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "mener une expérience",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "mener une expérience",
+        "level": "B1",
+        "meaning": "to conduct an experiment"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "émettre une hypothèse",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "émettre une hypothèse",
+        "level": "B1",
+        "meaning": "to emit/formulate a hypothesis"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "confirmer une théorie",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "confirmer une théorie",
+        "level": "B1",
+        "meaning": "to confirm a theory"
+      }
+    }
+  ],
+  "french_chunks_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "il fait beau",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "il fait beau",
+        "level": "A2",
+        "meaning": "the weather is nice"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "il fait froid",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "il fait froid",
+        "level": "A2",
+        "meaning": "it is cold"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "quel temps fait-il",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "quel temps fait-il",
+        "level": "A2",
+        "meaning": "what is the weather like"
+      }
+    }
+  ],
+  "french_chunks_batch20.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire partie de la famille",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire partie de la famille",
+        "level": "A2",
+        "meaning": "to be part of the family"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "être proche de quelqu'un",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être proche de quelqu'un",
+        "level": "A2",
+        "meaning": "to be close to someone"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "avoir des liens de parenté",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir des liens de parenté",
+        "level": "B1",
+        "meaning": "to have family ties"
+      }
+    }
+  ],
+  "french_chunks_batch21.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "fêter dignement",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "fêter dignement",
+        "level": "B1",
+        "meaning": "to celebrate properly, to commemorate fittingly"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "organiser une fête",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "organiser une fête",
+        "level": "A2",
+        "meaning": "to organize a party"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "être de retour",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être de retour",
+        "level": "A2",
+        "meaning": "to be back, to have returned"
+      }
+    }
+  ],
+  "french_chunks_batch22.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "gagner sa vie",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "gagner sa vie",
+        "level": "A2",
+        "meaning": "to earn one's living"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "faire des économies",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire des économies",
+        "level": "A2",
+        "meaning": "to save money"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "payer en espèces",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "payer en espèces",
+        "level": "A1",
+        "meaning": "to pay in cash"
+      }
+    }
+  ],
+  "french_chunks_batch23.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "remplir un formulaire",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "remplir un formulaire",
+        "level": "A2",
+        "meaning": "to fill out a form"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "déposer une plainte",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "déposer une plainte",
+        "level": "B1",
+        "meaning": "to file a complaint"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "faire appel",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire appel",
+        "level": "B2",
+        "meaning": "to appeal"
+      }
+    }
+  ],
+  "french_chunks_batch24.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "prendre le pouvoir",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "prendre le pouvoir",
+        "level": "B1",
+        "meaning": "to take power"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "voter une loi",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "voter une loi",
+        "level": "B1",
+        "meaning": "to vote on a law"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "diriger un pays",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "diriger un pays",
+        "level": "A2",
+        "meaning": "to run a country"
+      }
+    }
+  ],
+  "french_chunks_batch25.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "avoir confiance en soi",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir confiance en soi",
+        "level": "A2",
+        "meaning": "to have self-confidence"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "être stressé",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être stressé",
+        "level": "A2",
+        "meaning": "to be stressed"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "ressentir de l'anxiété",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "ressentir de l'anxiété",
+        "level": "B1",
+        "meaning": "to feel anxiety"
+      }
+    }
+  ],
+  "french_chunks_batch26.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "il fait beau",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "il fait beau",
+        "level": "A1",
+        "meaning": "the weather is nice"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "il fait froid",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "il fait froid",
+        "level": "A1",
+        "meaning": "the weather is cold"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "il pleut à verse",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "il pleut à verse",
+        "level": "A2",
+        "meaning": "it's raining heavily"
+      }
+    }
+  ],
+  "french_chunks_batch27.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "porter une robe",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "porter une robe",
+        "level": "A1",
+        "meaning": "to wear a dress"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "une paire de chaussures",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "une paire de chaussures",
+        "level": "A1",
+        "meaning": "a pair of shoes"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "être habillé en noir",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être habillé en noir",
+        "level": "A2",
+        "meaning": "to be dressed in black"
+      }
+    }
+  ],
+  "french_chunks_batch28.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire du vélo",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire du vélo",
+        "level": "A1",
+        "meaning": "to go cycling"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "jouer de la guitare",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "jouer de la guitare",
+        "level": "A1",
+        "meaning": "to play guitar"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "faire de la natation",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire de la natation",
+        "level": "A1",
+        "meaning": "to go swimming"
+      }
+    }
+  ],
+  "french_chunks_batch29.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire les courses",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire les courses",
+        "level": "A1",
+        "meaning": "to go grocery shopping"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "acheter en ligne",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "acheter en ligne",
+        "level": "A2",
+        "meaning": "to buy online"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "un centre commercial",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "un centre commercial",
+        "level": "A1",
+        "meaning": "a shopping mall"
+      }
+    }
+  ],
+  "french_chunks_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je pense que",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "je pense que",
+        "level": "A2",
+        "meaning": "I think that"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "je suis d'accord",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "je suis d'accord",
+        "level": "A2",
+        "meaning": "I agree"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je ne suis pas d'accord",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "je ne suis pas d'accord",
+        "level": "A2",
+        "meaning": "I disagree"
+      }
+    }
+  ],
+  "french_chunks_batch30.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "avoir un animal de compagnie",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir un animal de compagnie",
+        "level": "A2",
+        "meaning": "to have a pet"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "promener le chien",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "promener le chien",
+        "level": "A1",
+        "meaning": "to walk the dog"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "nourrir le chat",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "nourrir le chat",
+        "level": "A1",
+        "meaning": "to feed the cat"
+      }
+    }
+  ],
+  "french_chunks_batch31.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "habiter en ville",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "habiter en ville",
+        "level": "A1",
+        "meaning": "to live in the city"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "le transports en commun",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "le transports en commun",
+        "level": "A2",
+        "meaning": "public transportation"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "un quartier commerçant",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "un quartier commerçant",
+        "level": "B1",
+        "meaning": "a shopping district"
+      }
+    }
+  ],
+  "french_chunks_batch32.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "habiter à la campagne",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "habiter à la campagne",
+        "level": "A1",
+        "meaning": "to live in the countryside"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "un champ",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "un champ",
+        "level": "A1",
+        "meaning": "a field"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "une ferme",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "une ferme",
+        "level": "A1",
+        "meaning": "a farm"
+      }
+    }
+  ],
+  "french_chunks_batch33.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le patrimoine",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "le patrimoine",
+        "level": "B1",
+        "meaning": "heritage"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "un monument historique",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "un monument historique",
+        "level": "A2",
+        "meaning": "a historic monument"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "une époque",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "une époque",
+        "level": "A2",
+        "meaning": "an era/period"
+      }
+    }
+  ],
+  "french_chunks_batch34.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "jouer de la guitare",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "jouer de la guitare",
+        "level": "A2",
+        "meaning": "to play the guitar"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "jouer du piano",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "jouer du piano",
+        "level": "A2",
+        "meaning": "to play the piano"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "aller à un concert",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "aller à un concert",
+        "level": "A2",
+        "meaning": "to go to a concert"
+      }
+    }
+  ],
+  "french_chunks_batch35.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "lire un roman",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "lire un roman",
+        "level": "A2",
+        "meaning": "to read a novel"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "écrire un poème",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "écrire un poème",
+        "level": "B1",
+        "meaning": "to write a poem"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "publier un livre",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "publier un livre",
+        "level": "B1",
+        "meaning": "to publish a book"
+      }
+    }
+  ],
+  "french_chunks_batch36.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "aller au cinéma",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "aller au cinéma",
+        "level": "A2",
+        "meaning": "to go to the movies"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "jouer au théâtre",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "jouer au théâtre",
+        "level": "A2",
+        "meaning": "to act in theater"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "regarder un film",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "regarder un film",
+        "level": "A2",
+        "meaning": "to watch a movie"
+      }
+    }
+  ],
+  "french_chunks_batch37.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire de la publicité",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire de la publicité",
+        "level": "A2",
+        "meaning": "to advertise"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "lancer une campagne",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "lancer une campagne",
+        "level": "B1",
+        "meaning": "to launch a campaign"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "diffuser une annonce",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "diffuser une annonce",
+        "level": "B1",
+        "meaning": "to broadcast an announcement"
+      }
+    }
+  ],
+  "french_chunks_batch38.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "commettre un crime",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "commettre un crime",
+        "level": "A2",
+        "meaning": "to commit a crime"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "porter plainte",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "porter plainte",
+        "level": "A2",
+        "meaning": "to file a complaint"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "être arrêté par la police",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être arrêté par la police",
+        "level": "A2",
+        "meaning": "to be arrested by the police"
+      }
+    }
+  ],
+  "french_chunks_batch39.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "servir dans l'armée",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "servir dans l'armée",
+        "level": "A2",
+        "meaning": "to serve in the army"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "protéger le pays",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "protéger le pays",
+        "level": "A2",
+        "meaning": "to protect the country"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "participer à une guerre",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "participer à une guerre",
+        "level": "A2",
+        "meaning": "to participate in a war"
+      }
+    }
+  ],
+  "french_chunks_batch4.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "d'une manière générale",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "d'une manière générale",
+        "level": "A2",
+        "meaning": "in a general way / generally speaking"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "en fait",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "en fait",
+        "level": "A2",
+        "meaning": "in fact / actually"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "à mon avis",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "à mon avis",
+        "level": "A2",
+        "meaning": "in my opinion"
+      }
+    }
+  ],
+  "french_chunks_batch40.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "aller à l'église",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "aller à l'église",
+        "level": "A2",
+        "meaning": "to go to church"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "prier Dieu",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "prier Dieu",
+        "level": "A2",
+        "meaning": "to pray to God"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "être catholique",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être catholique",
+        "level": "A2",
+        "meaning": "to be Catholic"
+      }
+    }
+  ],
+  "french_chunks_batch41.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "lutter contre la pauvreté",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "lutter contre la pauvreté",
+        "level": "A2",
+        "meaning": "to fight against poverty"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "protéger l'environnement",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "protéger l'environnement",
+        "level": "A2",
+        "meaning": "to protect the environment"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "défendre les droits",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "défendre les droits",
+        "level": "A2",
+        "meaning": "to defend rights"
+      }
+    }
+  ],
+  "french_chunks_batch42.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "prendre le métro",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "prendre le métro",
+        "level": "A1",
+        "meaning": "to take the subway/metro"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "rater le bus",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "rater le bus",
+        "level": "A1",
+        "meaning": "to miss the bus"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "faire de l'auto-stop",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire de l'auto-stop",
+        "level": "B1",
+        "meaning": "to hitchhike"
+      }
+    }
+  ],
+  "french_chunks_batch43.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "louer un appartement",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "louer un appartement",
+        "level": "A2",
+        "meaning": "to rent an apartment"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "payer le loyer",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "payer le loyer",
+        "level": "A2",
+        "meaning": "to pay rent"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "emménager dans une maison",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "emménager dans une maison",
+        "level": "A2",
+        "meaning": "to move into a house"
+      }
+    }
+  ],
+  "french_chunks_batch44.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "réserver une table",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "réserver une table",
+        "level": "A2",
+        "meaning": "to reserve a table"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "passer une commande",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "passer une commande",
+        "level": "A2",
+        "meaning": "to place an order"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "avoir un régime spécial",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir un régime spécial",
+        "level": "A2",
+        "meaning": "to have a special diet"
+      }
+    }
+  ],
+  "french_chunks_batch45.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire une réservation",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire une réservation",
+        "level": "A2",
+        "meaning": "to make a reservation"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "pointer à l'accueil",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "pointer à l'accueil",
+        "level": "A2",
+        "meaning": "to check in at reception"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "avoir une chambre libre",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir une chambre libre",
+        "level": "A2",
+        "meaning": "to have an available room"
+      }
+    }
+  ],
+  "french_chunks_batch46.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "organiser une réunion",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "organiser une réunion",
+        "level": "B1",
+        "meaning": "to organize a meeting"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "présenter un projet",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "présenter un projet",
+        "level": "B1",
+        "meaning": "to present a project"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "négocier un contrat",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "négocier un contrat",
+        "level": "B2",
+        "meaning": "to negotiate a contract"
+      }
+    }
+  ],
+  "french_chunks_batch47.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "travailler en équipe",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "travailler en équipe",
+        "level": "A2",
+        "meaning": "to work in a team"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "gérer un équipe",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "gérer un équipe",
+        "level": "B1",
+        "meaning": "to manage a team"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "envoyer un mail",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "envoyer un mail",
+        "level": "A1",
+        "meaning": "to send an email"
+      }
+    }
+  ],
+  "french_chunks_batch48.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "passer un entretien",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "passer un entretien",
+        "level": "A2",
+        "meaning": "to have an interview"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "déposer ma candidature",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "déposer ma candidature",
+        "level": "A2",
+        "meaning": "to submit my application"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "avoir de l'expérience",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir de l'expérience",
+        "level": "A2",
+        "meaning": "to have experience"
+      }
+    }
+  ],
+  "french_chunks_batch49.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "communiquer efficacement",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "communiquer efficacement",
+        "level": "B1",
+        "meaning": "to communicate effectively"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "résoudre les problèmes",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "résoudre les problèmes",
+        "level": "B1",
+        "meaning": "to solve problems"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "gérer mon temps",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "gérer mon temps",
+        "level": "B1",
+        "meaning": "to manage my time"
+      }
+    }
+  ],
+  "french_chunks_batch5.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "c'est bon",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "c'est bon",
+        "level": "A2",
+        "meaning": "it's fine / okay / that's good"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est quoi",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "c'est quoi",
+        "level": "A2",
+        "meaning": "what is it / what's that"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "tu fais quoi",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "tu fais quoi",
+        "level": "A2",
+        "meaning": "what are you doing"
+      }
+    }
+  ],
+  "french_chunks_batch50.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "envoyer un e-mail",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "envoyer un e-mail",
+        "level": "A2",
+        "meaning": "to send an email"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "pièce jointe",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "pièce jointe",
+        "level": "A2",
+        "meaning": "attachment"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "copie à",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "copie à",
+        "level": "B1",
+        "meaning": "cc (carbon copy)"
+      }
+    }
+  ],
+  "french_chunks_batch51.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "décrocher le téléphone",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "décrocher le téléphone",
+        "level": "A2",
+        "meaning": "to pick up the phone"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Qui est à l'appareil?",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "Qui est à l'appareil?",
+        "level": "A2",
+        "meaning": "Who's speaking?"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Je vous passe M.",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "Je vous passe M.",
+        "level": "B1",
+        "meaning": "I'll transfer you to Mr."
+      }
+    }
+  ],
+  "french_chunks_batch52.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire une présentation",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire une présentation",
+        "level": "B1",
+        "meaning": "to give a presentation"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "support visuel",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "support visuel",
+        "level": "B1",
+        "meaning": "visual aid"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "distribuer des documents",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "distribuer des documents",
+        "level": "B1",
+        "meaning": "to distribute documents"
+      }
+    }
+  ],
+  "french_chunks_batch53.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "rédiger un rapport",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "rédiger un rapport",
+        "level": "B1",
+        "meaning": "to write a report"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "table des matières",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "table des matières",
+        "level": "B1",
+        "meaning": "table of contents"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "annexe du document",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "annexe du document",
+        "level": "B1",
+        "meaning": "document appendix"
+      }
+    }
+  ],
+  "french_chunks_batch54.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "collecte de données",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "collecte de données",
+        "level": "B1",
+        "meaning": "data collection"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "taux d'augmentation",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "taux d'augmentation",
+        "level": "B1",
+        "meaning": "increase rate"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "en pourcentage",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "en pourcentage",
+        "level": "B1",
+        "meaning": "as a percentage"
+      }
+    }
+  ],
+  "french_chunks_batch55.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "méthode de recherche",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "méthode de recherche",
+        "level": "B1",
+        "meaning": "research method"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "formuler une hypothèse",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "formuler une hypothèse",
+        "level": "B2",
+        "meaning": "to formulate a hypothesis"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "collecter des données",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "collecter des données",
+        "level": "B1",
+        "meaning": "to collect data"
+      }
+    }
+  ],
+  "french_chunks_batch56.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "structure d'un mémoire",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "structure d'un mémoire",
+        "level": "B2",
+        "meaning": "thesis structure"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "état de l'art",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "état de l'art",
+        "level": "B2",
+        "meaning": "state of the art"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "poser une problématique",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "poser une problématique",
+        "level": "B2",
+        "meaning": "to formulate a research question"
+      }
+    }
+  ],
+  "french_chunks_batch57.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "selon l'auteur",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "selon l'auteur",
+        "level": "B1",
+        "meaning": "according to the author"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "citer une source",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "citer une source",
+        "level": "B1",
+        "meaning": "to cite a source"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "à défaut de",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "à défaut de",
+        "level": "B2",
+        "meaning": "for lack of"
+      }
+    }
+  ],
+  "french_chunks_batch58.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je postule pour le poste de",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je postule pour le poste de",
+        "level": "B2",
+        "meaning": "I am applying for the position of"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "quelles sont vos compétences principales",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "quelles sont vos compétences principales",
+        "level": "B2",
+        "meaning": "what are your main skills/competencies"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je suis convaincu que",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis convaincu que",
+        "level": "B2",
+        "meaning": "I am convinced that"
+      }
+    }
+  ],
+  "french_chunks_batch59.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je vous prie d'agréer",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je vous prie d'agréer",
+        "level": "B2",
+        "meaning": "please accept (formal letter closing)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "à l'issue de",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "à l'issue de",
+        "level": "B2",
+        "meaning": "at the end of / following / after"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je me tiens à votre disposition",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je me tiens à votre disposition",
+        "level": "B2",
+        "meaning": "I remain at your disposal / I am available to you"
+      }
+    }
+  ],
+  "french_chunks_batch6.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "d'une part... d'autre part",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "d'une part... d'autre part",
+        "level": "B1",
+        "meaning": "on one hand... on the other hand"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "d'abord",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "d'abord",
+        "level": "B1",
+        "meaning": "first/firstly, at first"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "ensuite",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "ensuite",
+        "level": "B1",
+        "meaning": "then/next/afterwards"
+      }
+    }
+  ],
+  "french_chunks_batch60.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je vous serais reconnaissant",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je vous serais reconnaissant",
+        "level": "B2",
+        "meaning": "I would be grateful / I would appreciate"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "je me tiens informé",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je me tiens informé",
+        "level": "B2",
+        "meaning": "I keep myself informed / I stay informed"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "il est à noter que",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "il est à noter que",
+        "level": "B2",
+        "meaning": "it should be noted that / note that"
+      }
+    }
+  ],
+  "french_chunks_batch61.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "il va de soi que",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "il va de soi que",
+        "level": "C1",
+        "meaning": "it goes without saying that / it stands to reason that"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "je ne saurais trop insister sur",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je ne saurais trop insister sur",
+        "level": "C1",
+        "meaning": "I cannot insist too much on / I cannot overemphasize"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "qu'il me soit permis de",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "qu'il me soit permis de",
+        "level": "C1",
+        "meaning": "if I may be so bold as to / allow me to"
+      }
+    }
+  ],
+  "french_chunks_batch62.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je ne saurais trop vous exhorter à",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je ne saurais trop vous exhorter à",
+        "level": "C1",
+        "meaning": "I cannot urge you enough to / I strongly urge you to"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "en pareille occurrence",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "en pareille occurrence",
+        "level": "C1",
+        "meaning": "in such a case / in such circumstances / should this happen"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "il m'est loisible de",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "il m'est loisible de",
+        "level": "C1",
+        "meaning": "it is permissible for me to / I am at liberty to"
+      }
+    }
+  ],
+  "french_chunks_batch63.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "tu me manques",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "tu me manques",
+        "level": "A2",
+        "meaning": "I miss you"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est trop bien",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est trop bien",
+        "level": "A1",
+        "meaning": "that's awesome / that's great"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je suis partante",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis partante",
+        "level": "A2",
+        "meaning": "I'm in / I'm down"
+      }
+    }
+  ],
+  "french_chunks_batch64.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "on se capte",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "on se capte",
+        "level": "B1",
+        "meaning": "let's connect / let's hang out"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "je suis chaud",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis chaud",
+        "level": "A2",
+        "meaning": "I'm down / I'm in"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "c'est ouf",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est ouf",
+        "level": "B1",
+        "meaning": "that's insane / that's crazy"
+      }
+    }
+  ],
+  "french_chunks_batch65.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je peux passer",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je peux passer",
+        "level": "A2",
+        "meaning": "I can come by / I can stop by"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est open",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est open",
+        "level": "B1",
+        "meaning": "it's open / I'm open to it"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je me suis lâché",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je me suis lâché",
+        "level": "B1",
+        "meaning": "I let myself go / I went all out"
+      }
+    }
+  ],
+  "french_chunks_batch66.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je suis en mode",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis en mode",
+        "level": "B1",
+        "meaning": "I'm in (such a) mood / I'm in the zone"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est dead",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est dead",
+        "level": "B1",
+        "meaning": "it's dead / there's nothing happening"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je suis blowé",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis blowé",
+        "level": "B1",
+        "meaning": "I'm blown away / I'm amazed"
+      }
+    }
+  ],
+  "french_chunks_batch67.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je suis à block",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis à block",
+        "level": "B1",
+        "meaning": "I'm at maximum capacity / I'm fully focused"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est mon kiff",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est mon kiff",
+        "level": "A2",
+        "meaning": "it's my thing / it's what I love"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "on a un souci",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "on a un souci",
+        "level": "A2",
+        "meaning": "we have a problem / there's an issue"
+      }
+    }
+  ],
+  "french_chunks_batch68.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je suis tomber sur",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis tomber sur",
+        "level": "A2",
+        "meaning": "I came across / I stumbled upon"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est de la bombe",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est de la bombe",
+        "level": "A2",
+        "meaning": "it's amazing / it's awesome"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je suis team",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis team",
+        "level": "B1",
+        "meaning": "I'm team / I'm on the side of"
+      }
+    }
+  ],
+  "french_chunks_batch69.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je suis go",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis go",
+        "level": "A2",
+        "meaning": "I'm good to go / I'm ready"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est du storytelling",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est du storytelling",
+        "level": "B1",
+        "meaning": "it's storytelling / it's narrative"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je suis en live",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis en live",
+        "level": "A2",
+        "meaning": "I'm live / I'm streaming"
+      }
+    }
+  ],
+  "french_chunks_batch7.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je voudrais acheter",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "je voudrais acheter",
+        "level": "B1",
+        "meaning": "I would like to buy"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est combien",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "c'est combien",
+        "level": "B1",
+        "meaning": "how much is it"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "vous avez la taille",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "vous avez la taille",
+        "level": "B1",
+        "meaning": "do you have the size"
+      }
+    }
+  ],
+  "french_chunks_batch70.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "je suis un follower",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis un follower",
+        "level": "A2",
+        "meaning": "I'm a follower / I'm following"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est du unboxing",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est du unboxing",
+        "level": "B1",
+        "meaning": "it's an unboxing (video)"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je suis un streamer",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis un streamer",
+        "level": "B1",
+        "meaning": "I'm a streamer"
+      }
+    }
+  ],
+  "french_chunks_batch71.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le score final",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le score final",
+        "level": "A1",
+        "meaning": "the final score"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "c'est un carton plein",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "c'est un carton plein",
+        "level": "B1",
+        "meaning": "it's a full house / it's a sold-out"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "l'équipe a marqué",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "l'équipe a marqué",
+        "level": "A1",
+        "meaning": "the team scored"
+      }
+    }
+  ],
+  "french_chunks_batch72.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la une",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la une",
+        "level": "A2",
+        "meaning": "the front page / the headline"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "je suis abonné",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je suis abonné",
+        "level": "A1",
+        "meaning": "I'm subscribed / I'm a subscriber"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "l'article est en ligne",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "l'article est en ligne",
+        "level": "A2",
+        "meaning": "the article is online"
+      }
+    }
+  ],
+  "french_chunks_batch73.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la porte d'embarquement",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la porte d'embarquement",
+        "level": "A1",
+        "meaning": "boarding gate"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "le bagages en soute",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le bagages en soute",
+        "level": "A2",
+        "meaning": "checked luggage / hold luggage"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le vol est retardé",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le vol est retardé",
+        "level": "A1",
+        "meaning": "the flight is delayed"
+      }
+    }
+  ],
+  "french_chunks_batch74.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le TGV",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le TGV",
+        "level": "A1",
+        "meaning": "TGV (high-speed train)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "le billet aller-retour",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le billet aller-retour",
+        "level": "A1",
+        "meaning": "round-trip ticket"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "la voie",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la voie",
+        "level": "A1",
+        "meaning": "platform / track"
+      }
+    }
+  ],
+  "french_chunks_batch75.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la réception",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la réception",
+        "level": "A1",
+        "meaning": "reception / front desk"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "la chambre double",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la chambre double",
+        "level": "A1",
+        "meaning": "double room"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "la clé de la chambre",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la clé de la chambre",
+        "level": "A1",
+        "meaning": "the room key"
+      }
+    }
+  ],
+  "french_chunks_batch76.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "tourner à droite",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "tourner à droite",
+        "level": "A1",
+        "meaning": "turn right"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "tourner à gauche",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "tourner à gauche",
+        "level": "A1",
+        "meaning": "turn left"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "tout droit",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "tout droit",
+        "level": "A1",
+        "meaning": "straight ahead"
+      }
+    }
+  ],
+  "french_chunks_batch77.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le musée est fermé",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le musée est fermé",
+        "level": "A1",
+        "meaning": "the museum is closed"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "les horaires d'ouverture",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "les horaires d'ouverture",
+        "level": "A2",
+        "meaning": "opening hours"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le billet d'entrée",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le billet d'entrée",
+        "level": "A1",
+        "meaning": "admission ticket"
+      }
+    }
+  ],
+  "french_chunks_batch78.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la carte",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la carte",
+        "level": "A1",
+        "meaning": "the menu"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "l'addition s'il vous plaît",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "l'addition s'il vous plaît",
+        "level": "A1",
+        "meaning": "the bill please"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "je voudrais réserver",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "je voudrais réserver",
+        "level": "A1",
+        "meaning": "I would like to reserve"
+      }
+    }
+  ],
+  "french_chunks_batch79.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "faire la cuisine",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire la cuisine",
+        "level": "A1",
+        "meaning": "to cook"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "couper en morceaux",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "couper en morceaux",
+        "level": "A2",
+        "meaning": "to cut into pieces"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "faire revenir",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "faire revenir",
+        "level": "B1",
+        "meaning": "to sauté / to brown"
+      }
+    }
+  ],
+  "french_chunks_batch8.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "avoir le cafard",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir le cafard",
+        "level": "B1",
+        "meaning": "to feel down/depressed"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "avoir les jetons",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir les jetons",
+        "level": "B1",
+        "meaning": "to be scared/frightened"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "faire la tête",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "faire la tête",
+        "level": "B1",
+        "meaning": "to sulk/to have a long face"
+      }
+    }
+  ],
+  "french_chunks_batch80.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "les courses",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "les courses",
+        "level": "A1",
+        "meaning": "groceries / shopping"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "le chariot",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le chariot",
+        "level": "A1",
+        "meaning": "the shopping cart"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le rayon",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le rayon",
+        "level": "A1",
+        "meaning": "the aisle"
+      }
+    }
+  ],
+  "french_chunks_batch81.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la cuisine française",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "la cuisine française",
+        "level": "A1",
+        "meaning": "French cuisine"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "faire la pause déjeuner",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "faire la pause déjeuner",
+        "level": "A2",
+        "meaning": "to take a lunch break"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le marché du terroir",
+      "status": "NEW",
+      "entry_preview": {
+        "chunk_text": "le marché du terroir",
+        "level": "B1",
+        "meaning": "local/regional market"
+      }
+    }
+  ],
+  "french_chunks_batch9.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "avoir mal partout",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir mal partout",
+        "level": "B1",
+        "meaning": "to ache all over/to hurt everywhere"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "être en forme",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "être en forme",
+        "level": "B1",
+        "meaning": "to be in good shape/to be fit"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "avoir la fièvre",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "chunk_text": "avoir la fièvre",
+        "level": "B1",
+        "meaning": "to have a fever"
+      }
+    }
+  ],
+  "french_grammar_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "être au présent",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "être au présent",
+        "level": "A1",
+        "meaning": "to be"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "avoir au présent",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "avoir au présent",
+        "level": "A1",
+        "meaning": "to have"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "-ER verbs conjugation (present tense)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "-ER verbs conjugation (present tense)",
+        "level": "A1",
+        "meaning": "regular first conjugation verbs ending in -er"
+      }
+    }
+  ],
+  "french_grammar_batch10.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Verb sequence with « faire + infinitif » causative",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Verb sequence with « faire + infinitif » causative",
+        "level": "B2",
+        "meaning": "Expresses having someone else do something (causative construction)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Verb sequence with « laisser + infinitif »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Verb sequence with « laisser + infinitif »",
+        "level": "B2",
+        "meaning": "Expresses permission, allowance, or causation (let/leave/have something done)"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Verb sequence with « voir + infinitif »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Verb sequence with « voir + infinitif »",
+        "level": "B2",
+        "meaning": "Expresses perceiving an action happening (see someone do something)"
+      }
+    }
+  ],
+  "french_grammar_batch11.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Pronoun order: me, te, se, nous, vous before other pronouns",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Pronoun order: me, te, se, nous, vous before other pronouns",
+        "level": "B2",
+        "meaning": "Reflexive and personal pronouns precede other pronoun objects in the verbal chain"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Pronoun order: double object pronouns (le/la/les before lui/leur)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Pronoun order: double object pronouns (le/la/les before lui/leur)",
+        "level": "B2",
+        "meaning": "When both a direct (le/la/les) and indirect (lui/leur) object pronoun are used, indirect precedes direct"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Pronoun order with « en » and « y »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Pronoun order with « en » and « y »",
+        "level": "B2",
+        "meaning": "« En » and « y » occupy the final position in the pronoun chain"
+      }
+    }
+  ],
+  "french_grammar_batch12.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Est-ce que (yes/no question formation)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Est-ce que (yes/no question formation)",
+        "level": "A2",
+        "meaning": "Formal question marker placing est-ce que at the beginning of statement"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Inversion du sujet (subject-verb inversion in questions)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Inversion du sujet (subject-verb inversion in questions)",
+        "level": "B1",
+        "meaning": "Direct inversion of subject and verb to form questions in formal French"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Question words: qui, que, quoi (interrogative pronouns)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Question words: qui, que, quoi (interrogative pronouns)",
+        "level": "A2",
+        "meaning": "Question words for asking about people (qui) and things (que/quoi)"
+      }
+    }
+  ],
+  "french_grammar_batch13.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Quel/Quelle + nom! (exclamative with adjective)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Quel/Quelle + nom! (exclamative with adjective)",
+        "level": "A2",
+        "meaning": "Expressing strong emotion about something using quel before noun"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Que + subject-verb! (exclamative with verb fronting)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Que + subject-verb! (exclamative with verb fronting)",
+        "level": "B1",
+        "meaning": "Exclamation with que fronting the verb phrase"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Comme + subject-verb! (exclamative with comme)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Comme + subject-verb! (exclamative with comme)",
+        "level": "A2",
+        "meaning": "Exclamation emphasizing degree with comme meaning 'how'"
+      }
+    }
+  ],
+  "french_grammar_batch14.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Indirect speech with tense backshift",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Indirect speech with tense backshift",
+        "level": "B1",
+        "meaning": "Reported speech changes tenses to reflect the shift from direct to indirect context"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Reporting opinions with « d'après » and « selon »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Reporting opinions with « d'après » and « selon »",
+        "level": "B1",
+        "meaning": "Attributing information to a source using d'après (according to) and selon (according to)"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Indirect question with « si »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Indirect question with « si »",
+        "level": "B1",
+        "meaning": "Converting yes/no questions to indirect speech using si (if/whether)"
+      }
+    }
+  ],
+  "french_grammar_batch15.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Present conditional for polite requests",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Present conditional for polite requests",
+        "level": "B1",
+        "meaning": "Using conditional to make polite, courteous requests rather than direct commands"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Conditional for hypothetical presents",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Conditional for hypothetical presents",
+        "level": "B1",
+        "meaning": "Expressing imaginary or hypothetical situations in the present using conditional"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Past conditional for unfulfilled past actions",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Past conditional for unfulfilled past actions",
+        "level": "B2",
+        "meaning": "Using conditional passé to express actions that would have happened but didn't"
+      }
+    }
+  ],
+  "french_grammar_batch16.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Subjonctif after verbs of willing and wanting",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Subjonctif after verbs of willing and wanting",
+        "level": "B1",
+        "meaning": "Using subjunctive after verbs like vouloir, désirer, souhaiter, exiger, ordonner"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Subjonctif after impersonal expressions of necessity",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Subjonctif after impersonal expressions of necessity",
+        "level": "B1",
+        "meaning": "Using subjunctive after il faut que, il est nécessaire que, il est important que"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Subjonctif after expressions of emotion",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Subjonctif after expressions of emotion",
+        "level": "B2",
+        "meaning": "Using subjunctive after verbs like avoir peur que, craindre que, espérer que (negative), regretter que"
+      }
+    }
+  ],
+  "french_grammar_batch17.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Expressions with « il y a » for time reference",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Expressions with « il y a » for time reference",
+        "level": "A2",
+        "meaning": "Using il y a to indicate how long ago something happened"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "« depuis » for ongoing actions",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "« depuis » for ongoing actions",
+        "level": "A2",
+        "meaning": "Using depuis to indicate an action that started in the past and continues now"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "« pendant » for duration",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "« pendant » for duration",
+        "level": "A2",
+        "meaning": "Using pendant to indicate how long an action lasted"
+      }
+    }
+  ],
+  "french_grammar_batch18.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Comparative with « plus... que »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Comparative with « plus... que »",
+        "level": "A2",
+        "meaning": "Using plus... que to indicate superiority"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Comparative with « moins... que »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Comparative with « moins... que »",
+        "level": "A2",
+        "meaning": "Using moins... que to indicate inferiority"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Comparative with « aussi... que »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Comparative with « aussi... que »",
+        "level": "A2",
+        "meaning": "Using aussi... que to indicate equality"
+      }
+    }
+  ],
+  "french_grammar_batch19.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "« faire + infinitif » causative construction",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "« faire + infinitif » causative construction",
+        "level": "B1",
+        "meaning": "Using faire + infinitif to have something done by someone else"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "« faire + infinitif » without agent",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "« faire + infinitif » without agent",
+        "level": "B1",
+        "meaning": "Using faire + infinitif without specifying who performs the action"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "« laisser + infinitif » for permission",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "« laisser + infinitif » for permission",
+        "level": "B1",
+        "meaning": "Using laisser + infinitif to allow someone to do something"
+      }
+    }
+  ],
+  "french_grammar_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "passé composé avec avoir",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "passé composé avec avoir",
+        "level": "A1",
+        "meaning": "past tense with avoir (completed past actions)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "passé composé avec être",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "passé composé avec être",
+        "level": "A1",
+        "meaning": "past tense with être (motion and state changes)"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "les pronoms personnels (sujets)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "les pronoms personnels (sujets)",
+        "level": "A1",
+        "meaning": "subject pronouns (I, you, he, she, we, they)"
+      }
+    }
+  ],
+  "french_grammar_batch20.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Passive in past tense (passé composé)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Passive in past tense (passé composé)",
+        "level": "B1",
+        "meaning": "The passive voice in past tense using passé composé"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Passive in future tense",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Passive in future tense",
+        "level": "B1",
+        "meaning": "The passive voice in future tense"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Passive with modal verbs (pouvoir)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Passive with modal verbs (pouvoir)",
+        "level": "B2",
+        "meaning": "Expressing ability or possibility in passive voice"
+      }
+    }
+  ],
+  "french_grammar_batch21.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Il faut que + subjunctive",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Il faut que + subjunctive",
+        "level": "B1",
+        "meaning": "Expressing necessity or obligation (subjunctive required)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Il est important que + subjunctive",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Il est important que + subjunctive",
+        "level": "B1",
+        "meaning": "Expressing importance with subjunctive"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Il paraît que + indicative",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Il paraît que + indicative",
+        "level": "B1",
+        "meaning": "It appears that (reporting information)"
+      }
+    }
+  ],
+  "french_grammar_batch22.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Quantité + de + nom au pluriel",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Quantité + de + nom au pluriel",
+        "level": "A2",
+        "meaning": "Quantity expressions with plural nouns"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Un nombre de + nom",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Un nombre de + nom",
+        "level": "B1",
+        "meaning": "A number of / several"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "La plupart de + nom",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "La plupart de + nom",
+        "level": "A2",
+        "meaning": "Most of / the majority of"
+      }
+    }
+  ],
+  "french_grammar_batch23.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Emphasis with « même »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Emphasis with « même »",
+        "level": "A2",
+        "meaning": "Emphasizing the subject or object with 'même' (even/self)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Cleft sentences with « c'est... qui/que »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Cleft sentences with « c'est... qui/que »",
+        "level": "B1",
+        "meaning": "Emphasizing a specific element by restructuring the sentence"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Fronting for emphasis",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Fronting for emphasis",
+        "level": "B2",
+        "meaning": "Moving an element to the front of the sentence for emphasis"
+      }
+    }
+  ],
+  "french_grammar_batch24.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Subject pronoun ellipsis",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Subject pronoun ellipsis",
+        "level": "A1",
+        "meaning": "Omitting the subject pronoun in informal speech when context is clear"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Definite article ellipsis in possessives",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Definite article ellipsis in possessives",
+        "level": "A2",
+        "meaning": "Omitting articles with body parts and personal items in possessive context"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Preposition ellipsis before infinitive",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Preposition ellipsis before infinitive",
+        "level": "B1",
+        "meaning": "Omitting prepositions before certain verbs when both verbs are connected"
+      }
+    }
+  ],
+  "french_grammar_batch25.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Formal vs informal address",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Formal vs informal address",
+        "level": "A1",
+        "meaning": "Choosing between 'tu' (informal) and 'vous' (formal) based on relationship and context"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Informal question formation",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Informal question formation",
+        "level": "A1",
+        "meaning": "Using rising intonation instead of 'est-ce que' or inversion in casual speech"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "On替代nous",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "On替代nous",
+        "level": "A2",
+        "meaning": "Using 'on' instead of 'nous' in informal French"
+      }
+    }
+  ],
+  "french_grammar_batch26.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Definite article with countries",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Definite article with countries",
+        "level": "A2",
+        "meaning": "Countries requiring 'le' or 'la'"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Countries without article",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Countries without article",
+        "level": "A2",
+        "meaning": "Countries used without articles"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Contractions with 'de'",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Contractions with 'de'",
+        "level": "A2",
+        "meaning": "Preposition 'de' contracts with articles"
+      }
+    }
+  ],
+  "french_grammar_batch27.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Partitive article with food",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Partitive article with food",
+        "level": "A2",
+        "meaning": "Expresses quantity of uncountable food items"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Quantifier 'beaucoup de'",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Quantifier 'beaucoup de'",
+        "level": "A2",
+        "meaning": "Indicates large quantity"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Quantifier 'peu de'",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Quantifier 'peu de'",
+        "level": "A2",
+        "meaning": "Indicates small quantity"
+      }
+    }
+  ],
+  "french_grammar_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "futur simple (第一组动词)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "futur simple (第一组动词)",
+        "level": "A2",
+        "meaning": "simple future tense (will/shall)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "futur simple (第二组和第三组动词)",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "futur simple (第二组和第三组动词)",
+        "level": "A2",
+        "meaning": "simple future for -ir/-re verbs and irregular verbs"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "conditionnel présent",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "conditionnel présent",
+        "level": "A2",
+        "meaning": "present conditional (would/could)"
+      }
+    }
+  ],
+  "french_grammar_batch4.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "passé simple des verbes réguliers",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "passé simple des verbes réguliers",
+        "level": "A2",
+        "meaning": "simple past tense (literary/narrative past)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "passé simple des verbes irréguliers courants",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "passé simple des verbes irréguliers courants",
+        "level": "A2",
+        "meaning": "simple past of common irregular verbs"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "plus-que-parfait",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "plus-que-parfait",
+        "level": "A2",
+        "meaning": "pluperfect (past perfect) - had done something"
+      }
+    }
+  ],
+  "french_grammar_batch5.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Passif avec « par »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Passif avec « par »",
+        "level": "B1",
+        "meaning": "The passive voice emphasizes the action's recipient"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Passif avec « de »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Passif avec « de »",
+        "level": "B1",
+        "meaning": "Passive voice with 'de' for emotional or descriptive agents"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Passif pronominal",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Passif pronominal",
+        "level": "B1",
+        "meaning": "Pronominal passive with 'se' for indefinite subject"
+      }
+    }
+  ],
+  "french_grammar_batch6.json": [
+    {
+      "entry_index": 0,
+      "natural_key": " 文章标题: qui pour sujet",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": " 文章标题: qui pour sujet",
+        "level": "B1",
+        "meaning": "Relative pronoun 'qui' as subject"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": " 文章标题: que pour objet direct",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": " 文章标题: que pour objet direct",
+        "level": "B1",
+        "meaning": "Relative pronoun 'que' as direct object"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": " 文章标题: qui pour objet après préposition",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": " 文章标题: qui pour objet après préposition",
+        "level": "B1",
+        "meaning": "Relative pronoun 'qui' after preposition for persons"
+      }
+    }
+  ],
+  "french_grammar_batch7.json": [
+    {
+      "entry_index": 0,
+      "natural_key": " 文章标题: D'abord... Ensuite... Enfin",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": " 文章标题: D'abord... Ensuite... Enfin",
+        "level": "B1",
+        "meaning": "First... Then... Finally (sequence markers)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": " 文章标题: D'une part... D'autre part...",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": " 文章标题: D'une part... D'autre part...",
+        "level": "B1",
+        "meaning": "On one hand... On the other hand..."
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": " 文章标题: Cependant, Néanmoins, Toutefois",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": " 文章标题: Cependant, Néanmoins, Toutefois",
+        "level": "B1",
+        "meaning": "However, Nevertheless, Yet (contrast markers)"
+      }
+    }
+  ],
+  "french_grammar_batch8.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Cleft sentence with « c'est... qui » for people",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Cleft sentence with « c'est... qui » for people",
+        "level": "B2",
+        "meaning": "Emphasizes a subject by restructuring the sentence to highlight who performs an action"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Cleft sentence with « c'est... que » for things",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Cleft sentence with « c'est... que » for things",
+        "level": "B2",
+        "meaning": "Emphasizes an object or circumstance by restructuring the sentence"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Pseudo-cleft « ce qui... c'est... »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Pseudo-cleft « ce qui... c'est... »",
+        "level": "B2",
+        "meaning": "Emphasizes what is being discussed by placing the element in a relative clause"
+      }
+    }
+  ],
+  "french_grammar_batch9.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Double negation with « ne... pas »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Double negation with « ne... pas »",
+        "level": "B2",
+        "meaning": "Standard negation expressing the absence of an action or state"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Complex negation « ne... plus »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Complex negation « ne... plus »",
+        "level": "B2",
+        "meaning": "Indicates that an action or state no longer continues"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Negation with « ne... jamais »",
+      "status": "EXISTS_DIVERGENT",
+      "entry_preview": {
+        "structure_label": "Negation with « ne... jamais »",
+        "level": "B2",
+        "meaning": "Expresses that something never happens or has never happened"
+      }
+    }
+  ],
+  "french_vocab_a1_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "un",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "un",
+        "level": "A1",
+        "meaning": "one"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "deux",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "deux",
+        "level": "A1",
+        "meaning": "two"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "trois",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "trois",
+        "level": "A1",
+        "meaning": "three"
+      }
+    }
+  ],
+  "french_vocab_a1_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le temps",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le temps",
+        "level": "A1",
+        "meaning": "the weather"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "la pluie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la pluie",
+        "level": "A1",
+        "meaning": "the rain"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le soleil",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le soleil",
+        "level": "A1",
+        "meaning": "the sun"
+      }
+    }
+  ],
+  "french_vocab_a1_batch4.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la cuisine",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la cuisine",
+        "level": "A1",
+        "meaning": "the kitchen"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "la salle de bain",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la salle de bain",
+        "level": "A1",
+        "meaning": "the bathroom"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le salon",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le salon",
+        "level": "A1",
+        "meaning": "the living room"
+      }
+    }
+  ],
+  "french_vocab_a1_batch5.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "onze",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "onze",
+        "level": "A1",
+        "meaning": "eleven"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "douze",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "douze",
+        "level": "A1",
+        "meaning": "twelve"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "treize",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "treize",
+        "level": "A1",
+        "meaning": "thirteen"
+      }
+    }
+  ],
+  "french_vocab_a2_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la bibliothèque",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la bibliothèque",
+        "level": "A2",
+        "meaning": "the library"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "le musée",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le musée",
+        "level": "A2",
+        "meaning": "the museum"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "la gare",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la gare",
+        "level": "A2",
+        "meaning": "the train station"
+      }
+    }
+  ],
+  "french_vocab_a2_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le football",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le football",
+        "level": "A2",
+        "meaning": "football/soccer"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "le basketball",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le basketball",
+        "level": "A2",
+        "meaning": "basketball"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "la natation",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la natation",
+        "level": "A2",
+        "meaning": "swimming"
+      }
+    }
+  ],
+  "french_vocab_a2_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la carotte",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la carotte",
+        "level": "A2",
+        "meaning": "the carrot"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "la tomate",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la tomate",
+        "level": "A2",
+        "meaning": "the tomato"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "le gâteau",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le gâteau",
+        "level": "A2",
+        "meaning": "the cake"
+      }
+    }
+  ],
+  "french_vocab_b1_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "réseau",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "réseau",
+        "level": "B1",
+        "meaning": "network"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "application",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "application",
+        "level": "B1",
+        "meaning": "application, app"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "document",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "document",
+        "level": "B1",
+        "meaning": "document"
+      }
+    }
+  ],
+  "french_vocab_b1_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "collègue",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "collègue",
+        "level": "B1",
+        "meaning": "colleague, coworker"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "salaire",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "salaire",
+        "level": "B1",
+        "meaning": "salary, wages"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "entreprise",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "entreprise",
+        "level": "B1",
+        "meaning": "company, business"
+      }
+    }
+  ],
+  "french_vocab_b1_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "Canada",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "Canada",
+        "level": "A2",
+        "meaning": "Canada"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "Australie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "Australie",
+        "level": "A2",
+        "meaning": "Australia"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "Belgique",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "Belgique",
+        "level": "A2",
+        "meaning": "Belgium"
+      }
+    }
+  ],
+  "french_vocab_b2_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "souveraineté",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "souveraineté",
+        "level": "C1",
+        "meaning": "sovereignty"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "démocratie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "démocratie",
+        "level": "B2",
+        "meaning": "democracy"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "législation",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "législation",
+        "level": "B2",
+        "meaning": "legislation, lawmaking"
+      }
+    }
+  ],
+  "french_vocab_b2_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "substance",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "substance",
+        "level": "C1",
+        "meaning": "substance, essence, matter"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "multilatéralisme",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "multilatéralisme",
+        "level": "C1",
+        "meaning": "multilateralism"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": " spéculation",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": " spéculation",
+        "level": "B2",
+        "meaning": "speculation"
+      }
+    }
+  ],
+  "french_vocab_b2_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "collaboration",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "collaboration",
+        "level": "B2",
+        "meaning": "collaboration, teamwork, cooperation"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "algorithme",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "algorithme",
+        "level": "B2",
+        "meaning": "algorithm"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "cybersécurité",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "cybersécurité",
+        "level": "B2",
+        "meaning": "cybersecurity"
+      }
+    }
+  ],
+  "french_vocab_batch_1_a1_a2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "le livre",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "le livre",
+        "level": "A1",
+        "meaning": "the book"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "la maison",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la maison",
+        "level": "A1",
+        "meaning": "the house"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "manger",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "manger",
+        "level": "A1",
+        "meaning": "to eat"
+      }
+    }
+  ],
+  "french_vocab_batch_2_b1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "émouvoir",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "émouvoir",
+        "level": "B1",
+        "meaning": "to move (emotionally)"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "dépaysement",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "dépaysement",
+        "level": "B1",
+        "meaning": "disorientation, feeling of being in a foreign place"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "nostalgie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "nostalgie",
+        "level": "B1",
+        "meaning": "nostalgia"
+      }
+    }
+  ],
+  "french_vocab_batch_3_b2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "la société",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la société",
+        "level": "B2",
+        "meaning": "society"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "la politique",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "la politique",
+        "level": "B2",
+        "meaning": "politics / policy"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "l'environnement",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "l'environnement",
+        "level": "B2",
+        "meaning": "environment"
+      }
+    }
+  ],
+  "french_vocab_c1_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "hypothétique",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "hypothétique",
+        "level": "C1",
+        "meaning": "hypothetical, conjectural"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "iatrogène",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "iatrogène",
+        "level": "C2",
+        "meaning": "iatrogenic, caused by medical treatment"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "idiosyncrasie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "idiosyncrasie",
+        "level": "C2",
+        "meaning": "idiosyncrasy, individual characteristic"
+      }
+    }
+  ],
+  "french_vocab_c1_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "fission",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "fission",
+        "level": "C1",
+        "meaning": "nuclear fission, splitting of atomic nuclei"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "fusion",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "fusion",
+        "level": "C1",
+        "meaning": "nuclear fusion, combining of atomic nuclei"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "radioactivité",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "radioactivité",
+        "level": "C1",
+        "meaning": "radioactivity, emission of radiation from unstable nuclei"
+      }
+    }
+  ],
+  "french_vocab_c1_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "méconnaitre",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "méconnaitre",
+        "level": "C1",
+        "meaning": "to misunderstand, to be unaware of"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "irréversible",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "irréversible",
+        "level": "C1",
+        "meaning": "irreversible, unable to be reversed"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "transversal",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "transversal",
+        "level": "C1",
+        "meaning": "cross-cutting, interdisciplinary"
+      }
+    }
+  ],
+  "french_vocab_c2_batch1.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "anéantissement",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "anéantissement",
+        "level": "C2",
+        "meaning": "annihilation, total destruction"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "aporie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "aporie",
+        "level": "C2",
+        "meaning": "aporia, logical impasse"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "cassandre",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "cassandre",
+        "level": "C2",
+        "meaning": "Cassandra, prophet of doom"
+      }
+    }
+  ],
+  "french_vocab_c2_batch2.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "panacée",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "panacée",
+        "level": "C2",
+        "meaning": "panacea, universal remedy"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "quintessence",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "quintessence",
+        "level": "C2",
+        "meaning": "quintessence, purest essence"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "recazir",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "recazir",
+        "level": "C2",
+        "meaning": "to recoil, to draw back in fear"
+      }
+    }
+  ],
+  "french_vocab_c2_batch3.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "épiphyte",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "épiphyte",
+        "level": "C2",
+        "meaning": "epiphyte, air plant"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "farouche",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "farouche",
+        "level": "C2",
+        "meaning": "feral, wild-tempered"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "géophage",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "géophage",
+        "level": "C2",
+        "meaning": "geophagous, earth-eating"
+      }
+    }
+  ],
+  "french_vocab_c2_batch4.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "tautologique",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "tautologique",
+        "level": "C2",
+        "meaning": "tautological, self-repeating"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "ululement",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "ululement",
+        "level": "C2",
+        "meaning": "hooting, owl cry"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "vacuomètre",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "vacuomètre",
+        "level": "C2",
+        "meaning": "vacuum gauge, pressure meter"
+      }
+    }
+  ],
+  "french_vocab_c2_batch5.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "ichthyologie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "ichthyologie",
+        "level": "C2",
+        "meaning": "ichthyology, study of fish"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "jaspiller",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "jaspiller",
+        "level": "C2",
+        "meaning": "to splash, to scatter"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "kératotomie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "kératotomie",
+        "level": "C2",
+        "meaning": "keratotomy, corneal incision"
+      }
+    }
+  ],
+  "french_vocab_c2_batch6.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "xénesthésie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "xénesthésie",
+        "level": "C2",
+        "meaning": "xesthesia, tactile perception"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "yogourt",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "yogourt",
+        "level": "C2",
+        "meaning": "yogurt, fermented milk product"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "zodiaque",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "zodiaque",
+        "level": "C2",
+        "meaning": "zodiac, astrological signs"
+      }
+    }
+  ],
+  "french_vocab_c2_batch7.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "monosyllabe",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "monosyllabe",
+        "level": "C2",
+        "meaning": "monosyllable, single-syllable word"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "nanisme",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "nanisme",
+        "level": "C2",
+        "meaning": "dwarfism, stunted growth"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "obstacle épistémologique",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "obstacle épistémologique",
+        "level": "C2",
+        "meaning": "epistemological obstacle"
+      }
+    }
+  ],
+  "french_vocab_c2_batch8.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "brachylogie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "brachylogie",
+        "level": "C2",
+        "meaning": "brachylogy, condensed expression"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "chlordané",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "chlordané",
+        "level": "C2",
+        "meaning": "chlordane, insecticide compound"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "diglossie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "diglossie",
+        "level": "C2",
+        "meaning": "diglossia, two language varieties"
+      }
+    }
+  ],
+  "french_vocab_c2_batch9.json": [
+    {
+      "entry_index": 0,
+      "natural_key": "querelle",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "querelle",
+        "level": "C2",
+        "meaning": "quarrel, dispute"
+      }
+    },
+    {
+      "entry_index": 1,
+      "natural_key": "rhéteur",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "rhéteur",
+        "level": "C2",
+        "meaning": "rhetor, teacher of rhetoric"
+      }
+    },
+    {
+      "entry_index": 2,
+      "natural_key": "sémiographie",
+      "status": "EXISTS_OK",
+      "entry_preview": {
+        "word": "sémiographie",
+        "level": "C2",
+        "meaning": "semiography, sign writing"
+      }
+    }
+  ]
+}

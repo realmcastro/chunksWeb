@@ -1,0 +1,563 @@
+{
+  "timestamp": "2026-05-09T22:13:27.719Z",
+  "language": "fr",
+  "phase": "Phase 1: JSON vs DB Audit",
+  "chunks": {
+    "totalInDb": 1160,
+    "fields": {
+      "variations": {
+        "canFillCount": 485,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      },
+      "common_mistakes": {
+        "canFillCount": 352,
+        "alreadyFilledCount": 140,
+        "total": 1160
+      },
+      "pattern": {
+        "canFillCount": 341,
+        "alreadyFilledCount": 819,
+        "total": 1160
+      },
+      "typical_collocates": {
+        "canFillCount": 341,
+        "alreadyFilledCount": 819,
+        "total": 1160
+      },
+      "trigger_situations": {
+        "canFillCount": 11,
+        "alreadyFilledCount": 481,
+        "total": 1160
+      },
+      "contexts": {
+        "canFillCount": 11,
+        "alreadyFilledCount": 481,
+        "total": 1160
+      },
+      "communicative_purpose": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1160,
+        "total": 1160
+      },
+      "example_1": {
+        "canFillCount": 1160,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      },
+      "example_1_translation": {
+        "canFillCount": 1159,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      },
+      "example_2": {
+        "canFillCount": 1160,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      },
+      "example_2_translation": {
+        "canFillCount": 1160,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      },
+      "example_3": {
+        "canFillCount": 1160,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      },
+      "example_3_translation": {
+        "canFillCount": 1160,
+        "alreadyFilledCount": 0,
+        "total": 1160
+      }
+    },
+    "canFillSamples": [
+      {
+        "field": "variations",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "dbValue": null,
+            "jsonValue": "à tout à l'heure, à plus tard, à bientôt"
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "dbValue": null,
+            "jsonValue": "comment allez-tu (informal), comment va tu (informal), comment vous portez-vous"
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "dbValue": null,
+            "jsonValue": "je ne sais pas, j'sais pas (informal), je ne sais point (formal/literary)"
+          }
+        ]
+      },
+      {
+        "field": "common_mistakes",
+        "samples": [
+          {
+            "chunk_text": "au regard de",
+            "dbValue": "",
+            "jsonValue": "Confusing with 'envers' (towards); incorrect preposition"
+          },
+          {
+            "chunk_text": "à la lumière de",
+            "dbValue": "",
+            "jsonValue": "Confusing with 'à cause de' (because of); incorrect preposition usage"
+          },
+          {
+            "chunk_text": "être en forme",
+            "dbValue": "",
+            "jsonValue": "Confusing with 'en forme' meaning 'shaped' like a form; using 'avoir' instead of 'être'"
+          }
+        ]
+      },
+      {
+        "field": "pattern",
+        "samples": [
+          {
+            "chunk_text": "je postule pour le poste de",
+            "dbValue": "",
+            "jsonValue": "je + postule + pour + le + poste + de + [position]"
+          },
+          {
+            "chunk_text": "quelles sont vos compétences principales",
+            "dbValue": "",
+            "jsonValue": "quelles + sont + vos + compétences + principales"
+          },
+          {
+            "chunk_text": "je suis convaincu que",
+            "dbValue": "",
+            "jsonValue": "je + suis + convaincu(e) + que + [clause]"
+          }
+        ]
+      },
+      {
+        "field": "typical_collocates",
+        "samples": [
+          {
+            "chunk_text": "je postule pour le poste de",
+            "dbValue": null,
+            "jsonValue": "poste, candidature, curriculum vitae, lettre de motivation"
+          },
+          {
+            "chunk_text": "quelles sont vos compétences principales",
+            "dbValue": null,
+            "jsonValue": "compétences, principales, qualities, strengths, strengths, skills"
+          },
+          {
+            "chunk_text": "je suis convaincu que",
+            "dbValue": null,
+            "jsonValue": "convaincu, persuadé, certain, confiant, optimization"
+          }
+        ]
+      },
+      {
+        "field": "trigger_situations",
+        "samples": [
+          {
+            "chunk_text": "au regard de",
+            "dbValue": "",
+            "jsonValue": "Formal reports, official assessments, professional evaluations"
+          },
+          {
+            "chunk_text": "à la lumière de",
+            "dbValue": "",
+            "jsonValue": "Decision-making, analysis, conclusions, formal reasoning"
+          },
+          {
+            "chunk_text": "être en forme",
+            "dbValue": "",
+            "jsonValue": "When feeling healthy, after exercise, describing one's condition"
+          }
+        ]
+      },
+      {
+        "field": "contexts",
+        "samples": [
+          {
+            "chunk_text": "au regard de",
+            "dbValue": "",
+            "jsonValue": "Formal written, reports, legal documents, official assessments"
+          },
+          {
+            "chunk_text": "à la lumière de",
+            "dbValue": "",
+            "jsonValue": "Formal written/spoken, analysis, reports, professional discussions"
+          },
+          {
+            "chunk_text": "être en forme",
+            "dbValue": "",
+            "jsonValue": "Daily conversations about health, fitness contexts, greetings"
+          }
+        ]
+      },
+      {
+        "field": "example_1",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "jsonValue": "à + tout + à + l'heure"
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "jsonValue": "comment + allez + vous"
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "jsonValue": "je + ne + sais + pas"
+          }
+        ]
+      },
+      {
+        "field": "example_1_translation",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "jsonValue": "See you soon"
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "jsonValue": "comment + allez + vous"
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "jsonValue": "je + ne + sais + pas"
+          }
+        ]
+      },
+      {
+        "field": "example_2",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "jsonValue": "'à tout à l'heure' est une expression utile."
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "jsonValue": "'comment allez-vous' est une expression utile."
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "jsonValue": "'je ne sais pas' est une expression utile."
+          }
+        ]
+      },
+      {
+        "field": "example_2_translation",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "jsonValue": "'see you later' is a useful expression."
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "jsonValue": "'how are you' is a useful phrase."
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "jsonValue": "'I don't know' is a useful expression."
+          }
+        ]
+      },
+      {
+        "field": "example_3",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "jsonValue": "Je connais à tout à l'heure."
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "jsonValue": "Je connais comment allez-vous."
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "jsonValue": "Je connais je ne sais pas."
+          }
+        ]
+      },
+      {
+        "field": "example_3_translation",
+        "samples": [
+          {
+            "chunk_text": "à tout à l'heure",
+            "jsonValue": "I'll see you later."
+          },
+          {
+            "chunk_text": "comment allez-vous",
+            "jsonValue": "I know how are you."
+          },
+          {
+            "chunk_text": "je ne sais pas",
+            "jsonValue": "I know I don't know."
+          }
+        ]
+      }
+    ]
+  },
+  "grammar": {
+    "totalInDb": 403,
+    "fields": {
+      "key_variations": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 403,
+        "total": 403
+      },
+      "essential_vocabulary_slots": {
+        "canFillCount": 104,
+        "alreadyFilledCount": 0,
+        "total": 403
+      },
+      "pattern": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 403,
+        "total": 403
+      },
+      "common_learner_mistakes": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 403,
+        "total": 403
+      },
+      "when_to_use": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 104,
+        "total": 403
+      },
+      "primary_communicative_fn": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 90,
+        "total": 403
+      },
+      "example_1": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 0,
+        "total": 403
+      },
+      "example_1_translation": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 0,
+        "total": 403
+      },
+      "example_2": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 0,
+        "total": 403
+      },
+      "example_2_translation": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 0,
+        "total": 403
+      },
+      "example_3": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 0,
+        "total": 403
+      },
+      "example_3_translation": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 0,
+        "total": 403
+      }
+    },
+    "canFillSamples": [
+      {
+        "field": "essential_vocabulary_slots",
+        "samples": [
+          {
+            "structure_label": "être au présent",
+            "dbValue": null,
+            "jsonValue": "professions: avocat, médecin, professeur | nationalités: français, américain, brésilien | adjectifs: grand, petit, intelligent, gentil | locations: chez moi, à la maison, au bureau"
+          },
+          {
+            "structure_label": "avoir au présent",
+            "dbValue": null,
+            "jsonValue": "possessions: une maison, une voiture, un chat | états physiques: faim, soif, froid, chaud, peur, sommeil | idiomes: avoir raison, avoir tort, avoir lieu"
+          },
+          {
+            "structure_label": "-ER verbs conjugation (present tense)",
+            "dbValue": null,
+            "jsonValue": "common verbs: parler, manger, habiter, travailler, étudier, chanter, danser, voyager, chercher, trouver | common topics: daily activities, work, leisure"
+          }
+        ]
+      }
+    ]
+  },
+  "vocab": {
+    "totalInDb": 1871,
+    "fields": {
+      "phonetic": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1871,
+        "total": 1871
+      },
+      "part_of_speech": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1871,
+        "total": 1871
+      },
+      "category": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1871,
+        "total": 1871
+      },
+      "subcategory": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "secondary_meaning": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "usage_notes": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "common_collocations": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "synonyms": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "antonyms": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "image_search_query": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1871,
+        "total": 1871
+      },
+      "image_context": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1871,
+        "total": 1871
+      },
+      "image_tags": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 1871,
+        "total": 1871
+      },
+      "example_1": {
+        "canFillCount": 1326,
+        "alreadyFilledCount": 487,
+        "total": 1871
+      },
+      "example_1_translation": {
+        "canFillCount": 1326,
+        "alreadyFilledCount": 487,
+        "total": 1871
+      },
+      "example_2": {
+        "canFillCount": 1326,
+        "alreadyFilledCount": 487,
+        "total": 1871
+      },
+      "example_2_translation": {
+        "canFillCount": 1326,
+        "alreadyFilledCount": 487,
+        "total": 1871
+      },
+      "example_3": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      },
+      "example_3_translation": {
+        "canFillCount": 0,
+        "alreadyFilledCount": 4,
+        "total": 1871
+      }
+    },
+    "canFillSamples": [
+      {
+        "field": "example_1",
+        "samples": [
+          {
+            "word": "un",
+            "dbValue": "",
+            "jsonValue": "J'ai un chat."
+          },
+          {
+            "word": "deux",
+            "dbValue": "",
+            "jsonValue": "Il y a deux fenêtres."
+          },
+          {
+            "word": "trois",
+            "dbValue": "",
+            "jsonValue": "J'habite au troisième étage."
+          }
+        ]
+      },
+      {
+        "field": "example_1_translation",
+        "samples": [
+          {
+            "word": "un",
+            "dbValue": "",
+            "jsonValue": "I have one cat."
+          },
+          {
+            "word": "deux",
+            "dbValue": "",
+            "jsonValue": "There are two windows."
+          },
+          {
+            "word": "trois",
+            "dbValue": "",
+            "jsonValue": "I live on the third floor."
+          }
+        ]
+      },
+      {
+        "field": "example_2",
+        "samples": [
+          {
+            "word": "un",
+            "dbValue": "",
+            "jsonValue": "Donne-moi un livre."
+          },
+          {
+            "word": "deux",
+            "dbValue": "",
+            "jsonValue": "Nous sommes deux."
+          },
+          {
+            "word": "trois",
+            "dbValue": "",
+            "jsonValue": "Il a trois frères."
+          }
+        ]
+      },
+      {
+        "field": "example_2_translation",
+        "samples": [
+          {
+            "word": "un",
+            "dbValue": "",
+            "jsonValue": "Give me one book."
+          },
+          {
+            "word": "deux",
+            "dbValue": "",
+            "jsonValue": "We are two."
+          },
+          {
+            "word": "trois",
+            "dbValue": "",
+            "jsonValue": "He has three brothers."
+          }
+        ]
+      }
+    ]
+  }
+}
