@@ -106,6 +106,8 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 | 82 | Ambient sensory polish (SFX/haptics/seasonal) | feature,delight,a11y | pendente |
 | 86 | Adaptive reactive UI (time/fatigue/battery/return) | feature,reactive,ux | pendente |
 | 87 | Reactive micro-feedback (cursor/tilt/scroll/inertia) | feature,reactive,delight | pendente |
+| 88 | Reactive presence (live anonymous social signals) | feature,reactive | pendente |
+| 89 | Sensor-driven reactive input (gyro/shake/typing/gamepad) | feature,reactive | pendente |
 | 70 | Audio recording module | module | pendente |
 | 75 | Admin/instructor dashboard | feature | bloqueado (decisão role) |
 | 80 | AI tutoring chat (Claude) | feature | pendente |
