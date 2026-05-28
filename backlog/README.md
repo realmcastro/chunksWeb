@@ -78,6 +78,10 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 | 52 | Brute-force lockout | security | pendente |
 | 53 | Layout system unification (TopNav/Sidebar + route groups) | refactor,ux,a11y | pendente (decisão shell) |
 | 54 | Page shell templates + Section primitives | refactor,ux | pendente |
+| 55 | Focus mode layout (distraction-free) | ux,layout | pendente |
+| 56 | Split-pane layout (master-detail) | ux,layout | pendente |
+| 57 | Command palette (Cmd+K) | ux,layout,feature | pendente |
+| 58 | Bottom sheet pattern (mobile) | ux,layout,a11y | pendente |
 | 60 | Streak UI + freeze | feature | pendente (decisão regras) |
 | 61 | Progress dashboard overhaul (rich panel) | feature,ux | pendente |
 | 62 | Stats event schema (event sourcing) | data,observability | pendente |
@@ -88,6 +92,12 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 | 67 | Personal records + achievements | feature,ux | pendente |
 | 68 | Comparative cohort insights | feature,observability | pendente |
 | 69 | Public shareable profile (opt-in) | feature,ux | pendente |
+| 71 | Daily check-in + reflection (interactive) | feature,interactive | pendente |
+| 72 | Conversational practice page (AI dialogue) | feature,interactive | pendente |
+| 73 | Story mode (interactive narrative) | feature,interactive | pendente |
+| 74 | AI coach — daily plan recommender | feature,interactive | pendente |
+| 76 | Chunks feed (TikTok-style discovery) | feature,interactive | pendente |
+| 77 | Pronunciation duel arena | feature,interactive | pendente |
 | 70 | Audio recording module | module | pendente |
 | 75 | Admin/instructor dashboard | feature | bloqueado (decisão role) |
 | 80 | AI tutoring chat (Claude) | feature | pendente |
