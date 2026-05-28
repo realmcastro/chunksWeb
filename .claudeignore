@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.db
+*.db-shm
+*.db-wal
+chunks_v1.db
+prisma/chunks_v1.db
+tsconfig.tsbuildinfo
+package-lock.json
+public/sw.js
+public/workbox-*.js
+public/worker-*.js
+public/sw.js.map
+.env
+.env.*
