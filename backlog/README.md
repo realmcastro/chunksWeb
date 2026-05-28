@@ -30,6 +30,7 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 - `operations` — backup, deploy
 - `delight` — easter eggs, mascot, sound, polish
 - `interactive` — páginas dialógicas / dirigidas a interação
+- `reactive` — UI que reage a sinais e movimentos do usuário (mouse, scroll, idle, fadiga, tempo)
 
 ## Índice
 
@@ -103,6 +104,8 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 | 78 | Idle screensaver (DVD bounce) | feature,delight | pendente |
 | 79 | Mascot/companion pet | feature,delight | pendente (decisão design) |
 | 82 | Ambient sensory polish (SFX/haptics/seasonal) | feature,delight,a11y | pendente |
+| 86 | Adaptive reactive UI (time/fatigue/battery/return) | feature,reactive,ux | pendente |
+| 87 | Reactive micro-feedback (cursor/tilt/scroll/inertia) | feature,reactive,delight | pendente |
 | 70 | Audio recording module | module | pendente |
 | 75 | Admin/instructor dashboard | feature | bloqueado (decisão role) |
 | 80 | AI tutoring chat (Claude) | feature | pendente |
