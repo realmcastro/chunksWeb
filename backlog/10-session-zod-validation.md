@@ -3,7 +3,7 @@ prioridade: 10
 categoria: security
 esforco: 2h
 risco: baixo
-status: em-arvore-nao-commitado
+status: done
 ---
 
 # Session payload Zod validation
@@ -38,12 +38,12 @@ status: em-arvore-nao-commitado
 
 ## Validação
 
-- [ ] Teste: cookie ausente → null
-- [ ] Teste: JSON inválido → null
-- [ ] Teste: `userId` string → null
-- [ ] Teste: `expiresAt` ausente → null
-- [ ] Teste: payload expirado → null
-- [ ] Teste: payload válido → SessionData
+- [x] Teste: cookie ausente → null
+- [x] Teste: JSON inválido → null
+- [x] Teste: `userId` string → null
+- [x] Teste: `expiresAt` ausente → null
+- [x] Teste: payload expirado → null
+- [x] Teste: payload válido → SessionData
 
 ## Decisões pendentes
 

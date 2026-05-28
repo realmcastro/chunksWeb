@@ -884,8 +884,8 @@ async function main() {
   try {
     inserted = insertMany(allExamples);
     console.log(`  Inserted: ${inserted} examples`);
-  } catch (err) {
-    console.error(`  ERROR: ${err.message}`);
+  } catch (err: unknown) {
+    console.error(`  ERROR: ${err instanceof Error ? err.message : String(err)}`);
     console.log('  Rolling back...');
     db.close();
     process.exit(1);

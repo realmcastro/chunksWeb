@@ -3,7 +3,7 @@ prioridade: 11
 categoria: refactor
 esforco: 1h
 risco: baixo
-status: em-arvore-nao-commitado
+status: concluido
 dependencias: [10-session-zod-validation]
 ---
 

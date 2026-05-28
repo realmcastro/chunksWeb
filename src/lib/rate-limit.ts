@@ -121,4 +121,8 @@ export const RATE_LIMITS = {
   chunkReport: { route: 'chunks/report', limit: 5, windowMs: 60_000 },
   feynmanSubmit: { route: 'feynman/submit', limit: 20, windowMs: 60_000 },
   changePassword: { route: 'auth/change-password', limit: 5, windowMs: 60_000 },
+  deleteAccount: { route: 'auth/delete-account', limit: 3, windowMs: 60_000 },
+  exportData: { route: 'user/export-data', limit: 3, windowMs: 60_000 },
+  requestReset: { route: 'auth/request-reset', limit: 3, windowMs: 60_000 },
+  resetPassword: { route: 'auth/reset-password', limit: 5, windowMs: 60_000 },
 } as const satisfies Record<string, RateLimitGuard>;

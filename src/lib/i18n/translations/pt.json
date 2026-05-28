@@ -100,11 +100,11 @@
   },
   "captcha": {
     "solveToContinue": "Complete a verificação para continuar",
-    "oneMoreStep": "Mais um passo para verificar",
-    "slideToUnlock": "Deslize para desbloquear",
-    "backToMath": "Voltar para verificação matemática",
     "incorrectAnswer": "Resposta incorreta, tente novamente",
-    "mathVerification": "Verificação Matemática"
+    "typeAnswer": "Digite sua resposta",
+    "verify": "Verificar",
+    "verified": "Verificado",
+    "newChallenge": "Gerar novo problema"
   },
   "auth": {
     "welcomeBack": "Bem-vindo de Volta",
@@ -123,7 +123,28 @@
     "dontHaveAccount": "Não tem uma conta?",
     "alreadyHaveAccount": "Já tem uma conta?",
     "signInLink": "Entrar",
-    "registerLink": "Cadastre-se"
+    "registerLink": "Cadastre-se",
+    "forgotPassword": "Esqueceu a senha?",
+    "forgotPasswordTitle": "Redefinir Senha",
+    "forgotPasswordDesc": "Digite seu email para receber um link de redefinição",
+    "email": "Email",
+    "emailOptional": "Email (opcional)",
+    "sendResetLink": "Enviar Link",
+    "sendingResetLink": "Enviando...",
+    "checkYourEmail": "Verifique Seu Email",
+    "checkYourEmailDesc": "Se uma conta existe com esse email, enviamos um link de redefinição. Ele expira em 30 minutos.",
+    "backToLogin": "Voltar ao login",
+    "resetPasswordTitle": "Nova Senha",
+    "resetPasswordDesc": "Digite sua nova senha abaixo",
+    "newPassword": "Nova Senha",
+    "confirmNewPassword": "Confirmar Nova Senha",
+    "resetPassword": "Redefinir Senha",
+    "resettingPassword": "Redefinindo...",
+    "passwordResetSuccess": "Senha Redefinida",
+    "passwordResetSuccessDesc": "Sua senha foi atualizada. Agora você pode entrar.",
+    "signInNow": "Entrar Agora",
+    "passwordsMustMatch": "As senhas devem ser iguais",
+    "passwordMinLength": "A senha deve ter pelo menos 4 caracteres"
   },
   "errors": {
     "usernameRequired": "Nome de usuário é obrigatório",
@@ -134,7 +155,9 @@
     "passwordsDoNotMatch": "As senhas não coincidem",
     "usernameTooShort": "Nome de usuário deve ter pelo menos 3 caracteres",
     "passwordTooShort": "Senha deve ter pelo menos 4 caracteres",
-    "usernameTaken": "Nome de usuário já está em uso"
+    "usernameTaken": "Nome de usuário já está em uso",
+    "generic": "Ocorreu um erro. Tente novamente.",
+    "invalidOrExpiredResetLink": "Link de redefinição inválido ou expirado"
   },
   "dashboard": {
     "recentChunks": "Chunks Recentes",

@@ -5,7 +5,7 @@
 ```
 src/components/
 ├── ui/          # Base primitives: Button, Card, Input
-├── auth/        # Auth-specific: MathCaptcha, SliderCaptcha
+├── auth/        # Auth-specific: MathCaptcha (server-verified)
 ├── providers/   # Context providers: AuthProvider, ThemeProvider
 ├── layout/      # Layout shells: TopNav, Sidebar
 ├── chunks/      # Chunk display: ChunkCard, ChunkDetailClient, BrowseContent

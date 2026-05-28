@@ -26,12 +26,24 @@ export type SessionPayload = z.infer<typeof sessionPayloadSchema>;
 export const loginSchema = z.object({
   username: z.string().trim().min(1, 'Username required'),
   password: z.string().min(1, 'Password required'),
+  captchaId: z.string().uuid('Invalid captcha challenge'),
+  captchaAnswer: z.coerce.number().int('Answer must be a whole number'),
+  honeypot: z.string().max(0, 'Bot detected').optional().default(''),
 });
 export type LoginPayload = z.infer<typeof loginSchema>;
+
+export const deleteAccountSchema = z.object({
+  password: z.string().min(1, 'Password required for account deletion'),
+});
+export type DeleteAccountPayload = z.infer<typeof deleteAccountSchema>;
 
 export const registerSchema = z.object({
   username: z.string().trim().min(3, 'Username must be at least 3 characters').max(40),
   password: z.string().min(4, 'Password must be at least 4 characters').max(200),
+  email: z.string().trim().email('Valid email required').max(320).optional(),
+  captchaId: z.string().uuid('Invalid captcha challenge'),
+  captchaAnswer: z.coerce.number().int('Answer must be a whole number'),
+  honeypot: z.string().max(0, 'Bot detected').optional().default(''),
 });
 export type RegisterPayload = z.infer<typeof registerSchema>;
 
@@ -82,3 +94,20 @@ export const changePasswordSchema = z
     path: ['newPassword'],
   });
 export type ChangePasswordPayload = z.infer<typeof changePasswordSchema>;
+
+export const requestResetSchema = z.object({
+  email: z.string().trim().email('Valid email required').max(320),
+  captchaId: z.string().uuid('Invalid captcha challenge'),
+  captchaAnswer: z.coerce.number().int('Answer must be a whole number'),
+  honeypot: z.string().max(0, 'Bot detected').optional().default(''),
+});
+export type RequestResetPayload = z.infer<typeof requestResetSchema>;
+
+export const resetPasswordSchema = z.object({
+  token: z.string().min(1, 'Token required'),
+  newPassword: z
+    .string()
+    .min(4, 'Password must be at least 4 characters')
+    .max(200, 'Password must be at most 200 characters'),
+});
+export type ResetPasswordPayload = z.infer<typeof resetPasswordSchema>;

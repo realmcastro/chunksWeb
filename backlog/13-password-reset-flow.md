@@ -3,7 +3,7 @@ prioridade: 13
 categoria: auth
 esforco: 1-2 dias
 risco: medio
-status: bloqueado-decisao
+status: concluido
 ---
 
 # Password reset flow

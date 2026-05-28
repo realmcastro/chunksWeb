@@ -1891,6 +1891,17 @@ export interface User {
   id: number;
   username: string;
   password_hash: string;
+  email: string | null;
+  created_at: number;
+  deleted_at: number | null;
+}
+
+export interface PasswordResetToken {
+  id: number;
+  user_id: number;
+  token_hash: string;
+  expires_at: number;
+  used_at: number | null;
   created_at: number;
 }
 
@@ -1906,19 +1917,43 @@ export function initUsersTable(): void {
       created_at INTEGER DEFAULT (strftime('%s', 'now'))
     );
   `);
+  try {
+    db.exec(`ALTER TABLE users ADD COLUMN email TEXT UNIQUE`);
+  } catch {
+    /* Column already exists */
+  }
+}
+
+/*
+! Initializes password_reset_tokens table for email-based password recovery.
+! Token stored as SHA-256 hash; raw token sent via email only.
+*/
+export function initPasswordResetTokensTable(): void {
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS password_reset_tokens (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+      token_hash TEXT NOT NULL UNIQUE,
+      expires_at INTEGER NOT NULL,
+      used_at INTEGER,
+      created_at INTEGER NOT NULL
+    );
+    CREATE INDEX IF NOT EXISTS idx_prt_user ON password_reset_tokens(user_id);
+    CREATE INDEX IF NOT EXISTS idx_prt_token_hash ON password_reset_tokens(token_hash);
+  `);
 }
 
 /*
 ? Create a new user with hashed password
 */
-export function createUser(username: string, passwordHash: string): User | null {
+export function createUser(username: string, passwordHash: string, email?: string): User | null {
   try {
     const stmt = db.prepare(`
-      INSERT INTO users (username, password_hash, created_at)
-      VALUES (?, ?, ?)
+      INSERT INTO users (username, password_hash, email, created_at)
+      VALUES (?, ?, ?, ?)
     `);
     const now = Math.floor(Date.now() / 1000);
-    const result = stmt.run(username, passwordHash, now);
+    const result = stmt.run(username, passwordHash, email ?? null, now);
 
     const getStmt = db.prepare('SELECT * FROM users WHERE id = ?');
     return getStmt.get(result.lastInsertRowid) as User;
@@ -1971,6 +2006,52 @@ export function hashPassword(password: string): string {
 */
 export function updatePasswordHash(userId: number, newHash: string): void {
   db.prepare('UPDATE users SET password_hash = ? WHERE id = ?').run(newHash, userId);
+}
+
+/*
+? Get user by email (case-insensitive lookup via pre-normalized storage).
+*/
+export function getUserByEmail(email: string): User | undefined {
+  const stmt = db.prepare('SELECT * FROM users WHERE email = ?');
+  return stmt.get(email) as User | undefined;
+}
+
+/*
+? Store a hashed password reset token with expiry (unix seconds).
+*/
+export function createPasswordResetToken(userId: number, tokenHash: string, expiresAt: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare(`
+    INSERT INTO password_reset_tokens (user_id, token_hash, expires_at, created_at)
+    VALUES (?, ?, ?, ?)
+  `).run(userId, tokenHash, expiresAt, now);
+}
+
+/*
+? Find a valid (unused + not expired) reset token by its hash.
+*/
+export function findValidResetToken(tokenHash: string): PasswordResetToken | undefined {
+  const now = Math.floor(Date.now() / 1000);
+  return db.prepare(`
+    SELECT * FROM password_reset_tokens
+    WHERE token_hash = ? AND used_at IS NULL AND expires_at > ?
+  `).get(tokenHash, now) as PasswordResetToken | undefined;
+}
+
+/*
+? Mark a reset token as consumed (single-use enforcement).
+*/
+export function consumeResetToken(tokenId: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('UPDATE password_reset_tokens SET used_at = ? WHERE id = ?').run(now, tokenId);
+}
+
+/*
+? Remove expired or already-used tokens to keep table lean.
+*/
+export function deleteExpiredResetTokens(): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('DELETE FROM password_reset_tokens WHERE expires_at < ? OR used_at IS NOT NULL').run(now);
 }
 
 // ============================================================
@@ -2193,6 +2274,9 @@ initSessionActivitiesTable();
 // Initialize users table on module load
 initUsersTable();
 
+// Initialize password reset tokens table on module load
+initPasswordResetTokensTable();
+
 // Initialize user settings table on module load
 initUserSettingsTable();
 
@@ -2204,3 +2288,132 @@ initFeynmanTable();
 initUserFavoritesTable();
 // Initialize chunk reports table on module load
 initChunkReportsTable();
+
+// ============================================================
+// GDPR: ACCOUNT DELETION + DATA EXPORT
+// ============================================================
+
+/*
+! Adds deleted_at column to users table (soft-delete support).
+! Creates user_audit_log table for compliance event tracking.
+! Both are idempotent — safe to run on every startup.
+*/
+function initGdprSchema(): void {
+  const columns = db.pragma('table_info(users)') as Array<{ name: string }>;
+  const hasDeletedAt = columns.some((c) => c.name === 'deleted_at');
+  if (!hasDeletedAt) {
+    db.exec('ALTER TABLE users ADD COLUMN deleted_at INTEGER DEFAULT NULL');
+  }
+
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS user_audit_log (
+      id         INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id    INTEGER NOT NULL,
+      event      TEXT NOT NULL,
+      metadata   TEXT,
+      created_at INTEGER DEFAULT (strftime('%s', 'now'))
+    );
+    CREATE INDEX IF NOT EXISTS idx_audit_log_user
+    ON user_audit_log(user_id);
+  `);
+}
+
+initGdprSchema();
+
+/*
+! Soft-delete: sets deleted_at timestamp on user row.
+! Does NOT cascade — related data remains until hard-delete.
+! Records audit event for compliance trail.
+*/
+export function softDeleteUser(userId: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  const txn = db.transaction(() => {
+    db.prepare('UPDATE users SET deleted_at = ? WHERE id = ?').run(now, userId);
+    db.prepare(
+      'INSERT INTO user_audit_log (user_id, event, metadata, created_at) VALUES (?, ?, ?, ?)'
+    ).run(userId, 'account_deletion_requested', JSON.stringify({ soft: true }), now);
+  });
+  txn();
+}
+
+/*
+! Hard-delete: permanently removes user and ALL related data.
+! Tables cascade: user_progress, study_sessions, feynman_explanations,
+! user_favorites, chunk_reports, session_activities, user_settings,
+! tts_settings, voice_preferences, user_audit_log, users.
+!
+! Order: dependents first, then user row.
+*/
+export function hardDeleteUser(userId: number): void {
+  const txn = db.transaction(() => {
+    db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM study_sessions WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM feynman_explanations WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM user_favorites WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM chunk_reports WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM session_activities WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM user_settings WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM tts_settings WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM voice_preferences WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM user_audit_log WHERE user_id = ?').run(userId);
+    db.prepare('DELETE FROM users WHERE id = ?').run(userId);
+  });
+  txn();
+}
+
+export interface UserDataExport {
+  user: { id: number; username: string; created_at: number };
+  progress: unknown[];
+  studySessions: unknown[];
+  feynmanExplanations: unknown[];
+  favorites: unknown[];
+  reports: unknown[];
+  sessionActivities: unknown[];
+  settings: unknown[];
+  ttsSettings: unknown;
+  voicePreferences: unknown[];
+}
+
+/*
+! Exports all user data as a single JSON-serializable object.
+! Used for GDPR/LGPD data portability (right of access).
+*/
+export function exportUserData(userId: number): UserDataExport {
+  const user = db.prepare('SELECT id, username, created_at FROM users WHERE id = ?').get(userId) as
+    | { id: number; username: string; created_at: number }
+    | undefined;
+
+  if (!user) {
+    return {
+      user: { id: userId, username: '', created_at: 0 },
+      progress: [], studySessions: [], feynmanExplanations: [],
+      favorites: [], reports: [], sessionActivities: [],
+      settings: [], ttsSettings: null, voicePreferences: [],
+    };
+  }
+
+  return {
+    user,
+    progress: db.prepare('SELECT * FROM user_progress WHERE user_id = ?').all(userId),
+    studySessions: db.prepare('SELECT * FROM study_sessions WHERE user_id = ?').all(userId),
+    feynmanExplanations: db.prepare('SELECT * FROM feynman_explanations WHERE user_id = ?').all(userId),
+    favorites: db.prepare('SELECT * FROM user_favorites WHERE user_id = ?').all(userId),
+    reports: db.prepare('SELECT * FROM chunk_reports WHERE user_id = ?').all(userId),
+    sessionActivities: db.prepare('SELECT * FROM session_activities WHERE user_id = ?').all(userId),
+    settings: db.prepare('SELECT * FROM user_settings WHERE user_id = ?').all(userId),
+    ttsSettings: db.prepare('SELECT * FROM tts_settings WHERE user_id = ?').get(userId) ?? null,
+    voicePreferences: db.prepare('SELECT * FROM voice_preferences WHERE user_id = ?').all(userId),
+  };
+}
+
+/*
+! Returns user IDs where deleted_at is older than graceDays.
+! Used by cleanup script for hard-delete after grace period.
+*/
+export function getSoftDeletedUsersForPurge(graceDays: number = 30): number[] {
+  const cutoff = Math.floor(Date.now() / 1000) - (graceDays * 24 * 60 * 60);
+  const rows = db.prepare(
+    'SELECT id FROM users WHERE deleted_at IS NOT NULL AND deleted_at < ?'
+  ).all(cutoff) as Array<{ id: number }>;
+  return rows.map((r) => r.id);
+}

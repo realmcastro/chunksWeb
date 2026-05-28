@@ -3,7 +3,7 @@ prioridade: 15
 categoria: ux,security
 esforco: 4-6h
 risco: baixo
-status: bloqueado-decisao
+status: concluido
 ---
 
 # Simplificar para 1 captcha + hardenar

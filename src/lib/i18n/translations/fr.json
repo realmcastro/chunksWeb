@@ -100,11 +100,11 @@
   },
   "captcha": {
     "solveToContinue": "Complétez la vérification pour continuer",
-    "oneMoreStep": "Une dernière étape de vérification",
-    "slideToUnlock": "Glissez pour déverrouiller",
-    "backToMath": "Retour à la vérification mathématique",
     "incorrectAnswer": "Réponse incorrecte, réessayez",
-    "mathVerification": "Vérification Mathématique"
+    "typeAnswer": "Tapez votre réponse",
+    "verify": "Vérifier",
+    "verified": "Vérifié",
+    "newChallenge": "Nouveau problème"
   },
   "auth": {
     "welcomeBack": "Bon Retour",
@@ -123,7 +123,28 @@
     "dontHaveAccount": "Vous n'avez pas de compte ?",
     "alreadyHaveAccount": "Vous avez déjà un compte ?",
     "signInLink": "Se connecter",
-    "registerLink": "S'inscrire"
+    "registerLink": "S'inscrire",
+    "forgotPassword": "Mot de passe oublié ?",
+    "forgotPasswordTitle": "Réinitialiser le Mot de Passe",
+    "forgotPasswordDesc": "Entrez votre email pour recevoir un lien de réinitialisation",
+    "email": "Email",
+    "emailOptional": "Email (optionnel)",
+    "sendResetLink": "Envoyer le Lien",
+    "sendingResetLink": "Envoi en cours...",
+    "checkYourEmail": "Vérifiez Votre Email",
+    "checkYourEmailDesc": "Si un compte existe avec cet email, nous avons envoyé un lien de réinitialisation. Il expire dans 30 minutes.",
+    "backToLogin": "Retour à la connexion",
+    "resetPasswordTitle": "Nouveau Mot de Passe",
+    "resetPasswordDesc": "Entrez votre nouveau mot de passe ci-dessous",
+    "newPassword": "Nouveau Mot de Passe",
+    "confirmNewPassword": "Confirmer le Nouveau Mot de Passe",
+    "resetPassword": "Réinitialiser",
+    "resettingPassword": "Réinitialisation...",
+    "passwordResetSuccess": "Mot de Passe Réinitialisé",
+    "passwordResetSuccessDesc": "Votre mot de passe a été mis à jour. Vous pouvez maintenant vous connecter.",
+    "signInNow": "Se Connecter",
+    "passwordsMustMatch": "Les mots de passe doivent correspondre",
+    "passwordMinLength": "Le mot de passe doit comporter au moins 4 caractères"
   },
   "errors": {
     "usernameRequired": "Le nom d'utilisateur est requis",
@@ -134,7 +155,9 @@
     "passwordsDoNotMatch": "Les mots de passe ne correspondent pas",
     "usernameTooShort": "Le nom d'utilisateur doit comporter au moins 3 caractères",
     "passwordTooShort": "Le mot de passe doit comporter au moins 4 caractères",
-    "usernameTaken": "Ce nom d'utilisateur est déjà pris"
+    "usernameTaken": "Ce nom d'utilisateur est déjà pris",
+    "generic": "Une erreur s'est produite. Veuillez réessayer.",
+    "invalidOrExpiredResetLink": "Lien de réinitialisation invalide ou expiré"
   },
   "dashboard": {
     "recentChunks": "Chunks Récents",

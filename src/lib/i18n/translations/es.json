@@ -100,11 +100,11 @@
   },
   "captcha": {
     "solveToContinue": "Completa la verificación para continuar",
-    "oneMoreStep": "Un paso más para verificar",
-    "slideToUnlock": "Desliza para desbloquear",
-    "backToMath": "Volver a verificación matemática",
     "incorrectAnswer": "Respuesta incorrecta, inténtalo de nuevo",
-    "mathVerification": "Verificación Matemática"
+    "typeAnswer": "Escribe tu respuesta",
+    "verify": "Verificar",
+    "verified": "Verificado",
+    "newChallenge": "Nuevo problema"
   },
   "auth": {
     "welcomeBack": "Bienvenido de Nuevo",
@@ -123,7 +123,28 @@
     "dontHaveAccount": "¿No tienes una cuenta?",
     "alreadyHaveAccount": "¿Ya tienes una cuenta?",
     "signInLink": "Inicia sesión",
-    "registerLink": "Regístrate"
+    "registerLink": "Regístrate",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "forgotPasswordTitle": "Restablecer Contraseña",
+    "forgotPasswordDesc": "Ingresa tu email para recibir un enlace de restablecimiento",
+    "email": "Correo electrónico",
+    "emailOptional": "Correo electrónico (opcional)",
+    "sendResetLink": "Enviar Enlace",
+    "sendingResetLink": "Enviando...",
+    "checkYourEmail": "Revisa Tu Correo",
+    "checkYourEmailDesc": "Si existe una cuenta con ese correo, enviamos un enlace de restablecimiento. Expira en 30 minutos.",
+    "backToLogin": "Volver al inicio de sesión",
+    "resetPasswordTitle": "Nueva Contraseña",
+    "resetPasswordDesc": "Ingresa tu nueva contraseña",
+    "newPassword": "Nueva Contraseña",
+    "confirmNewPassword": "Confirmar Nueva Contraseña",
+    "resetPassword": "Restablecer Contraseña",
+    "resettingPassword": "Restableciendo...",
+    "passwordResetSuccess": "Contraseña Restablecida",
+    "passwordResetSuccessDesc": "Tu contraseña ha sido actualizada. Ya puedes iniciar sesión.",
+    "signInNow": "Iniciar Sesión",
+    "passwordsMustMatch": "Las contraseñas deben coincidir",
+    "passwordMinLength": "La contraseña debe tener al menos 4 caracteres"
   },
   "errors": {
     "usernameRequired": "El nombre de usuario es obligatorio",
@@ -134,7 +155,9 @@
     "passwordsDoNotMatch": "Las contraseñas no coinciden",
     "usernameTooShort": "El nombre de usuario debe tener al menos 3 caracteres",
     "passwordTooShort": "La contraseña debe tener al menos 4 caracteres",
-    "usernameTaken": "El nombre de usuario ya está en uso"
+    "usernameTaken": "El nombre de usuario ya está en uso",
+    "generic": "Ocurrió un error. Inténtalo de nuevo.",
+    "invalidOrExpiredResetLink": "Enlace de restablecimiento inválido o expirado"
   },
   "dashboard": {
     "recentChunks": "Chunks Recientes",

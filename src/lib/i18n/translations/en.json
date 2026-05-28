@@ -100,11 +100,11 @@
   },
   "captcha": {
     "solveToContinue": "Complete the verification to continue",
-    "oneMoreStep": "One more step to verify",
-    "slideToUnlock": "Slide to unlock",
-    "backToMath": "Back to math verification",
     "incorrectAnswer": "Incorrect answer, try again",
-    "mathVerification": "Math Verification"
+    "typeAnswer": "Type your answer",
+    "verify": "Verify",
+    "verified": "Verified",
+    "newChallenge": "Get a new problem"
   },
   "auth": {
     "welcomeBack": "Welcome Back",
@@ -123,7 +123,28 @@
     "dontHaveAccount": "Don't have an account?",
     "alreadyHaveAccount": "Already have an account?",
     "signInLink": "Sign in",
-    "registerLink": "Register"
+    "registerLink": "Register",
+    "forgotPassword": "Forgot password?",
+    "forgotPasswordTitle": "Reset Password",
+    "forgotPasswordDesc": "Enter your email to receive a reset link",
+    "email": "Email",
+    "emailOptional": "Email (optional)",
+    "sendResetLink": "Send Reset Link",
+    "sendingResetLink": "Sending...",
+    "checkYourEmail": "Check Your Email",
+    "checkYourEmailDesc": "If an account exists with that email, we sent a reset link. It expires in 30 minutes.",
+    "backToLogin": "Back to login",
+    "resetPasswordTitle": "Set New Password",
+    "resetPasswordDesc": "Enter your new password below",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "resetPassword": "Reset Password",
+    "resettingPassword": "Resetting...",
+    "passwordResetSuccess": "Password Reset Successfully",
+    "passwordResetSuccessDesc": "Your password has been updated. You can now sign in.",
+    "signInNow": "Sign In Now",
+    "passwordsMustMatch": "Passwords must match",
+    "passwordMinLength": "Password must be at least 4 characters"
   },
   "errors": {
     "usernameRequired": "Username is required",
@@ -134,7 +155,9 @@
     "passwordsDoNotMatch": "Passwords do not match",
     "usernameTooShort": "Username must be at least 3 characters",
     "passwordTooShort": "Password must be at least 4 characters",
-    "usernameTaken": "Username already taken"
+    "usernameTaken": "Username already taken",
+    "generic": "An error occurred. Please try again.",
+    "invalidOrExpiredResetLink": "Invalid or expired reset link"
   },
   "dashboard": {
     "recentChunks": "Recent Chunks",

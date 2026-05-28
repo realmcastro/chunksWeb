@@ -48,18 +48,39 @@ function isSameOrigin(request: NextRequest): boolean {
 }
 
 export function middleware(request: NextRequest) {
-  if (!MUTATION_METHODS.has(request.method)) return NextResponse.next();
-  if (!request.nextUrl.pathname.startsWith('/api/')) return NextResponse.next();
-
-  const fetchSite = request.headers.get('sec-fetch-site');
-  if (fetchSite) {
-    return SAFE_SITE_VALUES.has(fetchSite) ? NextResponse.next() : rejectCsrf();
+  // CSRF check for API mutation routes
+  if (MUTATION_METHODS.has(request.method) && request.nextUrl.pathname.startsWith('/api/')) {
+    const fetchSite = request.headers.get('sec-fetch-site');
+    if (fetchSite) {
+      if (!SAFE_SITE_VALUES.has(fetchSite)) return rejectCsrf();
+    } else if (!isSameOrigin(request)) {
+      return rejectCsrf();
+    }
   }
 
-  // Legacy browser fallback.
-  return isSameOrigin(request) ? NextResponse.next() : rejectCsrf();
+  /*
+  ! CSP nonce: 128-bit random per request. Injected into x-nonce header
+  ! for Next.js to consume in script tags. When CSP moves from Report-Only
+  ! to enforced, add 'nonce-{value}' to script-src directive dynamically.
+  */
+  const nonce = Buffer.from(crypto.randomUUID()).toString('base64');
+  const response = NextResponse.next({
+    request: {
+      headers: new Headers(request.headers),
+    },
+  });
+  response.headers.set('x-nonce', nonce);
+
+  return response;
 }
 
 export const config = {
-  matcher: ['/api/:path*'],
+  matcher: [
+    /*
+     * Match all request paths except static files and images.
+     * _next/static = bundled assets, _next/image = optimized images,
+     * favicon.ico / icons / sw.js / manifest.json = PWA assets.
+     */
+    '/((?!_next/static|_next/image|favicon\\.ico|icons/|sw\\.js|manifest\\.json|workbox-.*\\.js).*)',
+  ],
 };

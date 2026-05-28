@@ -3,6 +3,7 @@ prioridade: 14
 categoria: security,compliance
 esforco: 1 dia
 risco: medio
+status: concluido
 ---
 
 # Account deletion + GDPR data export

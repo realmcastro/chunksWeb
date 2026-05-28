@@ -1,86 +1,113 @@
 'use client';
 
-import { useState, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
+import { useTranslation } from '@/lib/i18n/I18nProvider';
+
+interface CaptchaData {
+  captchaId: string;
+  captchaAnswer: number;
+}
 
 interface MathCaptchaProps {
-  onSuccess: () => void;
-  onFail?: () => void;
+  onSolved: (data: CaptchaData) => void;
 }
 
 /*
-? Math CAPTCHA generates random math problems (1-20) with +, -, × operations.
-? User must type correct answer to pass. Regenerates on failure.
+! Server-verified math CAPTCHA. Fetches challenge from /api/auth/captcha/challenge,
+! user types answer, parent receives { captchaId, captchaAnswer } to include
+! in the auth request. Server validates — client never sees the correct answer.
 */
-export function MathCaptcha({ onSuccess, onFail }: MathCaptchaProps) {
-  const [problem, setProblem] = useState(() => generateProblem());
+export function MathCaptcha({ onSolved }: MathCaptchaProps) {
+  const { t } = useTranslation();
+  const [expression, setExpression] = useState('');
+  const [challengeId, setChallengeId] = useState('');
   const [answer, setAnswer] = useState('');
   const [error, setError] = useState(false);
+  const [loading, setLoading] = useState(true);
 
-  function generateProblem() {
-    const num1 = Math.floor(Math.random() * 20) + 1;
-    const num2 = Math.floor(Math.random() * 20) + 1;
-    const operations = ['+', '-', '×'];
-    const op = operations[Math.floor(Math.random() * operations.length)];
-
-    let a = num1;
-    let b = num2;
-    let result: number;
-
-    if (op === '+') {
-      result = a + b;
-    } else if (op === '-') {
-      if (a < b) [a, b] = [b, a];
-      result = a - b;
-    } else {
-      b = Math.floor(Math.random() * 10) + 1;
-      result = a * b;
+  const fetchChallenge = useCallback(async () => {
+    setLoading(true);
+    setAnswer('');
+    setError(false);
+    try {
+      const res = await fetch('/api/auth/captcha/challenge');
+      const data = await res.json();
+      setChallengeId(data.challengeId);
+      setExpression(data.expression);
+    } catch {
+      setExpression('? + ?');
+    } finally {
+      setLoading(false);
     }
+  }, []);
 
-    return { a, b, op, answer: result.toString() };
-  }
+  useEffect(() => {
+    fetchChallenge();
+  }, [fetchChallenge]);
 
   const handleSubmit = useCallback(
     (e: React.FormEvent) => {
       e.preventDefault();
-      if (answer.trim() === problem.answer) {
-        onSuccess();
-      } else {
+      const numAnswer = parseInt(answer.trim(), 10);
+      if (isNaN(numAnswer)) {
         setError(true);
-        setProblem(generateProblem());
-        setAnswer('');
-        onFail?.();
         setTimeout(() => setError(false), 500);
+        return;
       }
+      onSolved({ captchaId: challengeId, captchaAnswer: numAnswer });
     },
-    [answer, problem, onSuccess, onFail],
+    [answer, challengeId, onSolved],
   );
+
+  if (loading) {
+    return (
+      <div className="text-center text-sm text-muted-foreground py-4">
+        Loading...
+      </div>
+    );
+  }
 
   return (
     <form onSubmit={handleSubmit} className="space-y-3">
       <div className="text-center">
-        <span className="text-lg font-medium">
-          What is {problem.a} {problem.op} {problem.b}?
-        </span>
+        <label htmlFor="captcha-answer" className="text-lg font-medium">
+          {expression} = ?
+        </label>
       </div>
       <div className="flex gap-2">
         <input
+          id="captcha-answer"
           type="text"
+          inputMode="numeric"
           value={answer}
           onChange={(e) => setAnswer(e.target.value)}
-          placeholder="Type your answer"
+          placeholder={t('captcha.typeAnswer') ?? 'Type your answer'}
           className={`flex-1 px-3 py-2 border rounded-md text-center text-lg ${
-            error ? 'border-red-500 bg-red-50' : 'border-input'
+            error ? 'border-red-500 bg-red-50 dark:bg-red-950' : 'border-input'
           }`}
           autoFocus
+          autoComplete="off"
+          aria-label={`What is ${expression}?`}
         />
         <button
           type="submit"
           className="px-4 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90"
         >
-          Verify
+          {t('captcha.verify') ?? 'Verify'}
         </button>
       </div>
-      {error && <p className="text-red-500 text-sm text-center">Incorrect answer, try again</p>}
+      {error && (
+        <p className="text-red-500 text-sm text-center" role="alert">
+          {t('captcha.incorrectAnswer')}
+        </p>
+      )}
+      <button
+        type="button"
+        onClick={fetchChallenge}
+        className="w-full text-xs text-muted-foreground hover:text-foreground"
+      >
+        {t('captcha.newChallenge') ?? 'Get a new problem'}
+      </button>
     </form>
   );
 }

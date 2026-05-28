@@ -3,6 +3,7 @@ prioridade: 12
 categoria: security
 esforco: 4h
 risco: medio
+status: concluido
 ---
 
 # HTTP security headers (CSP, HSTS, X-Frame-Options)

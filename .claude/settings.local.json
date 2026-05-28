@@ -94,7 +94,8 @@
       "Bash(npm pkg *)",
       "Bash(npm uninstall *)",
       "Bash(grep -E \"src\\\\\\\\\\\\\\\\\")",
-      "Bash(rtk vitest *)"
+      "Bash(rtk vitest *)",
+      "Bash(grep -E '\\\\.\\(tsx|ts\\)$')"
     ],
     "additionalDirectories": [
       "C:\\Users\\mathe\\.config"
