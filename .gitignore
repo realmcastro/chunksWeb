@@ -43,6 +43,11 @@ next-env.d.ts
 coverage/
 .nyc_output/
 
+# SQLite transient files (WAL/SHM)
+*.db-wal
+*.db-shm
+*.db-journal
+
 # PWA generated
 public/sw.js
 public/workbox-*.js
