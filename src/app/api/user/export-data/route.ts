@@ -28,7 +28,7 @@ export async function GET(request: Request) {
       status: 200,
       headers: {
         'Content-Type': 'application/json',
-        'Content-Disposition': `attachment; filename="chunksweb-data-export-${userId}.json"`,
+        'Content-Disposition': `attachment; filename="olifes-data-export-${userId}.json"`,
       },
     });
   } catch (error) {

@@ -176,7 +176,7 @@ function VoiceSettingsSection() {
     } finally {
       setSaving(false);
     }
-  }, [rate, pitch, wordGap, voiceByLang, voices, selectedVoiceURI]);
+  }, [rate, pitch, wordGap, voiceByLang, voices]);
 
   const preview = useCallback(() => {
     if (!window.speechSynthesis) return;
@@ -513,7 +513,7 @@ export default function SettingsPage() {
         </div>
         <div className="p-4 space-y-2 text-sm text-muted-foreground">
           <p>
-            <strong>ChunksWeb</strong> v1.0.0
+            <strong>OLife&apos;S</strong> v1.0.0
           </p>
           <p>{t('settings.aboutDescription')}</p>
           <p>{t('settings.builtWith')}</p>

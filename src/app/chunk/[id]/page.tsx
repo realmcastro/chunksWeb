@@ -18,13 +18,13 @@ interface ChunkDetailPageProps {
 
 export async function generateMetadata({ params }: ChunkDetailPageProps): Promise<Metadata> {
   const id = parseInt(params.id);
-  if (isNaN(id)) return { title: 'Chunk Not Found - ChunksWeb' };
+  if (isNaN(id)) return { title: "Chunk Not Found - OLife'S" };
 
   const chunk = getChunkById(id);
-  if (!chunk) return { title: 'Chunk Not Found - ChunksWeb' };
+  if (!chunk) return { title: "Chunk Not Found - OLife'S" };
 
   return {
-    title: `${chunk.chunk_text} - ChunksWeb`,
+    title: `${chunk.chunk_text} - OLife'S`,
     description: chunk.meaning,
   };
 }

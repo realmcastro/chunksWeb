@@ -67,7 +67,7 @@ Core Platform
 - [x] Busca retorna resultados de todos os módulos (`search_index` FTS5, `GET /api/search`)
 - [x] Novo módulo adicionável sem alterar módulos existentes — `study_domains` + `registerTag()` + `registerCommand()`
 - [x] Tracking funciona para qualquer seção via hooks genéricos — event bus + `domain_events` table
-- [ ] Novo nome OLife'S — pendente (branding/renaming fora do escopo técnico desta task)
+- [x] Novo nome OLife'S — concluído (renaming completo: UI, metadata, PWA, IndexedDB, localStorage, exports)
 
 ## Anti-padrão a evitar
 

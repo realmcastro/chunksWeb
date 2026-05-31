@@ -12,7 +12,7 @@ import { createContext, useContext, useState, useCallback, useEffect, ReactNode 
 type LearningLanguage = 'en' | 'pt' | 'es' | 'fr' | 'de';
 
 const VALID_LANGUAGES: ReadonlySet<string> = new Set(['en', 'pt', 'es', 'fr']);
-const STORAGE_KEY = 'chunks_web_learning_language';
+const STORAGE_KEY = 'olifes_learning_language';
 
 function isValidLanguage(val: string | null): val is LearningLanguage {
   return val !== null && VALID_LANGUAGES.has(val);

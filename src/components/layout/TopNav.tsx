@@ -151,7 +151,7 @@ export function TopNav() {
                 <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
                   <BookOpen className="h-5 w-5" />
                 </div>
-                <span className="text-lg font-bold hidden sm:block">ChunksWeb</span>
+                <span className="text-lg font-bold hidden sm:block">OLife'S</span>
               </Link>
 
               {/* Desktop Navigation */}
@@ -300,7 +300,7 @@ export function TopNav() {
                 <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
                   <BookOpen className="h-4 w-4" />
                 </div>
-                <span className="font-bold">ChunksWeb</span>
+                <span className="font-bold">OLife'S</span>
               </Link>
               <button
                 className="p-2 rounded-md hover:bg-accent"

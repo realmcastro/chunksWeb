@@ -9,14 +9,14 @@ import { ErrorBoundary } from '@/components/ErrorBoundary';
 import { ToastProvider } from '@/components/providers/ToastProvider';
 
 export const metadata: Metadata = {
-  title: 'ChunksWeb - English Fluency Learning',
+  title: "OLife'S - Maping Life",
   description:
     'Master English through chunk-based learning, structured grammar progression, and scientifically optimized review.',
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'ChunksWeb',
+    title: "OLife'S",
   },
 };
 

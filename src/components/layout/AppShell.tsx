@@ -92,7 +92,7 @@ export function AppShell({ children }: AppShellProps) {
           >
             <Menu className="h-5 w-5" />
           </button>
-          <span className="font-bold text-sm">ChunksWeb</span>
+          <span className="font-bold text-sm">OLife'S</span>
         </header>
 
         {/* Main content — extra bottom padding on mobile to clear the bottom nav */}

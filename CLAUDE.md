@@ -2,235 +2,303 @@
 
 ## Project Overview
 
-**ChunksWeb** — offline-first PWA for English fluency via chunk-based learning + SM-2 spaced repetition.
-Stack: Next.js 14 (App Router), TypeScript strict, Tailwind CSS, SQLite (better-sqlite3), React Context, Dexie.js.
+**OLife'S** (formerly ChunksWeb) — offline-first personal LifeOS focused on learning, knowledge management, productivity tracking and self-organization.
 
-## Commands
+Originally built for English fluency via chunk-based learning + SM-2 spaced repetition, the system evolved into a modular personal platform for:
 
-```bash
-npm run dev        # Dev server port 3000 (PWA disabled)
-npm run build      # Production build
-npm run lint       # ESLint
+- Language learning
+- Programming and abstract study
+- Reading (PDF/EPUB/MOBI/TXT)
+- Daily journal and planning
+- Personal analytics and behavior tracking
+- Knowledge management
+
+Primary goal: optimize Matheus' personal workflow, study, memory, and organization through a cohesive offline-first system.
+
+Stack:
+
+- Next.js 14 (App Router)
+- TypeScript strict
+- Tailwind CSS
+- SQLite (`better-sqlite3`)
+- React Context
+- Zustand
+- Dexie.js
+- PWA (offline-first)
+
+---
+
+## Architectural Principles
+
+The system is **single-user**, **personal-first**, and **offline-first**.
+
+Architectural decisions prioritize:
+
+1. Fast iteration speed
+2. Low operational complexity
+3. High personal utility
+4. Explicit contracts and predictable behavior
+5. Strong modular boundaries
+6. Data consistency
+7. Searchability and observability
+
+Tradeoffs intentionally accepted:
+
+- Some redundancy over premature abstraction
+- Local-first persistence over cloud complexity
+- Pragmatic architecture over enterprise ceremony
+- Low-scale optimization over hyperscale assumptions
+
+Avoid enterprise overengineering.
+
+---
+
+## Domain Model Direction
+
+The system is **not an English-learning app anymore**.
+
+It is a modular LifeOS composed of domains.
+
+Example domains:
+
+- Study
+- Reading
+- Journal
+- Planning
+- Analytics
+- Knowledge
+
+English learning is one specialization of the Study domain.
+
+Never hardcode domain assumptions around language learning.
+
+Bad:
+
+```ts
+languageId;
+speakingSession;
 ```
 
-No test suite configured. No CI/CD pipeline.
+Prefer:
 
-## Architecture
+```ts
+topicId;
+studySession;
+studyDomain;
+```
+
+---
+
+## Core Architecture
 
 ### Database
 
-- **Direct SQLite via better-sqlite3** — query layer in `src/lib/db/sqlite.ts` (~900+ lines synchronous `.prepare().get()/.all()`). Prisma fully removed (see ADR-006).
-- DB file: `chunks_v1.db` at repo root (committed, pre-populated).
-- Default `userId = 1` for unauthenticated/global stats.
+- Direct SQLite via `better-sqlite3`
+- Synchronous query layer in `src/lib/db/sqlite.ts`
+- DB file: `chunks_v1.db`
+- SQLite is source of truth
+
+Primary design principles:
+
+- Explicit queries
+- No ORM
+- No `SELECT *`
+- Avoid hidden abstractions
+- Separate metadata from heavy payloads (`BLOB`, large JSON)
+
+Binary assets (books, covers, exported data) may be stored as `BLOB` when operational simplicity outweighs filesystem complexity.
+
+---
+
+### Event-Oriented Design
+
+The platform uses lightweight event-oriented modeling.
+
+Important user actions should be representable as events.
+
+Examples:
+
+```ts
+study.session.completed;
+reading.progress.updated;
+journal.entry.created;
+goal.completed;
+```
+
+Purpose:
+
+- Analytics
+- Timeline/history
+- Metrics
+- Streaks
+- Contextual intelligence
+- Future automation
+
+Avoid coupling analytics directly to feature tables.
+
+---
 
 ### API Routes
 
-All under `src/app/api/`. Pattern:
+All routes under `src/app/api/`.
 
-```typescript
+Pattern:
+
+```ts
 export async function POST(request: Request) {
   const userId = await getUserIdFromCookie();
-  if (!userId) return NextResponse.json({ error: 'Not authenticated' }, { status: 401 });
-  // direct SQLite calls → JSON response
+
+  if (!userId) {
+    return NextResponse.json({ error: 'Not authenticated' }, { status: 401 });
+  }
+
+  // validate input
+  // explicit SQLite query
+  // JSON response
 }
 ```
 
-See `src/app/api/CLAUDE.md` for full API conventions.
+Rules:
 
-### Core Algorithm
+- Zod validation mandatory
+- Explicit DTOs
+- No direct DB access in components
+- No fetch inside client components
+- Auth required unless explicitly public
 
-`src/lib/spaced-repetition/sm2.ts` — SM-2, quality 0–5. ≥3 = correct. Intervals: 1d → 6d → easeFactor × interval. Min ease: 1.3.
+---
 
-### Study Flow
+### State Management Priority
 
-1. Session via `/api/learn/start` or `/api/review/due`
-2. Items from `user_progress` table (SM-2 state)
-3. Submit at `/api/review/submit` → SM-2 update
+Use highest applicable level.
 
-### Pronunciation Subsystem
+1. Server State
+2. URL State
+3. Component State (`useState`, `useReducer`)
+4. Zustand (cross-component client state)
+5. React Context (low-frequency state only)
 
-`src/lib/pronunciation/` — engines (TTS, IPA, G2P), hooks, services, storage (IndexedDB).
+Context API is not global state.
 
-### i18n
+Current valid use cases:
 
-`src/lib/i18n/` — runtime switching (EN, PT, ES, FR) via `I18nProvider`. Large JSON translation files (~10K+ keys).
+- Auth
+- Theme
+- I18n
+- Session/UI preferences
 
-### State Management
+---
 
-Priority order (use highest applicable):
+### Search-First Architecture
 
-1. **Server State** — API routes, RSC data fetching
-2. **URL State** — searchParams, pathname
-3. **Component State** — useState/useReducer
-4. **Zustand** — cross-component client state
-5. **React Context** — theme, auth, i18n (low-frequency updates only)
+Every domain should be designed assuming future global search.
 
-Context API is NOT a global state manager. Currently used for: AuthProvider, I18nProvider, ThemeProvider, LearningLanguageProvider.
+Example:
 
-## Mandatory Conventions
+Search for `redis` should eventually surface:
 
-### Naming
+- Journal notes
+- Study content
+- Reading highlights
+- Goals
+- Historical sessions
 
-| Element | Convention | Example |
-|---------|-----------|---------|
-| Components | PascalCase | `ChunkCard`, `ReviewSession` |
-| Functions | camelCase | `getUserProgress`, `calculateInterval` |
-| Constants | UPPER_SNAKE_CASE | `MAX_RETRY_COUNT`, `DEFAULT_EASE_FACTOR` |
-| Types/Interfaces | PascalCase | `FormattedChunk`, `ProgressStats` |
-| Files (components) | PascalCase | `ChunkCard.tsx` |
-| Files (utilities) | camelCase | `cn.ts`, `session.ts` |
+Avoid siloed data structures that block future indexing.
 
-### Typing
+---
 
-- Explicit types always. Never `any` without formal justification.
-- No unsafe casts. No `unknown` without refinement.
-- No ambiguous inference at function boundaries.
+### Tracking Philosophy
 
-### Comments
+System-wide analytics are expected.
 
-Only for: contracts, invariants, risks, limitations, architectural decisions, non-obvious behavior.
+Metrics include:
 
-```typescript
-/*
-! Invariantes, contratos, pré-condições, decisões críticas e riscos.
-? Descrição técnica relevante que não seja óbvia pelo nome.
+- Gross time (app open)
+- Net time (activity-based)
+- Session tracking
+- Module usage
+- Study consistency
+- Reading progress
+- Behavioral analytics
 
-Contexto de negócio ou propósito arquitetural.
-*/
-```
+Inactive tabs must not count as active time.
 
-NEVER: decorative comments, line-by-line explanations, section markers ("Step 1", "Step 2").
-
-When touching files with uncommented functions, add comments to reduce legacy debt.
-
-### Component Rules
-
-**Server Components** must:
-
-- Fetch data, validate auth, control cache/revalidation, compose layout
-- Never use browser APIs, interactivity, or complex visual logic
-
-**Client Components** must:
-
-- Control interaction, visual state, animations, UX
-- Never access APIs directly, contain business logic, persistence, or heavy transforms
-
-### Hook Rules
-
-- Single responsibility, single context, predictable behavior
-- Prohibited: multifunctional hooks, hooks spanning multiple domains
-- If a hook does fetch + transform + cache + analytics + navigation → architecturally broken
-
-### API Integration Rules
-
-All external integrations must have:
-
-- Explicit DTO + Zod schema validation
-- Mapper/adapter for normalization
-- Timeout + retry policy
-- Typed error handling
-- Structured logs
-
-Never `fetch` directly in components.
-
-### Security
-
-Required:
-
-- Input sanitization + Zod validation at all API boundaries
-- httpOnly cookies for auth (current: 7-day session)
-- Server/client boundary: never expose secrets client-side
-- Never trust frontend-only validation
-
-Prohibited:
-
-- Tokens in localStorage
-- Env vars accessed outside config layer
-- Generic error responses leaking internal state
-
-### Performance
-
-Every implementation must consider:
-
-- SSR/streaming/hydration safety
-- Lazy loading + bundle splitting
-- Render minimization + selective memoization
-- Predictable caching
-- Image/font optimization
+---
 
 ## Feature Structure (Target)
 
-New features follow this structure:
-
-```
+```txt
 src/features/{feature-name}/
-├── application/     # Use cases, orchestration
-├── domain/          # Business logic, types, validation
-├── infrastructure/  # External integrations, data access
-├── presentation/    # Components, hooks, UI
-└── tests/           # Feature-specific tests
+├── application/
+├── domain/
+├── infrastructure/
+├── presentation/
+└── tests/
 ```
 
-No feature may access internals of another feature. Communication via explicit contracts only.
+Rules:
+
+- Explicit contracts only
+- No feature accessing another feature internals
+- Communication through application/domain boundaries
+
+Feature modules should map to domains:
+
+```txt
+study/
+reading/
+journal/
+analytics/
+planning/
+knowledge/
+```
+
+---
 
 ## Code Quality Gates
 
 Before implementation:
 
-- Declare assumptions, risks, invariants, contracts
-- Identify trade-offs and architectural impact
-- Expose ambiguity before coding
+- Declare assumptions
+- Declare invariants
+- Declare tradeoffs
+- Expose ambiguity
+- Explain architectural impact
 
-Refuse:
+Reject:
 
-- Multiple responsibilities in single function
-- Generic error handling without context
-- Duplicated logic
-- Implicit language behavior dependency
-- Unnecessary complexity or tight coupling
+- Multiple responsibilities
+- Hidden coupling
+- Implicit behavior
+- Generic errors
+- Overengineering
+- Premature abstraction
 
-If proposed solution is superficial, insecure, or poorly structured → critique technically before implementing.
+Prefer simple, explicit, evolvable systems.
+
+---
 
 ## Key Files
 
-| File | Purpose |
-|------|---------|
-| `src/lib/db/sqlite.ts` | Database query layer |
-| `src/lib/spaced-repetition/sm2.ts` | SM-2 algorithm |
-| `src/app/api/review/submit/route.ts` | Review submission + SM-2 |
-| `src/app/layout.tsx` | Root layout + providers |
-| `src/app/progress/page.tsx` | Analytics dashboard |
-| `src/types/index.ts` | Shared TypeScript interfaces |
-| `src/app/globals.css` | CSS variables + dark mode |
-| `src/lib/auth/session.ts` | Cookie session management |
+| File                               | Purpose                 |
+| ---------------------------------- | ----------------------- |
+| `src/lib/db/sqlite.ts`             | SQLite query layer      |
+| `src/lib/spaced-repetition/sm2.ts` | SM-2 engine             |
+| `src/lib/auth/session.ts`          | Session management      |
+| `src/app/layout.tsx`               | Providers and app shell |
+| `src/app/progress/page.tsx`        | Analytics dashboard     |
+| `src/lib/i18n/`                    | Internationalization    |
+| `src/lib/pronunciation/`           | Pronunciation subsystem |
+| `src/features/`                    | Domain modules          |
 
-## Path Alias
+---
 
-`@/` → `src/` (tsconfig.json)
+## Mental Model
 
-## Dark Mode
+Think:
 
-CSS custom properties in `globals.css`, Tailwind `darkMode: 'class'`. Backgrounds: `#fafafa` (light) / `#0a0a0a` (dark).
+**Personal modular LifeOS**
 
-## Pagination
+Not:
 
-Offset-based, default limit 20.
-
-## Agent Auto-Routing
-
-When Matheus describes a task, automatically select the most relevant agent from `.claude/agents/registry.md` without asking. Apply that agent's enforced rules throughout execution. Only mention the agent selection if it's genuinely ambiguous.
-
-Routing: match task keywords → select agent → enforce agent's rules → execute.
-
-Security-auditor has veto power over all agents. Multi-domain tasks: primary agent leads, others validate their domain.
-
-See `.claude/agents/registry.md` for full routing table and keyword matching.
-
-## Architecture Reference
-
-See `docs/architecture/` for:
-
-- ADRs (Architecture Decision Records)
-- Patterns and conventions deep-dive
-- Monorepo migration roadmap
-- Component and API pattern guides
+**English-learning SaaS**

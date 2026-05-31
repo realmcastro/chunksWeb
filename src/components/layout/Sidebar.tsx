@@ -271,7 +271,7 @@ export function Sidebar({ collapsed, onCollapse, mobileOpen, onMobileClose }: Si
             <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <BookOpen className="h-4 w-4" />
             </div>
-            {!collapsed && <span className="font-bold text-sm truncate">ChunksWeb</span>}
+            {!collapsed && <span className="font-bold text-sm truncate">OLife'S</span>}
           </Link>
 
           {/* Collapse toggle — only in header when expanded */}

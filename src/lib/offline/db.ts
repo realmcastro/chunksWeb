@@ -39,14 +39,14 @@ export interface QueuedMutationRow {
   attempts: number;
 }
 
-class ChunksWebOfflineDB extends Dexie {
+class OLifeSOfflineDB extends Dexie {
   chunks!: Table<CachedChunkRow, number>;
   categories!: Table<CachedCategoryRow, number>;
   lists!: Table<CachedListRow, string>;
   mutationQueue!: Table<QueuedMutationRow, number>;
 
   constructor() {
-    super('chunksweb-offline');
+    super('olifes-offline');
     this.version(1).stores({
       chunks: 'id, language, cached_at',
       categories: 'id, cached_at',
@@ -56,11 +56,11 @@ class ChunksWebOfflineDB extends Dexie {
   }
 }
 
-let instance: ChunksWebOfflineDB | null = null;
+let instance: OLifeSOfflineDB | null = null;
 
-export function getOfflineDB(): ChunksWebOfflineDB | null {
+export function getOfflineDB(): OLifeSOfflineDB | null {
   if (typeof window === 'undefined') return null;
-  if (!instance) instance = new ChunksWebOfflineDB();
+  if (!instance) instance = new OLifeSOfflineDB();
   return instance;
 }
 

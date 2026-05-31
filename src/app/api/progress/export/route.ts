@@ -60,7 +60,7 @@ export async function GET(request: Request) {
         status: 200,
         headers: {
           'Content-Type': 'text/csv; charset=utf-8',
-          'Content-Disposition': 'attachment; filename="chunksweb-progress.csv"',
+          'Content-Disposition': 'attachment; filename="olifes-progress.csv"',
         },
       });
     }
@@ -68,7 +68,7 @@ export async function GET(request: Request) {
       status: 200,
       headers: {
         'Content-Type': 'application/json; charset=utf-8',
-        'Content-Disposition': 'attachment; filename="chunksweb-progress.json"',
+        'Content-Disposition': 'attachment; filename="olifes-progress.json"',
       },
     });
   } catch (error) {
