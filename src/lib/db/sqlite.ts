@@ -1947,19 +1947,15 @@ export function initPasswordResetTokensTable(): void {
 ? Create a new user with hashed password
 */
 export function createUser(username: string, passwordHash: string, email?: string): User | null {
-  try {
-    const stmt = db.prepare(`
-      INSERT INTO users (username, password_hash, email, created_at)
-      VALUES (?, ?, ?, ?)
-    `);
-    const now = Math.floor(Date.now() / 1000);
-    const result = stmt.run(username, passwordHash, email ?? null, now);
+  const stmt = db.prepare(`
+    INSERT INTO users (username, password_hash, email, created_at)
+    VALUES (?, ?, ?, ?)
+  `);
+  const now = Math.floor(Date.now() / 1000);
+  const result = stmt.run(username, passwordHash, email ?? null, now);
 
-    const getStmt = db.prepare('SELECT * FROM users WHERE id = ?');
-    return getStmt.get(result.lastInsertRowid) as User;
-  } catch {
-    return null;
-  }
+  const getStmt = db.prepare('SELECT * FROM users WHERE id = ?');
+  return getStmt.get(result.lastInsertRowid) as User;
 }
 
 /*

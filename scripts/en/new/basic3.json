@@ -1,0 +1,502 @@
+{
+  "modal_and_functional_structures": [
+    {
+      "id": 1,
+      "structure": "Can for ability (present)",
+      "core_meaning": "Present ability, skill.",
+      "primary_communicative_function": "Talking about what you can do.",
+      "when_to_use": "General ability, with verbs of skill.",
+      "pattern": "[Subject] + can + [base verb]",
+      "key_variations": "Negative can't; question can you?",
+      "essential_vocabulary_slots": "Skill verbs.",
+      "common_learner_mistakes": "Adding to, third person -s.",
+      "chunk_compatibility": "\"I can drive.\", \"Can you swim?\", \"She can't cook.\"",
+      "examples": [
+        "I can play the guitar.",
+        "Can he speak Spanish?",
+        "She can't see without glasses."
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "Can for permission (informal)",
+      "core_meaning": "Asking/granting permission.",
+      "primary_communicative_function": "Informal requests.",
+      "when_to_use": "Among friends, children, casual settings.",
+      "pattern": "Can I/we + [base verb]?",
+      "key_variations": "Can you... for requests; Yes, you can. / No, you can't.",
+      "essential_vocabulary_slots": "Activity verbs (borrow, use, open).",
+      "common_learner_mistakes": "Using may in casual speech (sounding too formal), can to go? word order.",
+      "chunk_compatibility": "\"Can I open the window?\", \"Can I use your charger?\"",
+      "examples": ["Can I go out tonight?", "Can we sit here?", "You can take my pen."]
+    },
+    {
+      "id": 3,
+      "structure": "Could for past ability",
+      "core_meaning": "Past general ability.",
+      "primary_communicative_function": "Talking about skills in the past.",
+      "when_to_use": "With ability in the past (not a single event, that's managed to).",
+      "pattern": "[Subject] + could + [base verb]",
+      "key_variations": "Negative couldn't; question Could you...? for past.",
+      "essential_vocabulary_slots": "Past skills (when I was young...).",
+      "common_learner_mistakes": "Using could for one specific event (I could escape -> I managed to escape).",
+      "chunk_compatibility": "\"I could run fast when I was a kid.\", \"She couldn't swim until she was 10.\"",
+      "examples": [
+        "When I was five, I could already read.",
+        "He couldn't cook before he got married.",
+        "Could you speak English as a child?"
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "Could for polite request",
+      "core_meaning": "Polite request, more formal than can.",
+      "primary_communicative_function": "Making polite enquiries.",
+      "when_to_use": "With strangers, in service.",
+      "pattern": "Could you + [base verb]...?",
+      "key_variations": "Could I...? for permission.",
+      "essential_vocabulary_slots": "Action verbs (help, tell, pass, repeat).",
+      "common_learner_mistakes": "Using can when you need to be polite, adding please at beginning only.",
+      "chunk_compatibility": "\"Could you help me?\", \"Could you say that again?\", \"Could I speak to ...?\"",
+      "examples": [
+        "Could you close the door, please?",
+        "Could you tell me the time?",
+        "Could I have a glass of water?"
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "May for permission (formal)",
+      "core_meaning": "Formal permission.",
+      "primary_communicative_function": "Very polite requests, official contexts.",
+      "when_to_use": "In formal meetings, letters, with authority.",
+      "pattern": "May I + [base verb]...?",
+      "key_variations": "May I ask...; You may (granting).",
+      "essential_vocabulary_slots": "Formal verbs.",
+      "common_learner_mistakes": "Using may in casual speech, confusing with might.",
+      "chunk_compatibility": "\"May I come in?\", \"May I have your attention, please?\", \"You may leave now.\"",
+      "examples": [
+        "May I use your restroom?",
+        "May I ask who is calling?",
+        "Students may not use phones in class."
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "Might for possibility",
+      "core_meaning": "Weak possibility, maybe.",
+      "primary_communicative_function": "Speculating about present/future.",
+      "when_to_use": "When you're unsure (small chance).",
+      "pattern": "[Subject] + might + [base verb]",
+      "key_variations": "might not; might be + -ing.",
+      "essential_vocabulary_slots": "Uncertainty expressions (I'm not sure, perhaps).",
+      "common_learner_mistakes": "Using may and might interchangeably with no nuance, though often okay.",
+      "chunk_compatibility": "\"I might go to the party.\", \"It might rain later.\", \"She might not come.\"",
+      "examples": [
+        "He might be in his office.",
+        "I might be late tomorrow.",
+        "We might not have enough time."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "Will for spontaneous decision",
+      "core_meaning": "Decision made at the moment of speaking.",
+      "primary_communicative_function": "Offering, deciding on the spot.",
+      "when_to_use": "I'll get it! I'll help you! (not planned).",
+      "pattern": "I'll + [base verb]",
+      "key_variations": "I think I'll...; shall I? (offer, British).",
+      "essential_vocabulary_slots": "Immediate action verbs (get, open, answer, help).",
+      "common_learner_mistakes": "Using going to for instant decisions.",
+      "chunk_compatibility": "\"I'll answer the phone.\", \"I'll have the fish, please.\", \"I'll carry that for you.\"",
+      "examples": [
+        "The doorbell's ringing. I'll get it.",
+        "It's cold. I'll close the window.",
+        "We're lost. I'll check the map."
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "Will for promise",
+      "core_meaning": "Making a promise, assurance.",
+      "primary_communicative_function": "Committing to future action.",
+      "when_to_use": "I will always love you, I'll be there.",
+      "pattern": "I promise (that) I will... / I'll + verb",
+      "key_variations": "I won't tell anyone. I'll make sure.",
+      "essential_vocabulary_slots": "Verbs of promise (call, help, never forget).",
+      "common_learner_mistakes": "Using present continuous for promise.",
+      "chunk_compatibility": "\"I'll call you tomorrow.\", \"I won't be late.\", \"I'll do my best.\"",
+      "examples": [
+        "I'll send you the pictures.",
+        "Don't worry, I won't forget.",
+        "I'll always be there for you."
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "Would for hypothetical",
+      "core_meaning": "Hypothetical situations, imagination.",
+      "primary_communicative_function": "Second conditional result, dreams.",
+      "when_to_use": "If I were..., I would.",
+      "pattern": "[Subject] + would + [base verb] (+ if...)",
+      "key_variations": "'d, wouldn't; would like (polite want).",
+      "essential_vocabulary_slots": "Imaginary actions.",
+      "common_learner_mistakes": "Using would in if-clause.",
+      "chunk_compatibility": "\"I'd travel if I had money.\", \"She wouldn't do that.\", \"What would you do?\"",
+      "examples": [
+        "I would live by the sea if I could.",
+        "He wouldn't understand.",
+        "Would you take the job?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Would you...? (polite offer/invitation)",
+      "core_meaning": "Polite offer, invitation.",
+      "primary_communicative_function": "Offering something elegantly.",
+      "when_to_use": "To offer drinks, invitations.",
+      "pattern": "Would you like + noun/to verb?; Would you + verb + ...?",
+      "key_variations": "Would you care for...?",
+      "essential_vocabulary_slots": "Drinks, food, activities.",
+      "common_learner_mistakes": "Using Do you want in formal.",
+      "chunk_compatibility": "\"Would you like some coffee?\", \"Would you like to dance?\", \"Would you join us?\"",
+      "examples": [
+        "Would you like a cup of tea?",
+        "Would you like to come to dinner?",
+        "Would you help me with this?"
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "Must for strong obligation (internal)",
+      "core_meaning": "Obligation from speaker, strong necessity.",
+      "primary_communicative_function": "Expressing personal imperative.",
+      "when_to_use": "I must remember, you must see this.",
+      "pattern": "[Subject] + must + [base verb]",
+      "key_variations": "Mustn't = prohibition.",
+      "essential_vocabulary_slots": "Important actions (remember, go, see, finish).",
+      "common_learner_mistakes": "Using must for past (had to), mustn't vs don't have to.",
+      "chunk_compatibility": "\"I must call my mom.\", \"You must try this cake.\", \"We mustn't be late.\"",
+      "examples": [
+        "You must be here by 8.",
+        "I must finish this report.",
+        "You mustn't tell anyone."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "Have to for external obligation",
+      "core_meaning": "Obligation from rules or situation.",
+      "primary_communicative_function": "Describing rules, duties.",
+      "when_to_use": "School, work, laws.",
+      "pattern": "[Subject] + have to/has to + [base verb]",
+      "key_variations": "Don't/doesn't have to = not necessary.",
+      "essential_vocabulary_slots": "Verbs of duty (wear, follow, work, attend).",
+      "common_learner_mistakes": "Using must for rules (both possible but have to more external).",
+      "chunk_compatibility": "\"I have to wear a uniform.\", \"Do you have to work weekends?\", \"She doesn't have to come.\"",
+      "examples": [
+        "You have to drive on the left in the UK.",
+        "He has to take medicine every day.",
+        "We don't have to stay until the end."
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "Mustn't vs don't have to",
+      "core_meaning": "Prohibition vs lack of obligation.",
+      "primary_communicative_function": "Telling what's forbidden and what's not required.",
+      "when_to_use": "Mustn't = it's not allowed; don't have to = you can if you want but not necessary.",
+      "pattern": "Mustn't + base verb; don't/doesn't have to + base verb.",
+      "key_variations": "Can't for prohibition (more common spoken).",
+      "essential_vocabulary_slots": "Rules vocabulary.",
+      "common_learner_mistakes": "Swapping meanings, e.g., You don't have to smoke here (meaning You mustn't).",
+      "chunk_compatibility": "\"You mustn't park here.\", \"You don't have to bring a gift.\", \"You mustn't use your phone.\"",
+      "examples": [
+        "You mustn't run by the pool. / You don't have to swim if you don't want to.",
+        "We mustn't be noisy. / We don't have to whisper.",
+        "You mustn't tell her. / You don't have to tell her."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "Should for advice",
+      "core_meaning": "Giving advice, opinion.",
+      "primary_communicative_function": "Recommending action.",
+      "when_to_use": "I think you should, maybe, perhaps.",
+      "pattern": "[Subject] + should + [base verb]",
+      "key_variations": "Shouldn't; Ought to (formal).",
+      "essential_vocabulary_slots": "Health, decisions, study.",
+      "common_learner_mistakes": "Adding to, using should in past without have (should went).",
+      "chunk_compatibility": "\"You should rest.\", \"I think we should leave.\", \"Should I call him?\"",
+      "examples": [
+        "You should see a doctor.",
+        "He shouldn't eat so much sugar.",
+        "What should I do?"
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "Had better (strong advice/warning)",
+      "core_meaning": "Strong advice, threat of negative consequence.",
+      "primary_communicative_function": "Urgent recommendation.",
+      "when_to_use": "When something bad may happen if you don't.",
+      "pattern": "[Subject] + had better ('d better) + [base verb]",
+      "key_variations": "better not; question rare.",
+      "essential_vocabulary_slots": "Urgent actions.",
+      "common_learner_mistakes": "Using to, using for general advice when should is enough.",
+      "chunk_compatibility": "\"You'd better hurry.\", \"We'd better not be late.\", \"I'd better go.\"",
+      "examples": [
+        "You'd better take an umbrella — it looks like rain.",
+        "I'd better not forget my passport.",
+        "He'd better apologize or she'll be upset."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "Need to (necessity)",
+      "core_meaning": "Necessity, requirement.",
+      "primary_communicative_function": "Saying something is necessary.",
+      "when_to_use": "More common than must/have to in informal.",
+      "pattern": "[Subject] + need to + [base verb]",
+      "key_variations": "don't need to = not necessary; needn't (formal); need + noun.",
+      "essential_vocabulary_slots": "Daily needs.",
+      "common_learner_mistakes": "Need + -ing? No, need + to base.",
+      "chunk_compatibility": "\"I need to buy some milk.\", \"Do you need to take a break?\", \"She needs to talk to you.\"",
+      "examples": [
+        "I need to go to the bathroom.",
+        "You don't need to bring anything.",
+        "He needs to get a job."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "Be able to (ability in various tenses)",
+      "core_meaning": "Manage to do, capability.",
+      "primary_communicative_function": "Express ability in forms where can is not possible (future, perfect).",
+      "when_to_use": "Will be able to, have been able to, used to be able to.",
+      "pattern": "be (am/is/are/was/were/will be) + able to + base verb",
+      "key_variations": "Not able to.",
+      "essential_vocabulary_slots": "Ability verbs.",
+      "common_learner_mistakes": "Using can for future (I will can), not knowing past single event (was able to manage to).",
+      "chunk_compatibility": "\"I've never been able to understand.\", \"Will you be able to come?\", \"She wasn't able to finish.\"",
+      "examples": [
+        "I hope to be able to travel soon.",
+        "He hasn't been able to sleep.",
+        "Were you able to get tickets?"
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "Be supposed to (expectation)",
+      "core_meaning": "What is expected according to rules, plans.",
+      "primary_communicative_function": "Saying what should happen (often negative: but it didn't).",
+      "when_to_use": "Rules, arrangements, commonly known duties.",
+      "pattern": "[Subject] + am/is/are supposed to + [base verb]",
+      "key_variations": "Was/were supposed to (unfulfilled past expectation).",
+      "essential_vocabulary_slots": "Scheduled events, responsibilities.",
+      "common_learner_mistakes": "Using supposed followed by infinitive without to, forgetting d (suppose to).",
+      "chunk_compatibility": "\"You're supposed to knock.\", \"It was supposed to rain.\", \"What are we supposed to do?\"",
+      "examples": [
+        "The train is supposed to arrive at 5.",
+        "You're not supposed to park here.",
+        "I was supposed to call her yesterday, but I forgot."
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "Be allowed to (permission)",
+      "core_meaning": "Having permission.",
+      "primary_communicative_function": "Saying what is permitted.",
+      "when_to_use": "In rules, when you can't use can/may for tenses.",
+      "pattern": "[Subject] + am/is/are/was/were allowed to + [base verb]",
+      "key_variations": "not allowed to (prohibition).",
+      "essential_vocabulary_slots": "Activities with rules.",
+      "common_learner_mistakes": "Using allowed to + -ing, missing be.",
+      "chunk_compatibility": "\"Are we allowed to take photos?\", \"We weren't allowed to enter.\", \"You're not allowed to smoke.\"",
+      "examples": [
+        "You're allowed to use a dictionary.",
+        "He wasn't allowed to go out.",
+        "Will we be allowed to film?"
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "Would rather (preference)",
+      "core_meaning": "Preference for one thing over another.",
+      "primary_communicative_function": "Expressing likes/dislikes with choices.",
+      "when_to_use": "I'd rather stay home; I'd rather you didn't.",
+      "pattern": "[Subject] + would rather ('d rather) + base verb (+ than) / + subject + past simple (other person preference)",
+      "key_variations": "I'd rather not; I'd rather you went.",
+      "essential_vocabulary_slots": "Activity choices.",
+      "common_learner_mistakes": "Using to base, past form wrongly when referring to other.",
+      "chunk_compatibility": "\"I'd rather walk.\", \"I'd rather not talk about it.\", \"She'd rather you called later.\"",
+      "examples": [
+        "I'd rather have tea than coffee.",
+        "He'd rather stay home tonight.",
+        "I'd rather you didn't smoke in here."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "Prefer + noun/verb-ing (general)",
+      "core_meaning": "General preference.",
+      "primary_communicative_function": "Stating what you like more.",
+      "when_to_use": "For habitual preferences.",
+      "pattern": "[Subject] + prefer + [noun / verb-ing] (+ to + noun/verb-ing)",
+      "key_variations": "Prefer something to something; prefer doing to doing.",
+      "essential_vocabulary_slots": "Categories, habits.",
+      "common_learner_mistakes": "Prefer... than (should be to), using to-infinitive after prefer.",
+      "chunk_compatibility": "\"I prefer coffee to tea.\", \"She prefers walking.\", \"Do you prefer driving or flying?\"",
+      "examples": [
+        "I prefer summer to winter.",
+        "He prefers watching TV to reading.",
+        "Most people prefer living in the city."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "Had better not",
+      "core_meaning": "Strong negative advice.",
+      "primary_communicative_function": "Warning not to do something.",
+      "when_to_use": "When consequences are serious.",
+      "pattern": "[Subject] + had better not + [base verb]",
+      "key_variations": "'d better not.",
+      "essential_vocabulary_slots": "Risky behaviors.",
+      "common_learner_mistakes": "Not + better? No, better not.",
+      "chunk_compatibility": "\"You'd better not be late.\", \"I'd better not forget my keys.\"",
+      "examples": [
+        "You'd better not tell her.",
+        "We'd better not miss the bus.",
+        "He'd better not eat that."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "it must / might / can't be (deduction)",
+      "core_meaning": "Logical deduction about present.",
+      "primary_communicative_function": "Guessing based on evidence.",
+      "when_to_use": "Must be (certain true), might be (possible), can't be (certain false).",
+      "pattern": "It + must/might/can't + be + [noun/adjective/verb-ing]",
+      "key_variations": "He must be tired, That can't be true.",
+      "essential_vocabulary_slots": "Adjectives, nouns.",
+      "common_learner_mistakes": "Using mustn't for deduction (mustn't is prohibition), confusing with can't.",
+      "chunk_compatibility": "\"You must be tired.\", \"That can't be right.\", \"He might be lost.\"",
+      "examples": ["She must be at work now.", "It can't be that hard.", "They might be sleeping."]
+    },
+    {
+      "id": 24,
+      "structure": "Let’s ... shall we? / Suggestions",
+      "core_meaning": "Suggesting activity with feedback.",
+      "primary_communicative_function": "Inclusive proposals.",
+      "when_to_use": "Informal group planning.",
+      "pattern": "Let's + base verb, shall we?",
+      "key_variations": "Why don't we + verb; How about + verb-ing; What about + noun.",
+      "essential_vocabulary_slots": "Group activities.",
+      "common_learner_mistakes": "Using let's with tag isn't it, wrong intonation.",
+      "chunk_compatibility": "\"Let's take a break, shall we?\", \"Why don't we go for a walk?\", \"How about eating out?\"",
+      "examples": [
+        "Let's watch a film, shall we?",
+        "Why don't we try the new restaurant?",
+        "How about a cup of tea?"
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "Shall I/we...? (offer/suggestion)",
+      "core_meaning": "Polite offer (I) or suggestion (we), British English.",
+      "primary_communicative_function": "Helping, making plans.",
+      "when_to_use": "Offering to do something for someone, asking for decision.",
+      "pattern": "Shall I + base verb? / Shall we + base verb?",
+      "key_variations": "Should I...? more American.",
+      "essential_vocabulary_slots": "Assistance verbs (open, carry, call, start).",
+      "common_learner_mistakes": "Using will I for offers.",
+      "chunk_compatibility": "\"Shall I open the window?\", \"Shall we dance?\", \"What shall we do tonight?\"",
+      "examples": ["Shall I help you with that?", "Shall we order pizza?", "Shall I call a taxi?"]
+    },
+    {
+      "id": 26,
+      "structure": "Would you mind + verb-ing?",
+      "core_meaning": "Very polite request.",
+      "primary_communicative_function": "Asking permission in a delicate way.",
+      "when_to_use": "When you might disturb someone.",
+      "pattern": "Would you mind + [verb-ing] (+ if I ...)?",
+      "key_variations": "Do you mind if I + present; Would you mind if I + past.",
+      "essential_vocabulary_slots": "Potentially bothersome actions (opening, smoking, closing).",
+      "common_learner_mistakes": "Answering yes (means I do mind = no), confusing negative answer.",
+      "chunk_compatibility": "\"Would you mind opening the window?\", \"Do you mind if I sit here?\", \"Would you mind helping me?\"",
+      "examples": [
+        "Would you mind closing the door?",
+        "Do you mind if I use your phone?",
+        "I hope you don't mind my asking."
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "Is it okay if I...? / Can I...? variations",
+      "core_meaning": "Casual permission.",
+      "primary_communicative_function": "Informal checking.",
+      "when_to_use": "With friends, family.",
+      "pattern": "Is it okay/ alright if I + [present simple]?",
+      "key_variations": "Can I; Could I; Do you mind if.",
+      "essential_vocabulary_slots": "Simple actions.",
+      "common_learner_mistakes": "Overusing may in casual settings.",
+      "chunk_compatibility": "\"Is it okay if I bring a friend?\", \"Can I borrow your pen?\", \"Is it all right if I leave early?\"",
+      "examples": [
+        "Is it okay if I open the window?",
+        "Can I have a glass of water?",
+        "Would it be okay if I called you later?"
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Might want to / might as well",
+      "core_meaning": "Soft suggestion / no better alternative.",
+      "primary_communicative_function": "Giving gentle advice, suggesting a logical course.",
+      "when_to_use": "\"It's late, we might as well go.\" / \"You might want to check that.\"",
+      "pattern": "[Subject] + might want to + base verb / might as well + base verb",
+      "key_variations": "may as well.",
+      "essential_vocabulary_slots": "Suggestions.",
+      "common_learner_mistakes": "Using should when might want to is softer.",
+      "chunk_compatibility": "\"You might want to hurry.\", \"We might as well wait.\", \"I might as well tell you.\"",
+      "examples": [
+        "You might want to see a doctor.",
+        "There's no bus, so we might as well walk.",
+        "I might as well finish this now."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "be going to for prediction (evidence)",
+      "core_meaning": "Present evidence future.",
+      "primary_communicative_function": "Predicting based on seeing/hearing.",
+      "when_to_use": "Look at those clouds.",
+      "pattern": "Look! It's going to...",
+      "key_variations": "She's going to have a baby.",
+      "essential_vocabulary_slots": "Visual cues.",
+      "common_learner_mistakes": "Using will instead, missing be.",
+      "chunk_compatibility": "\"It's going to rain.\", \"He's going to fall!\", \"That chair is going to break.\"",
+      "examples": [
+        "Look out! That cup is going to fall.",
+        "The traffic is terrible. We're going to be late.",
+        "She's going to love this present."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "be used to + noun/verb-ing (familiarity)",
+      "core_meaning": "Accustomed to something.",
+      "primary_communicative_function": "Talking about what is familiar, not strange anymore.",
+      "when_to_use": "To contrast past difficulty with present ease.",
+      "pattern": "[Subject] + am/is/are used to + [noun / verb-ing]",
+      "key_variations": "get used to (process), not used to.",
+      "essential_vocabulary_slots": "Habits, climate, food.",
+      "common_learner_mistakes": "Confusing with \"used to\" for past habit, missing verb-ing.",
+      "chunk_compatibility": "\"I'm used to the weather.\", \"She's not used to driving on the left.\", \"Are you used to the noise?\"",
+      "examples": [
+        "I'm used to waking up early.",
+        "He's not used to spicy food.",
+        "They got used to living in a small town."
+      ]
+    }
+  ]
+}

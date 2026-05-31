@@ -21,6 +21,7 @@ export default function RegisterPage() {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const [captcha, setCaptcha] = useState<CaptchaData | null>(null);
+  const [captchaKey, setCaptchaKey] = useState(0);
   const honeypotRef = useRef<HTMLInputElement>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -58,6 +59,7 @@ export default function RegisterPage() {
       if (!res.ok) {
         setError(data.error || 'Registration failed');
         setCaptcha(null);
+        setCaptchaKey(k => k + 1);
         return;
       }
 
@@ -139,19 +141,20 @@ export default function RegisterPage() {
             {/* Honeypot — hidden from humans, bots fill it */}
             <input
               ref={honeypotRef}
-              name="email_address"
+              name="website_url"
               type="text"
               tabIndex={-1}
               autoComplete="off"
               aria-hidden="true"
               className="absolute -left-[9999px] h-0 w-0 overflow-hidden"
+              style={{ opacity: 0, position: 'absolute', left: '-9999px', height: 0, width: 0 }}
             />
 
             <div className="border rounded-md p-4 bg-muted/30">
               <p className="text-sm text-muted-foreground mb-3 text-center">
                 {t('captcha.solveToContinue')}
               </p>
-              <MathCaptcha onSolved={setCaptcha} />
+              <MathCaptcha key={captchaKey} onSolved={setCaptcha} />
               {captcha && (
                 <p className="text-green-600 dark:text-green-400 text-sm text-center mt-2">
                   ✓ {t('captcha.verified') ?? 'Verified'}

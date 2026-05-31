@@ -1,0 +1,510 @@
+{
+  "high_transfer_communicative_frames": [
+    {
+      "id": 1,
+      "structure": "Can I get + noun? (ordering)",
+      "core_meaning": "Ordering food/drinks, requesting items.",
+      "primary_communicative_function": "Casual transactional language.",
+      "when_to_use": "In cafés, restaurants, shops.",
+      "pattern": "Can I get + [noun phrase]?",
+      "key_variations": "I'll have; I'd like; Could I have.",
+      "essential_vocabulary_slots": "Menu items, size (a large coffee).",
+      "common_learner_mistakes": "Using \"I want\" which is too direct; \"Can I have\" fine.",
+      "chunk_compatibility": "\"Can I get a latte?\", \"Can I get the check, please?\", \"I'll have the burger.\"",
+      "examples": [
+        "Can I get a cappuccino?",
+        "Can I get some water?",
+        "Can I get extra cheese on that?"
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "How do I get to + place?",
+      "core_meaning": "Asking for directions.",
+      "primary_communicative_function": "Navigation.",
+      "when_to_use": "When lost or seeking route.",
+      "pattern": "How do I get to + [place]?",
+      "key_variations": "Can you tell me how to get to...; What's the best way to...; Where is...?",
+      "essential_vocabulary_slots": "Locations (station, museum, centre).",
+      "common_learner_mistakes": "Using go to (How can I go to...).",
+      "chunk_compatibility": "\"How do I get to the train station?\", \"Can you tell me how to get to the airport?\"",
+      "examples": [
+        "Excuse me, how do I get to the museum?",
+        "How do I get to Oxford Street?",
+        "Do you know how to get to the nearest bank?"
+      ]
+    },
+    {
+      "id": 3,
+      "structure": "I'm looking for + noun",
+      "core_meaning": "Searching for something.",
+      "primary_communicative_function": "Shopping, finding items or people.",
+      "when_to_use": "In stores, asking for help.",
+      "pattern": "I'm looking for + [noun/noun phrase]",
+      "key_variations": "Do you have...; Where can I find...; I'd like to find...",
+      "essential_vocabulary_slots": "Products, objects, persons.",
+      "common_learner_mistakes": "Using to search, word order.",
+      "chunk_compatibility": "\"I'm looking for a birthday card.\", \"I'm looking for the manager.\", \"What are you looking for?\"",
+      "examples": [
+        "I'm looking for a pair of jeans.",
+        "She's looking for a new apartment.",
+        "I'm looking for something to read."
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "Can you tell me + wh-clause?",
+      "core_meaning": "Polite indirect question.",
+      "primary_communicative_function": "Requesting information softly.",
+      "when_to_use": "With strangers, formal situations.",
+      "pattern": "Can you tell me + [what/where/when/how/who] + [subject + verb]?",
+      "key_variations": "Could you tell me; Do you know...; I'd like to know...",
+      "essential_vocabulary_slots": "Wh-words.",
+      "common_learner_mistakes": "Inverting subject-verb after wh- (Can you tell me where is the station? -> where the station is).",
+      "chunk_compatibility": "\"Can you tell me where the toilet is?\", \"Can you tell me what time it starts?\", \"Do you know when he arrives?\"",
+      "examples": [
+        "Can you tell me how to get to the bus stop?",
+        "Could you tell me why the flight is delayed?",
+        "Can you tell me who I should speak to?"
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "Do you mind if I + present verb?",
+      "core_meaning": "Asking permission politely.",
+      "primary_communicative_function": "Avoiding rudeness.",
+      "when_to_use": "When your action might bother someone.",
+      "pattern": "Do you mind if I + [base verb / present simple]?",
+      "key_variations": "Would you mind if I + past simple (more polite); Is it okay if I...",
+      "essential_vocabulary_slots": "Potentially intrusive actions.",
+      "common_learner_mistakes": "Saying \"Yes\" to give permission (correct: No, not at all / Go ahead).",
+      "chunk_compatibility": "\"Do you mind if I open the window?\", \"Do you mind if I sit here?\", \"Would you mind if I used your phone?\"",
+      "examples": [
+        "Do you mind if I turn on the TV?",
+        "Do you mind if I bring a friend?",
+        "Would you mind if I left early?"
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "I'm here to + verb",
+      "core_meaning": "Stating purpose of visit.",
+      "primary_communicative_function": "Formal/informal introduction of purpose.",
+      "when_to_use": "At reception, meetings, appointments.",
+      "pattern": "I'm here to + [base verb]",
+      "key_variations": "I've come to; I'm here for + noun.",
+      "essential_vocabulary_slots": "Purpose (see, pick up, collect, talk).",
+      "common_learner_mistakes": "Using for + verb-ing (I'm here for to fix).",
+      "chunk_compatibility": "\"I'm here to see Dr. Smith.\", \"I'm here to pick up my order.\", \"I'm here to apply for the job.\"",
+      "examples": [
+        "Hi, I'm here to collect my tickets.",
+        "I'm here to deliver a package.",
+        "She's here to discuss the project."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "How was + noun/event?",
+      "core_meaning": "Asking about past experience.",
+      "primary_communicative_function": "Social small talk, showing interest.",
+      "when_to_use": "After holidays, weekends, meals.",
+      "pattern": "How was + [noun]?",
+      "key_variations": "How did + verb go?",
+      "essential_vocabulary_slots": "Events (weekend, trip, flight, party).",
+      "common_learner_mistakes": "Using present, forgetting was.",
+      "chunk_compatibility": "\"How was your weekend?\", \"How was the film?\", \"How was your day?\"",
+      "examples": ["How was your holiday?", "How was the meeting?", "How was the food?"]
+    },
+    {
+      "id": 8,
+      "structure": "What about + noun/verb-ing? (suggestion)",
+      "core_meaning": "Proposing an alternative or including something.",
+      "primary_communicative_function": "Making suggestions, considering options.",
+      "when_to_use": "In planning, after a list.",
+      "pattern": "What about + [noun / verb-ing]?",
+      "key_variations": "How about; What do you think about.",
+      "essential_vocabulary_slots": "Ideas, choices.",
+      "common_learner_mistakes": "Using to verb, confusing with \"How about\" (same).",
+      "chunk_compatibility": "\"What about Friday?\", \"What about going to the cinema?\", \"What about you?\"",
+      "examples": [
+        "I'm free on Tuesday. What about Wednesday?",
+        "What about ordering pizza?",
+        "We need a present. What about a book?"
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "Can't wait to + verb!",
+      "core_meaning": "Enthusiastic anticipation.",
+      "primary_communicative_function": "Expressing excitement about the future.",
+      "when_to_use": "With friends, informal.",
+      "pattern": "I can't wait to + [base verb]",
+      "key_variations": "can't wait for + noun; Looking forward to.",
+      "essential_vocabulary_slots": "Future events.",
+      "common_learner_mistakes": "Using -ing instead of to base.",
+      "chunk_compatibility": "\"I can't wait to see you!\", \"Can't wait to start the weekend!\", \"She can't wait to open her presents.\"",
+      "examples": [
+        "I can't wait to go on holiday.",
+        "I can't wait to meet your family.",
+        "He can't wait to try the new ride."
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Long time no see!",
+      "core_meaning": "Greeting after a long absence.",
+      "primary_communicative_function": "Reconnecting.",
+      "when_to_use": "When meeting someone you haven't seen for a while.",
+      "pattern": "Long time no see!",
+      "key_variations": "It's been a while!; How long has it been?",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using in formal email.",
+      "chunk_compatibility": "\"Hey! Long time no see!\", \"Long time no see — how have you been?\"",
+      "examples": [
+        "John! Long time no see!",
+        "Wow, long time no see. You look great.",
+        "Long time no see. What's new?"
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "I have a question about + noun",
+      "core_meaning": "Introducing a query.",
+      "primary_communicative_function": "Starting a request for information.",
+      "when_to_use": "In class, customer service.",
+      "pattern": "I have a question about + [noun / wh-clause]",
+      "key_variations": "I wanted to ask about; Can I ask something about...",
+      "essential_vocabulary_slots": "Topics.",
+      "common_learner_mistakes": "Using for (about).",
+      "chunk_compatibility": "\"I have a question about the homework.\", \"I have a question about my bill.\"",
+      "examples": [
+        "I have a question about your return policy.",
+        "I have a question about where to park.",
+        "She has a question about the schedule."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "Would you like me to + verb?",
+      "core_meaning": "Offering to do something for someone.",
+      "primary_communicative_function": "Polite assistance.",
+      "when_to_use": "When seeing someone might need help.",
+      "pattern": "Would you like me to + [base verb]?",
+      "key_variations": "Shall I...; Do you want me to...",
+      "essential_vocabulary_slots": "Helpful actions.",
+      "common_learner_mistakes": "Using that I verb.",
+      "chunk_compatibility": "\"Would you like me to carry that?\", \"Would you like me to call a taxi?\", \"Would you like me to help?\"",
+      "examples": [
+        "Would you like me to open the window?",
+        "Would you like me to explain again?",
+        "Would you like me to show you the way?"
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "It's up to you.",
+      "core_meaning": "Leaving decision to the other person.",
+      "primary_communicative_function": "Giving choice, being flexible.",
+      "when_to_use": "When you don't mind.",
+      "pattern": "It's up to you.",
+      "key_variations": "It's your call; I don't mind; You decide.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using for you to decide.",
+      "chunk_compatibility": "\"What do you want to eat? It's up to you.\", \"We can go today or tomorrow, it's up to you.\"",
+      "examples": [
+        "I can do either, it's up to you.",
+        "It's up to you which one we choose.",
+        "Where we go is entirely up to you."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "That sounds + adjective",
+      "core_meaning": "Reacting positively/negatively to a suggestion.",
+      "primary_communicative_function": "Showing opinion about an idea.",
+      "when_to_use": "In conversations, planning.",
+      "pattern": "That sounds + [adjective] (good, great, interesting, boring, terrible)",
+      "key_variations": "That seems; It sounds like a plan.",
+      "essential_vocabulary_slots": "Evaluating adjectives.",
+      "common_learner_mistakes": "Using this is sound.",
+      "chunk_compatibility": "\"That sounds good!\", \"That sounds like fun.\", \"That sounds difficult.\"",
+      "examples": [
+        "Dinner out? That sounds great!",
+        "His proposal sounds interesting.",
+        "That sounds like a lot of work."
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "Sorry to bother you, but ...",
+      "core_meaning": "Polite interruption.",
+      "primary_communicative_function": "Getting a stranger's attention, interrupting.",
+      "when_to_use": "Before asking a favor or question to someone busy.",
+      "pattern": "Sorry to bother you, but + [request/question]",
+      "key_variations": "Excuse me, I hate to bother you.",
+      "essential_vocabulary_slots": "Question.",
+      "common_learner_mistakes": "Using too direct \"Hey you\".",
+      "chunk_compatibility": "\"Sorry to bother you, but could you help me?\", \"Sorry to bother you, but do you have a minute?\"",
+      "examples": [
+        "Sorry to bother you, but do you know what time it is?",
+        "Sorry to bother you, but is this seat taken?",
+        "Sorry to bother you, but I think you dropped this."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "I didn't catch that. / Could you repeat that?",
+      "core_meaning": "Asking for repetition.",
+      "primary_communicative_function": "Managing communication breakdown.",
+      "when_to_use": "When you didn't hear or understand.",
+      "pattern": "Sorry, I didn't catch that. / Could you repeat that, please?",
+      "key_variations": "Pardon?; Could you say that again?; What was that?",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Just \"What?\"; \"Again please.\"",
+      "chunk_compatibility": "\"Sorry, I didn't catch your name.\", \"Could you repeat the last part?\"",
+      "examples": [
+        "I'm sorry, I didn't catch that. Could you say it again?",
+        "Sorry, could you repeat that? The line is bad.",
+        "I didn't catch what you just said."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "What do you mean by ...?",
+      "core_meaning": "Clarifying meaning.",
+      "primary_communicative_function": "Checking understanding.",
+      "when_to_use": "When a word/phrase is unclear.",
+      "pattern": "What do you mean by + [noun/word]?",
+      "key_variations": "What do you mean?; What exactly do you mean?",
+      "essential_vocabulary_slots": "Unfamiliar words.",
+      "common_learner_mistakes": "Using What means...? (What means this word?).",
+      "chunk_compatibility": "\"What do you mean by 'sustainable'?\", \"What do you mean exactly?\"",
+      "examples": [
+        "What do you mean by that?",
+        "I'm not sure what you mean by \"soon\".",
+        "What do you mean when you say it's complicated?"
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "How about + noun/verb-ing? (suggestion)",
+      "core_meaning": "Suggesting.",
+      "primary_communicative_function": "Same as What about, casual.",
+      "when_to_use": "Alternatives, offers.",
+      "pattern": "How about + [noun / verb-ing]?",
+      "key_variations": "How about you?; How about if + clause?",
+      "essential_vocabulary_slots": "Suggestions.",
+      "common_learner_mistakes": "Using to base verb.",
+      "chunk_compatibility": "\"How about a drink?\", \"How about going to the park?\", \"How about we meet at 6?\"",
+      "examples": [
+        "How about a movie tonight?",
+        "How about trying the new restaurant?",
+        "How about you? Do you like it?"
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "It's not my cup of tea.",
+      "core_meaning": "Not something I like (idiomatic).",
+      "primary_communicative_function": "Polite dislike.",
+      "when_to_use": "Socially, to express mild distaste.",
+      "pattern": "It's not my cup of tea.",
+      "key_variations": "Not really my thing; I'm not a big fan of...",
+      "essential_vocabulary_slots": "Activities, genres.",
+      "common_learner_mistakes": "Overusing, mixing metaphor.",
+      "chunk_compatibility": "\"Opera isn't really my cup of tea.\", \"It's not my cup of tea, but you might like it.\"",
+      "examples": [
+        "Horror movies aren't my cup of tea.",
+        "Spicy food is not really my cup of tea.",
+        "Thank you, but classical music isn't my cup of tea."
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "It depends on + noun/wh-clause.",
+      "core_meaning": "Conditionality.",
+      "primary_communicative_function": "Avoiding a definite answer when variable.",
+      "when_to_use": "Answering questions with conditions.",
+      "pattern": "It depends on + [noun / what/where/how etc.].",
+      "key_variations": "That depends.",
+      "essential_vocabulary_slots": "Factors (weather, time, money).",
+      "common_learner_mistakes": "Using of instead of on, or that clause.",
+      "chunk_compatibility": "\"It depends on the weather.\", \"It depends on how much it costs.\", \"I'm not sure. It depends.\"",
+      "examples": [
+        "\"Will you go?\" \"It depends on the time.\"",
+        "It depends on what you want.",
+        "It depends on whether I finish work early."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "I'd better get going.",
+      "core_meaning": "Indicating the need to leave.",
+      "primary_communicative_function": "Ending a conversation politely.",
+      "when_to_use": "When you need to go.",
+      "pattern": "I'd better get going. / I'd better be off.",
+      "key_variations": "I should go; I have to run; Gotta go.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "I better going.",
+      "chunk_compatibility": "\"It's late, I'd better get going.\", \"I'd better be off — my train leaves soon.\"",
+      "examples": [
+        "I'd better get going, I have a meeting.",
+        "It was nice talking, but I'd better get going.",
+        "I'd better be off now."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "On the one hand ... on the other hand ...",
+      "core_meaning": "Presenting two contrasting ideas.",
+      "primary_communicative_function": "Balanced discussion.",
+      "when_to_use": "In decision-making, essays.",
+      "pattern": "On the one hand, [pro]. On the other hand, [con].",
+      "key_variations": "On the one hand ... but then again.",
+      "essential_vocabulary_slots": "Pros/cons.",
+      "common_learner_mistakes": "Using only \"on the other hand\" without first, conflating.",
+      "chunk_compatibility": "\"On the one hand it's cheap; on the other hand it's poor quality.\"",
+      "examples": [
+        "On the one hand I love the city; on the other hand it's expensive.",
+        "On the one hand it's a great opportunity, but on the other hand it means moving.",
+        "On the one hand he's very talented; on the other hand he's lazy."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "That reminds me, ...",
+      "core_meaning": "Connecting a thought to something.",
+      "primary_communicative_function": "Shifting topic smoothly.",
+      "when_to_use": "When something triggers a memory.",
+      "pattern": "That reminds me, + [clause]",
+      "key_variations": "Speaking of which; By the way.",
+      "essential_vocabulary_slots": "Associated ideas.",
+      "common_learner_mistakes": "Using for remember.",
+      "chunk_compatibility": "\"That reminds me, I need to call my mom.\", \"That reminds me, have you seen my keys?\"",
+      "examples": [
+        "That reminds me, we're out of milk.",
+        "Oh, that reminds me — did you book the tickets?",
+        "That reminds me of a story."
+      ]
+    },
+    {
+      "id": 24,
+      "structure": "I mean it. / I'm serious.",
+      "core_meaning": "Emphasizing sincerity.",
+      "primary_communicative_function": "Reinforcing a statement.",
+      "when_to_use": "When someone doubts you.",
+      "pattern": "I mean it. / I'm serious.",
+      "key_variations": "No kidding; For real.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Not understanding nuance.",
+      "chunk_compatibility": "\"I'm going to quit. I mean it.\"",
+      "examples": [
+        "I love you, I mean it.",
+        "Don't laugh, I'm serious.",
+        "You should go. I mean it, it'll be good for you."
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "You must be joking!",
+      "core_meaning": "Expressing disbelief.",
+      "primary_communicative_function": "Reacting to a shocking statement.",
+      "when_to_use": "Informal, when something seems unbelievable.",
+      "pattern": "You must be joking! / You're kidding!",
+      "key_variations": "No way!; Are you serious?",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using literal meaning only.",
+      "chunk_compatibility": "\"They charged you $100? You must be joking!\"",
+      "examples": [
+        "\"I won the lottery.\" \"You must be joking!\"",
+        "You want me to work all night? You're joking, right?",
+        "No way! You must be kidding me!"
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "Have you got a minute? / Do you have a second?",
+      "core_meaning": "Asking for brief time.",
+      "primary_communicative_function": "Initiating a short conversation.",
+      "when_to_use": "Before asking a quick question.",
+      "pattern": "Have you got a minute? / Do you have a second?",
+      "key_variations": "Can I talk to you for a moment?",
+      "essential_vocabulary_slots": "Time.",
+      "common_learner_mistakes": "Using hour instead of minute when it's quick.",
+      "chunk_compatibility": "\"Hey, have you got a minute? I need advice.\"",
+      "examples": [
+        "Excuse me, do you have a second? I just have a quick question.",
+        "Have you got a minute to chat?",
+        "When you have a minute, could you look at this?"
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "How do you say ... in English?",
+      "core_meaning": "Asking for translation/expression.",
+      "primary_communicative_function": "Language learning, clarification.",
+      "when_to_use": "In conversation when you don't know a word.",
+      "pattern": "How do you say + [word/expression] + in English?",
+      "key_variations": "What's the English for...; What do you call...",
+      "essential_vocabulary_slots": "Foreign words.",
+      "common_learner_mistakes": "How to say...?; How do you call...? (common mistake for \"what do you call\").",
+      "chunk_compatibility": "\"How do you say 'casa' in English?\", \"How do you say this in English?\"",
+      "examples": [
+        "How do you say \"biblioteca\" in English?",
+        "How do you say \"thank you\" in your language?",
+        "I don't know how to say this in English."
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "I have no idea what you're talking about.",
+      "core_meaning": "Complete lack of understanding.",
+      "primary_communicative_function": "Denying knowledge, confusion.",
+      "when_to_use": "When you really don't understand the topic.",
+      "pattern": "I have no idea what you're talking about.",
+      "key_variations": "I don't know what you're talking about; What are you on about? (very informal UK).",
+      "essential_vocabulary_slots": "Topics.",
+      "common_learner_mistakes": "Using \"what are you saying\" incorrectly.",
+      "chunk_compatibility": "\"What project? I have no idea what you're talking about.\"",
+      "examples": [
+        "\"You were at the party.\" \"I have no idea what you're talking about.\"",
+        "Sorry, I have no idea what you're referring to.",
+        "Politicians often pretend they have no idea what you're talking about."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "The thing is, ...",
+      "core_meaning": "Introducing an explanation or problem.",
+      "primary_communicative_function": "Softening bad news, clarifying.",
+      "when_to_use": "Before giving a reason for difficulty.",
+      "pattern": "The thing is, + [clause]",
+      "key_variations": "The problem is; The point is; Here's the thing.",
+      "essential_vocabulary_slots": "Explanations.",
+      "common_learner_mistakes": "Overusing \"The problem\".",
+      "chunk_compatibility": "\"I'd love to come, but the thing is, I have to work.\", \"The thing is, I already promised her.\"",
+      "examples": [
+        "The thing is, we don't have enough money.",
+        "The thing is, I'm not sure if I'm ready.",
+        "The thing is, he's never been on time."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "Good point! / I see your point.",
+      "core_meaning": "Acknowledging a valid argument.",
+      "primary_communicative_function": "Agreeing during discussion.",
+      "when_to_use": "In debates, conversations.",
+      "pattern": "Good point. / I see your point.",
+      "key_variations": "That's a fair point; I hadn't thought of that.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using \"good idea\" for argument.",
+      "chunk_compatibility": "\"Maybe we should wait. - Good point!\", \"I see your point, but I still think...\"",
+      "examples": [
+        "\"It might rain later.\" \"Good point, I'll take an umbrella.\"",
+        "I see your point about the cost.",
+        "That's a good point, let's reconsider."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "title": "Chunk-enabling grammar patterns",
+  "structures": [
+    {
+      "id": 1,
+      "structure": "I think (that) + clause",
+      "core_meaning": "Giving personal opinion.",
+      "primary_communicative_function": "Softening statements, expressing belief.",
+      "when_to_use": "Before any opinion statement.",
+      "pattern": "I think (that) + [subject + verb ...]",
+      "key_variations": "I don't think; I think so; I thought (past).",
+      "essential_vocabulary_slots": "Any opinion clause.",
+      "common_learner_mistakes": "Doubling negative (I think I don't like it. -> I don't think I like it).",
+      "chunk_compatibility": "\"I think it's a good idea.\", \"I don't think she's home.\", \"I think so.\"",
+      "examples": [
+        "I think you're right.",
+        "I don't think it will rain.",
+        "I think it's time to go."
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "I feel like + noun/verb-ing",
+      "core_meaning": "Expressing desire or inclination.",
+      "primary_communicative_function": "Casual way to say what you want.",
+      "when_to_use": "To suggest an activity or state.",
+      "pattern": "I feel like + [noun / verb-ing]",
+      "key_variations": "I don't feel like; Do you feel like?",
+      "essential_vocabulary_slots": "Food, activities.",
+      "common_learner_mistakes": "Using to verb, using with clause (I feel like I need... okay but different nuance).",
+      "chunk_compatibility": "\"I feel like pizza.\", \"I don't feel like going out.\", \"Do you feel like a walk?\"",
+      "examples": [
+        "I feel like a cup of coffee.",
+        "She feels like dancing.",
+        "I don't feel like working today."
+      ]
+    },
+    {
+      "id": 3,
+      "structure": "I'm good at / bad at + noun/verb-ing",
+      "core_meaning": "Skill level.",
+      "primary_communicative_function": "Describing abilities, strengths, weaknesses.",
+      "when_to_use": "Hobbies, school subjects.",
+      "pattern": "[Subject] + am/is/are good/bad at + [noun / verb-ing]",
+      "key_variations": "pretty good, terrible at, not bad at.",
+      "essential_vocabulary_slots": "Skill areas (maths, cooking, remembering names).",
+      "common_learner_mistakes": "Using to verb, forgetting -ing.",
+      "chunk_compatibility": "\"I'm good at sports.\", \"She's bad at keeping secrets.\", \"Are you good at drawing?\"",
+      "examples": [
+        "I'm good at cooking.",
+        "He's terrible at singing.",
+        "She's not very good at multitasking."
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "I want you to + verb",
+      "core_meaning": "Desire for someone else to act.",
+      "primary_communicative_function": "Giving instructions, expressing wishes.",
+      "when_to_use": "Telling someone what you wish they'd do.",
+      "pattern": "[Subject] + want + [person/object pronoun] + to + [base verb]",
+      "key_variations": "Would like you to; expect you to.",
+      "essential_vocabulary_slots": "Action verbs.",
+      "common_learner_mistakes": "Using that-clause (I want that you help), omitting to.",
+      "chunk_compatibility": "\"I want you to meet someone.\", \"She wants me to go.\", \"Do you want him to call?\"",
+      "examples": [
+        "I want you to listen carefully.",
+        "He wants me to help him.",
+        "They want us to arrive early."
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "It takes + time + to + verb",
+      "core_meaning": "Duration needed for an action.",
+      "primary_communicative_function": "Talking about how long something requires.",
+      "when_to_use": "Explaining time cost.",
+      "pattern": "It takes + [person] + [time] + to + [base verb]",
+      "key_variations": "It takes me 10 minutes; How long does it take?",
+      "essential_vocabulary_slots": "Time expressions, activities.",
+      "common_learner_mistakes": "Using for (It takes for me), wrong word order.",
+      "chunk_compatibility": "\"It takes 20 minutes to walk there.\", \"It takes me an hour to get ready.\", \"How long does it take to fly to Paris?\"",
+      "examples": [
+        "It takes about 15 minutes to cook.",
+        "It took her two hours to finish.",
+        "It doesn't take long to learn."
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "There is no point in + verb-ing",
+      "core_meaning": "Futility of an action.",
+      "primary_communicative_function": "Saying something is useless.",
+      "when_to_use": "To discourage or express hopelessness.",
+      "pattern": "There's no point (in) + [verb-ing]",
+      "key_variations": "It's no use + verb-ing; What's the point of...?",
+      "essential_vocabulary_slots": "Futile actions.",
+      "common_learner_mistakes": "Using to verb, forgetting in.",
+      "chunk_compatibility": "\"There's no point in waiting.\", \"There's no point arguing.\", \"What's the point of trying?\"",
+      "examples": [
+        "There's no point in crying over spilt milk.",
+        "There's no point calling him now; he's asleep.",
+        "I think there's no point in worrying."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "The more ..., the more ...",
+      "core_meaning": "Proportional increase.",
+      "primary_communicative_function": "Expressing correlation.",
+      "when_to_use": "Showing relationship between two things.",
+      "pattern": "The + [comparative] + [subject + verb], the + [comparative] + [subject + verb]",
+      "key_variations": "The more I practice, the better I get; The less... the less.",
+      "essential_vocabulary_slots": "Comparatives.",
+      "common_learner_mistakes": "Missing \"the\", wrong word order.",
+      "chunk_compatibility": "\"The more you work, the more you earn.\", \"The sooner, the better.\", \"The older I get, the wiser I become.\"",
+      "examples": [
+        "The more you practice, the easier it becomes.",
+        "The faster you drive, the more fuel you use.",
+        "The louder she spoke, the less they listened."
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "It's (not) worth + verb-ing",
+      "core_meaning": "Value of an action.",
+      "primary_communicative_function": "Recommending or discouraging.",
+      "when_to_use": "Evaluating if something deserves effort.",
+      "pattern": "It's (not) worth + [verb-ing]",
+      "key_variations": "It's worth it; Is it worth...?; worth + noun (It's worth a try).",
+      "essential_vocabulary_slots": "Activities, price, time.",
+      "common_learner_mistakes": "Using to verb, worth to visit -> worth visiting.",
+      "chunk_compatibility": "\"It's worth visiting.\", \"It's not worth waiting.\", \"Is it worth the money?\"",
+      "examples": [
+        "The film is worth watching.",
+        "It's not worth getting angry.",
+        "It's worth a try."
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "I'm looking forward to + noun/verb-ing",
+      "core_meaning": "Excitement about future event.",
+      "primary_communicative_function": "Ending conversations, emails, expressing anticipation.",
+      "when_to_use": "In social and professional settings.",
+      "pattern": "[Subject] + am looking forward to + [noun / verb-ing]",
+      "key_variations": "I look forward to (formal); really looking forward.",
+      "essential_vocabulary_slots": "Events, meetings, holidays.",
+      "common_learner_mistakes": "Using to + base verb (I'm looking forward to see you), missing to.",
+      "chunk_compatibility": "\"I'm looking forward to the party.\", \"Looking forward to hearing from you.\", \"She's looking forward to meeting you.\"",
+      "examples": [
+        "I'm looking forward to the weekend.",
+        "We're looking forward to working with you.",
+        "Are you looking forward to your trip?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "I'm used to / I can't get used to + noun/verb-ing",
+      "core_meaning": "Familiarity or lack of adaptation.",
+      "primary_communicative_function": "Explaining comfort level.",
+      "when_to_use": "Adjusting to new situations.",
+      "pattern": "I'm used to + noun/verb-ing; I can't get used to + noun/verb-ing",
+      "key_variations": "Not used to; get used to.",
+      "essential_vocabulary_slots": "New habits, weather, food.",
+      "common_learner_mistakes": "Using base verb after to.",
+      "chunk_compatibility": "\"I'm used to the heat.\", \"I can't get used to driving on the left.\", \"You'll get used to it.\"",
+      "examples": [
+        "I'm not used to getting up early.",
+        "She can't get used to the silence.",
+        "He's still not used to his new job."
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "Because / since / as + clause (reason)",
+      "core_meaning": "Giving reason.",
+      "primary_communicative_function": "Explaining why.",
+      "when_to_use": "Any explanation.",
+      "pattern": "[Clause] + because + [reason]; Because + reason, clause.",
+      "key_variations": "Due to + noun; Because of + noun.",
+      "essential_vocabulary_slots": "Reasons.",
+      "common_learner_mistakes": "Using because and so together.",
+      "chunk_compatibility": "\"I left because I was tired.\", \"Since you're here, let's start.\", \"As it was raining, we stayed in.\"",
+      "examples": [
+        "She's late because the traffic was bad.",
+        "Because I was hungry, I ate a sandwich.",
+        "As it's your birthday, I'll pay."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "So + adjective/adverb + that",
+      "core_meaning": "Intensity causing a result.",
+      "primary_communicative_function": "Emphasizing degree.",
+      "when_to_use": "When describing an extreme situation and its consequence.",
+      "pattern": "[Subject] + be/verb + so + [adjective/adverb] + that + [result clause]",
+      "key_variations": "Such + noun phrase + that.",
+      "essential_vocabulary_slots": "Extreme adjectives (tired, big, fast).",
+      "common_learner_mistakes": "Using too ... that, mixing such and so.",
+      "chunk_compatibility": "\"It was so hot that we couldn't sleep.\", \"She ran so fast that I couldn't catch her.\"",
+      "examples": [
+        "I was so tired that I fell asleep on the bus.",
+        "The music was so loud that my ears hurt.",
+        "He spoke so quickly that no one understood."
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "Too + adjective + to + verb",
+      "core_meaning": "Excess preventing an action.",
+      "primary_communicative_function": "Explaining why something can't be done.",
+      "when_to_use": "When a quality exceeds a limit.",
+      "pattern": "[Subject] + be + too + [adjective] + (for someone) + to + [base verb]",
+      "key_variations": "far too, much too.",
+      "essential_vocabulary_slots": "Difficulty adjectives.",
+      "common_learner_mistakes": "Using too much + adj, using \"to\" incorrectly.",
+      "chunk_compatibility": "\"It's too heavy to lift.\", \"You're too young to drive.\", \"The coffee is too hot to drink.\"",
+      "examples": [
+        "She's too sick to go out.",
+        "This box is too big to fit in the car.",
+        "He's too proud to apologize."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "Not enough + noun / adjective + enough",
+      "core_meaning": "Insufficiency.",
+      "primary_communicative_function": "Saying quantity or quality is below the needed level.",
+      "when_to_use": "Complaints, limitations.",
+      "pattern": "enough + [noun]; [adjective] + enough; not + [adjective] enough",
+      "key_variations": "enough ... for; enough ... to + verb.",
+      "essential_vocabulary_slots": "Quantity, qualities.",
+      "common_learner_mistakes": "Word order (enough big -> big enough).",
+      "chunk_compatibility": "\"I don't have enough time.\", \"She's not old enough.\", \"Is it warm enough to swim?\"",
+      "examples": [
+        "We haven't got enough money.",
+        "He isn't tall enough to reach.",
+        "There aren't enough chairs."
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "I have no idea + wh-clause / about",
+      "core_meaning": "Complete lack of knowledge.",
+      "primary_communicative_function": "Expressing ignorance strongly.",
+      "when_to_use": "When you really don't know.",
+      "pattern": "I have no idea + [what/where/how/who] + clause",
+      "key_variations": "I've no idea; I have no clue.",
+      "essential_vocabulary_slots": "Wh-words.",
+      "common_learner_mistakes": "Using that, word order.",
+      "chunk_compatibility": "\"I have no idea what you're talking about.\", \"I have no idea where he went.\", \"I have no idea how to do that.\"",
+      "examples": [
+        "I have no idea what time it is.",
+        "She has no idea who called.",
+        "I have no idea why he's angry."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "I wonder + if/whether + clause",
+      "core_meaning": "Polite speculation, indirect question.",
+      "primary_communicative_function": "Thinking aloud, asking indirectly.",
+      "when_to_use": "To soften questions.",
+      "pattern": "I wonder if + [subject + verb]",
+      "key_variations": "I was wondering if... (more polite request).",
+      "essential_vocabulary_slots": "Speculation.",
+      "common_learner_mistakes": "Using question word order after if.",
+      "chunk_compatibility": "\"I wonder if he'll come.\", \"I was wondering if you could help me.\", \"I wonder where she is.\"",
+      "examples": [
+        "I wonder if it will rain.",
+        "I wonder what they're doing.",
+        "I was wondering if I could borrow your car."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "Is it possible to + verb?",
+      "core_meaning": "Asking about feasibility.",
+      "primary_communicative_function": "Polite enquiry about ability/permission.",
+      "when_to_use": "In formal requests.",
+      "pattern": "Is it possible to + [base verb]?",
+      "key_variations": "Would it be possible to...; Is there any chance...?",
+      "essential_vocabulary_slots": "Actions.",
+      "common_learner_mistakes": "Using can with Is it possible? unnecessarily.",
+      "chunk_compatibility": "\"Is it possible to get a refund?\", \"Would it be possible to change the date?\", \"Is it possible to park here?\"",
+      "examples": [
+        "Is it possible to speak to the manager?",
+        "Is it possible to check out late?",
+        "Would it be possible to have a window seat?"
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "I'm sure / I'm not sure + clause",
+      "core_meaning": "Certainty / uncertainty.",
+      "primary_communicative_function": "Expressing confidence or doubt.",
+      "when_to_use": "In conversation to hedge.",
+      "pattern": "I'm sure (that) + clause; I'm not sure if/whether/wh...",
+      "key_variations": "I'm positive; I doubt if.",
+      "essential_vocabulary_slots": "Any proposition.",
+      "common_learner_mistakes": "Using surely incorrectly.",
+      "chunk_compatibility": "\"I'm sure you'll love it.\", \"I'm not sure if he's coming.\", \"Are you sure about that?\"",
+      "examples": [
+        "I'm sure it's going to be fun.",
+        "I'm not sure where I left my keys.",
+        "He's not sure whether to go."
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "To be honest, ...",
+      "core_meaning": "Introducing frank opinion.",
+      "primary_communicative_function": "Softening a critical or disappointing statement.",
+      "when_to_use": "Before giving a negative or honest view.",
+      "pattern": "To be honest, + [clause]",
+      "key_variations": "To tell you the truth; Honestly; Frankly.",
+      "essential_vocabulary_slots": "Honest statements.",
+      "common_learner_mistakes": "Using it with positive obvious truths unnecessarily.",
+      "chunk_compatibility": "\"To be honest, I didn't like it.\", \"To be honest, I'm not really interested.\", \"To be honest, I was a bit disappointed.\"",
+      "examples": [
+        "To be honest, I think it's too expensive.",
+        "To be honest, I forgot about the meeting.",
+        "To be honest, I'm exhausted."
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "In my opinion, ...",
+      "core_meaning": "Personal viewpoint.",
+      "primary_communicative_function": "Formal debate, essays, serious discussions.",
+      "when_to_use": "Signposting personal belief.",
+      "pattern": "In my opinion, + [clause]",
+      "key_variations": "From my perspective; As I see it; Personally, I think.",
+      "essential_vocabulary_slots": "Opinions.",
+      "common_learner_mistakes": "Using according to me (incorrect).",
+      "chunk_compatibility": "\"In my opinion, it's a waste of time.\", \"In my opinion, we should wait.\"",
+      "examples": [
+        "In my opinion, this is the best solution.",
+        "In my opinion, the movie was too long.",
+        "In my opinion, everyone should learn a language."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "According to + source",
+      "core_meaning": "Reporting a source.",
+      "primary_communicative_function": "Attributing information.",
+      "when_to_use": "News, reports, not for personal opinion.",
+      "pattern": "According to + [noun/source], + [clause]",
+      "key_variations": "Based on; As per (formal).",
+      "essential_vocabulary_slots": "Experts, reports, people.",
+      "common_learner_mistakes": "According to me (wrong); using for opinion.",
+      "chunk_compatibility": "\"According to the weather forecast, it will rain.\", \"According to John, the meeting is cancelled.\"",
+      "examples": [
+        "According to the newspaper, prices are rising.",
+        "According to the recipe, we need three eggs.",
+        "According to him, everything is fine."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "As far as I know, ...",
+      "core_meaning": "Limited knowledge.",
+      "primary_communicative_function": "Hedging, showing you're not 100% sure.",
+      "when_to_use": "When you might be wrong.",
+      "pattern": "As far as I know, + [clause]",
+      "key_variations": "To the best of my knowledge; As far as I can tell.",
+      "essential_vocabulary_slots": "Information.",
+      "common_learner_mistakes": "Using for definite facts.",
+      "chunk_compatibility": "\"As far as I know, she still works there.\", \"As far as I know, it's free.\"",
+      "examples": [
+        "As far as I know, the flight is on time.",
+        "As far as I know, he's single.",
+        "As far as I'm aware, no decision has been made."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "The reason why ... is because ...",
+      "core_meaning": "Explaining cause (common chunk, though redundant).",
+      "primary_communicative_function": "Clarifying motivation.",
+      "when_to_use": "In spoken English, for emphasis.",
+      "pattern": "The reason (why) + [clause] + is because + [reason]",
+      "key_variations": "The reason is that... (more formal).",
+      "essential_vocabulary_slots": "Reasons.",
+      "common_learner_mistakes": "The reason is because... (redundant but accepted in spoken), using The reason why... is because... same.",
+      "chunk_compatibility": "\"The reason why I'm late is because I missed the bus.\", \"The reason I called is because I need your help.\"",
+      "examples": [
+        "The reason I'm tired is because I stayed up late.",
+        "The reason she quit is because of the stress.",
+        "The reason why we chose this hotel is because it's cheap."
+      ]
+    },
+    {
+      "id": 24,
+      "structure": "Not only ... but also ...",
+      "core_meaning": "Adding emphasis, two things.",
+      "primary_communicative_function": "Highlighting additional element.",
+      "when_to_use": "To stress that both are true.",
+      "pattern": "Not only + [auxiliary + subject] + but also + [clause]",
+      "key_variations": "...but...also; Subject + not only + verb + but also...",
+      "essential_vocabulary_slots": "Adjectives, verbs.",
+      "common_learner_mistakes": "Forgetting inversion when \"Not only\" starts a sentence.",
+      "chunk_compatibility": "\"Not only is she smart, but she's also kind.\", \"He not only plays the guitar but also sings.\"",
+      "examples": [
+        "Not only did we arrive late, but we also forgot the tickets.",
+        "She's not only a teacher but also a writer.",
+        "The trip was not only fun but also educational."
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "The first time I + past simple",
+      "core_meaning": "Narrating first experience.",
+      "primary_communicative_function": "Telling about memorable first events.",
+      "when_to_use": "In storytelling.",
+      "pattern": "The first time I + [past verb phrase], + [past result]",
+      "key_variations": "The first time I saw/met/went.",
+      "essential_vocabulary_slots": "Memorable events.",
+      "common_learner_mistakes": "Using present perfect.",
+      "chunk_compatibility": "\"The first time I saw her, I knew...\", \"The first time I went abroad was in 2010.\"",
+      "examples": [
+        "The first time I ate sushi, I didn't like it.",
+        "The first time I drove a car, I was terrified.",
+        "The first time we met, we talked all night."
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "It's (been) ages since + past simple",
+      "core_meaning": "Long time since something last happened.",
+      "primary_communicative_function": "Catching up.",
+      "when_to_use": "When you haven't done something for a long time.",
+      "pattern": "It's + been + ages / a long time + since + [past simple]",
+      "key_variations": "It's years since I saw him; It's been a while.",
+      "essential_vocabulary_slots": "Activities.",
+      "common_learner_mistakes": "Using present perfect after since.",
+      "chunk_compatibility": "\"It's been ages since we last spoke.\", \"It's years since I went to the cinema.\"",
+      "examples": [
+        "It's been ages since I had a proper holiday.",
+        "It's a long time since I felt this happy.",
+        "It's been ages since I saw you!"
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "I can't help + verb-ing",
+      "core_meaning": "Can't stop doing something.",
+      "primary_communicative_function": "Expressing compulsion.",
+      "when_to_use": "To admit something you can't control.",
+      "pattern": "I can't help + [verb-ing]",
+      "key_variations": "She couldn't help laughing; I can't help it.",
+      "essential_vocabulary_slots": "Reactions (laughing, crying, worrying).",
+      "common_learner_mistakes": "Using to verb, or I can't help but + base (both possible but verb-ing is simpler).",
+      "chunk_compatibility": "\"I can't help feeling anxious.\", \"I can't help laughing.\", \"I couldn't help overhearing.\"",
+      "examples": [
+        "I can't help thinking about him.",
+        "She can't help eating chocolate.",
+        "I couldn't help notice your accent."
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Let alone + noun/verb",
+      "core_meaning": "Emphasizing impossibility of a greater thing.",
+      "primary_communicative_function": "Highlighting contrast between simple and difficult.",
+      "when_to_use": "To say \"A is impossible, so B is definitely impossible\".",
+      "pattern": "[negative statement], let alone + [more extreme possibility]",
+      "key_variations": "I can't even walk, let alone run.",
+      "essential_vocabulary_slots": "Degrees of difficulty.",
+      "common_learner_mistakes": "Using positive form, word order.",
+      "chunk_compatibility": "\"I can't afford a bike, let alone a car.\", \"He can't boil an egg, let alone cook a dinner.\"",
+      "examples": [
+        "She can't read, let alone write.",
+        "I couldn't remember her name, let alone her phone number.",
+        "He doesn't have a job, let alone a career."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "I find it + adjective + to + verb",
+      "core_meaning": "Expressing personal experience of an action.",
+      "primary_communicative_function": "Giving opinion about difficulty or pleasure.",
+      "when_to_use": "Instead of \"I think it is...\".",
+      "pattern": "I find it + [adjective] + to + [base verb]",
+      "key_variations": "I find it hard to believe; I find it easy.",
+      "essential_vocabulary_slots": "Evaluative adjectives (difficult, easy, interesting, boring).",
+      "common_learner_mistakes": "Using that clause without it (I find that it is... possible but chunk differs).",
+      "chunk_compatibility": "\"I find it hard to concentrate.\", \"She finds it easy to make friends.\", \"Do you find it difficult to say no?\"",
+      "examples": [
+        "I find it difficult to wake up early.",
+        "He finds it boring to sit in meetings.",
+        "They find it impossible to agree."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "I'd prefer it if + subject + past simple",
+      "core_meaning": "Polite preference about another's action.",
+      "primary_communicative_function": "Making soft requests for different behavior.",
+      "when_to_use": "When you want someone to do something differently.",
+      "pattern": "I'd prefer it if + [subject] + [past simple]",
+      "key_variations": "I'd rather you + past simple.",
+      "essential_vocabulary_slots": "Desired actions.",
+      "common_learner_mistakes": "Using present or will after if.",
+      "chunk_compatibility": "\"I'd prefer it if you didn't smoke.\", \"I'd prefer it if we left early.\", \"I'd prefer it if you called first.\"",
+      "examples": [
+        "I'd prefer it if you parked somewhere else.",
+        "She'd prefer it if he didn't talk about politics.",
+        "I'd prefer it if we met tomorrow instead."
+      ]
+    }
+  ]
+}

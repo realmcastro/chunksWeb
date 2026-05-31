@@ -5,9 +5,10 @@
 ! receives the expression string + challengeId; the answer stays here.
 ! Challenges auto-expire after CHALLENGE_TTL_MS (2 minutes).
 !
-! Single-instance store — challenges are lost on restart. Acceptable
+! Single-instance store — challenges are lost on hard restart. Acceptable
 ! because captcha lifespan is short and restart just forces a new challenge.
 !
+! globalThis used to survive Next.js HMR module re-evaluation in dev.
 ! Stale entries are swept lazily on create and periodically (every 60s).
 */
 
@@ -19,13 +20,19 @@ interface Challenge {
   expiresAt: number;
 }
 
-const store = new Map<string, Challenge>();
-let lastSweep = Date.now();
+type CaptchaGlobal = {
+  __captchaStore?: Map<string, Challenge>;
+  __captchaLastSweep?: number;
+};
+
+const g = globalThis as typeof globalThis & CaptchaGlobal;
+const store: Map<string, Challenge> = g.__captchaStore ?? (g.__captchaStore = new Map());
+let lastSweep: number = g.__captchaLastSweep ?? (g.__captchaLastSweep = Date.now());
 
 function sweep() {
   const now = Date.now();
   if (now - lastSweep < SWEEP_INTERVAL_MS) return;
-  lastSweep = now;
+  lastSweep = g.__captchaLastSweep = now;
   store.forEach((challenge, id) => {
     if (now > challenge.expiresAt) store.delete(id);
   });

@@ -46,8 +46,7 @@ export function MathCaptcha({ onSolved }: MathCaptchaProps) {
   }, [fetchChallenge]);
 
   const handleSubmit = useCallback(
-    (e: React.FormEvent) => {
-      e.preventDefault();
+    () => {
       const numAnswer = parseInt(answer.trim(), 10);
       if (isNaN(numAnswer)) {
         setError(true);
@@ -68,7 +67,7 @@ export function MathCaptcha({ onSolved }: MathCaptchaProps) {
   }
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-3">
+    <div className="space-y-3">
       <div className="text-center">
         <label htmlFor="captcha-answer" className="text-lg font-medium">
           {expression} = ?
@@ -82,15 +81,16 @@ export function MathCaptcha({ onSolved }: MathCaptchaProps) {
           value={answer}
           onChange={(e) => setAnswer(e.target.value)}
           placeholder={t('captcha.typeAnswer') ?? 'Type your answer'}
-          className={`flex-1 px-3 py-2 border rounded-md text-center text-lg ${
-            error ? 'border-red-500 bg-red-50 dark:bg-red-950' : 'border-input'
+          className={`flex-1 px-3 py-2 border rounded-md text-center text-lg bg-background text-foreground ${
+            error ? 'border-red-500' : 'border-input'
           }`}
           autoFocus
           autoComplete="off"
           aria-label={`What is ${expression}?`}
         />
         <button
-          type="submit"
+          type="button"
+          onClick={handleSubmit}
           className="px-4 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90"
         >
           {t('captcha.verify') ?? 'Verify'}
@@ -108,6 +108,6 @@ export function MathCaptcha({ onSolved }: MathCaptchaProps) {
       >
         {t('captcha.newChallenge') ?? 'Get a new problem'}
       </button>
-    </form>
+    </div>
   );
 }

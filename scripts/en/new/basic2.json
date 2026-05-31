@@ -1,0 +1,515 @@
+{
+  "title": "Essential tense and aspect patterns",
+  "structures": [
+    {
+      "id": 1,
+      "structure": "Present Simple for facts/routines",
+      "core_meaning": "Permanent truths, habits, routines.",
+      "primary_communicative_function": "Stating general truths, describing daily life.",
+      "when_to_use": "With adverbs of frequency, general facts, schedules.",
+      "pattern": "[Subject] + verb / verb-s + (object) + (time expression)",
+      "key_variations": "always, usually, often, sometimes, never.",
+      "essential_vocabulary_slots": "Routine verbs (wake up, get, go, have, start, finish).",
+      "common_learner_mistakes": "Missing -s, using present continuous for habits.",
+      "chunk_compatibility": "\"I usually get up at 7.\", \"She never eats meat.\", \"Water boils at 100 degrees.\"",
+      "examples": [
+        "The sun rises in the east.",
+        "He drinks coffee every morning.",
+        "Do you play tennis on Sundays?"
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "Present Continuous for current action",
+      "core_meaning": "Action happening at the moment of speaking.",
+      "primary_communicative_function": "Describing what’s happening now.",
+      "when_to_use": "With now, right now, at the moment; temporary situations.",
+      "pattern": "[Subject] + am/is/are + [verb-ing]",
+      "key_variations": "Time markers; negative: not + verb-ing; questions.",
+      "essential_vocabulary_slots": "Action verbs (doing, waiting, raining, wearing).",
+      "common_learner_mistakes": "Using with stative verbs (I am wanting), omitting be.",
+      "chunk_compatibility": "\"I'm working at the moment.\", \"It's raining.\", \"What are you doing?\"",
+      "examples": [
+        "She is cooking dinner now.",
+        "They are not listening.",
+        "Are you waiting for someone?"
+      ]
+    },
+    {
+      "id": 3,
+      "structure": "Present Continuous for future arrangements",
+      "core_meaning": "Fixed future plan (social/professional).",
+      "primary_communicative_function": "Talking about definite plans in near future.",
+      "when_to_use": "When time and place are decided (diary future).",
+      "pattern": "[Subject] + am/is/are + [verb-ing] + future time expression",
+      "key_variations": "Going to vs Present Continuous for plans.",
+      "essential_vocabulary_slots": "Verbs of movement/activity (meeting, going, seeing, having, leaving).",
+      "common_learner_mistakes": "Forgetting time marker, using for general future without arrangement.",
+      "chunk_compatibility": "\"I'm meeting her tomorrow.\", \"We're flying to Rome next week.\", \"He's having dinner with friends tonight.\"",
+      "examples": [
+        "She's starting a new job on Monday.",
+        "What are you doing this weekend?",
+        "I'm not working next Friday."
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "Past Simple for completed events",
+      "core_meaning": "Finished actions at a specific past time.",
+      "primary_communicative_function": "Narrating past events, telling stories.",
+      "when_to_use": "With yesterday, last night, ago, in 2010, when I was a child.",
+      "pattern": "[Subject] + [past tense verb] + (object/time)",
+      "key_variations": "Regular -ed, irregular forms; negatives with didn't; questions with Did.",
+      "essential_vocabulary_slots": "Common past verbs (went, did, had, saw, ate, got, took).",
+      "common_learner_mistakes": "Using present after did (Did you went?), forgetting time marker for clear past.",
+      "chunk_compatibility": "\"I saw a movie last night.\", \"She didn't come.\", \"When did you arrive?\"",
+      "examples": [
+        "We moved here five years ago.",
+        "He forgot his keys.",
+        "They didn't enjoy the party."
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "Past Continuous (was/were + verb-ing)",
+      "core_meaning": "Action in progress at a specific past time, background activity.",
+      "primary_communicative_function": "Setting the scene, interrupted actions.",
+      "when_to_use": "When another action happened, longer action in past.",
+      "pattern": "[Subject] + was/were + [verb-ing]",
+      "key_variations": "While/as; interrupted by Past Simple; all morning/day.",
+      "essential_vocabulary_slots": "Activity verbs.",
+      "common_learner_mistakes": "Using for short completed events, forgetting was/were.",
+      "chunk_compatibility": "\"I was sleeping when you called.\", \"What were you doing at 8pm?\"",
+      "examples": [
+        "At 9 o'clock I was working.",
+        "She was cooking while he was watching TV.",
+        "They weren't listening during the meeting."
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "Used to + base verb",
+      "core_meaning": "Past habit or state no longer true.",
+      "primary_communicative_function": "Contrasting past with present.",
+      "when_to_use": "To talk about discontinued habits/states.",
+      "pattern": "[Subject] + used to + [base verb]",
+      "key_variations": "Negative: didn't use to; Question: Did you use to...?",
+      "essential_vocabulary_slots": "Past activities, states (live, smoke, play, be).",
+      "common_learner_mistakes": "Use to in present context, writing \"use to\" in affirmative.",
+      "chunk_compatibility": "\"I used to play the piano.\", \"She didn't use to like coffee.\", \"Did you use to live here?\"",
+      "examples": [
+        "My dad used to smoke.",
+        "This building used to be a cinema.",
+        "I didn't use to enjoy studying."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "Present Perfect for life experience",
+      "core_meaning": "Experience without specifying when.",
+      "primary_communicative_function": "Asking and talking about ever/never experiences.",
+      "when_to_use": "With ever, never, before, superlatives (the best I have ever ...).",
+      "pattern": "[Subject] + have/has + ever/never + [past participle]",
+      "key_variations": "Have you ever ...?, She's never + past participle.",
+      "essential_vocabulary_slots": "Past participles, experience verbs.",
+      "common_learner_mistakes": "Adding a specific time (I have ever been to Paris in 2015).",
+      "chunk_compatibility": "\"Have you ever tried sushi?\", \"I've never been to Asia.\", \"It's the best movie I've ever seen.\"",
+      "examples": [
+        "I have never ridden a horse.",
+        "Has she ever met a celebrity?",
+        "We have visited London twice."
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "Present Perfect with just/already/yet",
+      "core_meaning": "Recent events, result, expectation.",
+      "primary_communicative_function": "Reporting new information, completion status.",
+      "when_to_use": "Just (very recent), already (sooner than expected), yet (expected, in questions/negatives).",
+      "pattern": "[Subject] + have/has + just/already + past participle; (negative) haven't/hasn't + past participle + yet",
+      "key_variations": "Yet at end of sentence.",
+      "essential_vocabulary_slots": "Verbs of completion (finish, eat, see, arrive).",
+      "common_learner_mistakes": "Yet in positive statements, word order of just/already (before participle).",
+      "chunk_compatibility": "\"I've just finished.\", \"She's already left.\", \"Have you eaten yet?\"",
+      "examples": [
+        "I've just seen Paul.",
+        "We haven't decided yet.",
+        "He has already paid the bill."
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "Present Perfect with for/since (duration)",
+      "core_meaning": "Action/state continuing from past to present.",
+      "primary_communicative_function": "Saying how long something has been true.",
+      "when_to_use": "With verbs that can continue (live, work, know, have, be).",
+      "pattern": "[Subject] + have/has + [past participle] + for/since + time",
+      "key_variations": "for + period; since + point in time. Present Perfect Continuous possible with action verbs.",
+      "essential_vocabulary_slots": "Duration words, state verbs.",
+      "common_learner_mistakes": "Using present simple (I live here since 2010), mixing for and since.",
+      "chunk_compatibility": "\"I've known her for ten years.\", \"He's worked here since 2018.\", \"How long have you been here?\"",
+      "examples": [
+        "I have lived in this city since 2015.",
+        "She has had this car for two months.",
+        "How long have you known each other?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Past Perfect (had + past participle)",
+      "core_meaning": "Past before past.",
+      "primary_communicative_function": "Showing sequence of two past events.",
+      "when_to_use": "When one past action happened before another past action.",
+      "pattern": "[Subject] + had + [past participle] + when/by the time/before + Past Simple",
+      "key_variations": "Already, just, never with Past Perfect.",
+      "essential_vocabulary_slots": "Past actions.",
+      "common_learner_mistakes": "Using Past Perfect without second past action, overuse when order is clear.",
+      "chunk_compatibility": "\"When I arrived, the train had already left.\", \"She had never seen snow before she moved to Canada.\"",
+      "examples": [
+        "I had finished my work before the meeting started.",
+        "He realized he had lost his wallet.",
+        "By 10 pm, they had already gone to bed."
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "Future: will vs going to (predictions)",
+      "core_meaning": "Prediction based on opinion (will) vs evidence (going to).",
+      "primary_communicative_function": "Making predictions about the future.",
+      "when_to_use": "Use going to when you see something now; will for general opinion.",
+      "pattern": "I think + will; Look at... + going to.",
+      "key_variations": "Might for uncertain predictions.",
+      "essential_vocabulary_slots": "Weather, outcomes.",
+      "common_learner_mistakes": "Using will when there is clear evidence.",
+      "chunk_compatibility": "\"I think it will rain.\" vs \"Look! It's going to rain.\"",
+      "examples": [
+        "I think Brazil will win the match.",
+        "She's going to have a baby. (seen her belly)",
+        "The traffic is terrible. We're going to be late."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "Future with Present Simple (schedules)",
+      "core_meaning": "Timetabled future events.",
+      "primary_communicative_function": "Talking about schedules, programs.",
+      "when_to_use": "For fixed timetables (transport, movies, classes).",
+      "pattern": "[Subject] + verb/verb-s + future time",
+      "key_variations": "The train leaves at 6 pm; What time does the show start?",
+      "essential_vocabulary_slots": "Events (class, flight, meeting).",
+      "common_learner_mistakes": "Using will for timetables (The train will leave at 6) unnatural.",
+      "chunk_compatibility": "\"The bus leaves at 8.\", \"My flight arrives at noon.\"",
+      "examples": [
+        "The meeting starts at 9 am tomorrow.",
+        "What time does the film begin?",
+        "School finishes on 15th June."
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "Future Continuous (will be + verb-ing)",
+      "core_meaning": "Action in progress at a future time.",
+      "primary_communicative_function": "Describing ongoing future activity, polite enquiries about plans.",
+      "when_to_use": "At this time tomorrow, Will you be using...? (polite)",
+      "pattern": "[Subject] + will be + [verb-ing] + future time",
+      "key_variations": "By this time next week; might be + -ing.",
+      "essential_vocabulary_slots": "Activity verbs.",
+      "common_learner_mistakes": "Using for simple future events.",
+      "chunk_compatibility": "\"I'll be waiting outside.\", \"This time tomorrow I'll be lying on the beach.\"",
+      "examples": [
+        "Don't call at 8; I'll be eating dinner.",
+        "Will you be passing the supermarket?",
+        "Next month we'll be living in Madrid."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "be going to vs Present Continuous for plans",
+      "core_meaning": "Both for plans; going to more intention, PC more fixed arrangement.",
+      "primary_communicative_function": "Distinguishing between decided intention and definite plan.",
+      "when_to_use": "Going to for intention (I've decided), PC for diary arrangement (specific place/time).",
+      "pattern": "I'm going to travel next month. / I'm travelling to Berlin on Friday.",
+      "key_variations": "Both acceptable in many contexts.",
+      "essential_vocabulary_slots": "Travel, meetings.",
+      "common_learner_mistakes": "Using PC for strong intention without arrangement, using will for everything.",
+      "chunk_compatibility": "\"I'm going to start a course.\" vs \"I'm starting the course on Monday.\"",
+      "examples": [
+        "I'm going to learn Italian (intention). I'm starting lessons on Tuesday (arrangement).",
+        "We're going to buy a new car. We're seeing the dealer tomorrow.",
+        "She's going to invite them. She's having a party on Saturday."
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "Zero conditional (If + present, present)",
+      "core_meaning": "General truth, scientific fact.",
+      "primary_communicative_function": "Talking about things that always happen.",
+      "when_to_use": "Cause-effect that is always true.",
+      "pattern": "If + [Present Simple], [Present Simple]",
+      "key_variations": "When instead of if.",
+      "essential_vocabulary_slots": "Scientific verbs (heat, boil), daily cause-effect.",
+      "common_learner_mistakes": "Using will in both clauses.",
+      "chunk_compatibility": "\"If you heat water, it boils.\", \"If I sleep late, I feel tired.\"",
+      "examples": [
+        "If you mix blue and yellow, you get green.",
+        "When it rains, the streets get wet.",
+        "If I don't eat breakfast, I get hungry."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "First conditional (If + present, will + base)",
+      "core_meaning": "Real/possible future condition and result.",
+      "primary_communicative_function": "Talking about likely future situations.",
+      "when_to_use": "To discuss plans, warnings, promises.",
+      "pattern": "If + [Present Simple], [will + base verb]",
+      "key_variations": "Will can be replaced by can, might, imperative; unless.",
+      "essential_vocabulary_slots": "Future activities, consequences.",
+      "common_learner_mistakes": "Using will in the if-clause, confusing with zero.",
+      "chunk_compatibility": "\"If it rains, I'll take an umbrella.\", \"I'll call you if I'm late.\", \"If you don't hurry, we'll miss the bus.\"",
+      "examples": [
+        "If you study hard, you will pass the exam.",
+        "She will be angry if you forget her birthday.",
+        "If I see him, I'll tell him."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "Second conditional (If + past, would + base)",
+      "core_meaning": "Unreal, imaginary, or unlikely present/future situation.",
+      "primary_communicative_function": "Giving advice, dreaming, hypothetical scenarios.",
+      "when_to_use": "To talk about things that are not true or very unlikely.",
+      "pattern": "If + [Past Simple], [would + base verb]",
+      "key_variations": "If I were you, I'd... (advice). Could/might instead of would.",
+      "essential_vocabulary_slots": "Wishes, unreal situations.",
+      "common_learner_mistakes": "Using would in if-clause, using present for unreal.",
+      "chunk_compatibility": "\"If I had more money, I'd travel.\", \"If I were you, I'd talk to her.\", \"What would you do if you won the lottery?\"",
+      "examples": [
+        "If I knew the answer, I would tell you.",
+        "She would be happier if she lived near her family.",
+        "If he were here, he'd help us."
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "Third conditional (If + had + past participle, would have + past participle)",
+      "core_meaning": "Imaginary past situation, regret.",
+      "primary_communicative_function": "Talking about how things could have been different.",
+      "when_to_use": "To express past unreal conditions.",
+      "pattern": "If + [Past Perfect], [would have + past participle]",
+      "key_variations": "Might have, could have.",
+      "essential_vocabulary_slots": "Past events.",
+      "common_learner_mistakes": "Wrong structure, using second conditional for past.",
+      "chunk_compatibility": "\"If I had studied harder, I would have passed.\", \"I wouldn't have done that.\"",
+      "examples": [
+        "If we had left earlier, we wouldn't have missed the flight.",
+        "She would have helped if you had asked.",
+        "If I had known, I would have told you."
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "Mixed conditional (If + past perfect, would + base)",
+      "core_meaning": "Past condition with present result.",
+      "primary_communicative_function": "Explaining a present situation as result of past event.",
+      "when_to_use": "When a past action affects now.",
+      "pattern": "If + [Past Perfect], [would/could/might + base verb]",
+      "key_variations": "Not always if-clause first.",
+      "essential_vocabulary_slots": "State verbs, current situation.",
+      "common_learner_mistakes": "Using it for past result only.",
+      "chunk_compatibility": "\"If I had saved more money, I wouldn't be broke now.\", \"If she had taken the job, she'd be in London.\"",
+      "examples": [
+        "If you had listened to me, you wouldn't be in this mess.",
+        "I would be rich if I had bought that stock.",
+        "If he'd been born in Italy, he would speak Italian."
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "I wish + Past Simple (present wish)",
+      "core_meaning": "Desire for a different present reality.",
+      "primary_communicative_function": "Expressing regret about current situation.",
+      "when_to_use": "To talk about things you want to be different now.",
+      "pattern": "I wish + [subject] + [Past Simple]",
+      "key_variations": "I wish I could...; If only...",
+      "essential_vocabulary_slots": "State verbs, ability.",
+      "common_learner_mistakes": "Using present after wish (I wish I am...), using would wish.",
+      "chunk_compatibility": "\"I wish I had a bigger house.\", \"I wish I could swim.\", \"I wish it were Friday.\"",
+      "examples": [
+        "I wish I knew the answer.",
+        "She wishes she didn't have to work.",
+        "We wish we lived near the beach."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "I wish + Past Perfect (past regret)",
+      "core_meaning": "Regret about something that happened or didn't happen.",
+      "primary_communicative_function": "Saying \"if only I had/hadn't...\"",
+      "when_to_use": "To express regret about past actions.",
+      "pattern": "I wish + [subject] + had + [past participle]",
+      "key_variations": "If only...",
+      "essential_vocabulary_slots": "Past actions.",
+      "common_learner_mistakes": "Using present perfect or past simple.",
+      "chunk_compatibility": "\"I wish I had studied more.\", \"I wish you hadn't said that.\"",
+      "examples": [
+        "I wish I had taken the job.",
+        "She wishes she had listened to her mother.",
+        "They wish they hadn't moved."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "I wish + would + base (annoyance/future)",
+      "core_meaning": "Desire for someone/something to change behavior or for something to happen.",
+      "primary_communicative_function": "Complaining, hoping for change.",
+      "when_to_use": "When you are annoyed or want a different future action.",
+      "pattern": "I wish + [subject] + would + [base verb]",
+      "key_variations": "I wish it would stop...",
+      "essential_vocabulary_slots": "Actions that bother you.",
+      "common_learner_mistakes": "Using with I (I wish I would...) usually not.",
+      "chunk_compatibility": "\"I wish you would listen.\", \"I wish it would stop raining.\", \"I wish he wouldn't talk so loudly.\"",
+      "examples": [
+        "I wish the bus would come.",
+        "I wish my neighbors would be quieter.",
+        "Do you ever wish people would just leave you alone?"
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "Reported speech with backshift (said that...)",
+      "core_meaning": "Reporting what someone said, with tense shift.",
+      "primary_communicative_function": "Relaying past conversations.",
+      "when_to_use": "To tell someone what else someone said.",
+      "pattern": "[Subject] + said (that) + [clause with backshift]",
+      "key_variations": "Told + person; present simple -> past simple, will -> would, can -> could, etc.",
+      "essential_vocabulary_slots": "Reporting verbs (said, told, asked).",
+      "common_learner_mistakes": "Not backshifting, mixing direct speech, pronoun changes missed.",
+      "chunk_compatibility": "\"He said he was tired.\", \"She told me she would call.\", \"They said they had finished.\"",
+      "examples": [
+        "She said (that) she liked the movie.",
+        "He told me he had already eaten.",
+        "They said they were moving to Canada."
+      ]
+    },
+    {
+      "id": 24,
+      "structure": "Passive voice (be + past participle)",
+      "core_meaning": "Focus on action/object rather than doer.",
+      "primary_communicative_function": "When the agent is unknown, unimportant, or obvious.",
+      "when_to_use": "News, processes, formal English.",
+      "pattern": "[Subject] + am/is/are/was/were + [past participle] (+ by agent)",
+      "key_variations": "Modal passives (can be done); present perfect passive (has been done).",
+      "essential_vocabulary_slots": "Transitive verbs (make, build, write, steal).",
+      "common_learner_mistakes": "Overusing by-phrase, forgetting be, using intransitive verbs.",
+      "chunk_compatibility": "\"It was made in China.\", \"English is spoken here.\", \"The window was broken.\"",
+      "examples": [
+        "My car was stolen last night.",
+        "The report hasn't been finished yet.",
+        "This room is cleaned every day."
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "Have something done (causative)",
+      "core_meaning": "Arranging for someone else to do something for you.",
+      "primary_communicative_function": "Services, repairs, improvements.",
+      "when_to_use": "When you don't do it yourself.",
+      "pattern": "[Subject] + have/has/had + [object] + [past participle]",
+      "key_variations": "Get something done (informal); need something done.",
+      "essential_vocabulary_slots": "Services (cut, repaired, cleaned, painted).",
+      "common_learner_mistakes": "Thinking it's passive about subject (I had cut my hair vs I had my hair cut).",
+      "chunk_compatibility": "\"I had my hair done.\", \"She's having her house painted.\", \"Where do you get your car fixed?\"",
+      "examples": [
+        "I need to have my eyes tested.",
+        "We had our roof repaired last month.",
+        "He's getting his suit cleaned."
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "Comparative adjective + than",
+      "core_meaning": "Comparing two things (more...).",
+      "primary_communicative_function": "Expressing difference in quality/quantity.",
+      "when_to_use": "When two items are different.",
+      "pattern": "[Subject] + be + [comparative adjective] + than + [noun/pronoun]",
+      "key_variations": "much/a lot/a bit + comparative; as...as for equality.",
+      "essential_vocabulary_slots": "Common adjectives (taller, more expensive, better, worse).",
+      "common_learner_mistakes": "Double comparative (more taller), using as...than, forgetting than.",
+      "chunk_compatibility": "\"I'm taller than you.\", \"This is more interesting than that.\", \"It's better than before.\"",
+      "examples": [
+        "My car is faster than yours.",
+        "This book is more difficult than the last one.",
+        "She's younger than me."
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "Superlative adjective",
+      "core_meaning": "The highest degree in a group.",
+      "primary_communicative_function": "Stating the number one in quality.",
+      "when_to_use": "To describe extremes within a set.",
+      "pattern": "[Subject] + be + the + [superlative adjective] (+ in/of group)",
+      "key_variations": "One of the + superlative + plural noun.",
+      "essential_vocabulary_slots": "Extreme adjectives (best, worst, biggest, most beautiful).",
+      "common_learner_mistakes": "Forgetting \"the\", using comparative instead of superlative.",
+      "chunk_compatibility": "\"She's the smartest in the class.\", \"This is the best pizza ever.\", \"It's the most expensive hotel.\"",
+      "examples": [
+        "Russia is the largest country.",
+        "He's the funniest person I know.",
+        "This is the worst day of my life."
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Not as + adjective + as",
+      "core_meaning": "Inferior or not equal comparison.",
+      "primary_communicative_function": "Saying something is less or not equal.",
+      "when_to_use": "To deny equality.",
+      "pattern": "[Subject] + be + not as + [adjective] + as + [other]",
+      "key_variations": "less + adjective + than (formal); as...as affirmative (He's as tall as me).",
+      "essential_vocabulary_slots": "Adjectives.",
+      "common_learner_mistakes": "Using not so...as (acceptable but less taught), incorrect adjective form.",
+      "chunk_compatibility": "\"It's not as good as I thought.\", \"She's not as old as her sister.\"",
+      "examples": [
+        "This phone isn't as expensive as that one.",
+        "I'm not as tired as yesterday.",
+        "The exam was not as difficult as we expected."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "as ... as (equality)",
+      "core_meaning": "Equality in quality or quantity.",
+      "primary_communicative_function": "Comparing similarities.",
+      "when_to_use": "When two things are equal.",
+      "pattern": "as + [adjective/adverb] + as + [noun/pronoun/clause]",
+      "key_variations": "as much/many as.",
+      "essential_vocabulary_slots": "Adjectives (good, fast, tall, hard).",
+      "common_learner_mistakes": "Using than instead of as.",
+      "chunk_compatibility": "\"You're as tall as your dad.\", \"It's as good as new.\", \"He can't run as fast as his brother.\"",
+      "examples": [
+        "She's as smart as her sister.",
+        "I work as hard as you.",
+        "This cake is not as sweet as the last one. (negative equality)"
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "Question tag",
+      "core_meaning": "Checking information or inviting agreement.",
+      "primary_communicative_function": "Making conversation, confirming.",
+      "when_to_use": "After statements, expecting yes/no.",
+      "pattern": "[Positive statement], [negative tag]? / [Negative statement], [positive tag]?",
+      "key_variations": "Tags with auxiliary (aren't you?, isn't it?, didn't you?, can't you?, shall we?).",
+      "essential_vocabulary_slots": "Pronouns, auxiliaries.",
+      "common_learner_mistakes": "Wrong polarity (You're tired, isn't it?), wrong pronoun.",
+      "chunk_compatibility": "\"You're coming, aren't you?\", \"It's cold, isn't it?\", \"You don't know, do you?\"",
+      "examples": [
+        "He's a teacher, isn't he?",
+        "You won't forget, will you?",
+        "They went home, didn't they?"
+      ]
+    }
+  ]
+}

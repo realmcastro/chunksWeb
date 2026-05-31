@@ -1,0 +1,2474 @@
+{
+  "core_sentence_architecture": [
+    {
+      "id": 1,
+      "structure": "Subject + be + noun",
+      "core_meaning": "Identifying or naming a person, thing, or concept.",
+      "primary_communicative_function": "Introducing oneself, others, or objects.",
+      "when_to_use": "When you want to say what something or someone is.",
+      "pattern": "[I/You/He/She/It/We/They] + am/is/are + [noun/noun phrase]",
+      "key_variations": "Negative: Subject + be + not + noun ; Question: Be + subject + noun?",
+      "essential_vocabulary_slots": "Pronouns, common nouns (teacher, student, book, dog), jobs, nationalities.",
+      "common_learner_mistakes": "Omitting the article (\"I am teacher\"), confusing is/are, using \"be\" incorrectly.",
+      "chunk_compatibility": "\"I'm a ...\", \"It's a ...\", \"Are you a ...?\"",
+      "examples": ["I am a student.", "She is my friend.", "They are doctors."]
+    },
+    {
+      "id": 2,
+      "structure": "Subject + be + adjective",
+      "core_meaning": "Describing a quality or state.",
+      "primary_communicative_function": "Giving personal descriptions, expressing feelings.",
+      "when_to_use": "To describe people, things, situations, or feelings.",
+      "pattern": "[Subject] + am/is/are + [adjective]",
+      "key_variations": "Negative: not + adjective; Question: Be + subject + adjective?; very/really + adjective.",
+      "essential_vocabulary_slots": "Common adjectives (happy, big, tired, hungry, beautiful, cold, important).",
+      "common_learner_mistakes": "Using \"is\" for all subjects, adding \"-ing\" to adjectives unnecessarily, forgetting \"be\".",
+      "chunk_compatibility": "\"I'm ...\", \"It's really ...\", \"Are you ...?\"",
+      "examples": ["I am tired.", "This book is interesting.", "They are happy today."]
+    },
+    {
+      "id": 3,
+      "structure": "Subject + action verb",
+      "core_meaning": "Expressing an action.",
+      "primary_communicative_function": "Saying what someone or something does.",
+      "when_to_use": "For simple present actions, habits, general truths.",
+      "pattern": "[I/You/We/They] + base verb; [He/She/It] + verb-s/-es",
+      "key_variations": "Negative: don't/doesn't + base verb; Question: Do/Does + subject + base verb?",
+      "essential_vocabulary_slots": "High-frequency verbs (eat, go, live, work, like, have, play, speak, want).",
+      "common_learner_mistakes": "Forgetting -s for third person singular, using \"do\" in affirmative statements, double negatives.",
+      "chunk_compatibility": "\"I live in ...\", \"She works at ...\", \"Do you like ...?\"",
+      "examples": ["I play football.", "He works in a hospital.", "They speak English very well."]
+    },
+    {
+      "id": 4,
+      "structure": "Subject + be + prepositional phrase (location)",
+      "core_meaning": "Stating where someone or something is.",
+      "primary_communicative_function": "Giving and asking for locations.",
+      "when_to_use": "To describe position, place, or origin.",
+      "pattern": "[Subject] + am/is/are + [preposition] + [place]",
+      "key_variations": "Negative: not + there; Question: Be + subject + preposition + place?; common prepositions: in, on, at, under, next to.",
+      "essential_vocabulary_slots": "Place nouns (room, city, table, park), prepositions of place.",
+      "common_learner_mistakes": "Wrong preposition (in/on/at), omitting \"be\", word order (place before be).",
+      "chunk_compatibility": "\"It's in the ...\", \"I'm at ...\", \"Where are ...?\"",
+      "examples": ["The cat is under the table.", "We are at the park.", "She is in London."]
+    },
+    {
+      "id": 5,
+      "structure": "There is / There are + noun (+ location)",
+      "core_meaning": "Expressing existence or presence.",
+      "primary_communicative_function": "Introducing a new thing or person into conversation.",
+      "when_to_use": "To say that something exists, especially in a place.",
+      "pattern": "There is + singular/uncountable noun; There are + plural noun (+ in/on/at place)",
+      "key_variations": "Negative: There isn't / There aren't; Question: Is there / Are there?; There's a lot of...",
+      "essential_vocabulary_slots": "Common nouns (book, people, milk, problem), place names, quantifiers (a, some, any, many).",
+      "common_learner_mistakes": "Using \"have\" instead of \"there is/are\" (e.g., \"The room has a table\"), agreement errors (there is + plural noun).",
+      "chunk_compatibility": "\"There's a ... in my ...\", \"Are there any ...?\"",
+      "examples": [
+        "There is a cat in the garden.",
+        "There are three books on the desk.",
+        "Is there any milk in the fridge?"
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "Subject + have/has got + noun",
+      "core_meaning": "Possession (mainly British) or immediate relevance.",
+      "primary_communicative_function": "Talking about what you have, characteristics, or family.",
+      "when_to_use": "Informal spoken British English or to describe current possession, appearance, or relationships.",
+      "pattern": "I/You/We/They + have got; He/She/It + has got + [noun/noun phrase]",
+      "key_variations": "Negative: haven't got / hasn't got; Question: Have/Has + subject + got?; contraction: 've got, 's got.",
+      "essential_vocabulary_slots": "Possessions (car, phone), family members (brother, sister), physical features (blue eyes, long hair).",
+      "common_learner_mistakes": "Using \"got\" alone without have/has, using \"have got\" for past possession, forgetting \"got\" in questions.",
+      "chunk_compatibility": "\"I've got a ...\", \"Has she got ...?\", \"He's got ...\"",
+      "examples": [
+        "I have got a new phone.",
+        "She has got two brothers.",
+        "Have you got any money?"
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "Subject + have + noun (without got)",
+      "core_meaning": "Possession, relationships, or characteristics.",
+      "primary_communicative_function": "Stating what you own, family, or attributes (more universal/formal than have got).",
+      "when_to_use": "All registers, esp. American English; for habits, general facts.",
+      "pattern": "[Subject] + have/has + [noun phrase]",
+      "key_variations": "Negative: don't have / doesn't have; Question: Do/Does + subject + have?; have + abstract noun (I have an idea).",
+      "essential_vocabulary_slots": "Same as have got, plus abstract nouns (time, problem, appointment).",
+      "common_learner_mistakes": "Using have got in formal writing, incorrect auxiliary in negatives (using \"haven't\" instead of \"don't have\" for habitual possession).",
+      "chunk_compatibility": "\"I have a question\", \"Do you have a ...?\", \"She doesn't have ...\"",
+      "examples": [
+        "I have a dog.",
+        "He doesn't have any brothers.",
+        "Do you have time for a coffee?"
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "Subject + action verb + object",
+      "core_meaning": "A person/thing does something to someone/something.",
+      "primary_communicative_function": "Expressing transitive actions.",
+      "when_to_use": "When the action directly affects an object.",
+      "pattern": "[Subject] + [verb] + [object noun/noun phrase]",
+      "key_variations": "Negative: don't/doesn't + verb + object; Question: Do/Does + subject + verb + object?; object pronouns (me, him, it).",
+      "essential_vocabulary_slots": "Transitive high-frequency verbs (eat, drink, read, watch, need, want, love, like, help).",
+      "common_learner_mistakes": "Omitting the object when needed, incorrect object pronoun form (she likes he).",
+      "chunk_compatibility": "\"I like ...\", \"She wants ...\", \"Do you need ...?\"",
+      "examples": ["I like pizza.", "He reads books every day.", "She doesn't watch TV."]
+    },
+    {
+      "id": 9,
+      "structure": "Subject + action verb + indirect object + direct object",
+      "core_meaning": "Giving or communicating something to someone.",
+      "primary_communicative_function": "Expressing transfers, telling, showing.",
+      "when_to_use": "With verbs like give, send, show, tell, buy, bring.",
+      "pattern": "[Subject] + [verb] + [person] + [thing]",
+      "key_variations": "Alternative: Subject + verb + direct object + to/for + indirect object (give the book to Mary); pronouns order.",
+      "essential_vocabulary_slots": "Dative verbs (give, send, tell, show, buy, bring, make, offer), people, common objects.",
+      "common_learner_mistakes": "Wrong preposition (I gave to him the book), pronoun order (I gave it him -> I gave it to him).",
+      "chunk_compatibility": "\"Can you give me ...?\", \"I'll show you ...\", \"She sent me a ...\"",
+      "examples": [
+        "I gave my mother a present.",
+        "She sent me an email.",
+        "Can you tell me your name?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Subject + be + verb-ing (Present Continuous)",
+      "core_meaning": "Action happening right now, temporary situation.",
+      "primary_communicative_function": "Describing current activities.",
+      "when_to_use": "For actions in progress at the moment of speaking, or around now.",
+      "pattern": "[Subject] + am/is/are + [verb-ing]",
+      "key_variations": "Negative: am not/isn't/aren't + verb-ing; Question: Are/Is + subject + verb-ing?; time markers (now, right now, at the moment).",
+      "essential_vocabulary_slots": "Action verbs (doing, going, eating, reading, waiting, working, studying).",
+      "common_learner_mistakes": "Using present simple for now (I eat now), forgetting be (I going), stative verbs in continuous (I am wanting).",
+      "chunk_compatibility": "\"I'm working on ...\", \"What are you doing?\", \"She's coming.\"",
+      "examples": ["I am reading a book right now.", "He is sleeping.", "What are you doing?"]
+    },
+    {
+      "id": 11,
+      "structure": "Be + subject + complement? (Yes/No question with be)",
+      "core_meaning": "Asking about identity, state, or location.",
+      "primary_communicative_function": "Simple information checking.",
+      "when_to_use": "To get a yes/no answer about a person's or thing's nature.",
+      "pattern": "Am/Is/Are + [subject] + [noun/adjective/preposition phrase]?",
+      "key_variations": "Short answers: Yes, I am. / No, he isn't.; negative questions: Isn't he a teacher?",
+      "essential_vocabulary_slots": "As in statements.",
+      "common_learner_mistakes": "Using DO (Do you be ...?), not inverting (You are tired?).",
+      "chunk_compatibility": "\"Are you okay?\", \"Is it ready?\", \"Am I late?\"",
+      "examples": ["Are you a doctor?", "Is she hungry?", "Are they at home?"]
+    },
+    {
+      "id": 12,
+      "structure": "Do/Does + subject + base verb + ...? (Yes/No question)",
+      "core_meaning": "Asking about actions, habits, facts.",
+      "primary_communicative_function": "Checking if something is true or happens.",
+      "when_to_use": "For yes/no questions about present actions.",
+      "pattern": "Do/Does + [subject] + [base verb] + [rest]?",
+      "key_variations": "Short answers: Yes, I do. / No, she doesn't.; negative questions: Don't you like it?; subject question: Who eats apples? (no do).",
+      "essential_vocabulary_slots": "High-frequency action verbs.",
+      "common_learner_mistakes": "Using DO with be (Do you are...), forgetting base after does (Does she likes...), missing auxiliary.",
+      "chunk_compatibility": "\"Do you speak ...?\", \"Does he live ...?\", \"Do I need ...?\"",
+      "examples": ["Do you like coffee?", "Does she work here?", "Do they have a car?"]
+    },
+    {
+      "id": 13,
+      "structure": "Wh-word + be + subject + ...? (Wh-question with be)",
+      "core_meaning": "Asking for specific information about identity, location, quality, etc.",
+      "primary_communicative_function": "Getting details.",
+      "when_to_use": "To ask who, what, where, when (with be), why, how.",
+      "pattern": "Wh-word + am/is/are + [subject] (+ ...)?",
+      "key_variations": "Who as subject (Who is that?); Which + noun; How + adjective (How old are you?).",
+      "essential_vocabulary_slots": "Wh-words (what, where, who, when, why, how), nouns, adjectives.",
+      "common_learner_mistakes": "Forgetting be (Where you from?), wrong word order (You are from where?).",
+      "chunk_compatibility": "\"Where are you from?\", \"What's your name?\", \"How are you?\"",
+      "examples": ["Where are you from?", "What is your job?", "How old is she?"]
+    },
+    {
+      "id": 14,
+      "structure": "Wh-word + do/does + subject + base verb + ...? (Wh-question with other verbs)",
+      "core_meaning": "Asking for information about actions or facts.",
+      "primary_communicative_function": "Getting details about activities.",
+      "when_to_use": "To ask what, where, when, why, how about someone's actions.",
+      "pattern": "Wh-word + do/does + [subject] + [base verb] (+ rest)?",
+      "key_variations": "When the wh-word is the subject: Who eats? (no do). How often, how many, etc.",
+      "essential_vocabulary_slots": "Wh-words, action verbs, frequency expressions.",
+      "common_learner_mistakes": "No do-insertion (Where you live?), using verb form (Where do you lives?), double mark.",
+      "chunk_compatibility": "\"Where do you live?\", \"What do you do?\", \"How do you spell ...?\"",
+      "examples": ["Where do you work?", "What does she want?", "How do you go to school?"]
+    },
+    {
+      "id": 15,
+      "structure": "Subject + can + base verb (ability)",
+      "core_meaning": "Ability or possibility.",
+      "primary_communicative_function": "Talking about skills, what is possible, or offering help.",
+      "when_to_use": "For present abilities, informal permission, or suggestions.",
+      "pattern": "[Subject] + can + [base verb] (+ object)",
+      "key_variations": "Negative: cannot/can't; Question: Can + subject + base verb?; can for requests (Can you open the door?).",
+      "essential_vocabulary_slots": "Skill verbs (swim, drive, speak, cook), sense verbs (see, hear).",
+      "common_learner_mistakes": "Adding -s in third person (She cans swim), using to after can, mixing with present continuous.",
+      "chunk_compatibility": "\"I can help you.\", \"Can you ...?\", \"I can't ...\"",
+      "examples": ["I can swim.", "She can speak three languages.", "Can you open the window?"]
+    },
+    {
+      "id": 16,
+      "structure": "Subject + like/love/hate + noun/verb-ing",
+      "core_meaning": "Expressing preferences, likes and dislikes.",
+      "primary_communicative_function": "Personal taste, hobbies.",
+      "when_to_use": "To say what activities/things you enjoy or not.",
+      "pattern": "[Subject] + like/love/hate/enjoy/don't mind + [noun / verb-ing]",
+      "key_variations": "Do you like?; really like; prefer; would like + to-inf (for specific desire).",
+      "essential_vocabulary_slots": "Hobby nouns and verbs (reading, music, football, cooking, dogs).",
+      "common_learner_mistakes": "Using to-infinitive after like for general preference (I like to swim. — acceptable but verb-ing more common for general hobbies), omitting -ing.",
+      "chunk_compatibility": "\"I like watching movies.\", \"Do you like ...?\", \"She loves ...\"",
+      "examples": ["I like swimming.", "She hates getting up early.", "Do you like pizza?"]
+    },
+    {
+      "id": 17,
+      "structure": "Subject + want + noun / to + verb",
+      "core_meaning": "Desire or wish.",
+      "primary_communicative_function": "Expressing what you wish to have or do.",
+      "when_to_use": "For desires, intentions, making polite requests (I want you to...).",
+      "pattern": "I/You/We/They want; He/She/It wants + [noun] or [to + base verb]",
+      "key_variations": "Negative: don't/doesn't want; Question: Do you want ...?; Want + someone + to (I want you to come).",
+      "essential_vocabulary_slots": "Nouns (drink, break), action verbs.",
+      "common_learner_mistakes": "Want + that-clause (I want that you go), forgetting -s, using to with noun (I want to water).",
+      "chunk_compatibility": "\"I want to go home.\", \"Do you want some tea?\", \"She wants a ...\"",
+      "examples": ["I want a glass of water.", "He wants to leave now.", "She doesn't want to eat."]
+    },
+    {
+      "id": 18,
+      "structure": "Let's + base verb",
+      "core_meaning": "Making a suggestion involving the speaker and listener.",
+      "primary_communicative_function": "Proposing group action.",
+      "when_to_use": "When you want to include everyone in an activity.",
+      "pattern": "Let's + [base verb] (+ rest)",
+      "key_variations": "Let's not; Shall we? tag; How about + verb-ing? alternative.",
+      "essential_vocabulary_slots": "Activity verbs (go, eat, start, take, dance).",
+      "common_learner_mistakes": "Adding -s, using to after let's, using with third person (Let's he goes...).",
+      "chunk_compatibility": "\"Let's go!\", \"Let's have lunch.\", \"Let's not be late.\"",
+      "examples": ["Let's take a taxi.", "Let's not wait.", "Let's eat."]
+    },
+    {
+      "id": 19,
+      "structure": "Imperative (Base verb)",
+      "core_meaning": "Giving orders, instructions, or suggestions.",
+      "primary_communicative_function": "Directing someone's action.",
+      "when_to_use": "Commands, recipes, directions, offers, invitations.",
+      "pattern": "[Base verb] (+ object/rest)",
+      "key_variations": "Negative: Don't + base verb; Polite with \"please\"; Let's (including speaker).",
+      "essential_vocabulary_slots": "Action verbs (stop, open, sit, turn, come).",
+      "common_learner_mistakes": "Using subject you (You sit down), forgetting negative form (No open).",
+      "chunk_compatibility": "\"Come in!\", \"Turn left.\", \"Don't worry.\"",
+      "examples": ["Open your books.", "Don't touch that.", "Please sit down."]
+    },
+    {
+      "id": 20,
+      "structure": "Subject + would like + noun / to + verb",
+      "core_meaning": "Polite desire or offer.",
+      "primary_communicative_function": "Making polite requests, offers, invitations (more polite than \"want\").",
+      "when_to_use": "In formal/customer service settings, to sound polite.",
+      "pattern": "[Subject] + would like ('d like) + [noun] or [to + base verb]",
+      "key_variations": "Would you like...? for offers; I'd like to have...",
+      "essential_vocabulary_slots": "Items (menu, drink), activities.",
+      "common_learner_mistakes": "Using like without would (I like a coffee now — sounds general preference), using -ing after would like.",
+      "chunk_compatibility": "\"I'd like a coffee, please.\", \"Would you like to come?\", \"She'd like to speak to ...\"",
+      "examples": [
+        "I would like some water.",
+        "Would you like a biscuit?",
+        "He'd like to see the manager."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "It is + adjective + to + verb",
+      "core_meaning": "Making a general statement about an action.",
+      "primary_communicative_function": "Evaluating an activity, giving opinion about a process.",
+      "when_to_use": "To say that doing something is easy, important, difficult, etc.",
+      "pattern": "It is + [adjective] + to + [base verb] (+ object)",
+      "key_variations": "It's + adjective + for someone + to; negative: not + adjective.",
+      "essential_vocabulary_slots": "Evaluative adjectives (easy, hard, important, necessary, fun, possible).",
+      "common_learner_mistakes": "Using that-clause (It is important that...), missing to, using for incorrectly.",
+      "chunk_compatibility": "\"It's nice to meet you.\", \"It's hard to say.\", \"Is it safe to ...?\"",
+      "examples": [
+        "It's easy to make mistakes.",
+        "It is important to be on time.",
+        "It's not difficult to learn."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "Subject + be + going to + verb (future plan/intention)",
+      "core_meaning": "Future plan or intention, or prediction based on present evidence.",
+      "primary_communicative_function": "Talking about future arrangements or obvious predictions.",
+      "when_to_use": "When you have already decided to do something or see something about to happen.",
+      "pattern": "[Subject] + am/is/are + going to + [base verb]",
+      "key_variations": "Question: Are you going to...?; negative: not going to; gonna (spoken).",
+      "essential_vocabulary_slots": "Action verbs.",
+      "common_learner_mistakes": "Using will for everything, forgetting be, using going to go excessively (I'm going to go shopping -> I'm going shopping also possible).",
+      "chunk_compatibility": "\"I'm going to call you.\", \"It's going to rain.\", \"Are you going to ...?\"",
+      "examples": [
+        "I'm going to visit my grandmother.",
+        "She is going to buy a new car.",
+        "Look at those clouds! It's going to rain."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "Subject + be + past simple of be (was/were)",
+      "core_meaning": "Past identity, state, location.",
+      "primary_communicative_function": "Talking about past situations.",
+      "when_to_use": "For past descriptions, jobs, feelings, places.",
+      "pattern": "I/He/She/It + was; We/You/They + were (+ noun/adjective/prep phrase)",
+      "key_variations": "Negative: wasn't/weren't; Question: Was/Were + subject...?",
+      "essential_vocabulary_slots": "Past time expressions (yesterday, last night, in 2010), same complements.",
+      "common_learner_mistakes": "Using was with plural (we was), using be in past with did (Did you be...?).",
+      "chunk_compatibility": "\"I was tired.\", \"Were you at home?\", \"It was great.\"",
+      "examples": ["I was at school yesterday.", "They were very happy.", "Was it cold last night?"]
+    },
+    {
+      "id": 24,
+      "structure": "Subject + past simple (regular/irregular verb)",
+      "core_meaning": "Completed actions in the past.",
+      "primary_communicative_function": "Telling stories, reporting past events.",
+      "when_to_use": "For finished past actions at a specific time.",
+      "pattern": "[Subject] + [past form of verb] (+ object/rest)",
+      "key_variations": "Negative: didn't + base verb; Question: Did + subject + base verb?; time markers (yesterday, last week, ago).",
+      "essential_vocabulary_slots": "High-frequency past verbs (went, did, had, bought, ate, saw, came, took).",
+      "common_learner_mistakes": "Using base after did in questions (Did you went?), using past in negative after didn't, over-regularizing irregulars (goed).",
+      "chunk_compatibility": "\"I went to ...\", \"Did you see ...?\", \"She didn't come.\"",
+      "examples": ["I bought a new phone.", "He didn't eat breakfast.", "Did you watch the film?"]
+    },
+    {
+      "id": 25,
+      "structure": "There was / There were + noun (+ location)",
+      "core_meaning": "Existence in the past.",
+      "primary_communicative_function": "Talking about what was present at a past time/place.",
+      "when_to_use": "For describing past scenes, reporting past existence.",
+      "pattern": "There was + singular/uncountable noun; There were + plural noun.",
+      "key_variations": "Negative: wasn't/weren't; Question: Was/Were there?; Some, any, many.",
+      "essential_vocabulary_slots": "Past time expressions, place, nouns.",
+      "common_learner_mistakes": "Using there is for past, forgetting agreement with plural.",
+      "chunk_compatibility": "\"There was a problem.\", \"Were there many people?\", \"There wasn't any milk.\"",
+      "examples": [
+        "There was a big storm last night.",
+        "There were many people at the party.",
+        "Was there any coffee?"
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "Subject + have/has + past participle (Present Perfect)",
+      "core_meaning": "Experience, recent past with relevance, unfinished time.",
+      "primary_communicative_function": "Talking about life experience, recent news, result now.",
+      "when_to_use": "For events without a specific past time, or with \"ever, never, just, already, yet\".",
+      "pattern": "[Subject] + have/has + [past participle]",
+      "key_variations": "Negative: haven't/hasn't; Question: Have/Has + subject + past participle?; been vs gone.",
+      "essential_vocabulary_slots": "Past participles of common verbs (eaten, seen, been, done, worked), time markers.",
+      "common_learner_mistakes": "Using with specific past time (I have seen him yesterday), wrong participle forms.",
+      "chunk_compatibility": "\"I've lost my keys.\", \"Have you ever been to ...?\", \"She hasn't arrived yet.\"",
+      "examples": [
+        "I have visited Paris twice.",
+        "She has just finished her homework.",
+        "Have you ever eaten sushi?"
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "Subject + will + base verb (Future will)",
+      "core_meaning": "Future fact, prediction, spontaneous decision.",
+      "primary_communicative_function": "Making promises, offers, predictions without evidence, instant decisions.",
+      "when_to_use": "When deciding now, promising, or predicting based on opinion.",
+      "pattern": "[Subject] + will + [base verb]",
+      "key_variations": "Negative: won't; Question: Will + subject + base verb?; 'll contraction.",
+      "essential_vocabulary_slots": "Action verbs.",
+      "common_learner_mistakes": "Using will for pre-arranged plans, forgetting base form, using will in if-clauses (If I will...).",
+      "chunk_compatibility": "\"I'll call you later.\", \"Will you help me?\", \"I think it will rain.\"",
+      "examples": [
+        "I will help you with that.",
+        "I think she will pass the exam.",
+        "Will you be home tonight?"
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Subject + can / could / may + base verb (permission/request)",
+      "core_meaning": "Seeking or granting permission.",
+      "primary_communicative_function": "Polite requests, formal/informal permission.",
+      "when_to_use": "Can (informal), could (polite), may (formal).",
+      "pattern": "Can/Could/May + I/you + [base verb]?",
+      "key_variations": "Answers: Sure, Of course, No problem; negative: can't, may not.",
+      "essential_vocabulary_slots": "Action verbs.",
+      "common_learner_mistakes": "Using \"can I to...\", mixing with be able to unnecessarily, over-formal.",
+      "chunk_compatibility": "\"Can I ask a question?\", \"Could you repeat that?\", \"May I come in?\"",
+      "examples": ["Can I use your phone?", "Could you open the door, please?", "May I sit here?"]
+    },
+    {
+      "id": 29,
+      "structure": "Subject + must / have to + base verb (obligation)",
+      "core_meaning": "Obligation or strong necessity.",
+      "primary_communicative_function": "Stating rules, personal obligations.",
+      "when_to_use": "Must (internal obligation, speaker's authority); have to (external obligation, general rule).",
+      "pattern": "[Subject] + must/have to/has to + [base verb]",
+      "key_variations": "Negative: mustn't (prohibition), don't have to (not necessary); need to (necessity).",
+      "essential_vocabulary_slots": "Obligation verbs.",
+      "common_learner_mistakes": "Using must for past (had to), confusing mustn't and don't have to.",
+      "chunk_compatibility": "\"You must wear a seatbelt.\", \"I have to go now.\", \"Do we have to ...?\"",
+      "examples": [
+        "You must stop here.",
+        "I have to finish this report.",
+        "She doesn't have to work tomorrow."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "Subject + let/make/help + person + base verb",
+      "core_meaning": "Causation, permission, assistance.",
+      "primary_communicative_function": "Talking about causing someone to act.",
+      "when_to_use": "Let = allow; Make = force; Help = assist.",
+      "pattern": "[Subject] + let/make/help + [person] + [base verb]",
+      "key_variations": "Help + to + verb also possible (more formal). Negative: don't let.",
+      "essential_vocabulary_slots": "Verbs of action.",
+      "common_learner_mistakes": "Using to after let/make (She let me to go), incorrect object pronoun.",
+      "chunk_compatibility": "\"Let me think.\", \"My mom makes me clean my room.\", \"Can you help me carry this?\"",
+      "examples": [
+        "She let me drive her car.",
+        "The teacher made us rewrite the test.",
+        "He helped me move the furniture."
+      ]
+    }
+  ],
+  "essential_tense_and_aspect_patterns": [
+    {
+      "id": 1,
+      "structure": "Present Simple for facts/routines",
+      "core_meaning": "Permanent truths, habits, routines.",
+      "primary_communicative_function": "Stating general truths, describing daily life.",
+      "when_to_use": "With adverbs of frequency, general facts, schedules.",
+      "pattern": "[Subject] + verb / verb-s + (object) + (time expression)",
+      "key_variations": "always, usually, often, sometimes, never.",
+      "essential_vocabulary_slots": "Routine verbs (wake up, get, go, have, start, finish).",
+      "common_learner_mistakes": "Missing -s, using present continuous for habits.",
+      "chunk_compatibility": "\"I usually get up at 7.\", \"She never eats meat.\", \"Water boils at 100 degrees.\"",
+      "examples": [
+        "The sun rises in the east.",
+        "He drinks coffee every morning.",
+        "Do you play tennis on Sundays?"
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "Present Continuous for current action",
+      "core_meaning": "Action happening at the moment of speaking.",
+      "primary_communicative_function": "Describing what’s happening now.",
+      "when_to_use": "With now, right now, at the moment; temporary situations.",
+      "pattern": "[Subject] + am/is/are + [verb-ing]",
+      "key_variations": "Time markers; negative: not + verb-ing; questions.",
+      "essential_vocabulary_slots": "Action verbs (doing, waiting, raining, wearing).",
+      "common_learner_mistakes": "Using with stative verbs (I am wanting), omitting be.",
+      "chunk_compatibility": "\"I'm working at the moment.\", \"It's raining.\", \"What are you doing?\"",
+      "examples": [
+        "She is cooking dinner now.",
+        "They are not listening.",
+        "Are you waiting for someone?"
+      ]
+    },
+    {
+      "id": 3,
+      "structure": "Present Continuous for future arrangements",
+      "core_meaning": "Fixed future plan (social/professional).",
+      "primary_communicative_function": "Talking about definite plans in near future.",
+      "when_to_use": "When time and place are decided (diary future).",
+      "pattern": "[Subject] + am/is/are + [verb-ing] + future time expression",
+      "key_variations": "Going to vs Present Continuous for plans.",
+      "essential_vocabulary_slots": "Verbs of movement/activity (meeting, going, seeing, having, leaving).",
+      "common_learner_mistakes": "Forgetting time marker, using for general future without arrangement.",
+      "chunk_compatibility": "\"I'm meeting her tomorrow.\", \"We're flying to Rome next week.\", \"He's having dinner with friends tonight.\"",
+      "examples": [
+        "She's starting a new job on Monday.",
+        "What are you doing this weekend?",
+        "I'm not working next Friday."
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "Past Simple for completed events",
+      "core_meaning": "Finished actions at a specific past time.",
+      "primary_communicative_function": "Narrating past events, telling stories.",
+      "when_to_use": "With yesterday, last night, ago, in 2010, when I was a child.",
+      "pattern": "[Subject] + [past tense verb] + (object/time)",
+      "key_variations": "Regular -ed, irregular forms; negatives with didn't; questions with Did.",
+      "essential_vocabulary_slots": "Common past verbs (went, did, had, saw, ate, got, took).",
+      "common_learner_mistakes": "Using present after did (Did you went?), forgetting time marker for clear past.",
+      "chunk_compatibility": "\"I saw a movie last night.\", \"She didn't come.\", \"When did you arrive?\"",
+      "examples": [
+        "We moved here five years ago.",
+        "He forgot his keys.",
+        "They didn't enjoy the party."
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "Past Continuous (was/were + verb-ing)",
+      "core_meaning": "Action in progress at a specific past time, background activity.",
+      "primary_communicative_function": "Setting the scene, interrupted actions.",
+      "when_to_use": "When another action happened, longer action in past.",
+      "pattern": "[Subject] + was/were + [verb-ing]",
+      "key_variations": "While/as; interrupted by Past Simple; all morning/day.",
+      "essential_vocabulary_slots": "Activity verbs.",
+      "common_learner_mistakes": "Using for short completed events, forgetting was/were.",
+      "chunk_compatibility": "\"I was sleeping when you called.\", \"What were you doing at 8pm?\"",
+      "examples": [
+        "At 9 o'clock I was working.",
+        "She was cooking while he was watching TV.",
+        "They weren't listening during the meeting."
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "Used to + base verb",
+      "core_meaning": "Past habit or state no longer true.",
+      "primary_communicative_function": "Contrasting past with present.",
+      "when_to_use": "To talk about discontinued habits/states.",
+      "pattern": "[Subject] + used to + [base verb]",
+      "key_variations": "Negative: didn't use to; Question: Did you use to...?",
+      "essential_vocabulary_slots": "Past activities, states (live, smoke, play, be).",
+      "common_learner_mistakes": "Use to in present context, writing \"use to\" in affirmative.",
+      "chunk_compatibility": "\"I used to play the piano.\", \"She didn't use to like coffee.\", \"Did you use to live here?\"",
+      "examples": [
+        "My dad used to smoke.",
+        "This building used to be a cinema.",
+        "I didn't use to enjoy studying."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "Present Perfect for life experience",
+      "core_meaning": "Experience without specifying when.",
+      "primary_communicative_function": "Asking and talking about ever/never experiences.",
+      "when_to_use": "With ever, never, before, superlatives (the best I have ever ...).",
+      "pattern": "[Subject] + have/has + ever/never + [past participle]",
+      "key_variations": "Have you ever ...?, She's never + past participle.",
+      "essential_vocabulary_slots": "Past participles, experience verbs.",
+      "common_learner_mistakes": "Adding a specific time (I have ever been to Paris in 2015).",
+      "chunk_compatibility": "\"Have you ever tried sushi?\", \"I've never been to Asia.\", \"It's the best movie I've ever seen.\"",
+      "examples": [
+        "I have never ridden a horse.",
+        "Has she ever met a celebrity?",
+        "We have visited London twice."
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "Present Perfect with just/already/yet",
+      "core_meaning": "Recent events, result, expectation.",
+      "primary_communicative_function": "Reporting new information, completion status.",
+      "when_to_use": "Just (very recent), already (sooner than expected), yet (expected, in questions/negatives).",
+      "pattern": "[Subject] + have/has + just/already + past participle; (negative) haven't/hasn't + past participle + yet",
+      "key_variations": "Yet at end of sentence.",
+      "essential_vocabulary_slots": "Verbs of completion (finish, eat, see, arrive).",
+      "common_learner_mistakes": "Yet in positive statements, word order of just/already (before participle).",
+      "chunk_compatibility": "\"I've just finished.\", \"She's already left.\", \"Have you eaten yet?\"",
+      "examples": [
+        "I've just seen Paul.",
+        "We haven't decided yet.",
+        "He has already paid the bill."
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "Present Perfect with for/since (duration)",
+      "core_meaning": "Action/state continuing from past to present.",
+      "primary_communicative_function": "Saying how long something has been true.",
+      "when_to_use": "With verbs that can continue (live, work, know, have, be).",
+      "pattern": "[Subject] + have/has + [past participle] + for/since + time",
+      "key_variations": "for + period; since + point in time. Present Perfect Continuous possible with action verbs.",
+      "essential_vocabulary_slots": "Duration words, state verbs.",
+      "common_learner_mistakes": "Using present simple (I live here since 2010), mixing for and since.",
+      "chunk_compatibility": "\"I've known her for ten years.\", \"He's worked here since 2018.\", \"How long have you been here?\"",
+      "examples": [
+        "I have lived in this city since 2015.",
+        "She has had this car for two months.",
+        "How long have you known each other?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Past Perfect (had + past participle)",
+      "core_meaning": "Past before past.",
+      "primary_communicative_function": "Showing sequence of two past events.",
+      "when_to_use": "When one past action happened before another past action.",
+      "pattern": "[Subject] + had + [past participle] + when/by the time/before + Past Simple",
+      "key_variations": "Already, just, never with Past Perfect.",
+      "essential_vocabulary_slots": "Past actions.",
+      "common_learner_mistakes": "Using Past Perfect without second past action, overuse when order is clear.",
+      "chunk_compatibility": "\"When I arrived, the train had already left.\", \"She had never seen snow before she moved to Canada.\"",
+      "examples": [
+        "I had finished my work before the meeting started.",
+        "He realized he had lost his wallet.",
+        "By 10 pm, they had already gone to bed."
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "Future: will vs going to (predictions)",
+      "core_meaning": "Prediction based on opinion (will) vs evidence (going to).",
+      "primary_communicative_function": "Making predictions about the future.",
+      "when_to_use": "Use going to when you see something now; will for general opinion.",
+      "pattern": "I think + will; Look at... + going to.",
+      "key_variations": "Might for uncertain predictions.",
+      "essential_vocabulary_slots": "Weather, outcomes.",
+      "common_learner_mistakes": "Using will when there is clear evidence.",
+      "chunk_compatibility": "\"I think it will rain.\" vs \"Look! It's going to rain.\"",
+      "examples": [
+        "I think Brazil will win the match.",
+        "She's going to have a baby. (seen her belly)",
+        "The traffic is terrible. We're going to be late."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "Future with Present Simple (schedules)",
+      "core_meaning": "Timetabled future events.",
+      "primary_communicative_function": "Talking about schedules, programs.",
+      "when_to_use": "For fixed timetables (transport, movies, classes).",
+      "pattern": "[Subject] + verb/verb-s + future time",
+      "key_variations": "The train leaves at 6 pm; What time does the show start?",
+      "essential_vocabulary_slots": "Events (class, flight, meeting).",
+      "common_learner_mistakes": "Using will for timetables (The train will leave at 6) unnatural.",
+      "chunk_compatibility": "\"The bus leaves at 8.\", \"My flight arrives at noon.\"",
+      "examples": [
+        "The meeting starts at 9 am tomorrow.",
+        "What time does the film begin?",
+        "School finishes on 15th June."
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "Future Continuous (will be + verb-ing)",
+      "core_meaning": "Action in progress at a future time.",
+      "primary_communicative_function": "Describing ongoing future activity, polite enquiries about plans.",
+      "when_to_use": "At this time tomorrow, Will you be using...? (polite)",
+      "pattern": "[Subject] + will be + [verb-ing] + future time",
+      "key_variations": "By this time next week; might be + -ing.",
+      "essential_vocabulary_slots": "Activity verbs.",
+      "common_learner_mistakes": "Using for simple future events.",
+      "chunk_compatibility": "\"I'll be waiting outside.\", \"This time tomorrow I'll be lying on the beach.\"",
+      "examples": [
+        "Don't call at 8; I'll be eating dinner.",
+        "Will you be passing the supermarket?",
+        "Next month we'll be living in Madrid."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "be going to vs Present Continuous for plans",
+      "core_meaning": "Both for plans; going to more intention, PC more fixed arrangement.",
+      "primary_communicative_function": "Distinguishing between decided intention and definite plan.",
+      "when_to_use": "Going to for intention (I've decided), PC for diary arrangement (specific place/time).",
+      "pattern": "I'm going to travel next month. / I'm travelling to Berlin on Friday.",
+      "key_variations": "Both acceptable in many contexts.",
+      "essential_vocabulary_slots": "Travel, meetings.",
+      "common_learner_mistakes": "Using PC for strong intention without arrangement, using will for everything.",
+      "chunk_compatibility": "\"I'm going to start a course.\" vs \"I'm starting the course on Monday.\"",
+      "examples": [
+        "I'm going to learn Italian (intention). I'm starting lessons on Tuesday (arrangement).",
+        "We're going to buy a new car. We're seeing the dealer tomorrow.",
+        "She's going to invite them. She's having a party on Saturday."
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "Zero conditional (If + present, present)",
+      "core_meaning": "General truth, scientific fact.",
+      "primary_communicative_function": "Talking about things that always happen.",
+      "when_to_use": "Cause-effect that is always true.",
+      "pattern": "If + [Present Simple], [Present Simple]",
+      "key_variations": "When instead of if.",
+      "essential_vocabulary_slots": "Scientific verbs (heat, boil), daily cause-effect.",
+      "common_learner_mistakes": "Using will in both clauses.",
+      "chunk_compatibility": "\"If you heat water, it boils.\", \"If I sleep late, I feel tired.\"",
+      "examples": [
+        "If you mix blue and yellow, you get green.",
+        "When it rains, the streets get wet.",
+        "If I don't eat breakfast, I get hungry."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "First conditional (If + present, will + base)",
+      "core_meaning": "Real/possible future condition and result.",
+      "primary_communicative_function": "Talking about likely future situations.",
+      "when_to_use": "To discuss plans, warnings, promises.",
+      "pattern": "If + [Present Simple], [will + base verb]",
+      "key_variations": "Will can be replaced by can, might, imperative; unless.",
+      "essential_vocabulary_slots": "Future activities, consequences.",
+      "common_learner_mistakes": "Using will in the if-clause, confusing with zero.",
+      "chunk_compatibility": "\"If it rains, I'll take an umbrella.\", \"I'll call you if I'm late.\", \"If you don't hurry, we'll miss the bus.\"",
+      "examples": [
+        "If you study hard, you will pass the exam.",
+        "She will be angry if you forget her birthday.",
+        "If I see him, I'll tell him."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "Second conditional (If + past, would + base)",
+      "core_meaning": "Unreal, imaginary, or unlikely present/future situation.",
+      "primary_communicative_function": "Giving advice, dreaming, hypothetical scenarios.",
+      "when_to_use": "To talk about things that are not true or very unlikely.",
+      "pattern": "If + [Past Simple], [would + base verb]",
+      "key_variations": "If I were you, I'd... (advice). Could/might instead of would.",
+      "essential_vocabulary_slots": "Wishes, unreal situations.",
+      "common_learner_mistakes": "Using would in if-clause, using present for unreal.",
+      "chunk_compatibility": "\"If I had more money, I'd travel.\", \"If I were you, I'd talk to her.\", \"What would you do if you won the lottery?\"",
+      "examples": [
+        "If I knew the answer, I would tell you.",
+        "She would be happier if she lived near her family.",
+        "If he were here, he'd help us."
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "Third conditional (If + had + past participle, would have + past participle)",
+      "core_meaning": "Imaginary past situation, regret.",
+      "primary_communicative_function": "Talking about how things could have been different.",
+      "when_to_use": "To express past unreal conditions.",
+      "pattern": "If + [Past Perfect], [would have + past participle]",
+      "key_variations": "Might have, could have.",
+      "essential_vocabulary_slots": "Past events.",
+      "common_learner_mistakes": "Wrong structure, using second conditional for past.",
+      "chunk_compatibility": "\"If I had studied harder, I would have passed.\", \"I wouldn't have done that.\"",
+      "examples": [
+        "If we had left earlier, we wouldn't have missed the flight.",
+        "She would have helped if you had asked.",
+        "If I had known, I would have told you."
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "Mixed conditional (If + past perfect, would + base)",
+      "core_meaning": "Past condition with present result.",
+      "primary_communicative_function": "Explaining a present situation as result of past event.",
+      "when_to_use": "When a past action affects now.",
+      "pattern": "If + [Past Perfect], [would/could/might + base verb]",
+      "key_variations": "Not always if-clause first.",
+      "essential_vocabulary_slots": "State verbs, current situation.",
+      "common_learner_mistakes": "Using it for past result only.",
+      "chunk_compatibility": "\"If I had saved more money, I wouldn't be broke now.\", \"If she had taken the job, she'd be in London.\"",
+      "examples": [
+        "If you had listened to me, you wouldn't be in this mess.",
+        "I would be rich if I had bought that stock.",
+        "If he'd been born in Italy, he would speak Italian."
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "I wish + Past Simple (present wish)",
+      "core_meaning": "Desire for a different present reality.",
+      "primary_communicative_function": "Expressing regret about current situation.",
+      "when_to_use": "To talk about things you want to be different now.",
+      "pattern": "I wish + [subject] + [Past Simple]",
+      "key_variations": "I wish I could...; If only...",
+      "essential_vocabulary_slots": "State verbs, ability.",
+      "common_learner_mistakes": "Using present after wish (I wish I am...), using would wish.",
+      "chunk_compatibility": "\"I wish I had a bigger house.\", \"I wish I could swim.\", \"I wish it were Friday.\"",
+      "examples": [
+        "I wish I knew the answer.",
+        "She wishes she didn't have to work.",
+        "We wish we lived near the beach."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "I wish + Past Perfect (past regret)",
+      "core_meaning": "Regret about something that happened or didn't happen.",
+      "primary_communicative_function": "Saying \"if only I had/hadn't...\"",
+      "when_to_use": "To express regret about past actions.",
+      "pattern": "I wish + [subject] + had + [past participle]",
+      "key_variations": "If only...",
+      "essential_vocabulary_slots": "Past actions.",
+      "common_learner_mistakes": "Using present perfect or past simple.",
+      "chunk_compatibility": "\"I wish I had studied more.\", \"I wish you hadn't said that.\"",
+      "examples": [
+        "I wish I had taken the job.",
+        "She wishes she had listened to her mother.",
+        "They wish they hadn't moved."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "I wish + would + base (annoyance/future)",
+      "core_meaning": "Desire for someone/something to change behavior or for something to happen.",
+      "primary_communicative_function": "Complaining, hoping for change.",
+      "when_to_use": "When you are annoyed or want a different future action.",
+      "pattern": "I wish + [subject] + would + [base verb]",
+      "key_variations": "I wish it would stop...",
+      "essential_vocabulary_slots": "Actions that bother you.",
+      "common_learner_mistakes": "Using with I (I wish I would...) usually not.",
+      "chunk_compatibility": "\"I wish you would listen.\", \"I wish it would stop raining.\", \"I wish he wouldn't talk so loudly.\"",
+      "examples": [
+        "I wish the bus would come.",
+        "I wish my neighbors would be quieter.",
+        "Do you ever wish people would just leave you alone?"
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "Reported speech with backshift (said that...)",
+      "core_meaning": "Reporting what someone said, with tense shift.",
+      "primary_communicative_function": "Relaying past conversations.",
+      "when_to_use": "To tell someone what else someone said.",
+      "pattern": "[Subject] + said (that) + [clause with backshift]",
+      "key_variations": "Told + person; present simple -> past simple, will -> would, can -> could, etc.",
+      "essential_vocabulary_slots": "Reporting verbs (said, told, asked).",
+      "common_learner_mistakes": "Not backshifting, mixing direct speech, pronoun changes missed.",
+      "chunk_compatibility": "\"He said he was tired.\", \"She told me she would call.\", \"They said they had finished.\"",
+      "examples": [
+        "She said (that) she liked the movie.",
+        "He told me he had already eaten.",
+        "They said they were moving to Canada."
+      ]
+    },
+    {
+      "id": 24,
+      "structure": "Passive voice (be + past participle)",
+      "core_meaning": "Focus on action/object rather than doer.",
+      "primary_communicative_function": "When the agent is unknown, unimportant, or obvious.",
+      "when_to_use": "News, processes, formal English.",
+      "pattern": "[Subject] + am/is/are/was/were + [past participle] (+ by agent)",
+      "key_variations": "Modal passives (can be done); present perfect passive (has been done).",
+      "essential_vocabulary_slots": "Transitive verbs (make, build, write, steal).",
+      "common_learner_mistakes": "Overusing by-phrase, forgetting be, using intransitive verbs.",
+      "chunk_compatibility": "\"It was made in China.\", \"English is spoken here.\", \"The window was broken.\"",
+      "examples": [
+        "My car was stolen last night.",
+        "The report hasn't been finished yet.",
+        "This room is cleaned every day."
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "Have something done (causative)",
+      "core_meaning": "Arranging for someone else to do something for you.",
+      "primary_communicative_function": "Services, repairs, improvements.",
+      "when_to_use": "When you don't do it yourself.",
+      "pattern": "[Subject] + have/has/had + [object] + [past participle]",
+      "key_variations": "Get something done (informal); need something done.",
+      "essential_vocabulary_slots": "Services (cut, repaired, cleaned, painted).",
+      "common_learner_mistakes": "Thinking it's passive about subject (I had cut my hair vs I had my hair cut).",
+      "chunk_compatibility": "\"I had my hair done.\", \"She's having her house painted.\", \"Where do you get your car fixed?\"",
+      "examples": [
+        "I need to have my eyes tested.",
+        "We had our roof repaired last month.",
+        "He's getting his suit cleaned."
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "Comparative adjective + than",
+      "core_meaning": "Comparing two things (more...).",
+      "primary_communicative_function": "Expressing difference in quality/quantity.",
+      "when_to_use": "When two items are different.",
+      "pattern": "[Subject] + be + [comparative adjective] + than + [noun/pronoun]",
+      "key_variations": "much/a lot/a bit + comparative; as...as for equality.",
+      "essential_vocabulary_slots": "Common adjectives (taller, more expensive, better, worse).",
+      "common_learner_mistakes": "Double comparative (more taller), using as...than, forgetting than.",
+      "chunk_compatibility": "\"I'm taller than you.\", \"This is more interesting than that.\", \"It's better than before.\"",
+      "examples": [
+        "My car is faster than yours.",
+        "This book is more difficult than the last one.",
+        "She's younger than me."
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "Superlative adjective",
+      "core_meaning": "The highest degree in a group.",
+      "primary_communicative_function": "Stating the number one in quality.",
+      "when_to_use": "To describe extremes within a set.",
+      "pattern": "[Subject] + be + the + [superlative adjective] (+ in/of group)",
+      "key_variations": "One of the + superlative + plural noun.",
+      "essential_vocabulary_slots": "Extreme adjectives (best, worst, biggest, most beautiful).",
+      "common_learner_mistakes": "Forgetting \"the\", using comparative instead of superlative.",
+      "chunk_compatibility": "\"She's the smartest in the class.\", \"This is the best pizza ever.\", \"It's the most expensive hotel.\"",
+      "examples": [
+        "Russia is the largest country.",
+        "He's the funniest person I know.",
+        "This is the worst day of my life."
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Not as + adjective + as",
+      "core_meaning": "Inferior or not equal comparison.",
+      "primary_communicative_function": "Saying something is less or not equal.",
+      "when_to_use": "To deny equality.",
+      "pattern": "[Subject] + be + not as + [adjective] + as + [other]",
+      "key_variations": "less + adjective + than (formal); as...as affirmative (He's as tall as me).",
+      "essential_vocabulary_slots": "Adjectives.",
+      "common_learner_mistakes": "Using not so...as (acceptable but less taught), incorrect adjective form.",
+      "chunk_compatibility": "\"It's not as good as I thought.\", \"She's not as old as her sister.\"",
+      "examples": [
+        "This phone isn't as expensive as that one.",
+        "I'm not as tired as yesterday.",
+        "The exam was not as difficult as we expected."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "as ... as (equality)",
+      "core_meaning": "Equality in quality or quantity.",
+      "primary_communicative_function": "Comparing similarities.",
+      "when_to_use": "When two things are equal.",
+      "pattern": "as + [adjective/adverb] + as + [noun/pronoun/clause]",
+      "key_variations": "as much/many as.",
+      "essential_vocabulary_slots": "Adjectives (good, fast, tall, hard).",
+      "common_learner_mistakes": "Using than instead of as.",
+      "chunk_compatibility": "\"You're as tall as your dad.\", \"It's as good as new.\", \"He can't run as fast as his brother.\"",
+      "examples": [
+        "She's as smart as her sister.",
+        "I work as hard as you.",
+        "This cake is not as sweet as the last one. (negative equality)"
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "Question tag",
+      "core_meaning": "Checking information or inviting agreement.",
+      "primary_communicative_function": "Making conversation, confirming.",
+      "when_to_use": "After statements, expecting yes/no.",
+      "pattern": "[Positive statement], [negative tag]? / [Negative statement], [positive tag]?",
+      "key_variations": "Tags with auxiliary (aren't you?, isn't it?, didn't you?, can't you?, shall we?).",
+      "essential_vocabulary_slots": "Pronouns, auxiliaries.",
+      "common_learner_mistakes": "Wrong polarity (You're tired, isn't it?), wrong pronoun.",
+      "chunk_compatibility": "\"You're coming, aren't you?\", \"It's cold, isn't it?\", \"You don't know, do you?\"",
+      "examples": [
+        "He's a teacher, isn't he?",
+        "You won't forget, will you?",
+        "They went home, didn't they?"
+      ]
+    }
+  ],
+  "modal_and_functional_structures": [
+    {
+      "id": 1,
+      "structure": "Can for ability (present)",
+      "core_meaning": "Present ability, skill.",
+      "primary_communicative_function": "Talking about what you can do.",
+      "when_to_use": "General ability, with verbs of skill.",
+      "pattern": "[Subject] + can + [base verb]",
+      "key_variations": "Negative can't; question can you?",
+      "essential_vocabulary_slots": "Skill verbs.",
+      "common_learner_mistakes": "Adding to, third person -s.",
+      "chunk_compatibility": "\"I can drive.\", \"Can you swim?\", \"She can't cook.\"",
+      "examples": [
+        "I can play the guitar.",
+        "Can he speak Spanish?",
+        "She can't see without glasses."
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "Can for permission (informal)",
+      "core_meaning": "Asking/granting permission.",
+      "primary_communicative_function": "Informal requests.",
+      "when_to_use": "Among friends, children, casual settings.",
+      "pattern": "Can I/we + [base verb]?",
+      "key_variations": "Can you... for requests; Yes, you can. / No, you can't.",
+      "essential_vocabulary_slots": "Activity verbs (borrow, use, open).",
+      "common_learner_mistakes": "Using may in casual speech (sounding too formal), can to go? word order.",
+      "chunk_compatibility": "\"Can I open the window?\", \"Can I use your charger?\"",
+      "examples": ["Can I go out tonight?", "Can we sit here?", "You can take my pen."]
+    },
+    {
+      "id": 3,
+      "structure": "Could for past ability",
+      "core_meaning": "Past general ability.",
+      "primary_communicative_function": "Talking about skills in the past.",
+      "when_to_use": "With ability in the past (not a single event, that's managed to).",
+      "pattern": "[Subject] + could + [base verb]",
+      "key_variations": "Negative couldn't; question Could you...? for past.",
+      "essential_vocabulary_slots": "Past skills (when I was young...).",
+      "common_learner_mistakes": "Using could for one specific event (I could escape -> I managed to escape).",
+      "chunk_compatibility": "\"I could run fast when I was a kid.\", \"She couldn't swim until she was 10.\"",
+      "examples": [
+        "When I was five, I could already read.",
+        "He couldn't cook before he got married.",
+        "Could you speak English as a child?"
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "Could for polite request",
+      "core_meaning": "Polite request, more formal than can.",
+      "primary_communicative_function": "Making polite enquiries.",
+      "when_to_use": "With strangers, in service.",
+      "pattern": "Could you + [base verb]...?",
+      "key_variations": "Could I...? for permission.",
+      "essential_vocabulary_slots": "Action verbs (help, tell, pass, repeat).",
+      "common_learner_mistakes": "Using can when you need to be polite, adding please at beginning only.",
+      "chunk_compatibility": "\"Could you help me?\", \"Could you say that again?\", \"Could I speak to ...?\"",
+      "examples": [
+        "Could you close the door, please?",
+        "Could you tell me the time?",
+        "Could I have a glass of water?"
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "May for permission (formal)",
+      "core_meaning": "Formal permission.",
+      "primary_communicative_function": "Very polite requests, official contexts.",
+      "when_to_use": "In formal meetings, letters, with authority.",
+      "pattern": "May I + [base verb]...?",
+      "key_variations": "May I ask...; You may (granting).",
+      "essential_vocabulary_slots": "Formal verbs.",
+      "common_learner_mistakes": "Using may in casual speech, confusing with might.",
+      "chunk_compatibility": "\"May I come in?\", \"May I have your attention, please?\", \"You may leave now.\"",
+      "examples": [
+        "May I use your restroom?",
+        "May I ask who is calling?",
+        "Students may not use phones in class."
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "Might for possibility",
+      "core_meaning": "Weak possibility, maybe.",
+      "primary_communicative_function": "Speculating about present/future.",
+      "when_to_use": "When you're unsure (small chance).",
+      "pattern": "[Subject] + might + [base verb]",
+      "key_variations": "might not; might be + -ing.",
+      "essential_vocabulary_slots": "Uncertainty expressions (I'm not sure, perhaps).",
+      "common_learner_mistakes": "Using may and might interchangeably with no nuance, though often okay.",
+      "chunk_compatibility": "\"I might go to the party.\", \"It might rain later.\", \"She might not come.\"",
+      "examples": [
+        "He might be in his office.",
+        "I might be late tomorrow.",
+        "We might not have enough time."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "Will for spontaneous decision",
+      "core_meaning": "Decision made at the moment of speaking.",
+      "primary_communicative_function": "Offering, deciding on the spot.",
+      "when_to_use": "I'll get it! I'll help you! (not planned).",
+      "pattern": "I'll + [base verb]",
+      "key_variations": "I think I'll...; shall I? (offer, British).",
+      "essential_vocabulary_slots": "Immediate action verbs (get, open, answer, help).",
+      "common_learner_mistakes": "Using going to for instant decisions.",
+      "chunk_compatibility": "\"I'll answer the phone.\", \"I'll have the fish, please.\", \"I'll carry that for you.\"",
+      "examples": [
+        "The doorbell's ringing. I'll get it.",
+        "It's cold. I'll close the window.",
+        "We're lost. I'll check the map."
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "Will for promise",
+      "core_meaning": "Making a promise, assurance.",
+      "primary_communicative_function": "Committing to future action.",
+      "when_to_use": "I will always love you, I'll be there.",
+      "pattern": "I promise (that) I will... / I'll + verb",
+      "key_variations": "I won't tell anyone. I'll make sure.",
+      "essential_vocabulary_slots": "Verbs of promise (call, help, never forget).",
+      "common_learner_mistakes": "Using present continuous for promise.",
+      "chunk_compatibility": "\"I'll call you tomorrow.\", \"I won't be late.\", \"I'll do my best.\"",
+      "examples": [
+        "I'll send you the pictures.",
+        "Don't worry, I won't forget.",
+        "I'll always be there for you."
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "Would for hypothetical",
+      "core_meaning": "Hypothetical situations, imagination.",
+      "primary_communicative_function": "Second conditional result, dreams.",
+      "when_to_use": "If I were..., I would.",
+      "pattern": "[Subject] + would + [base verb] (+ if...)",
+      "key_variations": "'d, wouldn't; would like (polite want).",
+      "essential_vocabulary_slots": "Imaginary actions.",
+      "common_learner_mistakes": "Using would in if-clause.",
+      "chunk_compatibility": "\"I'd travel if I had money.\", \"She wouldn't do that.\", \"What would you do?\"",
+      "examples": [
+        "I would live by the sea if I could.",
+        "He wouldn't understand.",
+        "Would you take the job?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Would you...? (polite offer/invitation)",
+      "core_meaning": "Polite offer, invitation.",
+      "primary_communicative_function": "Offering something elegantly.",
+      "when_to_use": "To offer drinks, invitations.",
+      "pattern": "Would you like + noun/to verb?; Would you + verb + ...?",
+      "key_variations": "Would you care for...?",
+      "essential_vocabulary_slots": "Drinks, food, activities.",
+      "common_learner_mistakes": "Using Do you want in formal.",
+      "chunk_compatibility": "\"Would you like some coffee?\", \"Would you like to dance?\", \"Would you join us?\"",
+      "examples": [
+        "Would you like a cup of tea?",
+        "Would you like to come to dinner?",
+        "Would you help me with this?"
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "Must for strong obligation (internal)",
+      "core_meaning": "Obligation from speaker, strong necessity.",
+      "primary_communicative_function": "Expressing personal imperative.",
+      "when_to_use": "I must remember, you must see this.",
+      "pattern": "[Subject] + must + [base verb]",
+      "key_variations": "Mustn't = prohibition.",
+      "essential_vocabulary_slots": "Important actions (remember, go, see, finish).",
+      "common_learner_mistakes": "Using must for past (had to), mustn't vs don't have to.",
+      "chunk_compatibility": "\"I must call my mom.\", \"You must try this cake.\", \"We mustn't be late.\"",
+      "examples": [
+        "You must be here by 8.",
+        "I must finish this report.",
+        "You mustn't tell anyone."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "Have to for external obligation",
+      "core_meaning": "Obligation from rules or situation.",
+      "primary_communicative_function": "Describing rules, duties.",
+      "when_to_use": "School, work, laws.",
+      "pattern": "[Subject] + have to/has to + [base verb]",
+      "key_variations": "Don't/doesn't have to = not necessary.",
+      "essential_vocabulary_slots": "Verbs of duty (wear, follow, work, attend).",
+      "common_learner_mistakes": "Using must for rules (both possible but have to more external).",
+      "chunk_compatibility": "\"I have to wear a uniform.\", \"Do you have to work weekends?\", \"She doesn't have to come.\"",
+      "examples": [
+        "You have to drive on the left in the UK.",
+        "He has to take medicine every day.",
+        "We don't have to stay until the end."
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "Mustn't vs don't have to",
+      "core_meaning": "Prohibition vs lack of obligation.",
+      "primary_communicative_function": "Telling what's forbidden and what's not required.",
+      "when_to_use": "Mustn't = it's not allowed; don't have to = you can if you want but not necessary.",
+      "pattern": "Mustn't + base verb; don't/doesn't have to + base verb.",
+      "key_variations": "Can't for prohibition (more common spoken).",
+      "essential_vocabulary_slots": "Rules vocabulary.",
+      "common_learner_mistakes": "Swapping meanings, e.g., You don't have to smoke here (meaning You mustn't).",
+      "chunk_compatibility": "\"You mustn't park here.\", \"You don't have to bring a gift.\", \"You mustn't use your phone.\"",
+      "examples": [
+        "You mustn't run by the pool. / You don't have to swim if you don't want to.",
+        "We mustn't be noisy. / We don't have to whisper.",
+        "You mustn't tell her. / You don't have to tell her."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "Should for advice",
+      "core_meaning": "Giving advice, opinion.",
+      "primary_communicative_function": "Recommending action.",
+      "when_to_use": "I think you should, maybe, perhaps.",
+      "pattern": "[Subject] + should + [base verb]",
+      "key_variations": "Shouldn't; Ought to (formal).",
+      "essential_vocabulary_slots": "Health, decisions, study.",
+      "common_learner_mistakes": "Adding to, using should in past without have (should went).",
+      "chunk_compatibility": "\"You should rest.\", \"I think we should leave.\", \"Should I call him?\"",
+      "examples": [
+        "You should see a doctor.",
+        "He shouldn't eat so much sugar.",
+        "What should I do?"
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "Had better (strong advice/warning)",
+      "core_meaning": "Strong advice, threat of negative consequence.",
+      "primary_communicative_function": "Urgent recommendation.",
+      "when_to_use": "When something bad may happen if you don't.",
+      "pattern": "[Subject] + had better ('d better) + [base verb]",
+      "key_variations": "better not; question rare.",
+      "essential_vocabulary_slots": "Urgent actions.",
+      "common_learner_mistakes": "Using to, using for general advice when should is enough.",
+      "chunk_compatibility": "\"You'd better hurry.\", \"We'd better not be late.\", \"I'd better go.\"",
+      "examples": [
+        "You'd better take an umbrella — it looks like rain.",
+        "I'd better not forget my passport.",
+        "He'd better apologize or she'll be upset."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "Need to (necessity)",
+      "core_meaning": "Necessity, requirement.",
+      "primary_communicative_function": "Saying something is necessary.",
+      "when_to_use": "More common than must/have to in informal.",
+      "pattern": "[Subject] + need to + [base verb]",
+      "key_variations": "don't need to = not necessary; needn't (formal); need + noun.",
+      "essential_vocabulary_slots": "Daily needs.",
+      "common_learner_mistakes": "Need + -ing? No, need + to base.",
+      "chunk_compatibility": "\"I need to buy some milk.\", \"Do you need to take a break?\", \"She needs to talk to you.\"",
+      "examples": [
+        "I need to go to the bathroom.",
+        "You don't need to bring anything.",
+        "He needs to get a job."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "Be able to (ability in various tenses)",
+      "core_meaning": "Manage to do, capability.",
+      "primary_communicative_function": "Express ability in forms where can is not possible (future, perfect).",
+      "when_to_use": "Will be able to, have been able to, used to be able to.",
+      "pattern": "be (am/is/are/was/were/will be) + able to + base verb",
+      "key_variations": "Not able to.",
+      "essential_vocabulary_slots": "Ability verbs.",
+      "common_learner_mistakes": "Using can for future (I will can), not knowing past single event (was able to manage to).",
+      "chunk_compatibility": "\"I've never been able to understand.\", \"Will you be able to come?\", \"She wasn't able to finish.\"",
+      "examples": [
+        "I hope to be able to travel soon.",
+        "He hasn't been able to sleep.",
+        "Were you able to get tickets?"
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "Be supposed to (expectation)",
+      "core_meaning": "What is expected according to rules, plans.",
+      "primary_communicative_function": "Saying what should happen (often negative: but it didn't).",
+      "when_to_use": "Rules, arrangements, commonly known duties.",
+      "pattern": "[Subject] + am/is/are supposed to + [base verb]",
+      "key_variations": "Was/were supposed to (unfulfilled past expectation).",
+      "essential_vocabulary_slots": "Scheduled events, responsibilities.",
+      "common_learner_mistakes": "Using supposed followed by infinitive without to, forgetting d (suppose to).",
+      "chunk_compatibility": "\"You're supposed to knock.\", \"It was supposed to rain.\", \"What are we supposed to do?\"",
+      "examples": [
+        "The train is supposed to arrive at 5.",
+        "You're not supposed to park here.",
+        "I was supposed to call her yesterday, but I forgot."
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "Be allowed to (permission)",
+      "core_meaning": "Having permission.",
+      "primary_communicative_function": "Saying what is permitted.",
+      "when_to_use": "In rules, when you can't use can/may for tenses.",
+      "pattern": "[Subject] + am/is/are/was/were allowed to + [base verb]",
+      "key_variations": "not allowed to (prohibition).",
+      "essential_vocabulary_slots": "Activities with rules.",
+      "common_learner_mistakes": "Using allowed to + -ing, missing be.",
+      "chunk_compatibility": "\"Are we allowed to take photos?\", \"We weren't allowed to enter.\", \"You're not allowed to smoke.\"",
+      "examples": [
+        "You're allowed to use a dictionary.",
+        "He wasn't allowed to go out.",
+        "Will we be allowed to film?"
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "Would rather (preference)",
+      "core_meaning": "Preference for one thing over another.",
+      "primary_communicative_function": "Expressing likes/dislikes with choices.",
+      "when_to_use": "I'd rather stay home; I'd rather you didn't.",
+      "pattern": "[Subject] + would rather ('d rather) + base verb (+ than) / + subject + past simple (other person preference)",
+      "key_variations": "I'd rather not; I'd rather you went.",
+      "essential_vocabulary_slots": "Activity choices.",
+      "common_learner_mistakes": "Using to base, past form wrongly when referring to other.",
+      "chunk_compatibility": "\"I'd rather walk.\", \"I'd rather not talk about it.\", \"She'd rather you called later.\"",
+      "examples": [
+        "I'd rather have tea than coffee.",
+        "He'd rather stay home tonight.",
+        "I'd rather you didn't smoke in here."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "Prefer + noun/verb-ing (general)",
+      "core_meaning": "General preference.",
+      "primary_communicative_function": "Stating what you like more.",
+      "when_to_use": "For habitual preferences.",
+      "pattern": "[Subject] + prefer + [noun / verb-ing] (+ to + noun/verb-ing)",
+      "key_variations": "Prefer something to something; prefer doing to doing.",
+      "essential_vocabulary_slots": "Categories, habits.",
+      "common_learner_mistakes": "Prefer... than (should be to), using to-infinitive after prefer.",
+      "chunk_compatibility": "\"I prefer coffee to tea.\", \"She prefers walking.\", \"Do you prefer driving or flying?\"",
+      "examples": [
+        "I prefer summer to winter.",
+        "He prefers watching TV to reading.",
+        "Most people prefer living in the city."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "Had better not",
+      "core_meaning": "Strong negative advice.",
+      "primary_communicative_function": "Warning not to do something.",
+      "when_to_use": "When consequences are serious.",
+      "pattern": "[Subject] + had better not + [base verb]",
+      "key_variations": "'d better not.",
+      "essential_vocabulary_slots": "Risky behaviors.",
+      "common_learner_mistakes": "Not + better? No, better not.",
+      "chunk_compatibility": "\"You'd better not be late.\", \"I'd better not forget my keys.\"",
+      "examples": [
+        "You'd better not tell her.",
+        "We'd better not miss the bus.",
+        "He'd better not eat that."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "it must / might / can't be (deduction)",
+      "core_meaning": "Logical deduction about present.",
+      "primary_communicative_function": "Guessing based on evidence.",
+      "when_to_use": "Must be (certain true), might be (possible), can't be (certain false).",
+      "pattern": "It + must/might/can't + be + [noun/adjective/verb-ing]",
+      "key_variations": "He must be tired, That can't be true.",
+      "essential_vocabulary_slots": "Adjectives, nouns.",
+      "common_learner_mistakes": "Using mustn't for deduction (mustn't is prohibition), confusing with can't.",
+      "chunk_compatibility": "\"You must be tired.\", \"That can't be right.\", \"He might be lost.\"",
+      "examples": ["She must be at work now.", "It can't be that hard.", "They might be sleeping."]
+    },
+    {
+      "id": 24,
+      "structure": "Let’s ... shall we? / Suggestions",
+      "core_meaning": "Suggesting activity with feedback.",
+      "primary_communicative_function": "Inclusive proposals.",
+      "when_to_use": "Informal group planning.",
+      "pattern": "Let's + base verb, shall we?",
+      "key_variations": "Why don't we + verb; How about + verb-ing; What about + noun.",
+      "essential_vocabulary_slots": "Group activities.",
+      "common_learner_mistakes": "Using let's with tag isn't it, wrong intonation.",
+      "chunk_compatibility": "\"Let's take a break, shall we?\", \"Why don't we go for a walk?\", \"How about eating out?\"",
+      "examples": [
+        "Let's watch a film, shall we?",
+        "Why don't we try the new restaurant?",
+        "How about a cup of tea?"
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "Shall I/we...? (offer/suggestion)",
+      "core_meaning": "Polite offer (I) or suggestion (we), British English.",
+      "primary_communicative_function": "Helping, making plans.",
+      "when_to_use": "Offering to do something for someone, asking for decision.",
+      "pattern": "Shall I + base verb? / Shall we + base verb?",
+      "key_variations": "Should I...? more American.",
+      "essential_vocabulary_slots": "Assistance verbs (open, carry, call, start).",
+      "common_learner_mistakes": "Using will I for offers.",
+      "chunk_compatibility": "\"Shall I open the window?\", \"Shall we dance?\", \"What shall we do tonight?\"",
+      "examples": ["Shall I help you with that?", "Shall we order pizza?", "Shall I call a taxi?"]
+    },
+    {
+      "id": 26,
+      "structure": "Would you mind + verb-ing?",
+      "core_meaning": "Very polite request.",
+      "primary_communicative_function": "Asking permission in a delicate way.",
+      "when_to_use": "When you might disturb someone.",
+      "pattern": "Would you mind + [verb-ing] (+ if I ...)?",
+      "key_variations": "Do you mind if I + present; Would you mind if I + past.",
+      "essential_vocabulary_slots": "Potentially bothersome actions (opening, smoking, closing).",
+      "common_learner_mistakes": "Answering yes (means I do mind = no), confusing negative answer.",
+      "chunk_compatibility": "\"Would you mind opening the window?\", \"Do you mind if I sit here?\", \"Would you mind helping me?\"",
+      "examples": [
+        "Would you mind closing the door?",
+        "Do you mind if I use your phone?",
+        "I hope you don't mind my asking."
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "Is it okay if I...? / Can I...? variations",
+      "core_meaning": "Casual permission.",
+      "primary_communicative_function": "Informal checking.",
+      "when_to_use": "With friends, family.",
+      "pattern": "Is it okay/ alright if I + [present simple]?",
+      "key_variations": "Can I; Could I; Do you mind if.",
+      "essential_vocabulary_slots": "Simple actions.",
+      "common_learner_mistakes": "Overusing may in casual settings.",
+      "chunk_compatibility": "\"Is it okay if I bring a friend?\", \"Can I borrow your pen?\", \"Is it all right if I leave early?\"",
+      "examples": [
+        "Is it okay if I open the window?",
+        "Can I have a glass of water?",
+        "Would it be okay if I called you later?"
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Might want to / might as well",
+      "core_meaning": "Soft suggestion / no better alternative.",
+      "primary_communicative_function": "Giving gentle advice, suggesting a logical course.",
+      "when_to_use": "\"It's late, we might as well go.\" / \"You might want to check that.\"",
+      "pattern": "[Subject] + might want to + base verb / might as well + base verb",
+      "key_variations": "may as well.",
+      "essential_vocabulary_slots": "Suggestions.",
+      "common_learner_mistakes": "Using should when might want to is softer.",
+      "chunk_compatibility": "\"You might want to hurry.\", \"We might as well wait.\", \"I might as well tell you.\"",
+      "examples": [
+        "You might want to see a doctor.",
+        "There's no bus, so we might as well walk.",
+        "I might as well finish this now."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "be going to for prediction (evidence)",
+      "core_meaning": "Present evidence future.",
+      "primary_communicative_function": "Predicting based on seeing/hearing.",
+      "when_to_use": "Look at those clouds.",
+      "pattern": "Look! It's going to...",
+      "key_variations": "She's going to have a baby.",
+      "essential_vocabulary_slots": "Visual cues.",
+      "common_learner_mistakes": "Using will instead, missing be.",
+      "chunk_compatibility": "\"It's going to rain.\", \"He's going to fall!\", \"That chair is going to break.\"",
+      "examples": [
+        "Look out! That cup is going to fall.",
+        "The traffic is terrible. We're going to be late.",
+        "She's going to love this present."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "be used to + noun/verb-ing (familiarity)",
+      "core_meaning": "Accustomed to something.",
+      "primary_communicative_function": "Talking about what is familiar, not strange anymore.",
+      "when_to_use": "To contrast past difficulty with present ease.",
+      "pattern": "[Subject] + am/is/are used to + [noun / verb-ing]",
+      "key_variations": "get used to (process), not used to.",
+      "essential_vocabulary_slots": "Habits, climate, food.",
+      "common_learner_mistakes": "Confusing with \"used to\" for past habit, missing verb-ing.",
+      "chunk_compatibility": "\"I'm used to the weather.\", \"She's not used to driving on the left.\", \"Are you used to the noise?\"",
+      "examples": [
+        "I'm used to waking up early.",
+        "He's not used to spicy food.",
+        "They got used to living in a small town."
+      ]
+    }
+  ],
+  "chunk_enabling_grammar_patterns": [
+    {
+      "id": 1,
+      "structure": "I think (that) + clause",
+      "core_meaning": "Giving personal opinion.",
+      "primary_communicative_function": "Softening statements, expressing belief.",
+      "when_to_use": "Before any opinion statement.",
+      "pattern": "I think (that) + [subject + verb ...]",
+      "key_variations": "I don't think; I think so; I thought (past).",
+      "essential_vocabulary_slots": "Any opinion clause.",
+      "common_learner_mistakes": "Doubling negative (I think I don't like it. -> I don't think I like it).",
+      "chunk_compatibility": "\"I think it's a good idea.\", \"I don't think she's home.\", \"I think so.\"",
+      "examples": [
+        "I think you're right.",
+        "I don't think it will rain.",
+        "I think it's time to go."
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "I feel like + noun/verb-ing",
+      "core_meaning": "Expressing desire or inclination.",
+      "primary_communicative_function": "Casual way to say what you want.",
+      "when_to_use": "To suggest an activity or state.",
+      "pattern": "I feel like + [noun / verb-ing]",
+      "key_variations": "I don't feel like; Do you feel like?",
+      "essential_vocabulary_slots": "Food, activities.",
+      "common_learner_mistakes": "Using to verb, using with clause (I feel like I need... okay but different nuance).",
+      "chunk_compatibility": "\"I feel like pizza.\", \"I don't feel like going out.\", \"Do you feel like a walk?\"",
+      "examples": [
+        "I feel like a cup of coffee.",
+        "She feels like dancing.",
+        "I don't feel like working today."
+      ]
+    },
+    {
+      "id": 3,
+      "structure": "I'm good at / bad at + noun/verb-ing",
+      "core_meaning": "Skill level.",
+      "primary_communicative_function": "Describing abilities, strengths, weaknesses.",
+      "when_to_use": "Hobbies, school subjects.",
+      "pattern": "[Subject] + am/is/are good/bad at + [noun / verb-ing]",
+      "key_variations": "pretty good, terrible at, not bad at.",
+      "essential_vocabulary_slots": "Skill areas (maths, cooking, remembering names).",
+      "common_learner_mistakes": "Using to verb, forgetting -ing.",
+      "chunk_compatibility": "\"I'm good at sports.\", \"She's bad at keeping secrets.\", \"Are you good at drawing?\"",
+      "examples": [
+        "I'm good at cooking.",
+        "He's terrible at singing.",
+        "She's not very good at multitasking."
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "I want you to + verb",
+      "core_meaning": "Desire for someone else to act.",
+      "primary_communicative_function": "Giving instructions, expressing wishes.",
+      "when_to_use": "Telling someone what you wish they'd do.",
+      "pattern": "[Subject] + want + [person/object pronoun] + to + [base verb]",
+      "key_variations": "Would like you to; expect you to.",
+      "essential_vocabulary_slots": "Action verbs.",
+      "common_learner_mistakes": "Using that-clause (I want that you help), omitting to.",
+      "chunk_compatibility": "\"I want you to meet someone.\", \"She wants me to go.\", \"Do you want him to call?\"",
+      "examples": [
+        "I want you to listen carefully.",
+        "He wants me to help him.",
+        "They want us to arrive early."
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "It takes + time + to + verb",
+      "core_meaning": "Duration needed for an action.",
+      "primary_communicative_function": "Talking about how long something requires.",
+      "when_to_use": "Explaining time cost.",
+      "pattern": "It takes + [person] + [time] + to + [base verb]",
+      "key_variations": "It takes me 10 minutes; How long does it take?",
+      "essential_vocabulary_slots": "Time expressions, activities.",
+      "common_learner_mistakes": "Using for (It takes for me), wrong word order.",
+      "chunk_compatibility": "\"It takes 20 minutes to walk there.\", \"It takes me an hour to get ready.\", \"How long does it take to fly to Paris?\"",
+      "examples": [
+        "It takes about 15 minutes to cook.",
+        "It took her two hours to finish.",
+        "It doesn't take long to learn."
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "There is no point in + verb-ing",
+      "core_meaning": "Futility of an action.",
+      "primary_communicative_function": "Saying something is useless.",
+      "when_to_use": "To discourage or express hopelessness.",
+      "pattern": "There's no point (in) + [verb-ing]",
+      "key_variations": "It's no use + verb-ing; What's the point of...?",
+      "essential_vocabulary_slots": "Futile actions.",
+      "common_learner_mistakes": "Using to verb, forgetting in.",
+      "chunk_compatibility": "\"There's no point in waiting.\", \"There's no point arguing.\", \"What's the point of trying?\"",
+      "examples": [
+        "There's no point in crying over spilt milk.",
+        "There's no point calling him now; he's asleep.",
+        "I think there's no point in worrying."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "The more ..., the more ...",
+      "core_meaning": "Proportional increase.",
+      "primary_communicative_function": "Expressing correlation.",
+      "when_to_use": "Showing relationship between two things.",
+      "pattern": "The + [comparative] + [subject + verb], the + [comparative] + [subject + verb]",
+      "key_variations": "The more I practice, the better I get; The less... the less.",
+      "essential_vocabulary_slots": "Comparatives.",
+      "common_learner_mistakes": "Missing \"the\", wrong word order.",
+      "chunk_compatibility": "\"The more you work, the more you earn.\", \"The sooner, the better.\", \"The older I get, the wiser I become.\"",
+      "examples": [
+        "The more you practice, the easier it becomes.",
+        "The faster you drive, the more fuel you use.",
+        "The louder she spoke, the less they listened."
+      ]
+    },
+    {
+      "id": 8,
+      "structure": "It's (not) worth + verb-ing",
+      "core_meaning": "Value of an action.",
+      "primary_communicative_function": "Recommending or discouraging.",
+      "when_to_use": "Evaluating if something deserves effort.",
+      "pattern": "It's (not) worth + [verb-ing]",
+      "key_variations": "It's worth it; Is it worth...?; worth + noun (It's worth a try).",
+      "essential_vocabulary_slots": "Activities, price, time.",
+      "common_learner_mistakes": "Using to verb, worth to visit -> worth visiting.",
+      "chunk_compatibility": "\"It's worth visiting.\", \"It's not worth waiting.\", \"Is it worth the money?\"",
+      "examples": [
+        "The film is worth watching.",
+        "It's not worth getting angry.",
+        "It's worth a try."
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "I'm looking forward to + noun/verb-ing",
+      "core_meaning": "Excitement about future event.",
+      "primary_communicative_function": "Ending conversations, emails, expressing anticipation.",
+      "when_to_use": "In social and professional settings.",
+      "pattern": "[Subject] + am looking forward to + [noun / verb-ing]",
+      "key_variations": "I look forward to (formal); really looking forward.",
+      "essential_vocabulary_slots": "Events, meetings, holidays.",
+      "common_learner_mistakes": "Using to + base verb (I'm looking forward to see you), missing to.",
+      "chunk_compatibility": "\"I'm looking forward to the party.\", \"Looking forward to hearing from you.\", \"She's looking forward to meeting you.\"",
+      "examples": [
+        "I'm looking forward to the weekend.",
+        "We're looking forward to working with you.",
+        "Are you looking forward to your trip?"
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "I'm used to / I can't get used to + noun/verb-ing",
+      "core_meaning": "Familiarity or lack of adaptation.",
+      "primary_communicative_function": "Explaining comfort level.",
+      "when_to_use": "Adjusting to new situations.",
+      "pattern": "I'm used to + noun/verb-ing; I can't get used to + noun/verb-ing",
+      "key_variations": "Not used to; get used to.",
+      "essential_vocabulary_slots": "New habits, weather, food.",
+      "common_learner_mistakes": "Using base verb after to.",
+      "chunk_compatibility": "\"I'm used to the heat.\", \"I can't get used to driving on the left.\", \"You'll get used to it.\"",
+      "examples": [
+        "I'm not used to getting up early.",
+        "She can't get used to the silence.",
+        "He's still not used to his new job."
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "Because / since / as + clause (reason)",
+      "core_meaning": "Giving reason.",
+      "primary_communicative_function": "Explaining why.",
+      "when_to_use": "Any explanation.",
+      "pattern": "[Clause] + because + [reason]; Because + reason, clause.",
+      "key_variations": "Due to + noun; Because of + noun.",
+      "essential_vocabulary_slots": "Reasons.",
+      "common_learner_mistakes": "Using because and so together.",
+      "chunk_compatibility": "\"I left because I was tired.\", \"Since you're here, let's start.\", \"As it was raining, we stayed in.\"",
+      "examples": [
+        "She's late because the traffic was bad.",
+        "Because I was hungry, I ate a sandwich.",
+        "As it's your birthday, I'll pay."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "So + adjective/adverb + that",
+      "core_meaning": "Intensity causing a result.",
+      "primary_communicative_function": "Emphasizing degree.",
+      "when_to_use": "When describing extreme situation and consequence.",
+      "pattern": "[Subject] + be/verb + so + [adjective/adverb] + that + [result clause]",
+      "key_variations": "Such + noun phrase + that.",
+      "essential_vocabulary_slots": "Extreme adjectives (tired, big, fast).",
+      "common_learner_mistakes": "Using too ... that, mixing such and so.",
+      "chunk_compatibility": "\"It was so hot that we couldn't sleep.\", \"She ran so fast that I couldn't catch her.\"",
+      "examples": [
+        "I was so tired that I fell asleep on the bus.",
+        "The music was so loud that my ears hurt.",
+        "He spoke so quickly that no one understood."
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "Too + adjective + to + verb",
+      "core_meaning": "Excess preventing an action.",
+      "primary_communicative_function": "Explaining why something can't be done.",
+      "when_to_use": "When quality exceeds limit.",
+      "pattern": "[Subject] + be + too + [adjective] + (for someone) + to + [base verb]",
+      "key_variations": "far too, much too.",
+      "essential_vocabulary_slots": "Difficulty adjectives.",
+      "common_learner_mistakes": "Using too much + adj, using \"to\" incorrectly.",
+      "chunk_compatibility": "\"It's too heavy to lift.\", \"You're too young to drive.\", \"The coffee is too hot to drink.\"",
+      "examples": [
+        "She's too sick to go out.",
+        "This box is too big to fit in the car.",
+        "He's too proud to apologize."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "Not enough + noun / adjective + enough",
+      "core_meaning": "Insufficiency.",
+      "primary_communicative_function": "Saying quantity or quality is below needed level.",
+      "when_to_use": "Complaints, limitations.",
+      "pattern": "enough + [noun]; [adjective] + enough; not + [adjective] enough",
+      "key_variations": "enough ... for; enough ... to + verb.",
+      "essential_vocabulary_slots": "Quantity, qualities.",
+      "common_learner_mistakes": "Word order (enough big -> big enough).",
+      "chunk_compatibility": "\"I don't have enough time.\", \"She's not old enough.\", \"Is it warm enough to swim?\"",
+      "examples": [
+        "We haven't got enough money.",
+        "He isn't tall enough to reach.",
+        "There aren't enough chairs."
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "I have no idea + wh-clause / about",
+      "core_meaning": "Complete lack of knowledge.",
+      "primary_communicative_function": "Expressing ignorance strongly.",
+      "when_to_use": "When you really don't know.",
+      "pattern": "I have no idea + [what/where/how/who] + clause",
+      "key_variations": "I've no idea; I have no clue.",
+      "essential_vocabulary_slots": "Wh-words.",
+      "common_learner_mistakes": "Using that, word order.",
+      "chunk_compatibility": "\"I have no idea what you're talking about.\", \"I have no idea where he went.\", \"I have no idea how to do that.\"",
+      "examples": [
+        "I have no idea what time it is.",
+        "She has no idea who called.",
+        "I have no idea why he's angry."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "I wonder + if/whether + clause",
+      "core_meaning": "Polite speculation, indirect question.",
+      "primary_communicative_function": "Thinking aloud, asking indirectly.",
+      "when_to_use": "To soften questions.",
+      "pattern": "I wonder if + [subject + verb]",
+      "key_variations": "I was wondering if... (more polite request).",
+      "essential_vocabulary_slots": "Speculation.",
+      "common_learner_mistakes": "Using question word order after if.",
+      "chunk_compatibility": "\"I wonder if he'll come.\", \"I was wondering if you could help me.\", \"I wonder where she is.\"",
+      "examples": [
+        "I wonder if it will rain.",
+        "I wonder what they're doing.",
+        "I was wondering if I could borrow your car."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "Is it possible to + verb?",
+      "core_meaning": "Asking about feasibility.",
+      "primary_communicative_function": "Polite enquiry about ability/permission.",
+      "when_to_use": "In formal requests.",
+      "pattern": "Is it possible to + [base verb]?",
+      "key_variations": "Would it be possible to...; Is there any chance...?",
+      "essential_vocabulary_slots": "Actions.",
+      "common_learner_mistakes": "Using can with Is it possible? unnecessarily.",
+      "chunk_compatibility": "\"Is it possible to get a refund?\", \"Would it be possible to change the date?\", \"Is it possible to park here?\"",
+      "examples": [
+        "Is it possible to speak to the manager?",
+        "Is it possible to check out late?",
+        "Would it be possible to have a window seat?"
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "I'm sure / I'm not sure + clause",
+      "core_meaning": "Certainty / uncertainty.",
+      "primary_communicative_function": "Expressing confidence or doubt.",
+      "when_to_use": "In conversation to hedge.",
+      "pattern": "I'm sure (that) + clause; I'm not sure if/whether/wh...",
+      "key_variations": "I'm positive; I doubt if.",
+      "essential_vocabulary_slots": "Any proposition.",
+      "common_learner_mistakes": "Using surely incorrectly.",
+      "chunk_compatibility": "\"I'm sure you'll love it.\", \"I'm not sure if he's coming.\", \"Are you sure about that?\"",
+      "examples": [
+        "I'm sure it's going to be fun.",
+        "I'm not sure where I left my keys.",
+        "He's not sure whether to go."
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "To be honest, ...",
+      "core_meaning": "Introducing frank opinion.",
+      "primary_communicative_function": "Softening critical/disappointing statement.",
+      "when_to_use": "Before giving a negative or honest view.",
+      "pattern": "To be honest, + [clause]",
+      "key_variations": "To tell you the truth; Honestly; Frankly.",
+      "essential_vocabulary_slots": "Honest statements.",
+      "common_learner_mistakes": "Using it with positive obvious truths unnecessarily.",
+      "chunk_compatibility": "\"To be honest, I didn't like it.\", \"To be honest, I'm not really interested.\", \"To be honest, I was a bit disappointed.\"",
+      "examples": [
+        "To be honest, I think it's too expensive.",
+        "To be honest, I forgot about the meeting.",
+        "To be honest, I'm exhausted."
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "In my opinion, ...",
+      "core_meaning": "Personal viewpoint.",
+      "primary_communicative_function": "Formal debate, essays, serious discussions.",
+      "when_to_use": "Signposting personal belief.",
+      "pattern": "In my opinion, + [clause]",
+      "key_variations": "From my perspective; As I see it; Personally, I think.",
+      "essential_vocabulary_slots": "Opinions.",
+      "common_learner_mistakes": "Using according to me (incorrect).",
+      "chunk_compatibility": "\"In my opinion, it's a waste of time.\", \"In my opinion, we should wait.\"",
+      "examples": [
+        "In my opinion, this is the best solution.",
+        "In my opinion, the movie was too long.",
+        "In my opinion, everyone should learn a language."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "According to + source",
+      "core_meaning": "Reporting a source.",
+      "primary_communicative_function": "Attributing information.",
+      "when_to_use": "News, reports, not for personal opinion.",
+      "pattern": "According to + [noun/source], + [clause]",
+      "key_variations": "Based on; As per (formal).",
+      "essential_vocabulary_slots": "Experts, reports, people.",
+      "common_learner_mistakes": "According to me (wrong); using for opinion.",
+      "chunk_compatibility": "\"According to the weather forecast, it will rain.\", \"According to John, the meeting is cancelled.\"",
+      "examples": [
+        "According to the newspaper, prices are rising.",
+        "According to the recipe, we need three eggs.",
+        "According to him, everything is fine."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "As far as I know, ...",
+      "core_meaning": "Limited knowledge.",
+      "primary_communicative_function": "Hedging, showing you're not 100% sure.",
+      "when_to_use": "When you might be wrong.",
+      "pattern": "As far as I know, + [clause]",
+      "key_variations": "To the best of my knowledge; As far as I can tell.",
+      "essential_vocabulary_slots": "Information.",
+      "common_learner_mistakes": "Using for definite facts.",
+      "chunk_compatibility": "\"As far as I know, she still works there.\", \"As far as I know, it's free.\"",
+      "examples": [
+        "As far as I know, the flight is on time.",
+        "As far as I know, he's single.",
+        "As far as I'm aware, no decision has been made."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "The reason why ... is because ...",
+      "core_meaning": "Explaining cause (common chunk, though redundant).",
+      "primary_communicative_function": "Clarifying motivation.",
+      "when_to_use": "In spoken English, emphasis.",
+      "pattern": "The reason (why) + [clause] + is because + [reason]",
+      "key_variations": "The reason is that... (more formal).",
+      "essential_vocabulary_slots": "Reasons.",
+      "common_learner_mistakes": "The reason is because... (redundant but accepted in spoken), using The reason why... is because... same.",
+      "chunk_compatibility": "\"The reason why I'm late is because I missed the bus.\", \"The reason I called is because I need your help.\"",
+      "examples": [
+        "The reason I'm tired is because I stayed up late.",
+        "The reason she quit is because of the stress.",
+        "The reason why we chose this hotel is because it's cheap."
+      ]
+    },
+    {
+      "id": 24,
+      "structure": "Not only ... but also ...",
+      "core_meaning": "Adding emphasis, two things.",
+      "primary_communicative_function": "Highlighting additional element.",
+      "when_to_use": "To stress that both are true.",
+      "pattern": "Not only + [auxiliary + subject] + but also + [clause]",
+      "key_variations": "...but...also; Subject + not only + verb + but also...",
+      "essential_vocabulary_slots": "Adjectives, verbs.",
+      "common_learner_mistakes": "Forgetting inversion when \"Not only\" starts a sentence.",
+      "chunk_compatibility": "\"Not only is she smart, but she's also kind.\", \"He not only plays the guitar but also sings.\"",
+      "examples": [
+        "Not only did we arrive late, but we also forgot the tickets.",
+        "She's not only a teacher but also a writer.",
+        "The trip was not only fun but also educational."
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "The first time I + past simple",
+      "core_meaning": "Narrating first experience.",
+      "primary_communicative_function": "Telling about memorable first events.",
+      "when_to_use": "In storytelling.",
+      "pattern": "The first time I + [past verb phrase], + [past result]",
+      "key_variations": "The first time I saw/met/went.",
+      "essential_vocabulary_slots": "Memorable events.",
+      "common_learner_mistakes": "Using present perfect.",
+      "chunk_compatibility": "\"The first time I saw her, I knew...\", \"The first time I went abroad was in 2010.\"",
+      "examples": [
+        "The first time I ate sushi, I didn't like it.",
+        "The first time I drove a car, I was terrified.",
+        "The first time we met, we talked all night."
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "It's (been) ages since + past simple",
+      "core_meaning": "Long time since something last happened.",
+      "primary_communicative_function": "Catching up.",
+      "when_to_use": "When you haven't done/something for a long time.",
+      "pattern": "It's + been + ages / a long time + since + [past simple]",
+      "key_variations": "It's years since I saw him; It's been a while.",
+      "essential_vocabulary_slots": "Activities.",
+      "common_learner_mistakes": "Using present perfect after since.",
+      "chunk_compatibility": "\"It's been ages since we last spoke.\", \"It's years since I went to the cinema.\"",
+      "examples": [
+        "It's been ages since I had a proper holiday.",
+        "It's a long time since I felt this happy.",
+        "It's been ages since I saw you!"
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "I can't help + verb-ing",
+      "core_meaning": "Can't stop doing something.",
+      "primary_communicative_function": "Expressing compulsion.",
+      "when_to_use": "To admit something you can't control.",
+      "pattern": "I can't help + [verb-ing]",
+      "key_variations": "She couldn't help laughing; I can't help it.",
+      "essential_vocabulary_slots": "Reactions (laughing, crying, worrying).",
+      "common_learner_mistakes": "Using to verb, or I can't help but + base (both possible but verb-ing is simpler).",
+      "chunk_compatibility": "\"I can't help feeling anxious.\", \"I can't help laughing.\", \"I couldn't help overhearing.\"",
+      "examples": [
+        "I can't help thinking about him.",
+        "She can't help eating chocolate.",
+        "I couldn't help notice your accent."
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "Let alone + noun/verb",
+      "core_meaning": "Emphasizing impossibility of a greater thing.",
+      "primary_communicative_function": "Highlighting contrast between simple and difficult.",
+      "when_to_use": "To say \"A is impossible, so B is definitely impossible\".",
+      "pattern": "[negative statement], let alone + [more extreme possibility]",
+      "key_variations": "I can't even walk, let alone run.",
+      "essential_vocabulary_slots": "Degrees of difficulty.",
+      "common_learner_mistakes": "Using positive form, word order.",
+      "chunk_compatibility": "\"I can't afford a bike, let alone a car.\", \"He can't boil an egg, let alone cook a dinner.\"",
+      "examples": [
+        "She can't read, let alone write.",
+        "I couldn't remember her name, let alone her phone number.",
+        "He doesn't have a job, let alone a career."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "I find it + adjective + to + verb",
+      "core_meaning": "Expressing personal experience of an action.",
+      "primary_communicative_function": "Giving opinion about difficulty or pleasure.",
+      "when_to_use": "Instead of \"I think it is...\".",
+      "pattern": "I find it + [adjective] + to + [base verb]",
+      "key_variations": "I find it hard to believe; I find it easy.",
+      "essential_vocabulary_slots": "Evaluative adjectives (difficult, easy, interesting, boring).",
+      "common_learner_mistakes": "Using that clause without it (I find that it is... possible but chunk differs).",
+      "chunk_compatibility": "\"I find it hard to concentrate.\", \"She finds it easy to make friends.\", \"Do you find it difficult to say no?\"",
+      "examples": [
+        "I find it difficult to wake up early.",
+        "He finds it boring to sit in meetings.",
+        "They find it impossible to agree."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "I'd prefer it if + subject + past simple",
+      "core_meaning": "Polite preference about another's action.",
+      "primary_communicative_function": "Making soft requests for different behavior.",
+      "when_to_use": "When you want someone to do something differently.",
+      "pattern": "I'd prefer it if + [subject] + [past simple]",
+      "key_variations": "I'd rather you + past simple.",
+      "essential_vocabulary_slots": "Desired actions.",
+      "common_learner_mistakes": "Using present or will after if.",
+      "chunk_compatibility": "\"I'd prefer it if you didn't smoke.\", \"I'd prefer it if we left early.\", \"I'd prefer it if you called first.\"",
+      "examples": [
+        "I'd prefer it if you parked somewhere else.",
+        "She'd prefer it if he didn't talk about politics.",
+        "I'd prefer it if we met tomorrow instead."
+      ]
+    }
+  ],
+  "high_transfer_communicative_frames": [
+    {
+      "id": 1,
+      "structure": "Can I get + noun? (ordering)",
+      "core_meaning": "Ordering food/drinks, requesting items.",
+      "primary_communicative_function": "Casual transactional language.",
+      "when_to_use": "In cafés, restaurants, shops.",
+      "pattern": "Can I get + [noun phrase]?",
+      "key_variations": "I'll have; I'd like; Could I have.",
+      "essential_vocabulary_slots": "Menu items, size (a large coffee).",
+      "common_learner_mistakes": "Using \"I want\" which is too direct; \"Can I have\" fine.",
+      "chunk_compatibility": "\"Can I get a latte?\", \"Can I get the check, please?\", \"I'll have the burger.\"",
+      "examples": [
+        "Can I get a cappuccino?",
+        "Can I get some water?",
+        "Can I get extra cheese on that?"
+      ]
+    },
+    {
+      "id": 2,
+      "structure": "How do I get to + place?",
+      "core_meaning": "Asking for directions.",
+      "primary_communicative_function": "Navigation.",
+      "when_to_use": "When lost or seeking route.",
+      "pattern": "How do I get to + [place]?",
+      "key_variations": "Can you tell me how to get to...; What's the best way to...; Where is...?",
+      "essential_vocabulary_slots": "Locations (station, museum, center).",
+      "common_learner_mistakes": "Using go to (How can I go to...).",
+      "chunk_compatibility": "\"How do I get to the train station?\", \"Can you tell me how to get to the airport?\"",
+      "examples": [
+        "Excuse me, how do I get to the museum?",
+        "How do I get to Oxford Street?",
+        "Do you know how to get to the nearest bank?"
+      ]
+    },
+    {
+      "id": 3,
+      "structure": "I'm looking for + noun",
+      "core_meaning": "Searching for something.",
+      "primary_communicative_function": "Shopping, finding items.",
+      "when_to_use": "In stores, asking for help.",
+      "pattern": "I'm looking for + [noun/noun phrase]",
+      "key_variations": "Do you have...; Where can I find...; I'd like to find...",
+      "essential_vocabulary_slots": "Products, objects.",
+      "common_learner_mistakes": "Using to search, word order.",
+      "chunk_compatibility": "\"I'm looking for a birthday card.\", \"I'm looking for the manager.\", \"What are you looking for?\"",
+      "examples": [
+        "I'm looking for a pair of jeans.",
+        "She's looking for a new apartment.",
+        "I'm looking for something to read."
+      ]
+    },
+    {
+      "id": 4,
+      "structure": "Can you tell me + wh-clause?",
+      "core_meaning": "Polite indirect question.",
+      "primary_communicative_function": "Requesting information softly.",
+      "when_to_use": "With strangers, formal.",
+      "pattern": "Can you tell me + [what/where/when/how/who] + [subject + verb]?",
+      "key_variations": "Could you tell me; Do you know...; I'd like to know...",
+      "essential_vocabulary_slots": "Wh-words.",
+      "common_learner_mistakes": "Inverting subject-verb after wh- (Can you tell me where is the station? -> where the station is).",
+      "chunk_compatibility": "\"Can you tell me where the toilet is?\", \"Can you tell me what time it starts?\", \"Do you know when he arrives?\"",
+      "examples": [
+        "Can you tell me how to get to the bus stop?",
+        "Could you tell me why the flight is delayed?",
+        "Can you tell me who I should speak to?"
+      ]
+    },
+    {
+      "id": 5,
+      "structure": "Do you mind if I + present verb?",
+      "core_meaning": "Asking permission politely.",
+      "primary_communicative_function": "Avoiding rudeness.",
+      "when_to_use": "When you think your action might bother someone.",
+      "pattern": "Do you mind if I + [base verb / present simple]?",
+      "key_variations": "Would you mind if I + past simple (more polite); Is it okay if I...",
+      "essential_vocabulary_slots": "Potentially intrusive actions.",
+      "common_learner_mistakes": "Saying \"Yes\" to give permission (correct: No, not at all / Go ahead). Avoiding.",
+      "chunk_compatibility": "\"Do you mind if I open the window?\", \"Do you mind if I sit here?\", \"Would you mind if I used your phone?\"",
+      "examples": [
+        "Do you mind if I turn on the TV?",
+        "Do you mind if I bring a friend?",
+        "Would you mind if I left early?"
+      ]
+    },
+    {
+      "id": 6,
+      "structure": "I'm here to + verb",
+      "core_meaning": "Stating purpose of visit.",
+      "primary_communicative_function": "Formal/informal introduction of purpose.",
+      "when_to_use": "At reception, meetings, appointments.",
+      "pattern": "I'm here to + [base verb]",
+      "key_variations": "I've come to; I'm here for + noun.",
+      "essential_vocabulary_slots": "Purpose (see, pick up, collect, talk).",
+      "common_learner_mistakes": "Using for + verb-ing (I'm here for to fix).",
+      "chunk_compatibility": "\"I'm here to see Dr. Smith.\", \"I'm here to pick up my order.\", \"I'm here to apply for the job.\"",
+      "examples": [
+        "Hi, I'm here to collect my tickets.",
+        "I'm here to deliver a package.",
+        "She's here to discuss the project."
+      ]
+    },
+    {
+      "id": 7,
+      "structure": "How was + noun/event?",
+      "core_meaning": "Asking about past experience.",
+      "primary_communicative_function": "Social small talk, showing interest.",
+      "when_to_use": "After holidays, weekends, meals.",
+      "pattern": "How was + [noun]?",
+      "key_variations": "How did + verb go?",
+      "essential_vocabulary_slots": "Events (weekend, trip, flight, party).",
+      "common_learner_mistakes": "Using present, forgetting was.",
+      "chunk_compatibility": "\"How was your weekend?\", \"How was the film?\", \"How was your day?\"",
+      "examples": ["How was your holiday?", "How was the meeting?", "How was the food?"]
+    },
+    {
+      "id": 8,
+      "structure": "What about + noun/verb-ing? (suggestion)",
+      "core_meaning": "Proposing an alternative or including something.",
+      "primary_communicative_function": "Making suggestions, considering options.",
+      "when_to_use": "In planning, after a list.",
+      "pattern": "What about + [noun / verb-ing]?",
+      "key_variations": "How about; What do you think about.",
+      "essential_vocabulary_slots": "Ideas, choices.",
+      "common_learner_mistakes": "Using to verb, confusing with \"How about\" (same).",
+      "chunk_compatibility": "\"What about Friday?\", \"What about going to the cinema?\", \"What about you?\"",
+      "examples": [
+        "I'm free on Tuesday. What about Wednesday?",
+        "What about ordering pizza?",
+        "We need a present. What about a book?"
+      ]
+    },
+    {
+      "id": 9,
+      "structure": "Can't wait to + verb!",
+      "core_meaning": "Enthusiastic anticipation.",
+      "primary_communicative_function": "Expressing excitement about future.",
+      "when_to_use": "With friends, informal.",
+      "pattern": "I can't wait to + [base verb]",
+      "key_variations": "can't wait for + noun; Looking forward to.",
+      "essential_vocabulary_slots": "Future events.",
+      "common_learner_mistakes": "Using -ing instead of to base.",
+      "chunk_compatibility": "\"I can't wait to see you!\", \"Can't wait to start the weekend!\", \"She can't wait to open her presents.\"",
+      "examples": [
+        "I can't wait to go on holiday.",
+        "I can't wait to meet your family.",
+        "He can't wait to try the new ride."
+      ]
+    },
+    {
+      "id": 10,
+      "structure": "Long time no see!",
+      "core_meaning": "Greeting after long absence.",
+      "primary_communicative_function": "Reconnecting.",
+      "when_to_use": "When meeting someone you haven't seen for a while.",
+      "pattern": "Long time no see!",
+      "key_variations": "It's been a while!; How long has it been?",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using in formal email.",
+      "chunk_compatibility": "\"Hey! Long time no see!\", \"Long time no see — how have you been?\"",
+      "examples": [
+        "John! Long time no see!",
+        "Wow, long time no see. You look great.",
+        "Long time no see. What's new?"
+      ]
+    },
+    {
+      "id": 11,
+      "structure": "I have a question about + noun",
+      "core_meaning": "Introducing a query.",
+      "primary_communicative_function": "Starting a request for information.",
+      "when_to_use": "In class, customer service.",
+      "pattern": "I have a question about + [noun / wh-clause]",
+      "key_variations": "I wanted to ask about; Can I ask something about...",
+      "essential_vocabulary_slots": "Topics.",
+      "common_learner_mistakes": "Using for (about).",
+      "chunk_compatibility": "\"I have a question about the homework.\", \"I have a question about my bill.\"",
+      "examples": [
+        "I have a question about your return policy.",
+        "I have a question about where to park.",
+        "She has a question about the schedule."
+      ]
+    },
+    {
+      "id": 12,
+      "structure": "Would you like me to + verb?",
+      "core_meaning": "Offering to do something for someone.",
+      "primary_communicative_function": "Polite assistance.",
+      "when_to_use": "When seeing someone might need help.",
+      "pattern": "Would you like me to + [base verb]?",
+      "key_variations": "Shall I...; Do you want me to...",
+      "essential_vocabulary_slots": "Helpful actions.",
+      "common_learner_mistakes": "Using that I verb.",
+      "chunk_compatibility": "\"Would you like me to carry that?\", \"Would you like me to call a taxi?\", \"Would you like me to help?\"",
+      "examples": [
+        "Would you like me to open the window?",
+        "Would you like me to explain again?",
+        "Would you like me to show you the way?"
+      ]
+    },
+    {
+      "id": 13,
+      "structure": "It's up to you.",
+      "core_meaning": "Leaving decision to other person.",
+      "primary_communicative_function": "Giving choice, being flexible.",
+      "when_to_use": "When you don't mind.",
+      "pattern": "It's up to you.",
+      "key_variations": "It's your call; I don't mind; You decide.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using for you to decide.",
+      "chunk_compatibility": "\"What do you want to eat? It's up to you.\", \"We can go today or tomorrow, it's up to you.\"",
+      "examples": [
+        "I can do either, it's up to you.",
+        "It's up to you which one we choose.",
+        "Where we go is entirely up to you."
+      ]
+    },
+    {
+      "id": 14,
+      "structure": "That sounds + adjective",
+      "core_meaning": "Reacting positively/negatively to a suggestion.",
+      "primary_communicative_function": "Showing opinion about idea.",
+      "when_to_use": "In conversations, planning.",
+      "pattern": "That sounds + [adjective] (good, great, interesting, boring, terrible)",
+      "key_variations": "That seems; It sounds like a plan.",
+      "essential_vocabulary_slots": "Evaluating adjectives.",
+      "common_learner_mistakes": "Using this is sound.",
+      "chunk_compatibility": "\"That sounds good!\", \"That sounds like fun.\", \"That sounds difficult.\"",
+      "examples": [
+        "Dinner out? That sounds great!",
+        "His proposal sounds interesting.",
+        "That sounds like a lot of work."
+      ]
+    },
+    {
+      "id": 15,
+      "structure": "Sorry to bother you, but ...",
+      "core_meaning": "Polite interruption.",
+      "primary_communicative_function": "Getting stranger's attention, interrupting.",
+      "when_to_use": "Before asking a favor or question to someone busy.",
+      "pattern": "Sorry to bother you, but + [request/question]",
+      "key_variations": "Excuse me, I hate to bother you.",
+      "essential_vocabulary_slots": "Question.",
+      "common_learner_mistakes": "Using too direct \"Hey you\".",
+      "chunk_compatibility": "\"Sorry to bother you, but could you help me?\", \"Sorry to bother you, but do you have a minute?\"",
+      "examples": [
+        "Sorry to bother you, but do you know what time it is?",
+        "Sorry to bother you, but is this seat taken?",
+        "Sorry to bother you, but I think you dropped this."
+      ]
+    },
+    {
+      "id": 16,
+      "structure": "I didn't catch that. / Could you repeat that?",
+      "core_meaning": "Asking for repetition.",
+      "primary_communicative_function": "Managing communication breakdown.",
+      "when_to_use": "When you didn't hear or understand.",
+      "pattern": "Sorry, I didn't catch that. / Could you repeat that, please?",
+      "key_variations": "Pardon?; Could you say that again?; What was that?",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Just \"What?\"; \"Again please.\"",
+      "chunk_compatibility": "\"Sorry, I didn't catch your name.\", \"Could you repeat the last part?\"",
+      "examples": [
+        "I'm sorry, I didn't catch that. Could you say it again?",
+        "Sorry, could you repeat that? The line is bad.",
+        "I didn't catch what you just said."
+      ]
+    },
+    {
+      "id": 17,
+      "structure": "What do you mean by ...?",
+      "core_meaning": "Clarifying meaning.",
+      "primary_communicative_function": "Checking understanding.",
+      "when_to_use": "When a word/phrase is unclear.",
+      "pattern": "What do you mean by + [noun/word]?",
+      "key_variations": "What do you mean?; What exactly do you mean?",
+      "essential_vocabulary_slots": "Unfamiliar words.",
+      "common_learner_mistakes": "Using What means...? (What means this word?).",
+      "chunk_compatibility": "\"What do you mean by 'sustainable'?\", \"What do you mean exactly?\"",
+      "examples": [
+        "What do you mean by that?",
+        "I'm not sure what you mean by \"soon\".",
+        "What do you mean when you say it's complicated?"
+      ]
+    },
+    {
+      "id": 18,
+      "structure": "How about + noun/verb-ing? (suggestion)",
+      "core_meaning": "Suggesting.",
+      "primary_communicative_function": "Same as What about, casual.",
+      "when_to_use": "Alternatives, offers.",
+      "pattern": "How about + [noun / verb-ing]?",
+      "key_variations": "How about you?; How about if + clause?",
+      "essential_vocabulary_slots": "Suggestions.",
+      "common_learner_mistakes": "Using to base verb.",
+      "chunk_compatibility": "\"How about a drink?\", \"How about going to the park?\", \"How about we meet at 6?\"",
+      "examples": [
+        "How about a movie tonight?",
+        "How about trying the new restaurant?",
+        "How about you? Do you like it?"
+      ]
+    },
+    {
+      "id": 19,
+      "structure": "It's not my cup of tea.",
+      "core_meaning": "Not something I like (idiomatic).",
+      "primary_communicative_function": "Polite dislike.",
+      "when_to_use": "Socially, to express mild distaste.",
+      "pattern": "It's not my cup of tea.",
+      "key_variations": "Not really my thing; I'm not a big fan of...",
+      "essential_vocabulary_slots": "Activities, genres.",
+      "common_learner_mistakes": "Overusing, mixing metaphor.",
+      "chunk_compatibility": "\"Opera isn't really my cup of tea.\", \"It's not my cup of tea, but you might like it.\"",
+      "examples": [
+        "Horror movies aren't my cup of tea.",
+        "Spicy food is not really my cup of tea.",
+        "Thank you, but classical music isn't my cup of tea."
+      ]
+    },
+    {
+      "id": 20,
+      "structure": "It depends on + noun/wh-clause.",
+      "core_meaning": "Conditionality.",
+      "primary_communicative_function": "Avoiding definite answer when variable.",
+      "when_to_use": "Answering questions with conditions.",
+      "pattern": "It depends on + [noun / what/where/how etc.].",
+      "key_variations": "That depends.",
+      "essential_vocabulary_slots": "Factors (weather, time, money).",
+      "common_learner_mistakes": "Using of instead of on, or that clause.",
+      "chunk_compatibility": "\"It depends on the weather.\", \"It depends on how much it costs.\", \"I'm not sure. It depends.\"",
+      "examples": [
+        "\"Will you go?\" \"It depends on the time.\"",
+        "It depends on what you want.",
+        "It depends on whether I finish work early."
+      ]
+    },
+    {
+      "id": 21,
+      "structure": "I'd better get going.",
+      "core_meaning": "Indicating need to leave.",
+      "primary_communicative_function": "Ending a conversation politely.",
+      "when_to_use": "When you need to go.",
+      "pattern": "I'd better get going. / I'd better be off.",
+      "key_variations": "I should go; I have to run; Gotta go.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "I better going.",
+      "chunk_compatibility": "\"It's late, I'd better get going.\", \"I'd better be off — my train leaves soon.\"",
+      "examples": [
+        "I'd better get going, I have a meeting.",
+        "It was nice talking, but I'd better get going.",
+        "I'd better be off now."
+      ]
+    },
+    {
+      "id": 22,
+      "structure": "On the one hand ... on the other hand ...",
+      "core_meaning": "Presenting two contrasting ideas.",
+      "primary_communicative_function": "Balanced discussion.",
+      "when_to_use": "In decision-making, essays.",
+      "pattern": "On the one hand, [pro]. On the other hand, [con].",
+      "key_variations": "On the one hand ... but then again.",
+      "essential_vocabulary_slots": "Pros/cons.",
+      "common_learner_mistakes": "Using only \"on the other hand\" without first, conflating.",
+      "chunk_compatibility": "\"On the one hand it's cheap; on the other hand it's poor quality.\"",
+      "examples": [
+        "On the one hand I love the city; on the other hand it's expensive.",
+        "On the one hand it's a great opportunity, but on the other hand it means moving.",
+        "On the one hand he's very talented; on the other hand he's lazy."
+      ]
+    },
+    {
+      "id": 23,
+      "structure": "That reminds me, ...",
+      "core_meaning": "Connecting a thought to something.",
+      "primary_communicative_function": "Shifting topic smoothly.",
+      "when_to_use": "When something triggers a memory.",
+      "pattern": "That reminds me, + [clause]",
+      "key_variations": "Speaking of which; By the way.",
+      "essential_vocabulary_slots": "Associated ideas.",
+      "common_learner_mistakes": "Using for remember.",
+      "chunk_compatibility": "\"That reminds me, I need to call my mom.\", \"That reminds me, have you seen my keys?\"",
+      "examples": [
+        "That reminds me, we're out of milk.",
+        "Oh, that reminds me — did you book the tickets?",
+        "That reminds me of a story."
+      ]
+    },
+    {
+      "id": 24,
+      "structure": "I mean it. / I'm serious.",
+      "core_meaning": "Emphasizing sincerity.",
+      "primary_communicative_function": "Reinforcing statement.",
+      "when_to_use": "When someone doubts you.",
+      "pattern": "I mean it. / I'm serious.",
+      "key_variations": "No kidding; For real.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Not understanding nuance.",
+      "chunk_compatibility": "\"I'm going to quit. I mean it.\"",
+      "examples": [
+        "I love you, I mean it.",
+        "Don't laugh, I'm serious.",
+        "You should go. I mean it, it'll be good for you."
+      ]
+    },
+    {
+      "id": 25,
+      "structure": "You must be joking!",
+      "core_meaning": "Expressing disbelief.",
+      "primary_communicative_function": "Reacting to shocking statement.",
+      "when_to_use": "Informal, when something seems unbelievable.",
+      "pattern": "You must be joking! / You're kidding!",
+      "key_variations": "No way!; Are you serious?",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using literal meaning only.",
+      "chunk_compatibility": "\"They charged you $100? You must be joking!\"",
+      "examples": [
+        "\"I won the lottery.\" \"You must be joking!\"",
+        "You want me to work all night? You're joking, right?",
+        "No way! You must be kidding me!"
+      ]
+    },
+    {
+      "id": 26,
+      "structure": "Have you got a minute? / Do you have a second?",
+      "core_meaning": "Asking for brief time.",
+      "primary_communicative_function": "Initiating a short conversation.",
+      "when_to_use": "Before asking a quick question.",
+      "pattern": "Have you got a minute? / Do you have a second?",
+      "key_variations": "Can I talk to you for a moment?",
+      "essential_vocabulary_slots": "Time.",
+      "common_learner_mistakes": "Using hour instead of minute when it's quick.",
+      "chunk_compatibility": "\"Hey, have you got a minute? I need advice.\"",
+      "examples": [
+        "Excuse me, do you have a second? I just have a quick question.",
+        "Have you got a minute to chat?",
+        "When you have a minute, could you look at this?"
+      ]
+    },
+    {
+      "id": 27,
+      "structure": "How do you say ... in English?",
+      "core_meaning": "Asking for translation/expression.",
+      "primary_communicative_function": "Language learning, clarification.",
+      "when_to_use": "In conversation when you don't know a word.",
+      "pattern": "How do you say + [word/expression] + in English?",
+      "key_variations": "What's the English for...; What do you call...",
+      "essential_vocabulary_slots": "Foreign words.",
+      "common_learner_mistakes": "How to say...?; How do you call...? (common mistake for \"what do you call\").",
+      "chunk_compatibility": "\"How do you say 'casa' in English?\", \"How do you say this in English?\"",
+      "examples": [
+        "How do you say \"biblioteca\" in English?",
+        "How do you say \"thank you\" in your language?",
+        "I don't know how to say this in English."
+      ]
+    },
+    {
+      "id": 28,
+      "structure": "I have no idea what you're talking about.",
+      "core_meaning": "Complete lack of understanding.",
+      "primary_communicative_function": "Denying knowledge, confusion.",
+      "when_to_use": "When you really don't understand the topic.",
+      "pattern": "I have no idea what you're talking about.",
+      "key_variations": "I don't know what you're talking about; What are you on about? (very informal UK).",
+      "essential_vocabulary_slots": "Topics.",
+      "common_learner_mistakes": "Using \"what are you saying\" incorrectly.",
+      "chunk_compatibility": "\"What project? I have no idea what you're talking about.\"",
+      "examples": [
+        "\"You were at the party.\" \"I have no idea what you're talking about.\"",
+        "Sorry, I have no idea what you're referring to.",
+        "Politicians often pretend they have no idea what you're talking about."
+      ]
+    },
+    {
+      "id": 29,
+      "structure": "The thing is, ...",
+      "core_meaning": "Introducing an explanation or problem.",
+      "primary_communicative_function": "Softening bad news, clarifying.",
+      "when_to_use": "Before giving a reason for difficulty.",
+      "pattern": "The thing is, + [clause]",
+      "key_variations": "The problem is; The point is; Here's the thing.",
+      "essential_vocabulary_slots": "Explanations.",
+      "common_learner_mistakes": "Overusing \"The problem\".",
+      "chunk_compatibility": "\"I'd love to come, but the thing is, I have to work.\", \"The thing is, I already promised her.\"",
+      "examples": [
+        "The thing is, we don't have enough money.",
+        "The thing is, I'm not sure if I'm ready.",
+        "The thing is, he's never been on time."
+      ]
+    },
+    {
+      "id": 30,
+      "structure": "Good point! / I see your point.",
+      "core_meaning": "Acknowledging valid argument.",
+      "primary_communicative_function": "Agreeing during discussion.",
+      "when_to_use": "In debates, conversations.",
+      "pattern": "Good point. / I see your point.",
+      "key_variations": "That's a fair point; I hadn't thought of that.",
+      "essential_vocabulary_slots": "None.",
+      "common_learner_mistakes": "Using \"good idea\" for argument.",
+      "chunk_compatibility": "\"Maybe we should wait. - Good point!\", \"I see your point, but I still think...\"",
+      "examples": [
+        "\"It might rain later.\" \"Good point, I'll take an umbrella.\"",
+        "I see your point about the cost.",
+        "That's a good point, let's reconsider."
+      ]
+    }
+  ]
+}

@@ -6,7 +6,9 @@
     "study": "Estudiar",
     "favorites": "Favoritos",
     "progress": "Progreso",
-    "settings": "Configuración"
+    "settings": "Configuración",
+    "vocabularyGame": "Juego de Vocab",
+    "content": "Contenido"
   },
   "buttons": {
     "startReview": "Iniciar Revisión",

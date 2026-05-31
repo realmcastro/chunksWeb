@@ -1,6 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
-import { TopNav } from '@/components/layout/TopNav';
+import { AppShell } from '@/components/layout/AppShell';
 import { AuthProvider } from '@/components/providers/AuthProvider';
 import { I18nProvider } from '@/lib/i18n/I18nProvider';
 import { LearningLanguageProvider } from '@/lib/contexts/LearningLanguageContext';
@@ -44,10 +44,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <I18nProvider>
           <AuthProvider>
             <LearningLanguageProvider>
-              <TopNav />
-              <main className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-6">
+              <AppShell>
                 <ErrorBoundary context="root">{children}</ErrorBoundary>
-              </main>
+              </AppShell>
               <ToastProvider />
             </LearningLanguageProvider>
           </AuthProvider>
