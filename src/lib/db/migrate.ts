@@ -10,6 +10,10 @@ import * as m0008 from './migrations/0008_user_settings';
 import * as m0009 from './migrations/0009_gdpr';
 import * as m0010 from './migrations/0010_soft_delete';
 import * as m0011 from './migrations/0011_fts5';
+import * as m0012 from './migrations/0012_study_domains';
+import * as m0013 from './migrations/0013_domain_events';
+import * as m0014 from './migrations/0014_permissions';
+import * as m0015 from './migrations/0015_search_index';
 
 interface Migration {
   name: string;
@@ -29,6 +33,10 @@ const MIGRATIONS: Migration[] = [
   m0009,
   m0010,
   m0011,
+  m0012,
+  m0013,
+  m0014,
+  m0015,
 ];
 
 function ensureMigrationsTable(db: Database): void {

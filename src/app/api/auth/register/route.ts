@@ -7,6 +7,7 @@ import { parseJson } from '@/lib/validation/parse';
 import { registerSchema } from '@/lib/validation/schemas';
 import { logger } from '@/lib/logger';
 import { enforceRateLimit, RATE_LIMITS } from '@/lib/rate-limit';
+import { grantOwnerDefaults } from '@/lib/auth/permissions';
 
 export async function POST(request: Request) {
   const limited = enforceRateLimit(request, null, RATE_LIMITS.authRegister);
@@ -34,6 +35,8 @@ export async function POST(request: Request) {
     if (!user) {
       return NextResponse.json({ error: 'Failed to create user' }, { status: 500 });
     }
+
+    grantOwnerDefaults(user.id);
 
     const cookieStore = await cookies();
     cookieStore.set('session', buildSessionPayload(user.id, user.username), SESSION_COOKIE_OPTIONS);

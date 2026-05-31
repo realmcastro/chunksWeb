@@ -9,7 +9,7 @@ risco: baixo
 
 ## Contexto
 
-`src/lib/pronunciation/` usa Web Speech API TTS. Default voice por language. User não pode escolher US vs UK vs AU, ou male vs female.
+`src/lib/pronunciation/` usa Web Speech API TTS. Default voice por language. User não pode escolher US vs UK vs AU, ou male vs female. Isso para outras linguagens, revisar ingles mas provavel que seja o unico funcional.
 
 ## Problema
 
@@ -20,20 +20,24 @@ risco: baixo
 ## Proposta
 
 ### Voice catalog
+
 - Enumerar `speechSynthesis.getVoices()` por language
 - UI: dropdown agrupado por accent (US/UK/AU/IN/etc.)
 - Per-language preference: `user_voice_preferences (user_id, lang, voice_name)` — já existe?
 
 ### Multi-voice play
-- Setting: "Hear in different accents"
+
+- Setting: "Hear in different accents" (FR: France, Canada)
 - Random per chunk, ou cycle US → UK → AU
 - Útil em listening exposure
 
 ### Speed / pitch
+
 - Slider 0.5x – 1.5x speed
 - Pitch ±20% (subtle)
 
 ### Preview
+
 - Em settings: botão "Preview" play voice exemplo
 
 ## Arquivos
@@ -53,5 +57,5 @@ risco: baixo
 
 ## Decisões pendentes
 
-- Server-side TTS (ElevenLabs, OpenAI) para qualidade superior? Custo $$, defer.
+- Server-side TTS (ElevenLabs, OpenAI) para qualidade superior? Custo $$, defer. User quer free e local.
 - Cache local de voice preferences vs sync server? Sync mantém cross-device.

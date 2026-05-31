@@ -1,11 +1,13 @@
 import { NextResponse } from 'next/server';
 import { calculateSM2 } from '@/lib/spaced-repetition/sm2';
-import { getChunkProgress, updateChunkProgress, recordStudySession } from '@/lib/db/sqlite';
+import { getChunkProgress, updateChunkProgress, recordStudySession, getChunkById } from '@/lib/db/sqlite';
 import { getUserId } from '@/lib/auth/session';
 import { parseJson } from '@/lib/validation/parse';
 import { reviewSubmitSchema } from '@/lib/validation/schemas';
 import { logger } from '@/lib/logger';
 import { enforceRateLimit, RATE_LIMITS } from '@/lib/rate-limit';
+import { emit } from '@/lib/events/eventBus';
+import '@/lib/events/subscribers';
 
 /*
 ! POST /api/review/submit — quality rating → SM-2 update.
@@ -41,6 +43,27 @@ export async function POST(request: Request) {
     const becameMastered = !wasMastered && isNowMastered;
 
     recordStudySession(userId, 1, becameMastered ? 1 : 0);
+
+    const chunk = getChunkById(chunkId);
+    const domainId = chunk?.domain_id ?? 1;
+    const today = new Date().toISOString().split('T')[0];
+
+    emit('study.chunk.reviewed', {
+      userId,
+      chunkId,
+      quality,
+      domainId,
+      durationMs: 0,
+    });
+
+    emit('study.session.completed', {
+      userId,
+      domainId,
+      chunksReviewed: 1,
+      chunksMastered: becameMastered ? 1 : 0,
+      durationMs: 0,
+      sessionDate: today,
+    });
 
     return NextResponse.json({
       success: true,

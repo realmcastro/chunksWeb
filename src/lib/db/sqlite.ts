@@ -64,6 +64,7 @@ export interface Chunk {
   is_idiom: number;
   created_at: number;
   updated_at: number;
+  domain_id: number | null;
 }
 
 export interface GrammarStructure {
@@ -2706,4 +2707,159 @@ export function getSoftDeletedChunksForPurge(retentionDays: number = 90): number
       .prepare('SELECT id FROM chunks WHERE deleted_at IS NOT NULL AND deleted_at < ?')
       .all(cutoff) as Array<{ id: number }>
   ).map((r) => r.id);
+}
+
+// ============================================================
+// STUDY DOMAINS (#83 — pluggable domain model)
+// ============================================================
+
+export interface StudyDomain {
+  id: number;
+  slug: string;
+  name: string;
+  type: 'language' | 'programming' | 'science' | 'math' | 'custom';
+  content_schema: string;
+  enabled_modes: string;
+  sm2_enabled: number;
+  spaced_repetition_algorithm: string;
+  icon: string | null;
+  color: string | null;
+  created_by: number | null;
+  is_system: number;
+  created_at: number;
+  deleted_at: number | null;
+}
+
+export interface UserDomain {
+  id: number;
+  user_id: number;
+  domain_id: number;
+  active: number;
+  sort_order: number;
+  settings: string;
+  added_at: number;
+}
+
+export interface UserDomainWithDetails extends UserDomain {
+  slug: string;
+  name: string;
+  type: string;
+  enabled_modes: string;
+  sm2_enabled: number;
+  icon: string | null;
+  color: string | null;
+  is_system: number;
+}
+
+/*
+? Returns all non-deleted system + user-created study domains.
+*/
+export function getStudyDomains(): StudyDomain[] {
+  return db
+    .prepare('SELECT * FROM study_domains WHERE deleted_at IS NULL ORDER BY is_system DESC, name ASC')
+    .all() as StudyDomain[];
+}
+
+/*
+? Returns a single domain by slug.
+*/
+export function getStudyDomainBySlug(slug: string): StudyDomain | undefined {
+  return db
+    .prepare('SELECT * FROM study_domains WHERE slug = ? AND deleted_at IS NULL')
+    .get(slug) as StudyDomain | undefined;
+}
+
+/*
+? Returns a single domain by id.
+*/
+export function getStudyDomainById(id: number): StudyDomain | undefined {
+  return db
+    .prepare('SELECT * FROM study_domains WHERE id = ? AND deleted_at IS NULL')
+    .get(id) as StudyDomain | undefined;
+}
+
+/*
+? Returns active domains enrolled by a specific user, joined with domain metadata.
+*/
+export function getUserDomains(userId: number): UserDomainWithDetails[] {
+  return db
+    .prepare(`
+      SELECT ud.*, sd.slug, sd.name, sd.type, sd.enabled_modes, sd.sm2_enabled, sd.icon, sd.color, sd.is_system
+      FROM user_domains ud
+      JOIN study_domains sd ON ud.domain_id = sd.id
+      WHERE ud.user_id = ? AND ud.active = 1 AND sd.deleted_at IS NULL
+      ORDER BY ud.sort_order ASC, sd.name ASC
+    `)
+    .all(userId) as UserDomainWithDetails[];
+}
+
+/*
+! Creates a new study domain. content_schema and enabled_modes must be valid JSON strings.
+*/
+export function createStudyDomain(params: {
+  slug: string;
+  name: string;
+  type: StudyDomain['type'];
+  contentSchema?: string;
+  enabledModes?: string;
+  sm2Enabled?: boolean;
+  algorithm?: string;
+  icon?: string;
+  color?: string;
+  createdBy?: number;
+}): StudyDomain {
+  const now = Math.floor(Date.now() / 1000);
+  const result = db.prepare(`
+    INSERT INTO study_domains
+      (slug, name, type, content_schema, enabled_modes, sm2_enabled, spaced_repetition_algorithm, icon, color, created_by, is_system, created_at)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0, ?)
+  `).run(
+    params.slug,
+    params.name,
+    params.type,
+    params.contentSchema ?? '{"front":"text","back":"text"}',
+    params.enabledModes ?? '["flashcard","quiz"]',
+    params.sm2Enabled !== false ? 1 : 0,
+    params.algorithm ?? 'sm2',
+    params.icon ?? null,
+    params.color ?? null,
+    params.createdBy ?? null,
+    now,
+  );
+  return getStudyDomainById(result.lastInsertRowid as number)!;
+}
+
+/*
+! Enrolls a user in a domain. Idempotent — re-activates if previously deactivated.
+*/
+export function enrollUserInDomain(userId: number, domainId: number): UserDomain {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare(`
+    INSERT INTO user_domains (user_id, domain_id, active, sort_order, added_at)
+    VALUES (?, ?, 1, 0, ?)
+    ON CONFLICT(user_id, domain_id) DO UPDATE SET active = 1
+  `).run(userId, domainId, now);
+  return db
+    .prepare('SELECT * FROM user_domains WHERE user_id = ? AND domain_id = ?')
+    .get(userId, domainId) as UserDomain;
+}
+
+/*
+? Deactivates a domain for a user without deleting progress.
+*/
+export function deactivateUserDomain(userId: number, domainId: number): void {
+  db.prepare('UPDATE user_domains SET active = 0 WHERE user_id = ? AND domain_id = ?')
+    .run(userId, domainId);
+}
+
+/*
+! Soft-deletes a user-created domain. System domains (is_system=1) cannot be deleted.
+! Returns false if domain is system-owned or not found.
+*/
+export function softDeleteStudyDomain(domainId: number, requestingUserId: number): boolean {
+  const domain = getStudyDomainById(domainId);
+  if (!domain || domain.is_system || domain.created_by !== requestingUserId) return false;
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('UPDATE study_domains SET deleted_at = ? WHERE id = ?').run(now, domainId);
+  return true;
 }

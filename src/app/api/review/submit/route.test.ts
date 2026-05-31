@@ -17,7 +17,12 @@ vi.mock('@/lib/db/sqlite', () => ({
   getChunkProgress: vi.fn().mockReturnValue(null),
   updateChunkProgress: vi.fn(),
   recordStudySession: vi.fn(),
+  getChunkById: vi.fn().mockReturnValue({ id: 1, domain_id: 1 }),
 }));
+
+// Prevent emit() from hitting real DB — tested separately in eventBus tests
+vi.mock('@/lib/events/eventBus', () => ({ emit: vi.fn() }));
+vi.mock('@/lib/events/subscribers', () => ({}));
 
 function uniqueIp() {
   return `172.${Math.floor(Math.random() * 255)}.${Math.floor(Math.random() * 255)}.${Math.floor(Math.random() * 255)}`;
@@ -55,6 +60,7 @@ describe('POST /api/review/submit', () => {
       getChunkProgress: vi.fn().mockReturnValue(null),
       updateChunkProgress: vi.fn(),
       recordStudySession: vi.fn(),
+      getChunkById: vi.fn().mockReturnValue({ id: 1, domain_id: 1 }),
     }));
 
     const { POST } = await import('./route');
@@ -76,6 +82,7 @@ describe('POST /api/review/submit', () => {
       getChunkProgress: vi.fn().mockReturnValue(null),
       updateChunkProgress: vi.fn(),
       recordStudySession: vi.fn(),
+      getChunkById: vi.fn().mockReturnValue({ id: 1, domain_id: 1 }),
     }));
 
     const { POST } = await import('./route');
@@ -97,6 +104,7 @@ describe('POST /api/review/submit', () => {
       getChunkProgress: vi.fn().mockReturnValue(null),
       updateChunkProgress: vi.fn(),
       recordStudySession: vi.fn(),
+      getChunkById: vi.fn().mockReturnValue({ id: 1, domain_id: 1 }),
     }));
 
     const { POST } = await import('./route');
@@ -125,6 +133,7 @@ describe('POST /api/review/submit', () => {
       }),
       updateChunkProgress: vi.fn(),
       recordStudySession: vi.fn(),
+      getChunkById: vi.fn().mockReturnValue({ id: 1, domain_id: 1 }),
     }));
 
     const { POST } = await import('./route');

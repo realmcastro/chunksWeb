@@ -15,6 +15,7 @@ ChunksWeb começou como app de idiomas. Não é mais. É um sistema pessoal de c
 ## O problema arquitetural
 
 O modelo atual assume:
+
 - "Estudar" = língua + SM-2 + chunks de texto
 - "Progresso" = palavras memorizadas por idioma
 - "Sessão" = study session de língua
@@ -41,31 +42,32 @@ Core Platform
 
 ## Sub-tasks obrigatórias (criar fundação antes das features)
 
-| # | Task | Por quê |
-|---|------|---------|
-| 83 | Domain model refactor — pluggable topics | Generaliza schema antes de adicionar dados |
-| 84 | Internal event bus | Tracking, streaks e analytics dependem disso |
-| 94 | Global search architecture | Busca por último = retrabalho total |
-| 98 | Text command engine (DSL inline) | Diário + cross-references precisam de parser |
-| 93 | Module permissions | Admins, automações e compartilhamento futuro |
+| #   | Task                                     | Por quê                                      |
+| --- | ---------------------------------------- | -------------------------------------------- |
+| 83  | Domain model refactor — pluggable topics | Generaliza schema antes de adicionar dados   |
+| 84  | Internal event bus                       | Tracking, streaks e analytics dependem disso |
+| 94  | Global search architecture               | Busca por último = retrabalho total          |
+| 98  | Text command engine (DSL inline)         | Diário + cross-references precisam de parser |
+| 93  | Module permissions                       | Admins, automações e compartilhamento futuro |
 
 ## Features que dependem da fundação
 
-| Feature | Bloqueada por |
-|---------|--------------|
-| Diário cross-references (107) | Text command engine (98) |
-| Activity feed (96) | Event bus (84) |
-| Knowledge graph (97) | Event bus (84) + search (94) |
-| Tracking por módulo (110-112) | Event bus (84) |
-| Estudo multi-tópico (115-118) | Domain model refactor (83) |
+| Feature                       | Bloqueada por                |
+| ----------------------------- | ---------------------------- |
+| Diário cross-references (107) | Text command engine (98)     |
+| Activity feed (96)            | Event bus (84)               |
+| Knowledge graph (97)          | Event bus (84) + search (94) |
+| Tracking por módulo (110-112) | Event bus (84)               |
+| Estudo multi-tópico (115-118) | Domain model refactor (83)   |
 
 ## Critério de saída do épico
 
-- [ ] Schema não tem coluna hardcoded para "idioma" — tudo é `topic`
-- [ ] Eventos internos fluem via event bus (não direct call)
-- [ ] Busca retorna resultados de todos os módulos
-- [ ] Novo módulo adicionável sem alterar módulos existentes
-- [ ] Tracking funciona para qualquer seção via hooks genéricos
+- [x] Schema não tem coluna hardcoded para "idioma" — tudo é `domain_id` via `study_domains` (migration 0012)
+- [x] Eventos internos fluem via event bus (`src/lib/events/eventBus.ts`) — review/submit já emite eventos
+- [x] Busca retorna resultados de todos os módulos (`search_index` FTS5, `GET /api/search`)
+- [x] Novo módulo adicionável sem alterar módulos existentes — `study_domains` + `registerTag()` + `registerCommand()`
+- [x] Tracking funciona para qualquer seção via hooks genéricos — event bus + `domain_events` table
+- [ ] Novo nome OLife'S — pendente (branding/renaming fora do escopo técnico desta task)
 
 ## Anti-padrão a evitar
 
