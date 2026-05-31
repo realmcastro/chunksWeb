@@ -1,7 +1,9 @@
 import Database from 'better-sqlite3';
 import path from 'path';
+import { runPendingMigrations } from './migrate';
 
-const dbPath = path.resolve(process.cwd(), 'chunks_v1.db');
+const rawPath = process.env.TEST_DB_PATH ?? 'chunks_v1.db';
+const dbPath = rawPath === ':memory:' ? rawPath : path.resolve(process.cwd(), rawPath);
 
 export const db = new Database(dbPath);
 
@@ -19,6 +21,8 @@ export const db = new Database(dbPath);
 db.pragma('journal_mode = WAL');
 db.pragma('foreign_keys = ON');
 db.pragma('synchronous = NORMAL');
+
+runPendingMigrations(db);
 
 export interface Chunk {
   id: number;
@@ -630,9 +634,7 @@ export interface CategoryProgress {
   percentage: number;
 }
 
-/*
-! Adiciona coluna user_id às tabelas de progresso (Migração)
-*/
+// @deprecated — logic moved to src/lib/db/migrations/0002_user_progress.ts
 function migrateAddUserIdToProgressTables(): void {
   // Check if table exists by querying sqlite_master
   const userProgressExists = db
@@ -2324,26 +2326,7 @@ export function setUserI18nLanguage(userId: number, language: string): void {
   ).run(userId, language, now, now);
 }
 
-// Initialize session activities table on module load
-initSessionActivitiesTable();
-
-// Initialize users table on module load
-initUsersTable();
-
-// Initialize password reset tokens table on module load
-initPasswordResetTokensTable();
-
-// Initialize user settings table on module load
-initUserSettingsTable();
-
-// Initialize user progress tables on module load
-initUserProgressTables();
-// Initialize Feynman table on module load
-initFeynmanTable();
-// Initialize user favorites table on module load
-initUserFavoritesTable();
-// Initialize chunk reports table on module load
-initChunkReportsTable();
+// Schema initialization moved to runPendingMigrations (called above after pragma setup).
 
 // ============================================================
 // GDPR: ACCOUNT DELETION + DATA EXPORT
@@ -2374,7 +2357,7 @@ function initGdprSchema(): void {
   `);
 }
 
-initGdprSchema();
+// initGdprSchema(); — moved to migration 0009_gdpr
 
 /*
 ! Soft-delete: sets deleted_at timestamp on user row.
@@ -2550,7 +2533,7 @@ function initSoftDeleteMigrations(): void {
   }
 }
 
-initSoftDeleteMigrations();
+// initSoftDeleteMigrations(); — moved to migration 0010_soft_delete
 
 // ============================================================
 // FTS5 FULL-TEXT SEARCH (Item 17)
@@ -2634,7 +2617,7 @@ function initChunksFTS(): void {
   }
 }
 
-initChunksFTS();
+// initChunksFTS(); — moved to migration 0011_fts5
 
 // ============================================================
 // SOFT-DELETE HELPERS (Item 18)

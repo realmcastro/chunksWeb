@@ -13,5 +13,6 @@ export default defineConfig({
     exclude: ['node_modules', '.next', 'tests/e2e/**'],
     globals: false,
     reporters: ['default'],
+    setupFiles: ['src/app/api/__tests__/vitest-setup.ts'],
   },
 });
