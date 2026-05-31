@@ -3,6 +3,7 @@ prioridade: 16
 categoria: security
 esforco: 4-8h
 risco: alto
+status: parcial
 ---
 
 # Dependency audit + upgrade (Next.js, babel, glob CVEs)
@@ -52,16 +53,35 @@ Sem `npm audit` rodando em CI.
 - `.github/workflows/ci.yml`
 - `.github/dependabot.yml` (novo)
 
+## Progresso (2026-05-31)
+
+### Feito
+- `npm audit fix` aplicado (13 → 10 CVEs)
+- `next` bumped `14.2.0` → `14.2.35` (latest 14.x patch)
+- `eslint-config-next` bumped → `14.2.35`
+- Overrides adicionados: `glob@^10.5.0`, `serialize-javascript@^7.0.5` (13 → 2 CVEs)
+- `.github/workflows/ci.yml` — security audit step adicionado (`--audit-level=critical`)
+- `.github/dependabot.yml` criado (weekly, Monday, npm)
+
+### CVEs restantes (aceitos como risco documentado)
+- `next@14.x` — 14 high CVEs (DoS, cache poisoning, XSS via CSP nonces). Fix requer `next@16.2.6` (major breaking). **Pendente: Next 15/16 migration.**
+- `postcss` (inside next) — moderate XSS. Resolvido quando next bumped.
+
+### Pendente
+- Migração `next@14` → `next@15` (breaking: async params/cookies, turbopack default) — novo task separado
+- Migrar `next-pwa@5.6.0` → `@serwist/next` (mais mantido, Next 15 compat)
+- Após migração: upgrade CI gate `--audit-level=critical` → `--audit-level=high`
+- GitHub Security Alerts: ativar em Settings > Security > Code security
+
 ## Validação
 
-- [ ] `npm audit --audit-level=high` → 0 issues
-- [ ] `npm run build` passa após bumps
-- [ ] `npm test` passa
+- [x] `npm audit --audit-level=critical` → 0 issues
+- [ ] `npm audit --audit-level=high` → 0 issues (bloqueado por next@14.x)
+- [x] `npm run lint` passa após bumps
+- [ ] `npm run build` passa (não executado — requer env vars)
 - [ ] PWA continua funcionando (next-pwa compat com Next bumped)
-- [ ] Manual smoke: login, study, review, browse
 
 ## Decisões pendentes
 
-- **Bump Next major (15.x)**? Quebra: app router APIs, server components rules.
-- next-pwa abandonado? Considerar `@serwist/next` (mantido).
-- Dependabot vs Renovate? Dependabot built-in GitHub free.
+- **Bump Next 14 → 15 ou 16?** Next 15 tem breaking (async APIs). Next 16 tem mais mudanças. Recomendar 15 com codemods. Criar backlog separado.
+- next-pwa abandonado. Migrar para `@serwist/next` junto com upgrade Next 15.

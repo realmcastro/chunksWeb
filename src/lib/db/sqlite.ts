@@ -128,15 +128,16 @@ export interface Variation {
 export function getChunks(limit = 20, offset = 0, language?: string): Chunk[] {
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE language = ?
+      SELECT * FROM chunks
+      WHERE language = ? AND deleted_at IS NULL
       ORDER BY frequency DESC, display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks 
+    SELECT * FROM chunks
+    WHERE deleted_at IS NULL
     ORDER BY frequency DESC, display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -152,16 +153,16 @@ export function getChunksByCategory(
 ): Chunk[] {
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE category_id = ? AND language = ?
+      SELECT * FROM chunks
+      WHERE category_id = ? AND language = ? AND deleted_at IS NULL
       ORDER BY display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(categoryId, language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks 
-    WHERE category_id = ?
+    SELECT * FROM chunks
+    WHERE category_id = ? AND deleted_at IS NULL
     ORDER BY display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -170,42 +171,83 @@ export function getChunksByCategory(
 
 // Get chunk by ID
 export function getChunkById(id: number): Chunk | undefined {
-  const stmt = db.prepare('SELECT * FROM chunks WHERE id = ?');
+  const stmt = db.prepare('SELECT * FROM chunks WHERE id = ? AND deleted_at IS NULL');
   return stmt.get(id) as Chunk | undefined;
 }
 
 // Get chunk by slug
 export function getChunkBySlug(slug: string): Chunk | undefined {
-  const stmt = db.prepare('SELECT * FROM chunks WHERE slug = ?');
+  const stmt = db.prepare('SELECT * FROM chunks WHERE slug = ? AND deleted_at IS NULL');
   return stmt.get(slug) as Chunk | undefined;
 }
 
-// Search chunks
+/*
+? Search chunks using FTS5 full-text index with porter+unicode61 tokenizer.
+? Each word in the query gets a * suffix for prefix matching (e.g. "learn*").
+? rank is a negative float — lower = better match — ORDER BY rank gives most-relevant first.
+? Falls back to LIKE scan if FTS query parsing fails (malformed input).
+*/
 export function searchChunks(query: string, limit = 20, offset = 0, language?: string): Chunk[] {
-  const searchPattern = `%${query}%`;
-  if (language) {
-    const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE (chunk_text LIKE ? OR meaning LIKE ? OR pattern LIKE ?) AND language = ?
-      ORDER BY frequency DESC
-      LIMIT ? OFFSET ?
-    `);
-    return stmt.all(
-      searchPattern,
-      searchPattern,
-      searchPattern,
-      language,
-      limit,
-      offset,
-    ) as Chunk[];
+  /*
+  ? Build FTS5 query: split on whitespace, sanitize each token (remove FTS special chars),
+  ? append * for prefix matching. e.g. "learn run" → "learn* run*"
+  */
+  // Strip FTS5 special chars; keep letters (including non-ASCII diacritics), digits, spaces
+  const sanitized = query.replace(/["'()*+\-:^~{}[\]|]/g, ' ').trim();
+  const ftsQuery =
+    sanitized.length > 0
+      ? sanitized
+          .split(/\s+/)
+          .filter(Boolean)
+          .map((w) => `${w}*`)
+          .join(' ')
+      : '""';
+
+  try {
+    if (language) {
+      return db
+        .prepare(
+          `SELECT c.* FROM chunks c
+           JOIN chunks_fts ON chunks_fts.rowid = c.id
+           WHERE chunks_fts MATCH ? AND c.language = ? AND c.deleted_at IS NULL
+           ORDER BY chunks_fts.rank
+           LIMIT ? OFFSET ?`,
+        )
+        .all(ftsQuery, language, limit, offset) as Chunk[];
+    }
+    return db
+      .prepare(
+        `SELECT c.* FROM chunks c
+         JOIN chunks_fts ON chunks_fts.rowid = c.id
+         WHERE chunks_fts MATCH ? AND c.deleted_at IS NULL
+         ORDER BY chunks_fts.rank
+         LIMIT ? OFFSET ?`,
+      )
+      .all(ftsQuery, limit, offset) as Chunk[];
+  } catch {
+    // Fallback: LIKE scan when FTS query is unparseable
+    const pat = `%${query}%`;
+    if (language) {
+      return db
+        .prepare(
+          `SELECT * FROM chunks
+           WHERE (chunk_text LIKE ? OR meaning LIKE ? OR pattern LIKE ?)
+             AND language = ? AND deleted_at IS NULL
+           ORDER BY frequency DESC
+           LIMIT ? OFFSET ?`,
+        )
+        .all(pat, pat, pat, language, limit, offset) as Chunk[];
+    }
+    return db
+      .prepare(
+        `SELECT * FROM chunks
+         WHERE (chunk_text LIKE ? OR meaning LIKE ? OR pattern LIKE ?)
+           AND deleted_at IS NULL
+         ORDER BY frequency DESC
+         LIMIT ? OFFSET ?`,
+      )
+      .all(pat, pat, pat, limit, offset) as Chunk[];
   }
-  const stmt = db.prepare(`
-    SELECT * FROM chunks 
-    WHERE chunk_text LIKE ? OR meaning LIKE ? OR pattern LIKE ?
-    ORDER BY frequency DESC
-    LIMIT ? OFFSET ?
-  `);
-  return stmt.all(searchPattern, searchPattern, searchPattern, limit, offset) as Chunk[];
 }
 
 // Get all categories
@@ -249,11 +291,13 @@ export function getVariationsForChunk(chunkId: number): Variation[] {
 // Get total chunk count
 export function getChunkCount(language?: string): number {
   if (language) {
-    const stmt = db.prepare('SELECT COUNT(*) as count FROM chunks WHERE language = ?');
+    const stmt = db.prepare(
+      'SELECT COUNT(*) as count FROM chunks WHERE language = ? AND deleted_at IS NULL',
+    );
     const result = stmt.get(language) as { count: number };
     return result.count;
   }
-  const stmt = db.prepare('SELECT COUNT(*) as count FROM chunks');
+  const stmt = db.prepare('SELECT COUNT(*) as count FROM chunks WHERE deleted_at IS NULL');
   const result = stmt.get() as { count: number };
   return result.count;
 }
@@ -262,12 +306,14 @@ export function getChunkCount(language?: string): number {
 export function getChunkCountByCategory(categoryId: number, language?: string): number {
   if (language) {
     const stmt = db.prepare(
-      'SELECT COUNT(*) as count FROM chunks WHERE category_id = ? AND language = ?',
+      'SELECT COUNT(*) as count FROM chunks WHERE category_id = ? AND language = ? AND deleted_at IS NULL',
     );
     const result = stmt.get(categoryId, language) as { count: number };
     return result.count;
   }
-  const stmt = db.prepare('SELECT COUNT(*) as count FROM chunks WHERE category_id = ?');
+  const stmt = db.prepare(
+    'SELECT COUNT(*) as count FROM chunks WHERE category_id = ? AND deleted_at IS NULL',
+  );
   const result = stmt.get(categoryId) as { count: number };
   return result.count;
 }
@@ -281,16 +327,16 @@ export function getChunksByLevel(
 ): Chunk[] {
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE cefr_level_id = ? AND language = ?
+      SELECT * FROM chunks
+      WHERE cefr_level_id = ? AND language = ? AND deleted_at IS NULL
       ORDER BY display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(level, language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks 
-    WHERE cefr_level_id = ?
+    SELECT * FROM chunks
+    WHERE cefr_level_id = ? AND deleted_at IS NULL
     ORDER BY display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -307,16 +353,16 @@ export function getChunksByPattern(
   const searchPattern = `%${pattern}%`;
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE (pattern LIKE ? OR construction_type LIKE ?) AND language = ?
+      SELECT * FROM chunks
+      WHERE (pattern LIKE ? OR construction_type LIKE ?) AND language = ? AND deleted_at IS NULL
       ORDER BY display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(searchPattern, searchPattern, language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks 
-    WHERE pattern LIKE ? OR construction_type LIKE ?
+    SELECT * FROM chunks
+    WHERE (pattern LIKE ? OR construction_type LIKE ?) AND deleted_at IS NULL
     ORDER BY display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -327,16 +373,18 @@ export function getChunksByPattern(
 export function getChunksWithCollocates(limit = 20, offset = 0, language?: string): Chunk[] {
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE typical_collocates IS NOT NULL AND typical_collocates != '' AND language = ?
+      SELECT * FROM chunks
+      WHERE typical_collocates IS NOT NULL AND typical_collocates != ''
+        AND language = ? AND deleted_at IS NULL
       ORDER BY display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks 
+    SELECT * FROM chunks
     WHERE typical_collocates IS NOT NULL AND typical_collocates != ''
+      AND deleted_at IS NULL
     ORDER BY display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -352,18 +400,18 @@ export function getChunksByCategoryType(
 ): Chunk[] {
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks ch
+      SELECT ch.* FROM chunks ch
       JOIN categories c ON ch.category_id = c.id
-      WHERE c.type = ? AND ch.language = ?
+      WHERE c.type = ? AND ch.language = ? AND ch.deleted_at IS NULL
       ORDER BY ch.display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(type, language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks ch
+    SELECT ch.* FROM chunks ch
     JOIN categories c ON ch.category_id = c.id
-    WHERE c.type = ?
+    WHERE c.type = ? AND ch.deleted_at IS NULL
     ORDER BY ch.display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -379,16 +427,16 @@ export function getChunksByPriority(
 ): Chunk[] {
   if (language) {
     const stmt = db.prepare(`
-      SELECT * FROM chunks 
-      WHERE acquisition_priority = ? AND language = ?
+      SELECT * FROM chunks
+      WHERE acquisition_priority = ? AND language = ? AND deleted_at IS NULL
       ORDER BY display_order ASC
       LIMIT ? OFFSET ?
     `);
     return stmt.all(priority, language, limit, offset) as Chunk[];
   }
   const stmt = db.prepare(`
-    SELECT * FROM chunks 
-    WHERE acquisition_priority = ?
+    SELECT * FROM chunks
+    WHERE acquisition_priority = ? AND deleted_at IS NULL
     ORDER BY display_order ASC
     LIMIT ? OFFSET ?
   `);
@@ -400,7 +448,7 @@ export function getChunkCountByCategoryType(type: string): number {
   const stmt = db.prepare(`
     SELECT COUNT(*) as count FROM chunks ch
     JOIN categories c ON ch.category_id = c.id
-    WHERE c.type = ?
+    WHERE c.type = ? AND ch.deleted_at IS NULL
   `);
   const result = stmt.get(type) as { count: number };
   return result.count;
@@ -408,7 +456,9 @@ export function getChunkCountByCategoryType(type: string): number {
 
 // Get count by acquisition priority
 export function getChunkCountByPriority(priority: string): number {
-  const stmt = db.prepare('SELECT COUNT(*) as count FROM chunks WHERE acquisition_priority = ?');
+  const stmt = db.prepare(
+    'SELECT COUNT(*) as count FROM chunks WHERE acquisition_priority = ? AND deleted_at IS NULL',
+  );
   const result = stmt.get(priority) as { count: number };
   return result.count;
 }
@@ -712,15 +762,16 @@ export function getDueChunks(
 
   if (language) {
     const stmt = db.prepare(`
-      SELECT c.*, 
+      SELECT c.*,
              up.repetitions,
              up.ease_factor,
              up.interval,
              up.next_review,
              up.last_reviewed
       FROM chunks c
-      LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ?
-      WHERE (up.next_review IS NULL OR up.next_review <= ?) AND c.language = ?
+      LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ? AND up.deleted_at IS NULL
+      WHERE (up.next_review IS NULL OR up.next_review <= ?)
+        AND c.language = ? AND c.deleted_at IS NULL
       ORDER BY up.next_review ASC NULLS FIRST, c.frequency DESC
       LIMIT ?
     `);
@@ -728,15 +779,15 @@ export function getDueChunks(
   }
 
   const stmt = db.prepare(`
-    SELECT c.*, 
+    SELECT c.*,
            up.repetitions,
            up.ease_factor,
            up.interval,
            up.next_review,
            up.last_reviewed
     FROM chunks c
-    LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ?
-    WHERE up.next_review IS NULL OR up.next_review <= ?
+    LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ? AND up.deleted_at IS NULL
+    WHERE (up.next_review IS NULL OR up.next_review <= ?) AND c.deleted_at IS NULL
     ORDER BY up.next_review ASC NULLS FIRST, c.frequency DESC
     LIMIT ?
   `);
@@ -1085,6 +1136,7 @@ export function getMasteredChunks(userId: number, limit = 20, offset = 0): Chunk
     SELECT c.* FROM chunks c
     JOIN user_progress up ON c.id = up.chunk_id
     WHERE up.user_id = ? AND up.repetitions >= 3
+      AND c.deleted_at IS NULL AND up.deleted_at IS NULL
     ORDER BY up.next_review ASC
     LIMIT ? OFFSET ?
   `);
@@ -1308,6 +1360,7 @@ export function getFeynmanChunksForStudy(userId: number, limit = 10): Chunk[] {
     SELECT c.* FROM chunks c
     JOIN user_progress up ON c.id = up.chunk_id
     WHERE up.user_id = ? AND up.repetitions >= 3
+      AND c.deleted_at IS NULL AND up.deleted_at IS NULL
     ORDER BY RANDOM()
     LIMIT ?
   `);
@@ -1341,7 +1394,7 @@ export function getSmartFeynmanChunks(
                created_at AS last_at,
                ROW_NUMBER() OVER (PARTITION BY chunk_id ORDER BY created_at DESC) AS rn
         FROM feynman_explanations
-        WHERE user_id = ?
+        WHERE user_id = ? AND deleted_at IS NULL
       )
       SELECT c.*,
              lf.last_quality AS last_feynman_quality,
@@ -1349,7 +1402,7 @@ export function getSmartFeynmanChunks(
              lf.last_explanation AS last_feynman_explanation
       FROM chunks c
       LEFT JOIN latest_feynman lf ON c.id = lf.chunk_id AND lf.rn = 1
-      WHERE c.language = ?
+      WHERE c.language = ? AND c.deleted_at IS NULL
       ORDER BY
         CASE WHEN lf.last_quality = 1 THEN 0 ELSE 1 END ASC,
         CASE WHEN lf.last_at IS NULL THEN 0 ELSE lf.last_at END ASC,
@@ -1368,7 +1421,7 @@ export function getSmartFeynmanChunks(
              created_at AS last_at,
              ROW_NUMBER() OVER (PARTITION BY chunk_id ORDER BY created_at DESC) AS rn
       FROM feynman_explanations
-      WHERE user_id = ?
+      WHERE user_id = ? AND deleted_at IS NULL
     )
     SELECT c.*,
            lf.last_quality AS last_feynman_quality,
@@ -1376,6 +1429,7 @@ export function getSmartFeynmanChunks(
            lf.last_explanation AS last_feynman_explanation
     FROM chunks c
     LEFT JOIN latest_feynman lf ON c.id = lf.chunk_id AND lf.rn = 1
+    WHERE c.deleted_at IS NULL
     ORDER BY
       CASE WHEN lf.last_quality = 1 THEN 0 ELSE 1 END ASC,
       CASE WHEN lf.last_at IS NULL THEN 0 ELSE lf.last_at END ASC,
@@ -1417,8 +1471,9 @@ export function getQuickPracticeChunks(userId: number, limit = 10, language?: st
     const stmt = db.prepare(`
       SELECT c.*, up.repetitions, up.ease_factor, up.interval, up.next_review, up.last_reviewed
       FROM chunks c
-      LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ?
+      LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ? AND up.deleted_at IS NULL
       WHERE c.language = ? AND (up.next_review IS NULL OR up.next_review <= ?)
+        AND c.deleted_at IS NULL
       ORDER BY up.next_review ASC NULLS FIRST, RANDOM()
       LIMIT ?
     `);
@@ -1428,8 +1483,8 @@ export function getQuickPracticeChunks(userId: number, limit = 10, language?: st
   const stmt = db.prepare(`
     SELECT c.*, up.repetitions, up.ease_factor, up.interval, up.next_review, up.last_reviewed
     FROM chunks c
-    LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ?
-    WHERE up.next_review IS NULL OR up.next_review <= ?
+    LEFT JOIN user_progress up ON c.id = up.chunk_id AND up.user_id = ? AND up.deleted_at IS NULL
+    WHERE (up.next_review IS NULL OR up.next_review <= ?) AND c.deleted_at IS NULL
     ORDER BY up.next_review ASC NULLS FIRST, RANDOM()
     LIMIT ?
   `);
@@ -1471,7 +1526,7 @@ export function getRandomChunks(categoryId?: number, limit = 10, language?: stri
   if (categoryId && language) {
     const stmt = db.prepare(`
       SELECT c.* FROM chunks c
-      WHERE c.category_id = ? AND c.language = ?
+      WHERE c.category_id = ? AND c.language = ? AND c.deleted_at IS NULL
       ORDER BY RANDOM()
       LIMIT ?
     `);
@@ -1480,7 +1535,7 @@ export function getRandomChunks(categoryId?: number, limit = 10, language?: stri
   if (categoryId) {
     const stmt = db.prepare(`
       SELECT c.* FROM chunks c
-      WHERE c.category_id = ?
+      WHERE c.category_id = ? AND c.deleted_at IS NULL
       ORDER BY RANDOM()
       LIMIT ?
     `);
@@ -1489,7 +1544,7 @@ export function getRandomChunks(categoryId?: number, limit = 10, language?: stri
   if (language) {
     const stmt = db.prepare(`
       SELECT c.* FROM chunks c
-      WHERE c.language = ?
+      WHERE c.language = ? AND c.deleted_at IS NULL
       ORDER BY RANDOM()
       LIMIT ?
     `);
@@ -1497,6 +1552,7 @@ export function getRandomChunks(categoryId?: number, limit = 10, language?: stri
   }
   const stmt = db.prepare(`
     SELECT c.* FROM chunks c
+    WHERE c.deleted_at IS NULL
     ORDER BY RANDOM()
     LIMIT ?
   `);
@@ -1591,7 +1647,7 @@ export function getCategoriesWithProgress(language?: string): CategoryWithProgre
 export function getChunksForStudyByCategory(categoryId: number, limit = 20, offset = 0): Chunk[] {
   const stmt = db.prepare(`
     SELECT c.* FROM chunks c
-    WHERE c.category_id = ?
+    WHERE c.category_id = ? AND c.deleted_at IS NULL
     ORDER BY RANDOM()
     LIMIT ? OFFSET ?
   `);
@@ -1792,7 +1848,7 @@ export function getFavoritesForUser(
       SELECT c.*
       FROM user_favorites uf
       JOIN chunks c ON c.id = uf.chunk_id
-      WHERE uf.user_id = ? AND c.language = ?
+      WHERE uf.user_id = ? AND c.language = ? AND c.deleted_at IS NULL
       ORDER BY uf.created_at DESC
       LIMIT ? OFFSET ?
     `);
@@ -1802,7 +1858,7 @@ export function getFavoritesForUser(
     SELECT c.*
     FROM user_favorites uf
     JOIN chunks c ON c.id = uf.chunk_id
-    WHERE uf.user_id = ?
+    WHERE uf.user_id = ? AND c.deleted_at IS NULL
     ORDER BY uf.created_at DESC
     LIMIT ? OFFSET ?
   `);
@@ -1814,11 +1870,15 @@ export function getFavoritesCount(userId: number, language?: string): number {
     const stmt = db.prepare(`
       SELECT COUNT(*) as count FROM user_favorites uf
       JOIN chunks c ON c.id = uf.chunk_id
-      WHERE uf.user_id = ? AND c.language = ?
+      WHERE uf.user_id = ? AND c.language = ? AND c.deleted_at IS NULL
     `);
     return (stmt.get(userId, language) as { count: number }).count;
   }
-  const stmt = db.prepare('SELECT COUNT(*) as count FROM user_favorites WHERE user_id = ?');
+  const stmt = db.prepare(`
+    SELECT COUNT(*) as count FROM user_favorites uf
+    JOIN chunks c ON c.id = uf.chunk_id
+    WHERE uf.user_id = ? AND c.deleted_at IS NULL
+  `);
   return (stmt.get(userId) as { count: number }).count;
 }
 
@@ -2412,4 +2472,255 @@ export function getSoftDeletedUsersForPurge(graceDays: number = 30): number[] {
     'SELECT id FROM users WHERE deleted_at IS NOT NULL AND deleted_at < ?'
   ).all(cutoff) as Array<{ id: number }>;
   return rows.map((r) => r.id);
+}
+
+// ============================================================
+// SOFT-DELETE MIGRATIONS (Item 18)
+// ============================================================
+
+/*
+! Adds deleted_at column to content and user-data tables.
+! Creates chunk_versions table + BEFORE UPDATE trigger for audit trail.
+! Creates partial indexes on deleted_at IS NULL for hot query paths.
+! All operations idempotent — safe to run on every startup.
+*/
+function initSoftDeleteMigrations(): void {
+  const tables = [
+    'chunks',
+    'user_progress',
+    'study_sessions',
+    'feynman_explanations',
+    'chunk_reports',
+  ] as const;
+
+  for (const table of tables) {
+    const tableExists = db
+      .prepare(`SELECT name FROM sqlite_master WHERE type='table' AND name=?`)
+      .get(table);
+    if (!tableExists) continue;
+    const cols = db.pragma(`table_info(${table})`) as Array<{ name: string }>;
+    if (!cols.some((c) => c.name === 'deleted_at')) {
+      db.exec(`ALTER TABLE ${table} ADD COLUMN deleted_at INTEGER DEFAULT NULL`);
+    }
+  }
+
+  /*
+  ? Partial indexes skip soft-deleted rows on the most frequently scanned paths.
+  ? idx_chunks_not_deleted: used by getChunks, browse, search, getDueChunks.
+  ? idx_up_active: used by getDueChunks (user_id + next_review hot path).
+  */
+  db.exec(`
+    CREATE INDEX IF NOT EXISTS idx_chunks_not_deleted
+      ON chunks(id) WHERE deleted_at IS NULL;
+    CREATE INDEX IF NOT EXISTS idx_up_active
+      ON user_progress(user_id, next_review) WHERE deleted_at IS NULL;
+  `);
+
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS chunk_versions (
+      id         INTEGER PRIMARY KEY AUTOINCREMENT,
+      chunk_id   INTEGER NOT NULL REFERENCES chunks(id),
+      chunk_text TEXT NOT NULL,
+      meaning    TEXT NOT NULL,
+      edited_by  INTEGER,
+      edited_at  INTEGER DEFAULT (strftime('%s', 'now'))
+    );
+    CREATE INDEX IF NOT EXISTS idx_chunk_versions_chunk ON chunk_versions(chunk_id);
+  `);
+
+  /*
+  ! BEFORE UPDATE trigger: saves old chunk_text/meaning to chunk_versions before
+  ! each edit that changes either field. edited_by is NULL (no session in trigger).
+  */
+  const triggerExists = db
+    .prepare(
+      "SELECT name FROM sqlite_master WHERE type='trigger' AND name='chunks_version_bu'"
+    )
+    .get();
+  if (!triggerExists) {
+    db.exec(`
+      CREATE TRIGGER chunks_version_bu
+      BEFORE UPDATE OF chunk_text, meaning ON chunks
+      WHEN OLD.chunk_text != NEW.chunk_text OR OLD.meaning != NEW.meaning
+      BEGIN
+        INSERT INTO chunk_versions(chunk_id, chunk_text, meaning, edited_at)
+        VALUES(OLD.id, OLD.chunk_text, OLD.meaning, strftime('%s', 'now'));
+      END;
+    `);
+  }
+}
+
+initSoftDeleteMigrations();
+
+// ============================================================
+// FTS5 FULL-TEXT SEARCH (Item 17)
+// ============================================================
+
+/*
+! Creates chunks_fts virtual table using FTS5 with porter+unicode61 tokenizer.
+! porter: English stemming (run/running/ran → run).
+! unicode61: diacritic-aware tokenization for PT/ES/FR content.
+! content='chunks' + content_rowid='id': external-content table — FTS stores only
+!   the search index; actual text is read from chunks at query time. Triggers keep
+!   the index in sync with INSERT/UPDATE/DELETE on chunks.
+*/
+function initChunksFTS(): void {
+  db.exec(`
+    CREATE VIRTUAL TABLE IF NOT EXISTS chunks_fts USING fts5(
+      chunk_text,
+      meaning,
+      content='chunks',
+      content_rowid='id',
+      tokenize='porter unicode61'
+    );
+  `);
+
+  const triggerNames = ['chunks_fts_ai', 'chunks_fts_ad', 'chunks_fts_au'];
+  const existing = new Set(
+    (
+      db
+        .prepare(
+          `SELECT name FROM sqlite_master WHERE type='trigger' AND name IN (${triggerNames.map(() => '?').join(',')})`,
+        )
+        .all(...triggerNames) as Array<{ name: string }>
+    ).map((r) => r.name),
+  );
+
+  if (!existing.has('chunks_fts_ai')) {
+    db.exec(`
+      CREATE TRIGGER chunks_fts_ai AFTER INSERT ON chunks BEGIN
+        INSERT INTO chunks_fts(rowid, chunk_text, meaning)
+        VALUES (new.id, new.chunk_text, new.meaning);
+      END;
+    `);
+  }
+
+  if (!existing.has('chunks_fts_ad')) {
+    db.exec(`
+      CREATE TRIGGER chunks_fts_ad AFTER DELETE ON chunks BEGIN
+        INSERT INTO chunks_fts(chunks_fts, rowid, chunk_text, meaning)
+        VALUES('delete', old.id, old.chunk_text, old.meaning);
+      END;
+    `);
+  }
+
+  if (!existing.has('chunks_fts_au')) {
+    db.exec(`
+      CREATE TRIGGER chunks_fts_au AFTER UPDATE ON chunks BEGIN
+        INSERT INTO chunks_fts(chunks_fts, rowid, chunk_text, meaning)
+        VALUES('delete', old.id, old.chunk_text, old.meaning);
+        INSERT INTO chunks_fts(rowid, chunk_text, meaning)
+        VALUES (new.id, new.chunk_text, new.meaning);
+      END;
+    `);
+  }
+
+  /*
+  ? Backfill: if FTS index is empty but chunks table has rows, populate the index.
+  ? This runs once on first deploy after FTS5 is added.
+  */
+  const ftsCount = (
+    db.prepare('SELECT COUNT(*) as n FROM chunks_fts').get() as { n: number }
+  ).n;
+  if (ftsCount === 0) {
+    const chunkCount = (
+      db.prepare('SELECT COUNT(*) as n FROM chunks').get() as { n: number }
+    ).n;
+    if (chunkCount > 0) {
+      db.exec(
+        `INSERT INTO chunks_fts(rowid, chunk_text, meaning) SELECT id, chunk_text, meaning FROM chunks`,
+      );
+    }
+  }
+}
+
+initChunksFTS();
+
+// ============================================================
+// SOFT-DELETE HELPERS (Item 18)
+// ============================================================
+
+export function softDeleteChunk(id: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('UPDATE chunks SET deleted_at = ? WHERE id = ?').run(now, id);
+}
+
+export function restoreChunk(id: number): void {
+  db.prepare('UPDATE chunks SET deleted_at = NULL WHERE id = ?').run(id);
+}
+
+export function softDeleteUserProgress(userId: number, chunkId: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare(
+    'UPDATE user_progress SET deleted_at = ? WHERE user_id = ? AND chunk_id = ?',
+  ).run(now, userId, chunkId);
+}
+
+export function softDeleteStudySession(id: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('UPDATE study_sessions SET deleted_at = ? WHERE id = ?').run(now, id);
+}
+
+export function softDeleteFeynmanExplanation(id: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('UPDATE feynman_explanations SET deleted_at = ? WHERE id = ?').run(now, id);
+}
+
+export function softDeleteChunkReport(id: number): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare('UPDATE chunk_reports SET deleted_at = ? WHERE id = ?').run(now, id);
+}
+
+// ============================================================
+// CHUNK VERSION HISTORY (Item 18)
+// ============================================================
+
+export interface ChunkVersion {
+  id: number;
+  chunk_id: number;
+  chunk_text: string;
+  meaning: string;
+  edited_by: number | null;
+  edited_at: number;
+}
+
+/*
+? Returns all saved versions for a chunk, most-recent first.
+? Versions are created automatically by the chunks_version_bu trigger.
+*/
+export function getChunkVersionHistory(chunkId: number): ChunkVersion[] {
+  return db
+    .prepare(`SELECT * FROM chunk_versions WHERE chunk_id = ? ORDER BY edited_at DESC`)
+    .all(chunkId) as ChunkVersion[];
+}
+
+/*
+! Restores chunk_text and meaning from a saved version.
+! The restore itself will trigger chunks_version_bu, creating a new version
+! entry with the current (pre-restore) values — full rollback chain preserved.
+*/
+export function restoreChunkVersion(chunkId: number, versionId: number): boolean {
+  const version = db
+    .prepare('SELECT * FROM chunk_versions WHERE id = ? AND chunk_id = ?')
+    .get(versionId, chunkId) as ChunkVersion | undefined;
+  if (!version) return false;
+
+  const result = db
+    .prepare('UPDATE chunks SET chunk_text = ?, meaning = ?, updated_at = ? WHERE id = ?')
+    .run(version.chunk_text, version.meaning, Math.floor(Date.now() / 1000), chunkId);
+
+  return result.changes > 0;
+}
+
+/*
+! Returns chunk IDs where deleted_at is older than retentionDays.
+! Used by cleanup script for hard-delete after grace period.
+*/
+export function getSoftDeletedChunksForPurge(retentionDays: number = 90): number[] {
+  const cutoff = Math.floor(Date.now() / 1000) - retentionDays * 24 * 60 * 60;
+  return (
+    db
+      .prepare('SELECT id FROM chunks WHERE deleted_at IS NOT NULL AND deleted_at < ?')
+      .all(cutoff) as Array<{ id: number }>
+  ).map((r) => r.id);
 }

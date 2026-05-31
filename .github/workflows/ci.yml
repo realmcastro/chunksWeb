@@ -32,7 +32,13 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci --no-audit --no-fund
+        run: npm ci --no-fund
+
+      # Gate: block on critical CVEs only.
+      # Known accepted risk: next@14.x has high CVEs requiring upgrade to next@16 (breaking).
+      # Tracked in backlog/16-deps-audit-upgrade.md. Harden to --audit-level=high post-migration.
+      - name: Security audit
+        run: npm audit --audit-level=critical
 
       - name: Lint
         run: npm run lint
