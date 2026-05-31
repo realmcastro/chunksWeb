@@ -31,11 +31,24 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 - `delight` — easter eggs, mascot, sound, polish
 - `interactive` — páginas dialógicas / dirigidas a interação
 - `reactive` — UI que reage a sinais e movimentos do usuário (mouse, scroll, idle, fadiga, tempo)
+- `library` — sistema de leitura / biblioteca de ebooks
+- `journal` — diário, anotações diárias, agenda, metas
+- `tracking` — rastreio de uso, sessões bruto/líquido, idle detection
+- `learning-engine` — framework de estudo multi-tópico (além de línguas)
+- `knowledge` — knowledge graph, activity feed, conexões entre entidades
 
 ## Índice
 
 | # | Item | Categoria | Status |
 |---|------|-----------|--------|
+| **— FUNDAÇÃO PLATAFORMA —** | | | |
+| 09 | Core Platform Epic: Personal Knowledge & Study OS | architecture | pendente — LEIA ANTES |
+| 83 | Domain model refactor — pluggable study domains | refactor,architecture,data | pendente |
+| 84 | Internal event bus — event-driven architecture | architecture,observability | pendente |
+| 93 | Module permissions — RBAC leve por módulo | security,auth | pendente |
+| 94 | Global search — search-first architecture | feature,architecture | pendente |
+| 98 | Text command engine — DSL inline (@, #, [[)  | module,architecture | pendente |
+| **— SEGURANÇA / AUTH —** | | | |
 | 10 | Session Zod validation | security | **feito (commit `15be64e`)** |
 | 11 | Dedup `getUserIdFromCookie` (11 routes) | refactor | **feito (commit `15be64e`)** |
 | 12 | HTTP security headers (CSP/HSTS) | security | pendente |
@@ -117,3 +130,31 @@ Cada item = arquivo próprio. Não implementar sem aprovação.
 | 91 | i18n dynamic locale import | performance | pendente |
 | 92 | a11y audit + axe CI | a11y | pendente |
 | 95 | Memoization profile | performance | pendente |
+| **— ÉPICO: LEITURA —** | | | |
+| 100 | Reading module — schema + storage strategy | module,library,data | pendente |
+| 101 | Book library UI — catálogo pessoal | feature,library,ux | pendente |
+| 102 | In-browser reader (PDF/EPUB/Mobi) | feature,library,ux | pendente |
+| 103 | Reading position persistence — cross-device sync | feature,library,pwa | pendente |
+| 104 | Reading metrics — tempo, páginas, sessões | feature,library,ux | pendente |
+| 99 | Reader: highlights, notas por trecho, busca interna | feature,library,ux | pendente |
+| 120 | Reading goals + streaks multi-domínio | feature,library,tracking | pendente |
+| **— ÉPICO: DIÁRIO —** | | | |
+| 105 | Journal module — schema + CRUD entradas diárias | module,journal,data | pendente |
+| 106 | Journal calendar — visão mensal + agenda do dia | feature,journal,ux | pendente |
+| 107 | Journal cross-reference syntax (@date, @done, [[wikilinks]]) | feature,journal,ux | pendente |
+| 108 | Journal daily goals — intenções + checklist por dia | feature,journal,ux | pendente |
+| 109 | Journal avançado — templates, queries, revisão semanal, export | feature,journal,ux | pendente |
+| **— ÉPICO: RASTREIO DE USO —** | | | |
+| 110 | Activity tracking infrastructure — schema app_sessions | module,tracking,data | pendente |
+| 111 | Idle detection + net time calculation — tempo líquido | feature,tracking,ux | pendente |
+| 112 | Usage analytics dashboard — horas por seção | feature,tracking,ux | pendente |
+| 113 | Tracking avançado — event queue, dedup, funil, session replay | feature,tracking,observability | pendente |
+| **— ÉPICO: ATIVIDADE & CONHECIMENTO —** | | | |
+| 96 | Activity feed — timeline unificada da vida | feature,ux,tracking | pendente |
+| 97 | Knowledge graph pessoal — mapa de conexões | feature,architecture,ux | pendente |
+| **— ÉPICO: ESTUDO MULTI-TÓPICO —** | | | |
+| 115 | Multi-topic study framework — tópicos dinâmicos | module,learning-engine | pendente |
+| 116 | Question/flashcard import — JSON bulk + manual | feature,learning-engine | pendente |
+| 117 | Study modes per topic — session adaptada ao tipo | feature,learning-engine | pendente |
+| 118 | Programming topics seed — Python/JS/SQL + code highlight | feature,learning-engine | pendente |
+| 119 | Programming sandbox — execução WASM + learning roadmap | feature,learning-engine,ux | pendente |
