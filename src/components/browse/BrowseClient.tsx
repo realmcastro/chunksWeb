@@ -9,6 +9,7 @@ import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
 import { Card, CardContent } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { Input } from '@/components/ui/Input';
+import { toast } from '@/lib/hooks/useToast';
 
 type LocalChunk = {
   id: number;
@@ -84,6 +85,7 @@ export function BrowseClient({
       }
     } catch (error) {
       console.error('Failed to fetch chunks:', error);
+      toast.error('Failed to load chunks', { description: 'Check your connection and try again.' });
     } finally {
       setLoading(false);
     }

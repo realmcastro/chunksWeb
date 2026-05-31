@@ -4,6 +4,7 @@ import { useState, useCallback, useEffect, useRef } from 'react';
 import { Card, CardContent } from '@/components/ui/Card';
 import { ArrowRight, RefreshCw, CheckCircle, XCircle, AlertCircle, History } from 'lucide-react';
 import { cn } from '@/lib/utils/cn';
+import { toast } from '@/lib/hooks/useToast';
 
 interface LastExplanation {
   text: string;
@@ -107,7 +108,7 @@ export function FeynmanMode({ chunk, onComplete, onSkip }: FeynmanModeProps) {
           }),
         });
       } catch {
-        // save failure is non-blocking
+        toast.warning('Explanation not saved', { description: 'Your rating was recorded locally but not synced.' });
       } finally {
         setIsSaving(false);
         onComplete(quality);

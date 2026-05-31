@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import './globals.css';
+import { AntdRegistry } from '@ant-design/nextjs-registry';
 import { AppShell } from '@/components/layout/AppShell';
 import { AuthProvider } from '@/components/providers/AuthProvider';
 import { I18nProvider } from '@/lib/i18n/I18nProvider';
@@ -41,16 +42,18 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="min-h-screen antialiased">
-        <I18nProvider>
-          <AuthProvider>
-            <LearningLanguageProvider>
-              <AppShell>
-                <ErrorBoundary context="root">{children}</ErrorBoundary>
-              </AppShell>
-              <ToastProvider />
-            </LearningLanguageProvider>
-          </AuthProvider>
-        </I18nProvider>
+        <AntdRegistry>
+          <I18nProvider>
+            <AuthProvider>
+              <LearningLanguageProvider>
+                <AppShell>
+                  <ErrorBoundary context="root">{children}</ErrorBoundary>
+                </AppShell>
+                <ToastProvider />
+              </LearningLanguageProvider>
+            </AuthProvider>
+          </I18nProvider>
+        </AntdRegistry>
       </body>
     </html>
   );

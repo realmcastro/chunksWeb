@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/Button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card';
 import { useTranslation } from '@/lib/i18n/I18nProvider';
 import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
+import { toast } from '@/lib/hooks/useToast';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -55,6 +56,7 @@ export default function LearnPage() {
       setCategories(visible);
     } catch (error) {
       console.error('Failed to fetch categories:', error);
+      toast.error('Failed to load categories', { description: 'Check your connection and try again.' });
     } finally {
       setLoading(false);
     }

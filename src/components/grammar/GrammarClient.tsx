@@ -21,6 +21,7 @@ import { translateText, isTranslationAvailable, SupportedLanguage } from '@/lib/
 import { useTTSPlaybackClient } from '@/lib/pronunciation/hooks/useTTSPlaybackClient';
 import type { Locale } from '@/lib/pronunciation/types';
 import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
+import { toast } from '@/lib/hooks/useToast';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -130,6 +131,7 @@ export function GrammarClient({
       }
     } catch (error) {
       console.error('Failed to fetch structures:', error);
+      toast.error('Failed to load grammar structures', { description: 'Check your connection and try again.' });
     } finally {
       setLoading(false);
     }
@@ -156,6 +158,7 @@ export function GrammarClient({
         }
       } catch (error) {
         console.error('Failed to fetch examples:', error);
+        toast.error('Failed to load examples', { description: 'Could not fetch examples for this structure.' });
         fetchedExampleIds.current.delete(structureId);
       } finally {
         setExamplesLoading((prev) => ({ ...prev, [structureId]: false }));
@@ -197,6 +200,7 @@ export function GrammarClient({
         setTranslations((prev) => ({ ...prev, [key]: translated }));
       } catch (error) {
         console.error('Failed to translate:', error);
+        toast.error('Translation failed', { description: 'Could not translate this example.' });
       } finally {
         setTranslatingKey((prev) => ({ ...prev, [key]: false }));
       }

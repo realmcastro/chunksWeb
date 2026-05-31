@@ -7,6 +7,7 @@ import { ReviewSession } from '@/components/study/ReviewSession';
 import { Button } from '@/components/ui/Button';
 import { useTranslation } from '@/lib/i18n/I18nProvider';
 import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
+import { toast } from '@/lib/hooks/useToast';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -46,6 +47,7 @@ export default function ReviewPage() {
       setSessionComplete(data.chunks?.length === 0);
     } catch (error) {
       console.error('Failed to fetch due chunks:', error);
+      toast.error('Failed to load review queue', { description: 'Check your connection and try again.' });
     } finally {
       setLoading(false);
     }
@@ -79,6 +81,7 @@ export default function ReviewPage() {
       console.log('Review submitted:', result);
     } catch (error) {
       console.error('Failed to submit review:', error);
+      toast.error('Review not saved', { description: 'Could not submit your answer. Try again.' });
       throw error;
     }
   }, []);

@@ -1,40 +1,71 @@
 'use client';
 
-import { toast as sonnerToast } from 'sonner';
+import { notification, Modal } from 'antd';
 
 /*
-! Thin wrapper over sonner so call sites depend on a project-owned API,
-! not the third-party lib. Swapping toast lib later only touches this file.
+! Thin wrapper over antd notification so call sites depend on a project-owned
+! API, not the third-party lib. Swapping notification lib later only touches
+! this file.
+!
+! Duration: antd uses seconds (default 4.5s). Incoming ms values are converted.
 !
 ! Also includes `confirmToast` — a promise-based alternative to
-! `window.confirm()`. Renders an action button on a persistent toast; resolves
-! true if the user clicks "Confirm", false if they click "Cancel" or the
-! toast is dismissed by timeout.
+! `window.confirm()`. Uses antd Modal.confirm; resolves true on OK, false on
+! Cancel or backdrop click.
 */
 
 interface ToastOptions {
   description?: string;
+  /** Duration in milliseconds (converted to seconds for antd). */
   duration?: number;
+}
+
+function toSeconds(ms?: number): number | undefined {
+  return ms !== undefined ? ms / 1000 : undefined;
 }
 
 export const toast = {
   success(message: string, options?: ToastOptions) {
-    sonnerToast.success(message, options);
+    notification.success({
+      message,
+      description: options?.description,
+      duration: toSeconds(options?.duration),
+    });
   },
   error(message: string, options?: ToastOptions) {
-    sonnerToast.error(message, options);
+    notification.error({
+      message,
+      description: options?.description,
+      duration: toSeconds(options?.duration),
+    });
   },
   info(message: string, options?: ToastOptions) {
-    sonnerToast.info(message, options);
+    notification.info({
+      message,
+      description: options?.description,
+      duration: toSeconds(options?.duration),
+    });
   },
   warning(message: string, options?: ToastOptions) {
-    sonnerToast.warning(message, options);
+    notification.warning({
+      message,
+      description: options?.description,
+      duration: toSeconds(options?.duration),
+    });
   },
   message(message: string, options?: ToastOptions) {
-    sonnerToast(message, options);
+    notification.open({
+      message,
+      description: options?.description,
+      duration: toSeconds(options?.duration),
+    });
   },
-  dismiss(id?: string | number) {
-    sonnerToast.dismiss(id);
+  dismiss(key?: string | number) {
+    if (key !== undefined) {
+      notification.destroy(String(key));
+    } else {
+      notification.destroy();
+    }
   },
 };
 
@@ -54,44 +85,18 @@ export function confirmToast(
   title: string,
   options: ConfirmOptions = {},
 ): Promise<boolean> {
-  const {
-    description,
-    confirmLabel = 'Confirm',
-    cancelLabel = 'Cancel',
-    destructive = false,
-  } = options;
+  const { description, confirmLabel = 'Confirm', cancelLabel = 'Cancel', destructive = false } =
+    options;
 
   return new Promise<boolean>((resolve) => {
-    let settled = false;
-    const settle = (value: boolean, id: string | number) => {
-      if (settled) return;
-      settled = true;
-      sonnerToast.dismiss(id);
-      resolve(value);
-    };
-
-    sonnerToast(title, {
-      description,
-      duration: 15_000,
-      action: {
-        label: confirmLabel,
-        onClick: () => {
-          // sonner passes back the toast id via the closure; we rely on
-          // sonner's auto-dismiss-on-action behaviour and resolve true.
-          settled = true;
-          resolve(true);
-        },
-      },
-      cancel: {
-        label: cancelLabel,
-        onClick: () => {
-          settled = true;
-          resolve(false);
-        },
-      },
-      onDismiss: (t) => settle(false, t.id),
-      onAutoClose: (t) => settle(false, t.id),
-      className: destructive ? 'border-destructive/40' : undefined,
+    Modal.confirm({
+      title,
+      content: description,
+      okText: confirmLabel,
+      cancelText: cancelLabel,
+      okButtonProps: destructive ? { danger: true } : undefined,
+      onOk: () => resolve(true),
+      onCancel: () => resolve(false),
     });
   });
 }

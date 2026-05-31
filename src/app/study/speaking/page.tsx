@@ -14,6 +14,7 @@ import {
   type SpeechRecognitionInstance,
 } from '@/lib/study/speechRecognition';
 import { logger } from '@/lib/logger';
+import { toast } from '@/lib/hooks/useToast';
 import type { Locale } from '@/lib/pronunciation/types';
 
 /*
@@ -81,7 +82,10 @@ function SpeakingContent() {
       .then((data) => {
         if (!cancelled) setChunks(data.chunks || []);
       })
-      .catch((error) => logger.error('Failed to fetch speaking chunks', { error }))
+      .catch((error) => {
+        logger.error('Failed to fetch speaking chunks', { error });
+        toast.error('Failed to load speaking chunks', { description: 'Check your connection and try again.' });
+      })
       .finally(() => {
         if (!cancelled) setLoading(false);
       });
@@ -170,6 +174,7 @@ function SpeakingContent() {
       recognition.start();
     } catch (error) {
       logger.warn('SpeechRecognition start failed', { error });
+      toast.error('Microphone error', { description: 'Could not start recording. Check microphone permissions.' });
       setListening(false);
     }
   }, [current, finalise, grade, learningLanguage, supported]);

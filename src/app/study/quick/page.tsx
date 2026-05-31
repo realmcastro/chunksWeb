@@ -6,6 +6,7 @@ import { ArrowLeft } from 'lucide-react';
 import { ReviewSession } from '@/components/study/ReviewSession';
 import { Button } from '@/components/ui/Button';
 import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
+import { toast } from '@/lib/hooks/useToast';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -43,6 +44,7 @@ export default function QuickPracticePage() {
       setSessionComplete(data.chunks?.length === 0);
     } catch (error) {
       console.error('Failed to fetch quick practice chunks:', error);
+      toast.error('Failed to load practice chunks', { description: 'Check your connection and try again.' });
     } finally {
       setLoading(false);
     }
@@ -76,6 +78,7 @@ export default function QuickPracticePage() {
       console.log('Review submitted:', result);
     } catch (error) {
       console.error('Failed to submit review:', error);
+      toast.error('Review not saved', { description: 'Could not submit your answer. Try again.' });
       throw error;
     }
   }, []);

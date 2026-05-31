@@ -10,6 +10,7 @@ import { Card, CardContent } from '@/components/ui/Card';
 import { useTranslation } from '@/lib/i18n/I18nProvider';
 import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
 import { logger } from '@/lib/logger';
+import { toast } from '@/lib/hooks/useToast';
 
 /*
 ! Invariantes, contratos, pré-condições e decisões críticas e riscos.
@@ -86,6 +87,7 @@ function RandomStudyContent() {
         learningLanguage,
         source,
       });
+      toast.error('Failed to load chunks', { description: 'Check your connection and try again.' });
     } finally {
       setRolling(false);
       setLoading(false);
@@ -109,6 +111,7 @@ function RandomStudyContent() {
       });
     } catch (error) {
       logger.error('Failed to record session', { error, reviewedCount, masteredCount });
+      toast.warning('Session not saved', { description: 'Progress recorded but streak may not update.' });
     }
   }, [reviewedCount, masteredCount, chunkIds]);
 
@@ -144,6 +147,7 @@ function RandomStudyContent() {
       }
     } catch (error) {
       logger.error('Failed to submit review', { error });
+      toast.error('Review not saved', { description: 'Could not submit your answer. Try again.' });
       throw error;
     }
   }, []);

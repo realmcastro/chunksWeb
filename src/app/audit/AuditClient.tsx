@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { cn } from '@/lib/utils/cn';
+import { toast } from '@/lib/hooks/useToast';
 
 // ---------------------------------------------------------------------------
 // Types
@@ -201,9 +202,11 @@ function EditDrawer({ tab, item, onClose, onSaved }: DrawerProps) {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       setSaveMsg('Saved ✓');
       onSaved(form);
+      toast.success('Record saved');
       setTimeout(() => setSaveMsg(''), 2000);
     } catch (err) {
       setSaveMsg(`Error: ${(err as Error).message}`);
+      toast.error('Save failed', { description: (err as Error).message });
     } finally {
       setSaving(false);
     }

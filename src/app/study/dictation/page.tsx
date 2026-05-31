@@ -9,6 +9,7 @@ import { useLearningLanguage } from '@/lib/contexts/LearningLanguageContext';
 import { useTTSPlaybackClient } from '@/lib/pronunciation/hooks/useTTSPlaybackClient';
 import { gradeAnswer, similarity, type MatchGrade } from '@/lib/study/fuzzyMatch';
 import { logger } from '@/lib/logger';
+import { toast } from '@/lib/hooks/useToast';
 import type { Locale } from '@/lib/pronunciation/types';
 
 /*
@@ -65,7 +66,10 @@ function DictationContent() {
         if (cancelled) return;
         setChunks(data.chunks || []);
       })
-      .catch((error) => logger.error('Failed to fetch dictation chunks', { error }))
+      .catch((error) => {
+        logger.error('Failed to fetch dictation chunks', { error });
+        toast.error('Failed to load dictation chunks', { description: 'Check your connection and try again.' });
+      })
       .finally(() => {
         if (!cancelled) setLoading(false);
       });
