@@ -30,6 +30,9 @@ export async function queueMutation(
     created_at: Date.now(),
     attempts: 0,
   });
+  if (typeof window !== 'undefined') {
+    window.dispatchEvent(new CustomEvent('offline-mutation-queued'));
+  }
 }
 
 export async function flushQueue(): Promise<{ flushed: number; remaining: number }> {
@@ -79,7 +82,15 @@ export async function flushQueue(): Promise<{ flushed: number; remaining: number
     }
   }
 
-  return { flushed, remaining: await db.mutationQueue.count() };
+  const remaining = await db.mutationQueue.count();
+
+  if (flushed > 0 && typeof window !== 'undefined') {
+    window.dispatchEvent(
+      new CustomEvent<{ flushed: number }>('offline-sync-complete', { detail: { flushed } }),
+    );
+  }
+
+  return { flushed, remaining };
 }
 
 let listenerAttached = false;

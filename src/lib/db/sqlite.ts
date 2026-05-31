@@ -2863,3 +2863,129 @@ export function softDeleteStudyDomain(domainId: number, requestingUserId: number
   db.prepare('UPDATE study_domains SET deleted_at = ? WHERE id = ?').run(now, domainId);
   return true;
 }
+
+// ============================================================
+// PUSH SUBSCRIPTIONS (#22 — Web Push Notifications)
+// ============================================================
+
+export interface PushSubscription {
+  id: number;
+  user_id: number;
+  endpoint: string;
+  p256dh: string;
+  auth: string;
+  created_at: number;
+  last_used_at: number | null;
+}
+
+export interface NotificationSettings {
+  user_id: number;
+  review_reminders: number;
+  streak_reminders: number;
+  reminder_time: string;
+  updated_at: number;
+}
+
+export function upsertPushSubscription(
+  userId: number,
+  endpoint: string,
+  p256dh: string,
+  auth: string,
+): void {
+  const now = Math.floor(Date.now() / 1000);
+  db.prepare(`
+    INSERT INTO user_push_subscriptions (user_id, endpoint, p256dh, auth, created_at)
+    VALUES (?, ?, ?, ?, ?)
+    ON CONFLICT(endpoint) DO UPDATE SET
+      user_id = excluded.user_id,
+      p256dh = excluded.p256dh,
+      auth = excluded.auth,
+      last_used_at = ?
+  `).run(userId, endpoint, p256dh, auth, now, now);
+}
+
+export function getPushSubscriptionsForUser(userId: number): PushSubscription[] {
+  return db
+    .prepare('SELECT * FROM user_push_subscriptions WHERE user_id = ?')
+    .all(userId) as PushSubscription[];
+}
+
+/*
+! Call on 410 Gone from push service — subscription is no longer valid.
+*/
+export function deletePushSubscriptionByEndpoint(endpoint: string): void {
+  db.prepare('DELETE FROM user_push_subscriptions WHERE endpoint = ?').run(endpoint);
+}
+
+export function deletePushSubscriptionsForUser(userId: number): void {
+  db.prepare('DELETE FROM user_push_subscriptions WHERE user_id = ?').run(userId);
+}
+
+export function getNotificationSettings(userId: number): NotificationSettings | null {
+  return db
+    .prepare('SELECT * FROM user_notification_settings WHERE user_id = ?')
+    .get(userId) as NotificationSettings | null;
+}
+
+export function upsertNotificationSettings(
+  userId: number,
+  settings: Partial<Pick<NotificationSettings, 'review_reminders' | 'streak_reminders' | 'reminder_time'>>,
+): NotificationSettings {
+  const now = Math.floor(Date.now() / 1000);
+  const existing = getNotificationSettings(userId);
+  const merged = {
+    review_reminders: existing?.review_reminders ?? 0,
+    streak_reminders: existing?.streak_reminders ?? 1,
+    reminder_time: existing?.reminder_time ?? '20:00',
+    ...settings,
+  };
+  db.prepare(`
+    INSERT INTO user_notification_settings (user_id, review_reminders, streak_reminders, reminder_time, updated_at)
+    VALUES (?, ?, ?, ?, ?)
+    ON CONFLICT(user_id) DO UPDATE SET
+      review_reminders = excluded.review_reminders,
+      streak_reminders = excluded.streak_reminders,
+      reminder_time = excluded.reminder_time,
+      updated_at = excluded.updated_at
+  `).run(userId, merged.review_reminders, merged.streak_reminders, merged.reminder_time, now);
+  return getNotificationSettings(userId)!;
+}
+
+/*
+? Returns user IDs with due review chunks and review_reminders enabled.
+? Used by the push-reminders cron to target the right users.
+*/
+export function getUsersWithDueReviews(): Array<{ user_id: number }> {
+  const now = Math.floor(Date.now() / 1000);
+  return db.prepare(`
+    SELECT DISTINCT uns.user_id
+    FROM user_notification_settings uns
+    JOIN user_push_subscriptions ups ON ups.user_id = uns.user_id
+    JOIN user_progress up ON up.user_id = uns.user_id
+    WHERE uns.review_reminders = 1
+      AND (up.next_review IS NULL OR up.next_review <= ?)
+  `).all(now) as Array<{ user_id: number }>;
+}
+
+/*
+? Returns user IDs with an active streak who haven't studied today,
+? with streak_reminders enabled. Used by the streak-save cron.
+*/
+export function getUsersNeedingStreakSave(): Array<{ user_id: number }> {
+  const todayStart = Math.floor(new Date().setHours(0, 0, 0, 0) / 1000);
+  return db.prepare(`
+    SELECT DISTINCT uns.user_id
+    FROM user_notification_settings uns
+    JOIN user_push_subscriptions ups ON ups.user_id = uns.user_id
+    LEFT JOIN study_sessions ss
+      ON ss.user_id = uns.user_id
+      AND ss.date = date('now')
+    WHERE uns.streak_reminders = 1
+      AND ss.user_id IS NULL
+      AND EXISTS (
+        SELECT 1 FROM study_sessions
+        WHERE user_id = uns.user_id
+          AND date = date('now', '-1 day')
+      )
+  `).all(todayStart) as Array<{ user_id: number }>;
+}

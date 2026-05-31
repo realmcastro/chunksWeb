@@ -14,6 +14,7 @@ import * as m0012 from './migrations/0012_study_domains';
 import * as m0013 from './migrations/0013_domain_events';
 import * as m0014 from './migrations/0014_permissions';
 import * as m0015 from './migrations/0015_search_index';
+import * as m0016 from './migrations/0016_push_subscriptions';
 
 interface Migration {
   name: string;
@@ -37,6 +38,7 @@ const MIGRATIONS: Migration[] = [
   m0013,
   m0014,
   m0015,
+  m0016,
 ];
 
 function ensureMigrationsTable(db: Database): void {
