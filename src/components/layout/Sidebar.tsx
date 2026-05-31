@@ -13,6 +13,7 @@ import {
   ChevronDown,
   Sun,
   Moon,
+  Monitor,
   LogOut,
   User,
   Heart,
@@ -46,11 +47,6 @@ interface AccordionGroup {
   routes: RouteItem[];
 }
 
-/*
-? LÍNGUAS section = language selectors + direct learning routes + content accordion.
-? Add a new content page: append to CONTENT_ACCORDION.routes.
-? Add a new direct route: append to LINGUAS_ROUTES.
-*/
 const HOME_ROUTE: RouteItem = { href: '/', labelKey: 'nav.home', fallback: 'Home', icon: Home };
 
 const LINGUAS_ROUTES: RouteItem[] = [
@@ -77,7 +73,7 @@ const PROGRESS_ROUTE: RouteItem = {
   icon: BarChart3,
 };
 
-const SYSTEM_ROUTE: RouteItem = {
+const SETTINGS_ROUTE: RouteItem = {
   href: '/settings',
   labelKey: 'nav.settings',
   fallback: 'Settings',
@@ -118,7 +114,7 @@ function NavLink({ item, collapsed, indent, onClick }: NavLinkProps) {
       aria-current={isActive ? 'page' : undefined}
       className={cn(
         'flex items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium transition-colors',
-        indent && 'ml-3 text-xs',
+        indent && 'ml-4 text-xs',
         isActive
           ? 'bg-primary text-primary-foreground'
           : 'text-muted-foreground hover:bg-accent hover:text-accent-foreground',
@@ -128,6 +124,24 @@ function NavLink({ item, collapsed, indent, onClick }: NavLinkProps) {
       <item.icon className={cn('flex-shrink-0', indent ? 'h-3.5 w-3.5' : 'h-4 w-4')} />
       {!collapsed && <span>{label}</span>}
     </Link>
+  );
+}
+
+interface SectionLabelProps {
+  icon: LucideIcon;
+  label: string;
+  collapsed: boolean;
+}
+
+function SectionLabel({ icon: Icon, label, collapsed }: SectionLabelProps) {
+  if (collapsed) return <div className="h-px bg-border mx-2 my-1.5" />;
+  return (
+    <div className="flex items-center gap-1.5 px-3 pt-3 pb-1">
+      <Icon className="h-3 w-3 text-muted-foreground/60" />
+      <span className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground/60">
+        {label}
+      </span>
+    </div>
   );
 }
 
@@ -193,7 +207,6 @@ export function Sidebar({ collapsed, onCollapse, mobileOpen, onMobileClose }: Si
   const { user, loading, logout } = useAuth();
   const { t } = useTranslation();
   const [theme, setTheme] = useState<'light' | 'dark' | 'system'>('system');
-  const homeActive = useIsActive('/');
 
   useEffect(() => {
     const stored = localStorage.getItem('theme') as 'light' | 'dark' | 'system' | null;
@@ -222,9 +235,8 @@ export function Sidebar({ collapsed, onCollapse, mobileOpen, onMobileClose }: Si
     router.push('/login');
   };
 
-  const themeIcon =
-    theme === 'dark' ? Moon : theme === 'light' ? Sun : Sun;
-  const ThemeIcon = themeIcon;
+  const ThemeIcon = theme === 'dark' ? Moon : theme === 'light' ? Sun : Monitor;
+  const themeLabel = theme === 'dark' ? 'Dark' : theme === 'light' ? 'Light' : 'System';
 
   return (
     <>
@@ -246,12 +258,15 @@ export function Sidebar({ collapsed, onCollapse, mobileOpen, onMobileClose }: Si
         )}
         aria-label="Navegação principal"
       >
-        {/* Header */}
-        <div className="flex h-14 shrink-0 items-center justify-between px-3 border-b border-border">
+        {/* Header — on desktop: center logo when collapsed. On mobile: always justify-between for close button. */}
+        <div className={cn(
+          'flex h-14 shrink-0 items-center border-b border-border',
+          collapsed ? 'lg:justify-center lg:px-2 justify-between px-3' : 'justify-between px-3',
+        )}>
           <Link
             href="/"
             onClick={onMobileClose}
-            className={cn('flex items-center gap-2 min-w-0', collapsed && 'lg:justify-center')}
+            className="flex items-center gap-2 min-w-0"
           >
             <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground">
               <BookOpen className="h-4 w-4" />
@@ -259,17 +274,19 @@ export function Sidebar({ collapsed, onCollapse, mobileOpen, onMobileClose }: Si
             {!collapsed && <span className="font-bold text-sm truncate">ChunksWeb</span>}
           </Link>
 
-          <button
-            type="button"
-            onClick={() => onCollapse(!collapsed)}
-            className="hidden lg:flex p-1.5 rounded-md text-muted-foreground hover:bg-accent hover:text-accent-foreground"
-            aria-label={collapsed ? 'Expandir sidebar' : 'Colapsar sidebar'}
-          >
-            <ChevronLeft
-              className={cn('h-4 w-4 transition-transform', collapsed && 'rotate-180')}
-            />
-          </button>
+          {/* Collapse toggle — only in header when expanded */}
+          {!collapsed && (
+            <button
+              type="button"
+              onClick={() => onCollapse(true)}
+              className="hidden lg:flex p-1.5 rounded-md text-muted-foreground hover:bg-accent hover:text-accent-foreground"
+              aria-label="Colapsar sidebar"
+            >
+              <ChevronLeft className="h-4 w-4" />
+            </button>
+          )}
 
+          {/* Mobile close — always present on mobile (collapsed has no effect there) */}
           <button
             type="button"
             onClick={onMobileClose}
@@ -281,157 +298,130 @@ export function Sidebar({ collapsed, onCollapse, mobileOpen, onMobileClose }: Si
         </div>
 
         {/* Scrollable nav */}
-        <div className="flex flex-col flex-1 overflow-y-auto overflow-x-hidden py-2 gap-1">
+        <div className="flex flex-col flex-1 overflow-y-auto overflow-x-hidden py-2">
           <div className="px-2 space-y-0.5">
-            {/* Home row + theme toggle parallel */}
-            <div className="flex items-center gap-1">
-              <Link
-                href="/"
-                onClick={onMobileClose}
-                aria-current={homeActive ? 'page' : undefined}
-                title={collapsed ? (t('nav.home') || 'Home') : undefined}
-                className={cn(
-                  'flex flex-1 items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium transition-colors',
-                  homeActive
-                    ? 'bg-primary text-primary-foreground'
-                    : 'text-muted-foreground hover:bg-accent hover:text-accent-foreground',
-                  collapsed && 'lg:justify-center lg:px-2',
-                )}
-              >
-                <Home className="h-4 w-4 flex-shrink-0" />
-                {!collapsed && <span>{t('nav.home') || 'Home'}</span>}
-              </Link>
-
+            {/* Expand button — only visible on desktop when collapsed */}
+            {collapsed && (
               <button
                 type="button"
-                onClick={toggleTheme}
-                title={theme === 'dark' ? 'Dark' : theme === 'light' ? 'Light' : 'System'}
-                className="p-1.5 rounded-md text-muted-foreground hover:bg-accent hover:text-accent-foreground transition-colors flex-shrink-0"
+                onClick={() => onCollapse(false)}
+                className="hidden lg:flex w-full items-center justify-center rounded-lg px-2 py-2 text-muted-foreground hover:bg-accent hover:text-accent-foreground transition-colors"
+                aria-label="Expandir sidebar"
               >
-                <ThemeIcon className={cn('h-4 w-4', theme === 'system' && 'opacity-60')} />
+                <ChevronLeft className="h-4 w-4 rotate-180" />
               </button>
-            </div>
+            )}
 
-            {/* Línguas section */}
-            <div className="pt-2">
-              {!collapsed && (
-                <div className="flex items-center gap-1.5 px-3 pb-1">
-                  <Languages className="h-3 w-3 text-muted-foreground" />
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-                    Línguas
-                  </span>
-                </div>
-              )}
+            {/* Home */}
+            <NavLink item={HOME_ROUTE} collapsed={collapsed} onClick={onMobileClose} />
 
-              {/* Language selectors */}
-              {!collapsed && (
-                <div className="px-3 py-2 space-y-2 border-b border-border mb-1">
-                  <div className="space-y-1">
-                    <div className="flex items-center gap-1 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">
-                      <GraduationCap className="h-3 w-3" />
-                      Aprendendo
-                    </div>
-                    <LearningLanguageSelector />
+            {/* ── LÍNGUAS section ── */}
+            <SectionLabel icon={Languages} label="Línguas" collapsed={collapsed} />
+
+            {/* Language selectors — hidden when collapsed (accessible via Settings) */}
+            {!collapsed && (
+              <div className="px-3 py-2 space-y-2.5">
+                <div className="space-y-1">
+                  <div className="flex items-center gap-1 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground/60">
+                    <GraduationCap className="h-3 w-3" />
+                    Aprendendo
                   </div>
-                  <div className="space-y-1">
-                    <div className="flex items-center gap-1 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground">
-                      <Globe className="h-3 w-3" />
-                      Interface
-                    </div>
-                    <LanguageSelector />
+                  <LearningLanguageSelector />
+                </div>
+                <div className="space-y-1">
+                  <div className="flex items-center gap-1 text-[10px] font-semibold uppercase tracking-wide text-muted-foreground/60">
+                    <Globe className="h-3 w-3" />
+                    Interface
                   </div>
+                  <LanguageSelector />
                 </div>
-              )}
-
-              {collapsed && (
-                <div className="flex justify-center py-2 border-b border-border mb-1">
-                  <Languages className="h-4 w-4 text-muted-foreground" />
-                </div>
-              )}
-
-              {/* Direct learning routes */}
-              <div className="space-y-0.5">
-                {LINGUAS_ROUTES.map((route) => (
-                  <NavLink
-                    key={route.href}
-                    item={route}
-                    collapsed={collapsed}
-                    onClick={onMobileClose}
-                  />
-                ))}
-
-                {/* Content accordion */}
-                <Accordion
-                  group={CONTENT_ACCORDION}
-                  collapsed={collapsed}
-                  onLinkClick={onMobileClose}
-                />
               </div>
-            </div>
+            )}
 
-            {/* Progress */}
-            <div className="pt-2">
-              {!collapsed && (
-                <div className="flex items-center gap-1.5 px-3 pb-1">
-                  <BarChart3 className="h-3 w-3 text-muted-foreground" />
-                  <span className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-                    Progresso
-                  </span>
-                </div>
-              )}
-              <NavLink item={PROGRESS_ROUTE} collapsed={collapsed} onClick={onMobileClose} />
-            </div>
+            {LINGUAS_ROUTES.map((route) => (
+              <NavLink
+                key={route.href}
+                item={route}
+                collapsed={collapsed}
+                onClick={onMobileClose}
+              />
+            ))}
+
+            {/* ── CONTEÚDO section ── */}
+            <SectionLabel icon={Library} label="Conteúdo" collapsed={collapsed} />
+
+            <Accordion
+              group={CONTENT_ACCORDION}
+              collapsed={collapsed}
+              onLinkClick={onMobileClose}
+            />
+
+            {/* ── PROGRESSO section ── */}
+            <SectionLabel icon={BarChart3} label="Progresso" collapsed={collapsed} />
+
+            <NavLink item={PROGRESS_ROUTE} collapsed={collapsed} onClick={onMobileClose} />
           </div>
         </div>
 
         {/* Footer */}
         <div className="border-t border-border px-2 py-2 space-y-0.5">
-          <NavLink item={SYSTEM_ROUTE} collapsed={collapsed} onClick={onMobileClose} />
+          <NavLink item={SETTINGS_ROUTE} collapsed={collapsed} onClick={onMobileClose} />
 
+          {/* Theme toggle */}
+          <button
+            type="button"
+            onClick={toggleTheme}
+            title={collapsed ? themeLabel : undefined}
+            className={cn(
+              'flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground hover:bg-accent hover:text-accent-foreground transition-colors',
+              collapsed && 'lg:justify-center lg:px-2',
+            )}
+          >
+            <ThemeIcon className={cn('h-4 w-4 flex-shrink-0', theme === 'system' && 'opacity-60')} />
+            {!collapsed && <span>{themeLabel}</span>}
+          </button>
+
+          {/* User / logout */}
           {!loading && (
             <>
               {user ? (
                 <button
                   type="button"
                   onClick={handleLogout}
-                  title={collapsed ? t('auth.logout') : undefined}
+                  title={collapsed ? (t('auth.logout') || 'Logout') : undefined}
                   className={cn(
-                    'flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground hover:bg-accent hover:text-accent-foreground transition-colors',
+                    'flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground hover:bg-destructive/10 hover:text-destructive transition-colors',
                     collapsed && 'lg:justify-center lg:px-2',
                   )}
                 >
                   <LogOut className="h-4 w-4 flex-shrink-0" />
                   {!collapsed && (
-                    <span className="truncate">{t('auth.logout')} · {user.username}</span>
+                    <span className="truncate min-w-0">
+                      {t('auth.logout') || 'Logout'}
+                      <span className="text-muted-foreground/60 ml-1">· {user.username}</span>
+                    </span>
                   )}
                 </button>
               ) : (
                 <Link
                   href="/login"
                   onClick={onMobileClose}
-                  title={collapsed ? t('auth.login') : undefined}
+                  title={collapsed ? (t('auth.login') || 'Login') : undefined}
                   className={cn(
                     'flex items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium bg-primary text-primary-foreground hover:bg-primary/90 transition-colors',
                     collapsed && 'lg:justify-center lg:px-2',
                   )}
                 >
                   <User className="h-4 w-4 flex-shrink-0" />
-                  {!collapsed && <span>{t('auth.login')}</span>}
+                  {!collapsed && <span>{t('auth.login') || 'Login'}</span>}
                 </Link>
               )}
             </>
           )}
 
-          {!collapsed && (
-            <div className="flex items-center gap-2 px-3 py-1">
-              <OfflineIndicator />
-            </div>
-          )}
-          {collapsed && (
-            <div className="flex justify-center py-1">
-              <OfflineIndicator />
-            </div>
-          )}
+          <div className={cn('flex items-center gap-2 px-3 py-1', collapsed && 'justify-center px-0')}>
+            <OfflineIndicator />
+          </div>
         </div>
       </aside>
     </>

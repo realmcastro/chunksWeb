@@ -98,7 +98,7 @@ export function FeynmanMode({ chunk, onComplete, onSkip }: FeynmanModeProps) {
       setSelectedQuality(quality);
       setIsSaving(true);
       try {
-        await fetch('/api/feynman/submit', {
+        const res = await fetch('/api/feynman/submit', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
@@ -107,6 +107,8 @@ export function FeynmanMode({ chunk, onComplete, onSkip }: FeynmanModeProps) {
             quality,
           }),
         });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        toast.success('Explanation saved', { description: quality >= 4 ? 'Great understanding!' : 'Keep practicing this one.' });
       } catch {
         toast.warning('Explanation not saved', { description: 'Your rating was recorded locally but not synced.' });
       } finally {

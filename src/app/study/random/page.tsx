@@ -96,6 +96,12 @@ function RandomStudyContent() {
 
   const handleComplete = useCallback(async () => {
     setSessionComplete(true);
+    if (reviewedCount > 0) {
+      const desc = masteredCount > 0
+        ? `${reviewedCount} reviewed · ${masteredCount} mastered`
+        : `${reviewedCount} chunk${reviewedCount > 1 ? 's' : ''} reviewed`;
+      toast.success('Session complete!', { description: desc });
+    }
 
     // Record session for streak tracking with chunk IDs for later retrieval
     try {
@@ -138,9 +144,14 @@ function RandomStudyContent() {
       setReviewedCount((prev) => prev + 1);
 
       if (quality >= 3) {
-        setStreak((prev) => prev + 1);
+        const newStreak = streak + 1;
+        setStreak(newStreak);
+        if (newStreak > 0 && newStreak % 5 === 0) {
+          toast.info(`${newStreak} streak!`, { description: 'Keep the momentum going!' });
+        }
         if (result.isMastered) {
           setMasteredCount((prev) => prev + 1);
+          toast.success('Chunk mastered!', { description: 'Added to your long-term memory.' });
         }
       } else {
         setStreak(0);
@@ -150,7 +161,7 @@ function RandomStudyContent() {
       toast.error('Review not saved', { description: 'Could not submit your answer. Try again.' });
       throw error;
     }
-  }, []);
+  }, [streak]);
 
   if (loading || rolling) {
     return (

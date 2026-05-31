@@ -52,7 +52,12 @@ export default function QuickPracticePage() {
 
   const handleComplete = useCallback(() => {
     setSessionComplete(true);
-  }, []);
+    if (reviewedCount > 0) {
+      toast.success('Quick session complete!', {
+        description: `${reviewedCount} chunk${reviewedCount > 1 ? 's' : ''} reviewed.`,
+      });
+    }
+  }, [reviewedCount]);
 
   const handleSkip = useCallback((chunkId: string) => {
     console.log('Skipped chunk:', chunkId);
